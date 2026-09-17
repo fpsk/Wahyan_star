@@ -16,12 +16,21 @@ let currentZoomScale = 1.0;
 let currentRotationDegrees = 0;
 let bilingualDict = { en_to_zh: {}, zh_to_en: {} };
 
-const ASSET_VERSION = '20260917_1330';
+const ASSET_VERSION = '20260917_1545';
+
+// Optional Cloudflare R2 Public CDN URL (e.g. 'https://pub-xxxxxxxx.r2.dev')
+// When set, photos load at gigabit edge speed directly from Cloudflare R2.
+// When empty, photos load from local Render storage.
+const R2_PUBLIC_URL = '';
 
 function getPhotoUrl(filename) {
   if (!filename) return '';
+  if (R2_PUBLIC_URL) {
+    return `${R2_PUBLIC_URL.replace(/\/$/, '')}/${filename}`;
+  }
   return `./okf_output/photos/${filename}?v=${ASSET_VERSION}`;
 }
+
 
 // Initialize Web Application
 document.addEventListener('DOMContentLoaded', async () => {
