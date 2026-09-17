@@ -55,6 +55,16 @@ class ThreadedHTTPServer(socketserver.ThreadingMixIn, http.server.HTTPServer):
     allow_reuse_address = True
 
 class CustomHandler(http.server.SimpleHTTPRequestHandler):
+    protocol_version = "HTTP/1.1"
+
+    def copyfile(self, source, outputfile):
+        """High-performance streaming buffer (512 KB chunks) for fast image delivery."""
+        import shutil
+        try:
+            shutil.copyfileobj(source, outputfile, length=512 * 1024)
+        except (ConnectionResetError, BrokenPipeError):
+            pass
+
     def translate_path(self, path):
         translated = super().translate_path(path)
         # Transparent fallback: if browser requests .png but only .webp exists
@@ -73,14 +83,25 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
         self.send_header('Access-Control-Allow-Headers', 'Content-Type, Authorization')
-        self.send_header('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0')
-        self.send_header('Pragma', 'no-cache')
-        self.send_header('Expires', '0')
+
+        # Aggressive CDN (Cloudflare on Render) & Browser Caching for Images
+        clean_path = self.path.split('?')[0].lower()
+        if clean_path.startswith('/okf_output/photos/') or any(clean_path.endswith(ext) for ext in ('.webp', '.png', '.jpg', '.jpeg', '.gif', '.svg', '.woff2', '.ico')):
+            # 1 Year Cache: triggers Render Cloudflare CDN edge caching across Asia & Hong Kong
+            self.send_header('Cache-Control', 'public, max-age=31536000, immutable')
+        elif clean_path.endswith('.js') or clean_path.endswith('.css'):
+            self.send_header('Cache-Control', 'public, max-age=86400')
+        elif clean_path.endswith('.json'):
+            self.send_header('Cache-Control', 'public, max-age=3600, must-revalidate')
+        else:
+            self.send_header('Cache-Control', 'no-cache, must-revalidate')
+
         super().end_headers()
 
     def do_OPTIONS(self):
         self.send_response(200)
         self.end_headers()
+
 
     def do_POST(self):
         if self.path == '/api/chat':

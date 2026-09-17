@@ -3,15 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Expires" content="0">
-  <title>Wah Yan Star Multi-Year Archive & AI Assistant (華仁星歷年數位典藏)</title>
+  <title>Wah Yan Star Multi-Year Search Archive (華仁星歷年數位典藏)</title>
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260917_1345">
+  <link rel="stylesheet" href="styles.css?v=20260917_1545">
+
 </head>
 <body>
 
@@ -135,7 +133,11 @@
         &#10095;
       </button>
 
-      <div id="modalBody" class="modal-body">
+      <div id="modalBody" class="modal-body" style="position: relative;">
+        <div id="modalSpinner" class="modal-spinner" style="display: none;">
+          <div class="spinner-ring"></div>
+          <p style="color: #94a3b8; font-size: 0.85rem; margin-top: 10px; font-weight: 600;">Loading high-resolution page...</p>
+        </div>
         <div id="modalImageWrapper" class="modal-image-wrapper">
           <img id="modalImage" src="" alt="Photo Preview" class="modal-image" onerror="handleImageError(this)" onclick="handleImageClickZoom()" title="Click image to zoom in / toggle zoom">
         </div>
@@ -143,7 +145,8 @@
     </div>
   </div>
 
-  <script src="app.js?v=20260917_1430"></script>
+  <script src="app.js?v=20260917_1545"></script>
+
 </body>
 </html>
 

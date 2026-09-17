@@ -11,7 +11,7 @@ let currentCategoryFilter = 'all';
 let chatbot = null;
 
 let currentSearchResults = [];
-let displayedCardCount = 24;
+let displayedCardCount = 12;
 let currentZoomScale = 1.0;
 let currentRotationDegrees = 0;
 let bilingualDict = { en_to_zh: {}, zh_to_en: {} };
@@ -600,8 +600,9 @@ function performSearch() {
   }
 
   currentSearchResults = filtered;
-  displayedCardCount = 24;
+  displayedCardCount = 12;
   renderCurrentPageResults(clauses);
+
 }
 
 function cleanField(val) {
@@ -830,9 +831,10 @@ function renderCurrentPageResults(clauses = []) {
 function loadMoreCards() {
   const rawInput = document.getElementById('searchInput').value;
   const clauses = parseSearchQuery(rawInput);
-  displayedCardCount += 24;
+  displayedCardCount += 12;
   renderCurrentPageResults(clauses);
 }
+
 
 function renderResultCard(item, terms = []) {
   const title = item.title || `Wah Yan Star ${item.year} - Page ${item.page}`;
@@ -919,23 +921,27 @@ function renderResultCard(item, terms = []) {
       </div>
 
       <div class="photo-gallery">
-        ${fullPagePhoto ? `
+        ${photos && photos.length > 0 ? (
+          photos.slice(0, 4).map(p => `
+            <img src="${getPhotoUrl(p)}" 
+                 alt="Extracted Photo" 
+                 class="photo-thumb" 
+                 loading="lazy"
+                 decoding="async"
+                 onerror="handleImageError(this)"
+                 title="Click to view photo"
+                 onclick="openLightbox(getPhotoUrl('${p}'), '${escapeHtml(title)} - Extracted Photo', '${item.year}', ${item.page})">
+          `).join('')
+        ) : (fullPagePhoto ? `
           <img src="${getPhotoUrl(fullPagePhoto)}" 
                alt="Page Scan" 
                class="photo-thumb" 
                loading="lazy"
+               decoding="async"
                onerror="handleImageError(this)"
                title="Click to view full page scan"
                onclick="openLightbox(getPhotoUrl('${fullPagePhoto}'), '${escapeHtml(title)} - Full Preview', '${item.year}', ${item.page})">
-        ` : ''}
-        ${photos.slice(0, 3).map(p => `
-          <img src="${getPhotoUrl(p)}" 
-               alt="Extracted Photo" 
-               class="photo-thumb" 
-               loading="lazy"
-               onerror="handleImageError(this)"
-               onclick="openLightbox(getPhotoUrl('${p}'), '${escapeHtml(title)} - Extracted Photo', '${item.year}', ${item.page})">
-        `).join('')}
+        ` : '')}
       </div>
     </div>
   `;
@@ -1027,6 +1033,12 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   const modalTitle = document.getElementById('modalTitle');
   const modalBody = document.getElementById('modalBody');
   const wrapper = document.getElementById('modalImageWrapper');
+  const spinner = document.getElementById('modalSpinner');
+
+  // Show spinner and hide previous image to avoid stale image flashes
+  if (spinner) spinner.style.display = 'flex';
+  modalImg.style.opacity = '0';
+  modalImg.style.transition = 'opacity 0.25s ease-in';
 
   modalImg.src = imageSrc;
   modalTitle.textContent = title;
@@ -1072,6 +1084,8 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   modal.classList.add('active');
 
   const onImageReady = () => {
+    if (spinner) spinner.style.display = 'none';
+    modalImg.style.opacity = '1';
     baseImageWidth = modalImg.clientWidth || modalImg.naturalWidth;
     baseImageHeight = modalImg.clientHeight || modalImg.naturalHeight;
     applyZoomScale();
@@ -1079,6 +1093,8 @@ function openLightbox(imageSrc, title, year = null, page = null) {
       modalBody.scrollTop = 0;
       modalBody.scrollLeft = 0;
     }
+    // Prefetch next and previous full pages in the background
+    prefetchAdjacentPages(currentLightboxYear, currentLightboxPage);
   };
 
   if (modalImg.complete && modalImg.naturalWidth > 0) {
@@ -1087,6 +1103,26 @@ function openLightbox(imageSrc, title, year = null, page = null) {
     modalImg.onload = onImageReady;
   }
 }
+
+function prefetchAdjacentPages(year, page) {
+  if (!year || !page || !searchData || searchData.length === 0) return;
+  const maxPage = getMaxPageForYear(year);
+  // Prefetch next page
+  if (page < maxPage) {
+    const nextItem = searchData.find(item => String(item.year) === String(year) && item.page === page + 1);
+    const nextPhoto = nextItem?.full_page_photo || `${year}_page_${String(page + 1).padStart(3, '0')}_full.webp`;
+    const imgNext = new Image();
+    imgNext.src = getPhotoUrl(nextPhoto);
+  }
+  // Prefetch previous page
+  if (page > 1) {
+    const prevItem = searchData.find(item => String(item.year) === String(year) && item.page === page - 1);
+    const prevPhoto = prevItem?.full_page_photo || `${year}_page_${String(page - 1).padStart(3, '0')}_full.webp`;
+    const imgPrev = new Image();
+    imgPrev.src = getPhotoUrl(prevPhoto);
+  }
+}
+
 
 function openLightboxAndEnlarge(imageSrc, title, year = null, page = null) {
   openLightbox(imageSrc, title, year, page);
