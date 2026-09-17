@@ -1,0 +1,276 @@
+{
+  "year": "1971",
+  "page": 130,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "AH ba. “C”Grade Basketball Team（1970-71） F.L. K.F. Chung, C.K. Lu, S.T. Leung, C.Y. Tong",
+  "students": [
+    {
+      "english_name": "AH ba.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AH ba.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "F.L. K.F. Chung, C.K. Lu, S.T. Leung, C.Y. Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.L. K.F. Chung, C.K. Lu, S.T. Leung, C.Y. Tong",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "B.L. K.K. Au, H.C. Ng, C.F. Cheung, C.K. Fong, Y.K. Chan, C.K. Siu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B.L. K.K. Au, H.C. Ng, C.F. Cheung, C.K. Fong, Y.K. Chan, C.K. Siu",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "B Grade Basketball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B Grade Basketball",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "C Grade Basketball Team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C Grade Basketball Team",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "In the first two matches of the league",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the first two matches of the league",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "We tried our best and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We tried our best and",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "We beat the Victoria Technical School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We beat the Victoria Technical School",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Thus we were eliminated from the league",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thus we were eliminated from the league",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Team. In the knock-out competition we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Team. In the knock-out competition we",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "We met",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We met",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Queen's College again in the second match.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen's College again in the second match.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "I sincerely hope that we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I sincerely hope that we",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Though we won no prize, we had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though we won no prize, we had",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "From the two matches which we played",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "From the two matches which we played",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "I hope next",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I hope next",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Basketball Team will have a good coach",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basketball Team will have a good coach",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "League Competition and the Knock-Out",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "League Competition and the Knock-Out",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Lu Kwong Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lu Kwong Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "I would like to thank Mr. Ho our",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "I would like to thank Mr. Ho our",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_130_full.webp",
+  "extracted_photos": [
+    "1971_page_130_photo_1.webp"
+  ]
+}

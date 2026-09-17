@@ -1,0 +1,83 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 15,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chu Kam Tong (朱錦棠) • Chu Tat Kwong (朱達光) • Chu Tai Hang, Henry (朱大衡) • Chui Chi Fai (崔志輝)",
+  "students": [
+    {
+      "english_name": "Chu Kam Tong",
+      "chinese_name": "朱錦棠",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chu Tat Kwong",
+      "chinese_name": "朱達光",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chu Tai Hang, Henry",
+      "chinese_name": "朱大衡",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chui Chi Fai",
+      "chinese_name": "崔志輝",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_015_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_015_photo_1.webp",
+    "F5_Alumni_page_015_photo_2.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 15,
+      "english_name": "Chu Kam Tong",
+      "chinese_name": "朱錦棠",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 15,
+      "english_name": "Chu Tat Kwong",
+      "chinese_name": "朱達光",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 15,
+      "english_name": "Chu Tai Hang, Henry",
+      "chinese_name": "朱大衡",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 15,
+      "english_name": "Chui Chi Fai",
+      "chinese_name": "崔志輝",
+      "class": "Form 5A"
+    }
+  ]
+}

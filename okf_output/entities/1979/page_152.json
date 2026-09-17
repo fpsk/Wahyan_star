@@ -1,0 +1,118 @@
+{
+  "year": "1979",
+  "page": 152,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "香港公教進行社 致意 With the Compliments",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "致意",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 致意",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "CATHOLIC CENTER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC CENTER",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mandarin Optical Co. Ltd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mandarin Optical Co. Ltd.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "St. Louis Matriculation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Louis Matriculation",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_152_full.webp",
+  "extracted_photos": []
+}

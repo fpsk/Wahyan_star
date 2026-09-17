@@ -1,0 +1,560 @@
+{
+  "year": "1973",
+  "page": 46,
+  "section_type": "Class Roster",
+  "class_designation": "Of the Upper 6 graduates of Sum-",
+  "summary": "Neus of the Past： Of the Upper 6 graduates of Sum- Leung Man Wai- Queen's Univer-",
+  "students": [
+    {
+      "english_name": "Leung Man Wai- Queen's Univer-",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Man Wai- Queen's Univer-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Leung",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "University.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Yiu Hang - Toronto U.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Yiu Hang - Toronto U.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Chiu Chi Ling, Ho Man Po, Kwan",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Chi Ling, Ho Man Po, Kwan",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Yuk Ching - Taiwan Na-",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuk Ching - Taiwan Na-",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Leung",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Pak Chung, Lau Siu Kin, Leung Chi",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pak Chung, Lau Siu Kin, Leung Chi",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Ng Pak Liong - U. of Manitoba",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Pak Liong - U. of Manitoba",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Yeung Wai Chung.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Wai Chung.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Lau Shiu Kee, Kwok Hok Leung.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Shiu Kee, Kwok Hok Leung.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Chan Wing Ling - H.K. Polytech-",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wing Ling - H.K. Polytech-",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Lai Chak Lun, Lo Chi Wai, Tang",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Chak Lun, Lo Chi Wai, Tang",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Wing Lun, Tsui Pui Yan.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wing Lun, Tsui Pui Yan.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Chu Kurts - Loyola U. of Los",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Kurts - Loyola U. of Los",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Angeles",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Angeles",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Hui Lung Wah - Rulgirs University",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Lung Wah - Rulgirs University",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Ho Shu Fun- Rulgirs University",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Shu Fun- Rulgirs University",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Chan Yuen Fu, Chan Yuk Ng, Chung Ka",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yuen Fu, Chan Yuk Ng, Chung Ka",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Ng Tak Hoi - Boston University",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Tak Hoi - Boston University",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Leung, Ho King Wah, Lai Tak Yiu, Lam",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung, Ho King Wah, Lai Tak Yiu, Lam",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Yeung Chiu Tat, Yeung Yiu Ming, Yu",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Chiu Tat, Yeung Yiu Ming, Yu",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Cheng Lap Yan -Rensselaer Poly-",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Lap Yan -Rensselaer Poly-",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Kar Fook.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kar Fook.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ho Heh Ngao - U. of Wiseonsin",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Heh Ngao - U. of Wiseonsin",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Hu Fai Chung - U. of California",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hu Fai Chung - U. of California",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Mak Ki Wai.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Ki Wai.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Man Ping Kuen - M. I.T.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Man Ping Kuen - M. I.T.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Wong Hok Leung, Ma Chi Hung.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Hok Leung, Ma Chi Hung.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Ho Kin Wai.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kin Wai.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Choi Chun Lam, Mui Kwong Chiu.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choi Chun Lam, Mui Kwong Chiu.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Hong Kai Hung.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kai Hung.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Yiu Woon - U. of British",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yiu Woon - U. of British",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Columbia.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Columbia.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cheung Luk Lim - U.of Hawaii",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Luk Lim - U.of Hawaii",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Leung Ka Keung - U. B.C.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Ka Keung - U. B.C.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Lang Wai- U.of Hawaii",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lang Wai- U.of Hawaii",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Yick Kong Lang - U. of Tennessee",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yick Kong Lang - U. of Tennessee",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Yung Wing Sang - Canada",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yung Wing Sang - Canada",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Kong Tak Hong - Washington State",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Tak Hong - Washington State",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "University.",
+      "chinese_name": "",
+      "class_designation": "Of the Upper 6 graduates of Sum-",
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Tak Jee - McMaster, Cana-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Tak Jee - McMaster, Cana-",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_046_full.webp",
+  "extracted_photos": []
+}

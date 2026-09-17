@@ -1,0 +1,329 @@
+{
+  "year": "1974",
+  "page": 6,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Teaching Staff JAI9OTIG Back Row",
+  "students": [
+    {
+      "english_name": "Teaching Staff",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Teaching Staff",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Back Row",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Back Row",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "CRYAN, FR. BROSMAN, MR. S.C. KOO, MR. K.S. CHAN, MR. F.W. IP, MR. K.Y. LEUNG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CRYAN, FR. BROSMAN, MR. S.C. KOO, MR. K.S. CHAN, MR. F.W. IP, MR. K.Y. LEUNG.",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "WONG, MR. K.C. FUNG, MR. K.P. LEE.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WONG, MR. K.C. FUNG, MR. K.P. LEE.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "MR. T.Y. CHAN, FR. TONER, FR. LAWLER, FR. FARREN, FR. MCCARTHY.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. T.Y. CHAN, FR. TONER, FR. LAWLER, FR. FARREN, FR. MCCARTHY.",
+        "start_char": 0,
+        "end_char": 63
+      }
+    },
+    {
+      "english_name": "Front Row",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Front Row",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "MRS. A. TAM, MISS M. LAM.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MRS. A. TAM, MISS M. LAM.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Personnel",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Personnel",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Sr. Mary B. Duane",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sr. Mary B. Duane",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Miss Margaret Ng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Margaret Ng",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Miss W. Ting",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss W. Ting",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Miss Lily Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Lily Tong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. K.S. Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K.S. Chan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Br. David Lee, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Br. David Lee, S.J.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Br. James Tong, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Br. James Tong, S.J.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. T.Y. Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. T.Y. Chan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr. H.M. Choy",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. H.M. Choy",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr. Y.C.Chow",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Y.C.Chow",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. J. Foley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. J. Foley, S.J.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. P.K. Ho",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. P.K. Ho",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mr. F.W.Ip",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. F.W.Ip",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mr. L.W.Ng",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. L.W.Ng",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mr. S.C. Koo",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.C. Koo",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. H.Yuen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. H.Yuen",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mr. K.T. Tsang",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K.T. Tsang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_006_full.webp",
+  "extracted_photos": [
+    "1974_page_006_photo_1.webp"
+  ]
+}

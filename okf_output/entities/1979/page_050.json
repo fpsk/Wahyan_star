@@ -1,0 +1,231 @@
+{
+  "year": "1979",
+  "page": 50,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Advisers: Mr. Chau Sui Hay, Mr. Chan Tak On， GEOGRAPHY Mrs.Sze",
+  "students": [
+    {
+      "english_name": "GEOGRAPHY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GEOGRAPHY",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Mrs.Sze",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs.Sze",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "SOCIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOCIETY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "THIS year the Geography Society underwent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THIS year the Geography Society underwent",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Early in the frst term, we joined hands",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Early in the frst term, we joined hands",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "July.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "July.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "We feel sorry that we failed to carry out",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We feel sorry that we failed to carry out",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "March, we invited the ex-co of the Geog. Clubs",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "March, we invited the ex-co of the Geog. Clubs",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers: Mr. Chau Sui Hay, Mr. Chan Tak On，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Mr. Chau Sui Hay, Mr. Chan Tak On，",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "In the same month Mr. Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "In the same month Mr. Chau",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SOCIETY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "club_name": "THIS year the Geography Society underwent",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "THIS year the Geography Society underwent",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "sion about how a geography club should be",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "sion about how a geography club should be",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "of Geog Our club's T-shirts were available in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of Geog Our club's T-shirts were available in",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "club_name": "with the Science Society to organize the Senior",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "with the Science Society to organize the Senior",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "club_name": "waited Society badges were designed & were on",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "waited Society badges were designed & were on",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "club_name": "March, we invited the ex-co of the Geog. Clubs",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "March, we invited the ex-co of the Geog. Clubs",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_050_full.webp",
+  "extracted_photos": [
+    "1979_page_050_photo_1.webp",
+    "1979_page_050_photo_2.webp"
+  ]
+}

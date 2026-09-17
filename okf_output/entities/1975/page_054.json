@@ -1,0 +1,197 @@
+{
+  "year": "1975",
+  "page": 54,
+  "section_type": "Class Roster",
+  "class_designation": "（U.6A.）",
+  "summary": "JUNIOR RED CROSS '74-75 CADET UNIT 34 Personnel：",
+  "students": [
+    {
+      "english_name": "Patron",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patron",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Cadet Officer",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cadet Officer",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Assistant Cadet Offcer",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Assistant Cadet Offcer",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "In the JJoint School Million Walk'and our Sports Day, we also acted as first",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the JJoint School Million Walk'and our Sports Day, we also acted as first",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "In May, we visited the refugees from Vietnam in the army camp and fund rais-",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In May, we visited the refugees from Vietnam in the army camp and fund rais-",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "Besides, we also have our regular service towards the Junior link of St. James",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Besides, we also have our regular service towards the Junior link of St. James",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "Settlement biweekly.",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Settlement biweekly.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Also, in the coming summer holiday, we will organise a work camp and a fun",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Also, in the coming summer holiday, we will organise a work camp and a fun",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "We have also held in the functions of other activities.",
+      "chinese_name": "",
+      "class_designation": "（U.6A.）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We have also held in the functions of other activities.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "： Rev. Fr. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Rev. Fr. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "： Mr. Adrian Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. Adrian Lee",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "：Mr. Garrison Leung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Mr. Garrison Leung",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Wa Girls' School） for the children of Heep Hong Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Wa Girls' School） for the children of Heep Hong Club.",
+        "start_char": 0,
+        "end_char": 53
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_054_full.webp",
+  "extracted_photos": [
+    "1975_page_054_photo_1.webp",
+    "1975_page_054_photo_2.webp"
+  ]
+}

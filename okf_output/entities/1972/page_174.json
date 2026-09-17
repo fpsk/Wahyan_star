@@ -1,0 +1,55 @@
+{
+  "year": "1972",
+  "page": 174,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Famous Cea Foods 舫畫田沙 SHA TIN FLOATING RESTAURANT",
+  "students": [
+    {
+      "english_name": "Famous Cea Foods",
+      "chinese_name": "舫畫田沙",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Famous Cea Foods 舫畫田沙",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "SHA TIN FLOATING RESTAURANT",
+      "chinese_name": "備設",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHA TIN FLOATING RESTAURANT 備設",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Sha Tin New Territories Kowloon, Hong Kong",
+      "chinese_name": "美精",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sha Tin New Territories Kowloon, Hong Kong 美精",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_174_full.webp",
+  "extracted_photos": [
+    "1972_page_174_photo_1.webp"
+  ]
+}

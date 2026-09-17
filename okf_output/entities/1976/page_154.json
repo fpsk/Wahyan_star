@@ -1,0 +1,183 @@
+{
+  "year": "1976",
+  "page": 154,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments 眼鏡公司 耀 光",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "眼鏡公司",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 眼鏡公司",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "WILLIAM'S OPTICAL CO.",
+      "chinese_name": "李梅生先生",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WILLIAM'S OPTICAL CO. 李梅生先生",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "QUEEN'S THEATRE ARCADE",
+      "chinese_name": "富衡珠寶行",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "QUEEN'S THEATRE ARCADE 富衡珠寶行",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "QUEEN'S ROAD CENTRAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "QUEEN'S ROAD CENTRAL",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "FOO HANG JEWELLERY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOO HANG JEWELLERY",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "DIAMONDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DIAMONDS",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Odell House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1204,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Odell House",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Maurice Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Maurice Lee",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_154_full.webp",
+  "extracted_photos": []
+}

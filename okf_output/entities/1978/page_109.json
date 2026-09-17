@@ -1,0 +1,157 @@
+{
+  "year": "1978",
+  "page": 109,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "FORM FIVE CLUB （1976-1977） Adviser: Mr.Raymond P. L.Yu",
+  "students": [
+    {
+      "english_name": "With the help of our adlviser, Nlr. Yu, the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the help of our adlviser, Nlr. Yu, the",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Ball and the Graduation Dinner.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ball and the Graduation Dinner.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "GH ADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GH ADE",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "The Graduation Dinner took place at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Graduation Dinner took place at",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Although the Club at last came to an",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Although the Club at last came to an",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Mr.Raymond P. L.Yu",
+      "chinese_name": "余本良",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Mr.Raymond P. L.Yu",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "speech by our Principal, Fr. Barrett, which",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": "Annual Report",
+      "evidence": {
+        "text": "speech by our Principal, Fr. Barrett, which",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "FORM FIVE CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "FORM FIVE CLUB",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "club_name": "Form Five Club （76-77） was successfully",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Form Five Club （76-77） was successfully",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "organization, the Club simply aimed at or-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "organization, the Club simply aimed at or-",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "club_name": "Although the Club at last came to an",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Although the Club at last came to an",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_109_full.webp",
+  "extracted_photos": [
+    "1978_page_109_photo_1.webp",
+    "1978_page_109_photo_2.webp",
+    "1978_page_109_photo_3.webp"
+  ]
+}

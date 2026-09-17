@@ -1,0 +1,82 @@
+{
+  "year": "1979",
+  "page": 56,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "BLOOD DONATION OUR school,has a very good tradition in blood donating. In tie past few years, we have constantly",
+  "students": [
+    {
+      "english_name": "BLOOD DONATION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BLOOD DONATION",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "OUR school,has a very good tradition in blood",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OUR school,has a very good tradition in blood",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "This was the highest percentage in all the schools in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was the highest percentage in all the schools in",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "H.K. For this, we were awarded the Mrs. Cassel's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "H.K. For this, we were awarded the Mrs. Cassel's",
+        "start_char": 0,
+        "end_char": 48
+      }
+    },
+    {
+      "english_name": "Award. Giving blood is a most valuable thing. Blood",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Award. Giving blood is a most valuable thing. Blood",
+        "start_char": 0,
+        "end_char": 51
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_056_full.webp",
+  "extracted_photos": [
+    "1979_page_056_photo_1.webp",
+    "1979_page_056_photo_2.webp"
+  ]
+}

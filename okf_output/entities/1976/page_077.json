@@ -1,0 +1,90 @@
+{
+  "year": "1976",
+  "page": 77,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "the photo-taking, etc. served to the tea-party at which views were exchanged， cement the ties among the Wah-Yanites of various age-groups. It is expected that",
+  "students": [
+    {
+      "english_name": "Career talks were given to the College's senior students by three of our profes-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Career talks were given to the College's senior students by three of our profes-",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "The talks were warmly accepted as subjects of tremendous interest and practical",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The talks were warmly accepted as subjects of tremendous interest and practical",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "The traditional Graduation Dinner, held inmediately after the College Speech-Day",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The traditional Graduation Dinner, held inmediately after the College Speech-Day",
+        "start_char": 0,
+        "end_char": 80
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Raymond WONG on \"Accountancy”，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Raymond WONG on \"Accountancy”，",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Mr. Raphael CHAN on “Law\"， and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Raphael CHAN on “Law\"， and",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Mr. Jeffrey SUN on “Business Administration\".",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Jeffrey SUN on “Business Administration\".",
+        "start_char": 0,
+        "end_char": 45
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_077_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,120 @@
+{
+  "year": "1972",
+  "page": 183,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "九港 Jho Kint Kee HAICH CO.",
+  "students": [
+    {
+      "english_name": "Jho Kint Kee",
+      "chinese_name": "九港",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jho Kint Kee 九港",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "HAICH CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HAICH CO.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "HEAD CEFICE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HEAD CEFICE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "NATHAN ROAD, KOWLOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 597,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NATHAN ROAD, KOWLOON",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "KING S ROAD. NORTH POINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 301,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KING S ROAD. NORTH POINT",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "WATCHSCOLTDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WATCHSCOLTDS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "KIAEIETONG KOWLOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KIAEIETONG KOWLOON",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_183_full.webp",
+  "extracted_photos": [
+    "1972_page_183_photo_1.webp"
+  ]
+}

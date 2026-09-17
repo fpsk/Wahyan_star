@@ -1,0 +1,594 @@
+{
+  "year": "1971",
+  "page": 80,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Debaters： Chan Yuen Fu （Leader） 5. Mixed debate with BELLILIOS PUB-",
+  "students": [
+    {
+      "english_name": "Mixed debate with BELLILIOS PUB-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mixed debate with BELLILIOS PUB-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Alan Choi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alan Choi",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "LIC SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LIC SCHOOL",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Jerome Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jerome Cheung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yeung Kin Gay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Kin Gay",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "That Capital Punishment",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That Capital Punishment",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mrs.Lai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs.Lai",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "W.Y.H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "W.Y.H.K.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Motion was CARRIED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Motion was CARRIED",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Peter Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Leung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mui Kwong Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mui Kwong Chiu",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miss Liu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Liu",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Motion was CARRIED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Motion was CARRIED",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Friendly debate with ST.FRANCIS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friendly debate with ST.FRANCIS",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "CANOSSIAN COLLEGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CANOSSIAN COLLEGE",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "These also gave",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "These also gave",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "That Tradition retards pro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That Tradition retards pro-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Poon Kin Sum",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Kin Sum",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Alan Choi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alan Choi",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "The final debate we had this year was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The final debate we had this year was",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Winson Tang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winson Tang",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mrs. Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Chiu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Motion was CARRIED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Motion was CARRIED",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mixed debate with ST. PAUL'S SEC-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mixed debate with ST. PAUL'S SEC-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "ONDARY SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ONDARY SCHOOL",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "That Western",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That Western",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Civilization",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Civilization",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan and Winson Tang was on the op-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan and Winson Tang was on the op-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "W.Y.H.K",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "W.Y.H.K",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Yu Ying Wai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Ying Wai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Yiu Hang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Yiu Hang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mrs. Yeung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Yeung",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Motion was DEFEATED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Motion was DEFEATED",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Friendly debate with ST. CLARE'S",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friendly debate with ST. CLARE'S",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "That Literature does not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That Literature does not",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "For or",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "For or",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Grogan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Grogan",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Fr. Barrett",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Barrett",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "a friendly debate between the Fathers and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "a friendly debate between the Fathers and",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Fr. Farren",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Farren",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "The Fathers’",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "The Fathers’",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "team comprising Fr. McCarthy （Leader），",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "team comprising Fr. McCarthy （Leader），",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Fr. McGaley and Fr. Brosnan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. McGaley and Fr. Brosnan",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Fr. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. McGaley",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "the Society had a very active and successful",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Society had a very active and successful",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_080_full.webp",
+  "extracted_photos": [
+    "1971_page_080_photo_1.webp"
+  ]
+}

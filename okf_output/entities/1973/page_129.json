@@ -1,0 +1,159 @@
+{
+  "year": "1973",
+  "page": 129,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments With the Compliments EDITORIAL BOARD",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "巧華燈飾",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 巧華燈飾",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "EDITORIAL BOARD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL BOARD",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "AMPS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AMPS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "U.S.A. AND AUSTRALIA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.S.A. AND AUSTRALIA",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "WHOSE LIGHTING FIXTURES ARE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WHOSE LIGHTING FIXTURES ARE",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "SOLELY DISTRIBUTED BY US.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOLELY DISTRIBUTED BY US.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "The largest Lighting Cente",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The largest Lighting Cente",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "AND UNIQUE STYLES TO SUIT EVERY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AND UNIQUE STYLES TO SUIT EVERY",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "PURPOSE FOR LIGHTING AND DECOR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PURPOSE FOR LIGHTING AND DECOR.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "NEW SHIPMENTS ARRIVING WEEKLY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEW SHIPMENTS ARRIVING WEEKLY",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_129_full.webp",
+  "extracted_photos": [
+    "1973_page_129_photo_1.webp"
+  ]
+}

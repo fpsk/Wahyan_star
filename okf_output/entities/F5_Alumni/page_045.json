@@ -1,0 +1,100 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 45,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Yuen Chi Hung (袁志雄) • Yung Kwok Hung (翁國雄) • Yuen Wai Kong (袁偉光) • Yung Yip Shing (翁業成)",
+  "students": [
+    {
+      "english_name": "Yuen Chi Hung",
+      "chinese_name": "袁志雄",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yung Kwok Hung",
+      "chinese_name": "翁國雄",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yuen Wai Kong",
+      "chinese_name": "袁偉光",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "袁惠光"
+      ]
+    },
+    {
+      "english_name": "Yung Yip Shing",
+      "chinese_name": "翁業成",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "容業成"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_045_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yuen Chi Hung",
+      "chinese_name": "袁志雄",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yung Kwok Hung",
+      "chinese_name": "翁國雄",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yuen Wai Kong",
+      "chinese_name": "袁偉光",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yuen Wai Kong",
+      "chinese_name": "袁惠光",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yung Yip Shing",
+      "chinese_name": "翁業成",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 45,
+      "english_name": "Yung Yip Shing",
+      "chinese_name": "容業成",
+      "class": "Form 5B1"
+    }
+  ]
+}

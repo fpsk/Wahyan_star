@@ -1,0 +1,118 @@
+{
+  "year": "1972",
+  "page": 196,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "凡凡。 BIO- PYS6 BI-PHYSIO",
+  "students": [
+    {
+      "english_name": "BI-PHYSIO",
+      "chinese_name": "同己日",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BI-PHYSIO 同己日",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "AFE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AFE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "EM-PL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EM-PL",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "VIRCO offers the most complete",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VIRCO offers the most complete",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Star House, Kowloon, Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 707,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Star House, Kowloon, Hong Kong",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "CHROME",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7961,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHROME",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "NO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NO.",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "A MEMBER OF THE HUTCHISON INTERNATIONAL GROUP",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A MEMBER OF THE HUTCHISON INTERNATIONAL GROUP",
+        "start_char": 0,
+        "end_char": 45
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_196_full.webp",
+  "extracted_photos": []
+}

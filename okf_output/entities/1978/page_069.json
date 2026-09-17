@@ -1,0 +1,170 @@
+{
+  "year": "1978",
+  "page": 69,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "JOINT <SCHOOL ACTIVITIES ACTIVITIFS",
+  "students": [
+    {
+      "english_name": "JOINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "ACTIVITIFS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVITIFS",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SCHOnI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOnI",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "JOINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "ACTI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTI",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "JOIN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOIN",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ACTIY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIY",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "NT SCHXOY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NT SCHXOY",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "JOINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "ILO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ILO",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "SCHOOL ACTIVITES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL ACTIVITES",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_069_full.webp",
+  "extracted_photos": []
+}

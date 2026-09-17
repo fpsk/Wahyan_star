@@ -1,0 +1,189 @@
+{
+  "year": "1976",
+  "page": 91,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "HANDSALL INTERSCHOOL CHAMPIONS Our team was basically composed of the basketball",
+  "students": [
+    {
+      "english_name": "HANDSALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HANDSALL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "INTERSCHOOL CHAMPIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERSCHOOL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Our team was basically composed of the basketball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our team was basically composed of the basketball",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "Though we started practising,and in fact, we learned playing handball only a week",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though we started practising,and in fact, we learned playing handball only a week",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "Regioual",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Regioual",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Operall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Operall",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "At first, we were indeed quite depressed by this failure. Afterwards, we streng-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At first, we were indeed quite depressed by this failure. Afterwards, we streng-",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "At the final, we again met Ling Nam, But this time, we had made considerable im-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the final, we again met Ling Nam, But this time, we had made considerable im-",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "It was filled with tenseness and antagonism from the very beginning to the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was filled with tenseness and antagonism from the very beginning to the",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "But we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But we",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "INTERSCHOOL CHAMPIONS",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "INTERSCHOOL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "event_name": "N.1.） Championship. Gaining experience from the previous defeat, we played hard",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "N.1.） Championship. Gaining experience from the previous defeat, we played hard",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "event_name": "played on calmly and hard. Finally our hope to capture the Overall Championship",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "played on calmly and hard. Finally our hope to capture the Overall Championship",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_091_full.webp",
+  "extracted_photos": [
+    "1976_page_091_photo_1.webp"
+  ]
+}

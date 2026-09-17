@@ -1,0 +1,66 @@
+{
+  "year": "1979",
+  "page": 162,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "香港 東方（合記）書店 致意",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "香港",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 香港",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Oriental",
+      "chinese_name": "致意",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oriental 致意",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Book Store",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Book Store",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_162_full.webp",
+  "extracted_photos": []
+}

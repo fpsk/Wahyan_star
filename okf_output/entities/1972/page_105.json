@@ -1,0 +1,425 @@
+{
+  "year": "1972",
+  "page": 105,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "In the school, despite the difhcult to make it attractive. The standard of financial situation aforementioned, we",
+  "students": [
+    {
+      "english_name": "In the school, despite the difhcult",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the school, despite the difhcult",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "All in all, there was much room for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All in all, there was much room for",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Editorial Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lo provide the students with a school",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo provide the students with a school",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Chinese Editors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Editors",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Li Shing Fu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Shing Fu",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Should this feature prove to be something",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Should this feature prove to be something",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "English Editors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "English Editors",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Sun's co-operation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sun's co-operation",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mun Bing Kuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mun Bing Kuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Secretaries",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretaries",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tsui Pui Tse",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Pui Tse",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Reporters",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Reporters",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Li Shu Chuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Shu Chuen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Proof readers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Proof readers",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Athough we had some success in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Athough we had some success in",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Li Chi Him",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chi Him",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chinese, we failed miserably with English.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese, we failed miserably with English.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Tsui Yat Kwong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Yat Kwong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Perhaps, the work of propaganda had not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Perhaps, the work of propaganda had not",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Chan Wah Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wah Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Siu Yue Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Yue Cheung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Sham Hsi Keung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sham Hsi Keung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "We feel indebted to those who were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We feel indebted to those who were",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "： Mr. Cheung Man Sun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. Cheung Man Sun",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Rev.Fr. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev.Fr. McGaley",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "ood, it will be due to Mr. Cheung Mun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ood, it will be due to Mr. Cheung Mun",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "had the substantial help from Mr. Cheung，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "had the substantial help from Mr. Cheung，",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Rev. Fr. McGaley remained to be the con-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. McGaley remained to be the con-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_105_full.webp",
+  "extracted_photos": []
+}

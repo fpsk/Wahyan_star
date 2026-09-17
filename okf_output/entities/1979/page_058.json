@@ -1,0 +1,66 @@
+{
+  "year": "1979",
+  "page": 58,
+  "section_type": "Class Roster",
+  "class_designation": "Night at an Inn. （5B）",
+  "summary": "Trama Festival :78-79. This year, the Intermediate and the Senior Sections of the Drama Festival were held between November and December. Fr. Reid and Fr. McCarthy were the adjudicators for",
+  "students": [
+    {
+      "english_name": "This year, the Intermediate and the Senior Sections of the Drama Festival were held",
+      "chinese_name": "",
+      "class_designation": "Night at an Inn. （5B）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, the Intermediate and the Senior Sections of the Drama Festival were held",
+        "start_char": 0,
+        "end_char": 83
+      }
+    },
+    {
+      "english_name": "Section was organised with Fr. O'Rourke as the judge. The standard was quite high.",
+      "chinese_name": "",
+      "class_designation": "Night at an Inn. （5B）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Section was organised with Fr. O'Rourke as the judge. The standard was quite high.",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "RESULTS",
+      "chinese_name": "",
+      "class_designation": "Night at an Inn. （5B）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RESULTS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The aim of the Drama Festival is to promote the students' interest in the art of drama",
+      "chinese_name": "",
+      "class_designation": "Night at an Inn. （5B）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The aim of the Drama Festival is to promote the students' interest in the art of drama",
+        "start_char": 0,
+        "end_char": 86
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_058_full.webp",
+  "extracted_photos": []
+}

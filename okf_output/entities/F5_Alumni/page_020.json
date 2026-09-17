@@ -1,0 +1,82 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 20,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Kwok Ka Leung (郭家樑) • Lai Fat (黎發) • Lai Chuk Fai (黎焯輝) • Lai Ying Kin (黎應堅)",
+  "students": [
+    {
+      "english_name": "Kwok Ka Leung",
+      "chinese_name": "郭家樑",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lai Fat",
+      "chinese_name": "黎發",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lai Chuk Fai",
+      "chinese_name": "黎焯輝",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lai Ying Kin",
+      "chinese_name": "黎應堅",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_020_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_020_photo_1.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 20,
+      "english_name": "Kwok Ka Leung",
+      "chinese_name": "郭家樑",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 20,
+      "english_name": "Lai Fat",
+      "chinese_name": "黎發",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 20,
+      "english_name": "Lai Chuk Fai",
+      "chinese_name": "黎焯輝",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 20,
+      "english_name": "Lai Ying Kin",
+      "chinese_name": "黎應堅",
+      "class": "Form 5A1"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "year": "1973",
+  "page": 41,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "TEACHERS’ DAY T.S.W.L. （To Sir With Love） Show - This year's Teachers' Day can be said",
+  "students": [
+    {
+      "english_name": "This year's Teachers' Day can be said",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year's Teachers' Day can be said",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "In the afternoon session, there were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the afternoon session, there were",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "All student teachers entered this competi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All student teachers entered this competi",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "WOn",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WOn",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Marks were given for preparation before",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Marks were given for preparation before",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Then there was a table-tennis",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Then there was a table-tennis",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Again all our lady teachers took part in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Again all our lady teachers took part in",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "As a wholc, this year's Teacher's Day",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As a wholc, this year's Teacher's Day",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "including Br. Lee, Br. Tong, Mr. Leung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "including Br. Lee, Br. Tong, Mr. Leung",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Then there was a table-tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Then there was a table-tennis",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "full_page_photo": "1973_page_041_full.webp",
+  "extracted_photos": [
+    "1973_page_041_photo_1.webp",
+    "1973_page_041_photo_2.webp",
+    "1973_page_041_photo_3.webp",
+    "1973_page_041_photo_4.webp",
+    "1973_page_041_photo_5.webp"
+  ]
+}

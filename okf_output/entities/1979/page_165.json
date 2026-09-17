@@ -1,0 +1,30 @@
+{
+  "year": "1979",
+  "page": 165,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "歌文阴 摒棄舊傳統，學界創新風！ 三合一革新圓規",
+  "students": [
+    {
+      "english_name": "TRIMAN",
+      "chinese_name": "歌文阴",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRIMAN 歌文阴",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_165_full.webp",
+  "extracted_photos": [
+    "1979_page_165_photo_1.webp",
+    "1979_page_165_photo_2.webp"
+  ]
+}

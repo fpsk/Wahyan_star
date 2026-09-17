@@ -1,0 +1,549 @@
+{
+  "year": "1979",
+  "page": 87,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SPORTSMASTERS' REPORT An urgent message from the Star editorial board was passed on to me to give them the",
+  "students": [
+    {
+      "english_name": "An urgent message from the Star editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An urgent message from the Star editorial",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "I replied.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I replied.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "I was eager to write it for this year, just",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I was eager to write it for this year, just",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Congratulations to our Interschool repre-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Congratulations to our Interschool repre-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Basketballers who captured the overall League",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basketballers who captured the overall League",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "In our other major game, our footballers finished overall Second Runners-up.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In our other major game, our footballers finished overall Second Runners-up.",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "A good combined ettort.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A good combined ettort.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "I was very happy with our swimmers who put up a very creditable and sport-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I was very happy with our swimmers who put up a very creditable and sport-",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Ist Division swimmers are just too good for us, so",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Division swimmers are just too good for us, so",
+        "start_char": 0,
+        "end_char": 50
+      }
+    },
+    {
+      "english_name": "Our Lifeguards stay in Ist Division. A special pat on the back to the Li Kai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Lifeguards stay in Ist Division. A special pat on the back to the Li Kai",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "We also won the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We also won the",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "C'Grade cricketball-throw.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C'Grade cricketball-throw.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Congrats to all our Interschool Representatives on their overall good team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Congrats to all our Interschool Representatives on their overall good team",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "At home, we had the usual Interclass and Interhouse competitions as also the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At home, we had the usual Interclass and Interhouse competitions as also the",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "Tennis, Table-Tennis and Badminton Championships, all keenly contested. Results",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis, Table-Tennis and Badminton Championships, all keenly contested. Results",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "The Swimming Gala went off well with a few new records.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Swimming Gala went off well with a few new records.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "We had a few records. There.was real enthusiasm",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had a few records. There.was real enthusiasm",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "This year we didn't get started early enough with our Intramural competitions.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year we didn't get started early enough with our Intramural competitions.",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "In the coming year, I hope we can rightaway even though September school ends",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the coming year, I hope we can rightaway even though September school ends",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "I would also like to see each class",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I would also like to see each class",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Matthew Corbally, S.J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Matthew Corbally, S.J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Anthony F. W. Ip",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony F. W. Ip",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Wong Pak Ho",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Pak Ho",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "MMr. K. S. Fung （Basketball）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "MMr. K. S. Fung （Basketball）",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. S. K, Lee （Football）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S. K, Lee （Football）",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mr. K. P. Lee （Table-Tennis）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. P. Lee （Table-Tennis）",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. M. S. Cheung （Badminton ‘A'）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M. S. Cheung （Badminton ‘A'）",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Mr. Adrian Lee （Badminton B\"） Mr.C.S. Wong （Badminton C”）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Adrian Lee （Badminton B\"） Mr.C.S. Wong （Badminton C”）",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "Mr. George Tam （Tennis）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. George Tam （Tennis）",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mr. Wong Kwok Yeung for his Saturday coaching of our Basketballers；",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Wong Kwok Yeung for his Saturday coaching of our Basketballers；",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "Mr. Wong Fai Hung for coaching our A&B Badminton Teams：",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Wong Fai Hung for coaching our A&B Badminton Teams：",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "Mr. Li Kwok Kit for coaching our C' Badminton Team；",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Li Kwok Kit for coaching our C' Badminton Team；",
+        "start_char": 0,
+        "end_char": 51
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Championship with ‘A' Grade, Runners-up；‘B",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Championship with ‘A' Grade, Runners-up；‘B",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "Congrats to our Badminton Teams, Overall Champions with 'A' Grade 4th，",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Congrats to our Badminton Teams, Overall Champions with 'A' Grade 4th，",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "event_name": "Our Table-Tennis Teams did well, all getting into the final round. ‘A'did",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Our Table-Tennis Teams did well, all getting into the final round. ‘A'did",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "In 2nd Division, congrats to our Tennis players on winning the Champion-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "In 2nd Division, congrats to our Tennis players on winning the Champion-",
+        "start_char": 0,
+        "end_char": 72
+      }
+    },
+    {
+      "event_name": "winning the 4 x 100 Relay and the 100 M and 200 Metres.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "winning the 4 x 100 Relay and the 100 M and 200 Metres.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "event_name": "Tennis, Table-Tennis and Badminton Championships, all keenly contested. Results",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Tennis, Table-Tennis and Badminton Championships, all keenly contested. Results",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "event_name": "The Swimming Gala went off well with a few new records.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The Swimming Gala went off well with a few new records.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "event_name": "The Sports this year had a record entry. Special congrats to Upper VI Science",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The Sports this year had a record entry. Special congrats to Upper VI Science",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "event_name": "We had a few records. There.was real enthusiasm",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "We had a few records. There.was real enthusiasm",
+        "start_char": 0,
+        "end_char": 47
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_087_full.webp",
+  "extracted_photos": []
+}

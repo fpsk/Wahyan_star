@@ -1,0 +1,168 @@
+{
+  "year": "1975",
+  "page": 46,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "THE JOINT-SCHOOL DEBATING COMPETITION Last December, we received a letter a team, I am really very grateful to Ray-",
+  "students": [
+    {
+      "english_name": "THE JOINT-SCHOOL DEBATING COMPETITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE JOINT-SCHOOL DEBATING COMPETITION",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Last December, we received a letter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Last December, we received a letter",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "They",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "South China Morning Post. I thought",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "South China Morning Post. I thought",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "After considering the results of the Train-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After considering the results of the Train-",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "We sent two representatives to the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We sent two representatives to the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The debaters we are proud of.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The debaters we are proud of.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "THE JOINT-SCHOOL DEBATING COMPETITION",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "THE JOINT-SCHOOL DEBATING COMPETITION",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "up a joint-school debating competition.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "up a joint-school debating competition.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "debating Society and yet not take part in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "debating Society and yet not take part in",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "joint-school Debating Society. A few gen-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "joint-school Debating Society. A few gen-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "had learned some debating skills. After",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "had learned some debating skills. After",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_046_full.webp",
+  "extracted_photos": [
+    "1975_page_046_photo_1.webp"
+  ]
+}

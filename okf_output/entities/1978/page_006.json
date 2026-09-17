@@ -1,0 +1,90 @@
+{
+  "year": "1978",
+  "page": 6,
+  "section_type": "Class Roster",
+  "class_designation": "Lun Suen, Caesar （L.6A）",
+  "summary": "EDITORIAL BOARD Executive Editors：",
+  "students": [
+    {
+      "english_name": "EDITORIAL",
+      "chinese_name": "",
+      "class_designation": "Lun Suen, Caesar （L.6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "BOARD",
+      "chinese_name": "",
+      "class_designation": "Lun Suen, Caesar （L.6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BOARD",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Lam Cheung",
+      "chinese_name": "",
+      "class_designation": "Lun Suen, Caesar （L.6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Cheung",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers：",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers：",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Fr. P. Grogan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. Grogan, S.J.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Mr.N. S. Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.N. S. Cheung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_006_full.webp",
+  "extracted_photos": []
+}

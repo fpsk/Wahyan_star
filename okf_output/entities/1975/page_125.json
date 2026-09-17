@@ -1,0 +1,107 @@
+{
+  "year": "1975",
+  "page": 125,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "丛 Sahweppes 水汽泉玉",
+  "students": [
+    {
+      "english_name": "Sahweppes",
+      "chinese_name": "水汽泉玉",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sahweppes 水汽泉玉",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Schweppes",
+      "chinese_name": "水汽泉玉",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Schweppes 水汽泉玉",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Manutectured",
+      "chinese_name": "擇選佳最",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Manutectured 擇選佳最",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "SCNWEPPES",
+      "chinese_name": "受享高最",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCNWEPPES 受享高最",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Under Authorty of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Under Authorty of",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "London",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "London",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "England",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "England",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_125_full.webp",
+  "extracted_photos": [
+    "1975_page_125_photo_1.webp"
+  ]
+}

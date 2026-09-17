@@ -1,0 +1,66 @@
+{
+  "year": "1973",
+  "page": 57,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Ispend most of my time either at school orin someschoolactivity. School is important for me.",
+  "students": [
+    {
+      "english_name": "Ispend most of my time either at school",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ispend most of my time either at school",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "School is important for me.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School is important for me.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "I need to go to school to grow in my knowledge",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I need to go to school to grow in my knowledge",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "...of the problems of society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "...of the problems of society",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_057_full.webp",
+  "extracted_photos": []
+}

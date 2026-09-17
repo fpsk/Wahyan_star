@@ -1,0 +1,531 @@
+{
+  "year": "1978",
+  "page": 89,
+  "section_type": "Class Roster",
+  "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+  "summary": "16 Ft. 7Ins. Ist Lau Shing Tat 3B1 Brown LongJump",
+  "students": [
+    {
+      "english_name": "LongJump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LongJump",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Shot Putt",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shot Putt",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "NAME",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NAME",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "RESULTS",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RESULTS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "EVENT",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 200,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 400,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 67,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 800,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Metres Low Hurdles",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres Low Hurdles",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "White House",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "White House",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yellow House",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yellow House",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Black House",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Black House",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Red House",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Red House",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "LongJump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LongJump",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Figh Jump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Figh Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Shot Putt",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shot Putt",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cricketball Throw",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricketball Throw",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "NAME",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NAME",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "RESULTS",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RESULTS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "EVENT",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 200,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Yellow House",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yellow House",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LongJump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LongJump",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cricketball Throw",
+      "chinese_name": "",
+      "class_designation": "Ist Lau Shing Tat 3B1 Brown",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricketball Throw",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "19.1 Secs. （Record）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "19.1 Secs. （Record）",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "event_name": "19.2 Secs. （Record）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "19.2 Secs. （Record）",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "event_name": "4 X 100 Metres Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 X 100 Metres Relay",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "event_name": "4 X400 Metres Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 X400 Metres Relay",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "event_name": "4 X 100 Metres Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 X 100 Metres Relay",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_089_full.webp",
+  "extracted_photos": [
+    "1978_page_089_photo_1.webp"
+  ]
+}

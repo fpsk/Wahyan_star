@@ -1,0 +1,273 @@
+{
+  "year": "1972",
+  "page": 18,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "PRINCIPAL'S ADDRESS Last year more than 5000 students went abroad for further studies and this",
+  "students": [
+    {
+      "english_name": "PRINCIPAL'S ADDRESS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRINCIPAL'S ADDRESS",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "All kinds of arguments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All kinds of arguments",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Its best year atter year without suftering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Its best year atter year without suftering",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "It is a great pleasure for us, this even-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is a great pleasure for us, this even-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Kong was second only to Japan in all Asia",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong was second only to Japan in all Asia",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Cheng as a past student since he studied",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng as a past student since he studied",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "His energy and initiative as",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His energy and initiative as",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "President of United College place him",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "President of United College place him",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Full credit is due to Government",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Full credit is due to Government",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Primary education for all. Credit is due",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Primary education for all. Credit is due",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The matriculation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The matriculation",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "One is given to think that there is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "One is given to think that there is",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Decisions take",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Decisions take",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Because of the tragic limitation of places",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Because of the tragic limitation of places",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Other countries suffer a brain drain in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Other countries suffer a brain drain in",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr.and Mrs. Cheng, Mr. Kirkwood, Rev.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.and Mrs. Cheng, Mr. Kirkwood, Rev.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Fathers and Sisters, Ladies and Gentlemen，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fathers and Sisters, Ladies and Gentlemen，",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "ing, to have Mr. Cheng who is President",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ing, to have Mr. Cheng who is President",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "We can claim Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We can claim Mr.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_018_full.webp",
+  "extracted_photos": [
+    "1972_page_018_photo_1.webp"
+  ]
+}

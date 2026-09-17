@@ -1,0 +1,29 @@
+{
+  "year": "1976",
+  "page": 101,
+  "section_type": "Class Roster",
+  "class_designation": "1A1",
+  "summary": "My friends 1A1 1B1",
+  "students": [
+    {
+      "english_name": "My friends",
+      "chinese_name": "",
+      "class_designation": "1A1",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "My friends",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_101_full.webp",
+  "extracted_photos": [
+    "1976_page_101_photo_1.webp"
+  ]
+}

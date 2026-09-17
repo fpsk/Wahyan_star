@@ -1,0 +1,320 @@
+{
+  "year": "1976",
+  "page": 58,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Adviser ：Rev. Fr. J. G. Foley, S. J. Chairman",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cine Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cine Club",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Vice-chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Club-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club-",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "We helped students to buy tickets for special films at reduced rates. We projected",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We helped students to buy tickets for special films at reduced rates. We projected",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "We first arranged to have lunch-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We first arranged to have lunch-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "However, we had a flm show only in November due",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, we had a flm show only in November due",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Four representatives of our club were invited to watch the Hong Kong Preliminary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Four representatives of our club were invited to watch the Hong Kong Preliminary",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Which arranged this visit.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Which arranged this visit.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Although the standard of these films was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Although the standard of these films was",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "In conclusion, I would like to thank",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In conclusion, I would like to thank",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Club.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. J. G. Foley, S. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. J. G. Foley, S. J.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Fr. J. G. Foley S.J.， the Committee Mem-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. J. G. Foley S.J.， the Committee Mem-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Lecture by Mr. Kam Kwok Leung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Lecture by Mr. Kam Kwok Leung",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Cine Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Cine Club",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "club_name": "support of other students, the Cine Club was quite active and successful this year. Our",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "support of other students, the Cine Club was quite active and successful this year. Our",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "club_name": "Club-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club-",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "club_name": "films for other clubs and classes whenever they asked.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "films for other clubs and classes whenever they asked.",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "club_name": "Four representatives of our club were invited to watch the Hong Kong Preliminary",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Four representatives of our club were invited to watch the Hong Kong Preliminary",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "club_name": "graphy Club, visited the Yoshica camera factory and we thank the Photography Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "graphy Club, visited the Yoshica camera factory and we thank the Photography Club",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "club_name": "bers, Voluntary Helpers and the Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "bers, Voluntary Helpers and the Club",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_058_full.webp",
+  "extracted_photos": [
+    "1976_page_058_photo_1.webp",
+    "1976_page_058_photo_2.webp",
+    "1976_page_058_photo_3.webp"
+  ]
+}

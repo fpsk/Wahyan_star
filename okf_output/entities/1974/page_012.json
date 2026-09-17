@@ -1,0 +1,60 @@
+{
+  "year": "1974",
+  "page": 12,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Class - formal Homeward-Go！ Peacefully down the.... beside the",
+  "students": [
+    {
+      "english_name": "Peacefully down the.... beside the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peacefully down the.... beside the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "STILL LIVES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STILL LIVES",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Zz Vs Bb",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Zz Vs Bb",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_012_full.webp",
+  "extracted_photos": [
+    "1974_page_012_photo_1.webp",
+    "1974_page_012_photo_2.webp",
+    "1974_page_012_photo_3.webp",
+    "1974_page_012_photo_4.webp",
+    "1974_page_012_photo_5.webp",
+    "1974_page_012_photo_6.webp"
+  ]
+}

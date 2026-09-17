@@ -1,0 +1,118 @@
+{
+  "year": "1972",
+  "page": 35,
+  "section_type": "Class Roster",
+  "class_designation": "LSt A GOOD BARGAIN F.2B",
+  "summary": "RESULTS OF DRAMA COMPETITION APRIL - MAY 1972 JUNIOR SECTION",
+  "students": [
+    {
+      "english_name": "RESULTS OF DRAMA COMPETITION",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RESULTS OF DRAMA COMPETITION",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "JUNIOR SECTION",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JUNIOR SECTION",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "WINNING PLAYS",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WINNING PLAYS",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "WINNING ACTORS",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WINNING ACTORS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "WINNING ACTOR-FEMALE PART",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WINNING ACTOR-FEMALE PART",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "HONOURABLE MENTION",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONOURABLE MENTION",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Chan Pui Shing as Mathematics Mas-",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Pui Shing as Mathematics Mas-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Lee Cho Hon as the Grard F.IAl",
+      "chinese_name": "",
+      "class_designation": "LSt A GOOD BARGAIN F.2B",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Cho Hon as the Grard F.IAl",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_035_full.webp",
+  "extracted_photos": []
+}

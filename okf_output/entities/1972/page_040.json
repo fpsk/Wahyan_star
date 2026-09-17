@@ -1,0 +1,95 @@
+{
+  "year": "1972",
+  "page": 40,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "On the whole, we dare say that the the Hall. There were some entertaining sports activities on Teachers' Day were no-",
+  "students": [
+    {
+      "english_name": "On the whole, we dare say that the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On the whole, we dare say that the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Speaking by Nr.Ho Pui Kun, a piano",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Speaking by Nr.Ho Pui Kun, a piano",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Unfortunately, however, it was question-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unfortunately, however, it was question-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "A Vs Teachers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Vs Teachers",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Barrett Presenting Prize to",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Barrett Presenting Prize to",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Mr. Wah Yan 272",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Wah Yan 272",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_040_full.webp",
+  "extracted_photos": [
+    "1972_page_040_photo_1.webp",
+    "1972_page_040_photo_2.webp",
+    "1972_page_040_photo_3.webp"
+  ]
+}

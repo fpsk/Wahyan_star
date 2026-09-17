@@ -1,0 +1,55 @@
+{
+  "year": "1974",
+  "page": 53,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Student Activities EKS KOR HEENASEAS",
+  "students": [
+    {
+      "english_name": "Student",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Activities",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "EKS KOR HEENASEAS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EKS KOR HEENASEAS",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_053_full.webp",
+  "extracted_photos": [
+    "1974_page_053_photo_1.webp"
+  ]
+}

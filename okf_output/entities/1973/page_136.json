@@ -1,0 +1,78 @@
+{
+  "year": "1973",
+  "page": 136,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Mit Me Cong ficnls Mr. Anthony Wu and the",
+  "students": [
+    {
+      "english_name": "Mit Me Cong ficnls",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mit Me Cong ficnls",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Let's Get Together Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Get Together Club",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Anthony Wu",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Anthony Wu",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Let's Get Together Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Let's Get Together Club",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "club_name": "（the Music Society）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "（the Music Society）",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_136_full.webp",
+  "extracted_photos": []
+}

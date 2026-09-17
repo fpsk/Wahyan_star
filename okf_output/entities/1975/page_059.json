@@ -1,0 +1,94 @@
+{
+  "year": "1975",
+  "page": 59,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "5） Sweaters（Two different colours - grey and white） bearing the initials of Wah Yan and fles were made. 6 The Annual Ball was held on 7th December. Ladies from St. Clares' Girls’",
+  "students": [
+    {
+      "english_name": "Yan and fles were made.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan and fles were made.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "School and St. Francis Canossian College were invited.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School and St. Francis Canossian College were invited.",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "english_name": "Activities Club and the Student Council.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Activities Club and the Student Council.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "In summer a leadership training course will be jointly organized by the Community",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In summer a leadership training course will be jointly organized by the Community",
+        "start_char": 0,
+        "end_char": 81
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Activities Club and the Student Council.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Activities Club and the Student Council.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "the clubs.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the clubs.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_059_full.webp",
+  "extracted_photos": [
+    "1975_page_059_photo_1.webp",
+    "1975_page_059_photo_2.webp"
+  ]
+}

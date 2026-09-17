@@ -1,0 +1,255 @@
+{
+  "year": "1974",
+  "page": 135,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "GETTING INTO SOCIETY？... YOU NEED MORE FRIENDS， BETTER COMMUNICATION",
+  "students": [
+    {
+      "english_name": "BETTER COMMUNICATION",
+      "chinese_name": "賀錦平先生",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BETTER COMMUNICATION 賀錦平先生",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "We are here to help. Join",
+      "chinese_name": "何榮高先生",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are here to help. Join 何榮高先生",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "With best wishes from",
+      "chinese_name": "享漢權先生",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With best wishes from 享漢權先生",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Messr. Cheng Fook-Choi",
+      "chinese_name": "余沛森先生",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Messr. Cheng Fook-Choi 余沛森先生",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "So Shiu-Kwan",
+      "chinese_name": "何維錦先生",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Shiu-Kwan 何維錦先生",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Sai-Leung",
+      "chinese_name": "盧漢忠先生",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Sai-Leung 盧漢忠先生",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Clement S. K. Tsang",
+      "chinese_name": "麥年生先生",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Clement S. K. Tsang 麥年生先生",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Ip Kai-Wah",
+      "chinese_name": "蘇兆焜先生",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ip Kai-Wah 蘇兆焜先生",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "John Lam Cho-Hon",
+      "chinese_name": "何世樑先生",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Lam Cho-Hon 何世樑先生",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Tse Ping-Shan",
+      "chinese_name": "曾鍚權先生",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Ping-Shan 曾鍚權先生",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "David T. W. Lee",
+      "chinese_name": "葉繼華醫生",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David T. W. Lee 葉繼華醫生",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Peter K. P. Hall",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Peter K. P. Hall",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Rev. Fr. C. J. Barrett S.J. 巴烈德神父",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. C. J. Barrett S.J. 巴烈德神父",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Mr. Ho Wing-Ho",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Ho Wing-Ho",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mr. Jeffrey H. K. Sun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Jeffrey H. K. Sun",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mr. Raymond P. L. Yu",
+      "chinese_name": "余本良",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Raymond P. L. Yu",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. Anthony Ho Wai-Kam",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Anthony Ho Wai-Kam",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Mr. David Lo Hon-Chung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. David Lo Hon-Chung",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "GETTING INTO SOCIETY？...",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "GETTING INTO SOCIETY？...",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_135_full.webp",
+  "extracted_photos": []
+}

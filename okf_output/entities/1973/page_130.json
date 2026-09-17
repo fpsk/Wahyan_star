@@ -1,0 +1,161 @@
+{
+  "year": "1973",
+  "page": 130,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "HONG KONG'S FINEST -DAIRY PRODUCTS W",
+  "students": [
+    {
+      "english_name": "HONG KONG'S FINEST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG'S FINEST",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Zair Tain",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Zair Tain",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "IIRY ICE CREAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IIRY ICE CREAM",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "It's the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It's the",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "IAW",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IAW",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Coke.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Coke.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "TRADE MARK REG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRADE MARK REG",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Enjoy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Enjoy",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Cgtah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cgtah",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Cocc Cola",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cocc Cola",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Bottled under authority of the Coca-Cola Company by HONGKONG BOTTLERS LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bottled under authority of the Coca-Cola Company by HONGKONG BOTTLERS LIMITED",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_130_full.webp",
+  "extracted_photos": [
+    "1973_page_130_photo_1.webp",
+    "1973_page_130_photo_2.webp",
+    "1973_page_130_photo_3.webp"
+  ]
+}

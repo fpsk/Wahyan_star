@@ -1,0 +1,189 @@
+{
+  "year": "1975",
+  "page": 61,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Science Society Advisers: Rev. Fr. Cryan, S.J. Mr. S. K. Lee",
+  "students": [
+    {
+      "english_name": "Astronomy class. Although it was the first year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Astronomy class. Although it was the first year",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "INTRO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTRO.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "M.B",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M.B",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "This year, as usual, the main aim of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, as usual, the main aim of the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Let's Get Together Qluk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Get Together Qluk",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers: Rev. Fr. Cryan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Rev. Fr. Cryan, S.J.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Mr. S. K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S. K. Lee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "gguidance of Fr. Cryan, our biology teacher. As",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "gguidance of Fr. Cryan, our biology teacher. As",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Adviser: Rev. Father Toner",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Rev. Father Toner",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Science Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Science Society",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "This year the club set up electronic classes，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "This year the club set up electronic classes，",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "club_name": "club was to organise concerts for all students",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "club was to organise concerts for all students",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "club_name": "the club. The Talent Time of '74 was still a",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the club. The Talent Time of '74 was still a",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "club and the Student Council in Summer.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "club and the Student Council in Summer.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_061_full.webp",
+  "extracted_photos": []
+}

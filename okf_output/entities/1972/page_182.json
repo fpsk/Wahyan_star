@@ -1,0 +1,198 @@
+{
+  "year": "1972",
+  "page": 182,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mih Mfe Conpeliscnti ith the Complimento",
+  "students": [
+    {
+      "english_name": "Mih Mfe Conpeliscnti",
+      "chinese_name": "經售",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mih Mfe Conpeliscnti 經售",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Complimento",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Complimento",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "SWINDON BOOK CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWINDON BOOK CO.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "The Kowoloon Daisy, Eto.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Kowoloon Daisy, Eto.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "MIRADOR MANSION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MIRADOR MANSION",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Supplier of Fresh Milk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Supplier of Fresh Milk",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "New Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "New Branch",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "OCEAN TERMINAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OCEAN TERMINAL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "JeluclgCu.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JeluclgCu.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Olith the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Olith the Compliments",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "THE OFFICE APPLIANCE CO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE OFFICE APPLIANCE CO",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "ALEXANDRA HOUSE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALEXANDRA HOUSE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chater Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chater Road",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_182_full.webp",
+  "extracted_photos": [
+    "1972_page_182_photo_1.webp"
+  ]
+}

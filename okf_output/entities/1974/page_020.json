@@ -1,0 +1,198 @@
+{
+  "year": "1974",
+  "page": 20,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SCHOOL FUNCTIONS： OFFICIAL-OPENING OF MA YING LIBRARY BLOOD DONATIONS",
+  "students": [
+    {
+      "english_name": "OFFICIAL-OPENING OF MA YING LIBRARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OFFICIAL-OPENING OF MA YING LIBRARY",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "BLOOD DONATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BLOOD DONATIONS",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "SWIMMING GALA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "DRAMA FESTIVAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DRAMA FESTIVAL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "GKADUATION BALL AND GRADUATION DINNER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GKADUATION BALL AND GRADUATION DINNER",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SPORTS DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "CHRISTMAS CELEBRATION AND TEA PARTY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHRISTMAS CELEBRATION AND TEA PARTY",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "STUDENT FESTIVAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT FESTIVAL",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "GARITAS BAZAAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GARITAS BAZAAR",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "THE SIXTH SECONDARY SCHOOL STUDENTS' SEMINAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE SIXTH SECONDARY SCHOOL STUDENTS' SEMINAR",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "JOINT-SCHOOL HISTORY EXHIBITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT-SCHOOL HISTORY EXHIBITION",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "JOINT-SCHOOL CHINESE DEBATE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT-SCHOOL CHINESE DEBATE",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING GALA",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_020_full.webp",
+  "extracted_photos": []
+}

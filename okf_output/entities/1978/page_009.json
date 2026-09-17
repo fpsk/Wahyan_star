@@ -1,0 +1,165 @@
+{
+  "year": "1978",
+  "page": 9,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "TEACHING STAFF Back Row：",
+  "students": [
+    {
+      "english_name": "TEACHING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEACHING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STAFF",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "C. T. Wong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C. T. Wong.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "M. Pang.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. Pang.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr.Farren, Fr. M. Cryan, Mr. M.C. Lec, Mr.M. Ma, Mr. M. S. Cheung，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.Farren, Fr. M. Cryan, Mr. M.C. Lec, Mr.M. Ma, Mr. M. S. Cheung，",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "Mr. K. S. Fung, Mr. P. H.Wong,Mr.C.K. Chan, Mr. T. Y. Chan, Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. S. Fung, Mr. P. H.Wong,Mr.C.K. Chan, Mr. T. Y. Chan, Mr.",
+        "start_char": 0,
+        "end_char": 63
+      }
+    },
+    {
+      "english_name": "C. P. Lee, Fr. Brosnan, Fr. B. J. Shields, Mr. S. K. Lee.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "C. P. Lee, Fr. Brosnan, Fr. B. J. Shields, Mr. S. K. Lee.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "Fr. O'Rourke, Mr. F. Yung,Fr. Foley, Mr.P. Y. Chen, Mr. A. Lee, Mr. J",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. O'Rourke, Mr. F. Yung,Fr. Foley, Mr.P. Y. Chen, Mr. A. Lee, Mr. J",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "Lam, Mr.S.C. Koo, Mr. K. Y. Leung, Mr. K. P. Lee, Mr. T. O.Chan; Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Lam, Mr.S.C. Koo, Mr. K. Y. Leung, Mr. K. P. Lee, Mr. T. O.Chan; Mr.",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "english_name": "Fr.Corbally,Fr.Mallin, Mr. H.C. Cheung, Fr. McCarthy, Mr. M. Cheng，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.Corbally,Fr.Mallin, Mr. H.C. Cheung, Fr. McCarthy, Mr. M. Cheng，",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "Mr.S.S.Chan,Mr.C. P. Lee, Mr. K. C. Kwok, Mr. F. W. Ip, Fr. McGaley，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.S.S.Chan,Mr.C. P. Lee, Mr. K. C. Kwok, Mr. F. W. Ip, Fr. McGaley，",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "english_name": "Fr. Grogan, Fr.Daly, Mr.S.P.Tam.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Grogan, Fr.Daly, Mr.S.P.Tam.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_009_full.webp",
+  "extracted_photos": [
+    "1978_page_009_photo_1.webp"
+  ]
+}

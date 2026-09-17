@@ -1,0 +1,105 @@
+{
+  "year": "1973",
+  "page": 19,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "SPEECH DAY Wah Yan staff and pupils were fortunate to be able to welcome an alumnus of thirty-one",
+  "students": [
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Social Welfare Department, reminded the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Welfare Department, reminded the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Wah Group and the Po Leung Kuk along with",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah Group and the Po Leung Kuk along with",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Both groups by",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Both groups by",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "years ago, Mr. Li Fook Kau, to give the address",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "years ago, Mr. Li Fook Kau, to give the address",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Mr. Li, recently appointed Director of the",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Li, recently appointed Director of the",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "needs of Hong Kong people. Mr. Li pointed",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "needs of Hong Kong people. Mr. Li pointed",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_019_full.webp",
+  "extracted_photos": [
+    "1973_page_019_photo_1.webp"
+  ]
+}

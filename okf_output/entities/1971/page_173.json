@@ -1,0 +1,79 @@
+{
+  "year": "1971",
+  "page": 173,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mik the Conplimenls ROWNTREE OF ENGLAND",
+  "students": [
+    {
+      "english_name": "Mik the Conplimenls",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mik the Conplimenls",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "ROWNTREE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ROWNTREE",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "OF ENGLAND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OF ENGLAND",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "MAKERS OF FINE CHOCOLATE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MAKERS OF FINE CHOCOLATE",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "ALEXANDRA HOUSE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALEXANDRA HOUSE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_173_full.webp",
+  "extracted_photos": []
+}

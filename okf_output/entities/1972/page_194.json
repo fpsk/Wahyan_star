@@ -1,0 +1,172 @@
+{
+  "year": "1972",
+  "page": 194,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments S. 4.Ting",
+  "students": [
+    {
+      "english_name": "With",
+      "chinese_name": "巧華燈飾",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With 巧華燈飾",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "IMPORTED AND SELECTED FROM OVER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IMPORTED AND SELECTED FROM OVER",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "U.S.A. G AUSTRALIA, WHOSE PRODUCTS ARE SOLELY DISTRIBUTED BY US.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.S.A. G AUSTRALIA, WHOSE PRODUCTS ARE SOLELY DISTRIBUTED BY US.",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "COMPRISING NUMEROUS DISTING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COMPRISING NUMEROUS DISTING",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "TIVE AND UNIQUE STYLES TO SUIT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TIVE AND UNIQUE STYLES TO SUIT",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "EVERY PURPOSE FOR LIGHTING AND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVERY PURPOSE FOR LIGHTING AND",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "DECOR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DECOR.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Hongkong Showrooms",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hongkong Showrooms",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Kowloon Showrooms",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon Showrooms",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Hankow Road, Tsimshatsui",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hankow Road, Tsimshatsui",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Basement",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basement",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Sunday Closed",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sunday Closed",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_194_full.webp",
+  "extracted_photos": [
+    "1972_page_194_photo_1.webp"
+  ]
+}

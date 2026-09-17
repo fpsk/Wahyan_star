@@ -1,0 +1,146 @@
+{
+  "year": "1979",
+  "page": 40,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Adviser: Rev. Fr. D. Reid, S.J. Chairman: Charles Lee BRIDGE CLUB",
+  "students": [
+    {
+      "english_name": "BRIDGE CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BRIDGE CLUB",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "October and our frst function was a bridge",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "October and our frst function was a bridge",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Kowloon. Over ten teams took part in this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon. Over ten teams took part in this",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "About seventy took part and refreshments were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "About seventy took part and refreshments were",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Competing in the Tactics Bowl organized",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Competing in the Tactics Bowl organized",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "This year, some books on Bridge ethics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, some books on Bridge ethics",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Lastly, we would like to express our sincere",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we would like to express our sincere",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Rev. Fr. D. Reid, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Rev. Fr. D. Reid, S.J.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "ggratitude to our Adviser, Rev. Fr. Reid, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ggratitude to our Adviser, Rev. Fr. Reid, S.J.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "BRIDGE CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "BRIDGE CLUB",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_040_full.webp",
+  "extracted_photos": [
+    "1979_page_040_photo_1.webp",
+    "1979_page_040_photo_2.webp"
+  ]
+}

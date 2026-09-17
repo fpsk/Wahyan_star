@@ -1,0 +1,294 @@
+{
+  "year": "1975",
+  "page": 60,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Higtory Club ACADAMIO Advisers: Rev. Fr. McGaley, S.J.",
+  "students": [
+    {
+      "english_name": "Higtory Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Higtory Club",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "ACADAMIO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACADAMIO",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Mrs. Lee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Lee",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "University's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University's",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Geography Club held an Interclass Gener-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Geography Club held an Interclass Gener-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "After Christmas holiday, we organized",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After Christmas holiday, we organized",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "History Model and Project Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "History Model and Project Competition.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Geography Society",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Geography Society",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mrs. Sze",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Sze",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "The aim of this club is to arouse the in-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The aim of this club is to arouse the in-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Farm.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Farm.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Kadoorie",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kadoorie",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Experimental and Extension",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Experimental and Extension",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "We had excursions and in March we organised",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had excursions and in March we organised",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers: Rev. Fr. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Rev. Fr. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Kong History by Mr. Arthur Hinton. Many",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Kong History by Mr. Arthur Hinton. Many",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Advisers: Mr. S. H.Chow",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Mr. S. H.Chow",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Higtory Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Higtory Club",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "club_name": "In October, our club, Science Society and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "In October, our club, Science Society and",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "Geography Club held an Interclass Gener-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Geography Club held an Interclass Gener-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "Geography Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Geography Society",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "The aim of this club is to arouse the in-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The aim of this club is to arouse the in-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_060_full.webp",
+  "extracted_photos": []
+}

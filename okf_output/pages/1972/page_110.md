@@ -1,0 +1,24 @@
+# Wah Yan Star 1972 - Page 110
+
+## Extracted Photos & Figures
+
+![1972 Page 110 Photo](../photos/1972_page_110_photo_1.webp)
+![1972 Page 110 Photo](../photos/1972_page_110_photo_2.webp)
+
+## Page Text Content
+
+```text
+SPORTS：—
+SPORTS REVIEW OF THE YEAR
+AN INTERVIEW WITH FR. CORBALLY
+SPORTS DAY
+SWIMMING GALA
+INTER-SCHOOL TEAMS
+BADMINTON
+BASKETBALL
+FOOTBALL
+LIFE SAVING
+INTER-HOUSE COMPETION
+INTER-CLASS CHAMPIONS
+INTRAMURAL CHAMPIONS
+```

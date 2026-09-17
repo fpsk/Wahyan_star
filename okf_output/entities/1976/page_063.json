@@ -1,0 +1,368 @@
+{
+  "year": "1976",
+  "page": 63,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "The Starlet The Starlet is the authorised student publication of the school. This year we are celebrating our eleventh anniversary.",
+  "students": [
+    {
+      "english_name": "The Starlet",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Starlet",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "The Starlet is the authorised student publication of the school. This year we are",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Starlet is the authorised student publication of the school. This year we are",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "The purposes of the Starlet are to report news",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The purposes of the Starlet are to report news",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "We started our work in early Septem ber.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We started our work in early Septem ber.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Although our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Although our",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "December.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "December.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "We enjoyed a circulation of over one thousand copies. Then, there came",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We enjoyed a circulation of over one thousand copies. Then, there came",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "We found that there were not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We found that there were not",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Kowloon. In this issue, we were able to urge more students to send to articles, they",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon. In this issue, we were able to urge more students to send to articles, they",
+        "start_char": 0,
+        "end_char": 84
+      }
+    },
+    {
+      "english_name": "This year we made some changes as greenhorns. We focussed our attention on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year we made some changes as greenhorns. We focussed our attention on",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "We gave a more detailed account of the club activities. The report-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We gave a more detailed account of the club activities. The report-",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "We regret to say that contributions from students were still rare.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We regret to say that contributions from students were still rare.",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "May be we should be blamed for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "May be we should be blamed for",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Abore aik, we are indebted to our advisers, Fr. NcGaley and Mr. Cheung Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Abore aik, we are indebted to our advisers, Fr. NcGaley and Mr. Cheung Man",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Sun who had devoted much of their time in the counselling of our work.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sun who had devoted much of their time in the counselling of our work.",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "Swimming Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming Club",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "At the same time, a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the same time, a",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "of the school, club activities; to stimulate the writing",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of the school, club activities; to stimulate the writing",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "club_name": "We gave a more detailed account of the club activities. The report-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "We gave a more detailed account of the club activities. The report-",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "club_name": "Swimming Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Swimming Club",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "In last summer, our club organized a course for beginners. About 30 students",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "In last summer, our club organized a course for beginners. About 30 students",
+        "start_char": 0,
+        "end_char": 76
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Swimming Club",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Club",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "event_name": "From September to December 1975, we organized a swimming class for our",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "From September to December 1975, we organized a swimming class for our",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "event_name": "son Hill Swimming Pool on every Saturday. Because of the ggood cooperation of the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "son Hill Swimming Pool on every Saturday. Because of the ggood cooperation of the",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "event_name": "committee members, the swimming class made much progress.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "committee members, the swimming class made much progress.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "event_name": "training course for Inter-school swimming team was organized. We practised twice a",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "training course for Inter-school swimming team was organized. We practised twice a",
+        "start_char": 0,
+        "end_char": 82
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_063_full.webp",
+  "extracted_photos": []
+}

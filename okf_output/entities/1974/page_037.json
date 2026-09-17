@@ -1,0 +1,409 @@
+{
+  "year": "1974",
+  "page": 37,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "FESTIVAL EVENTS 3rd Sunday Film",
+  "students": [
+    {
+      "english_name": "FESTIVAL EVENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FESTIVAL EVENTS",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Film",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Film",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Imperial Theatre",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Imperial Theatre",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Exhibition Week",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition Week",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Monday",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Monday",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "School Hall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Hall",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Art Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Art Exhibition",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Hall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hall",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Music Room",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Room",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Student",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Friday",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friday",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Art",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Art",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "School Hall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Hall",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Music Room",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Room",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Show",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Show",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Variety",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Variety",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "School Hall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Hall",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Sunday",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sunday",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Funfair",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Funfair",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Time",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Time",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Concert",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Concert",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Lunch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lunch",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Music Room",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Room",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Inter-School Debate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-School Debate",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "School Hall",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Hall",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tuesday",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tuesday",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Teachers'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Teachers'",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Day",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Day",
+        "start_char": 0,
+        "end_char": 3
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_037_full.webp",
+  "extracted_photos": [
+    "1974_page_037_photo_1.webp",
+    "1974_page_037_photo_2.webp",
+    "1974_page_037_photo_3.webp",
+    "1974_page_037_photo_4.webp"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "year": "1979",
+  "page": 34,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "A Short History of Wah Yan 1919 Wah Yan College was born in December at No.60 Hollywood Road. 1921 The school moved to new premises, in Robinson Road.",
+  "students": [
+    {
+      "english_name": "The school moved to new premises, in Robinson Road.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1921,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The school moved to new premises, in Robinson Road.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    },
+    {
+      "english_name": "Owing to the increase in applications for admission a branch school was opened in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Owing to the increase in applications for admission a branch school was opened in",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "Portland Street, Kowloon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Portland Street, Kowloon.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "The Kowloon branch school moved to Nelson Street.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Kowloon branch school moved to Nelson Street.",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "First time in the history of the college, the no.of boys on roll reaches the total of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First time in the history of the college, the no.of boys on roll reaches the total of",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "english_name": "Junior Classes continued in Nelson Street, under Mr. Lim Hoy Lan. Austin Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Junior Classes continued in Nelson Street, under Mr. Lim Hoy Lan. Austin Road",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "The whole terrace beyond the college on Robinson Rd. burned to the gground.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The whole terrace beyond the college on Robinson Rd. burned to the gground.",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "The Chinese Section of the school was closed down.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1950,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chinese Section of the school was closed down.",
+        "start_char": 0,
+        "end_char": 50
+      }
+    },
+    {
+      "english_name": "The Afternoon School in Wai Yan, Hong Kong, closed.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Afternoon School in Wai Yan, Hong Kong, closed.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    },
+    {
+      "english_name": "September by His Excellency the Gover nor, Sir Alexander Grantham.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "September by His Excellency the Gover nor, Sir Alexander Grantham.",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "The late Fr. R. W. Gallagher, S.J. was the first Rector.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "The late Fr. R. W. Gallagher, S.J. was the first Rector.",
+        "start_char": 0,
+        "end_char": 56
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "1932 The College was transferred to the care of the Society of Jesus on' 22nd December.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "1932 The College was transferred to the care of the Society of Jesus on' 22nd December.",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "club_name": "1946 In March the organisation of the Wah Yan Dramatic Society commenced. The first",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "1946 In March the organisation of the Wah Yan Dramatic Society commenced. The first",
+        "start_char": 0,
+        "end_char": 83
+      }
+    },
+    {
+      "club_name": "Theatre. The Society was formally established in 1947.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Theatre. The Society was formally established in 1947.",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "club_name": "The Boys' Club was opened on 15th November, with 19 boys. （Mr. joseph Cheung",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Boys' Club was opened on 15th November, with 19 boys. （Mr. joseph Cheung",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "club_name": "helped at the beginning and is still with the Club.）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "helped at the beginning and is still with the Club.）",
+        "start_char": 0,
+        "end_char": 52
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_034_full.webp",
+  "extracted_photos": []
+}

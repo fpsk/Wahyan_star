@@ -1,0 +1,53 @@
+{
+  "year": "1971",
+  "page": 137,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "School Song This is the dear school where we learn how to treasure And keep for a lifetime all that's noble and true，",
+  "students": [
+    {
+      "english_name": "School Song",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Song",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "This is the dear school where we learn how to treasure",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This is the dear school where we learn how to treasure",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "english_name": "Come praise or come blame we can hold our heads high.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Come praise or come blame we can hold our heads high.",
+        "start_char": 0,
+        "end_char": 53
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_137_full.webp",
+  "extracted_photos": []
+}

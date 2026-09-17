@@ -1,0 +1,131 @@
+{
+  "year": "1976",
+  "page": 27,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Of the first group of Jesuits who took over the running of Wah Yan College in 1932, three died during this past school year. They were",
+  "students": [
+    {
+      "english_name": "Of the first group of Jesuits who took over",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Of the first group of Jesuits who took over",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Frs. Dan Donnelly, Eugene Ward and Harry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Frs. Dan Donnelly, Eugene Ward and Harry",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "O'Brien. The one who was most recently iu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "O'Brien. The one who was most recently iu",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "U.S.A.after his health had broken down. On",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.S.A.after his health had broken down. On",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Bombay.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bombay.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Wah Yan was Fr. Harry O'Brien. He left for",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Wah Yan was Fr. Harry O'Brien. He left for",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Fr. Harry O'Brien",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Harry O'Brien",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Fr. Dan Donnelly will be well remembered",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Dan Donnelly will be well remembered",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Fr. Dan Donnelly",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Dan Donnelly",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_027_full.webp",
+  "extracted_photos": [
+    "1976_page_027_photo_1.webp",
+    "1976_page_027_photo_2.webp"
+  ]
+}

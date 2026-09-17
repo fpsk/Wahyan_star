@@ -1,0 +1,53 @@
+{
+  "year": "1971",
+  "page": 11,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MEMORIAL：- IN MEMORY OF A DEVOTED AND BELOVED TEACHER:FR. T. F. RYAN, S. J.",
+  "students": [
+    {
+      "english_name": "IN MEMORY OF A DEVOTED AND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IN MEMORY OF A DEVOTED AND",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "REVEREND FATHER RORY MAQUIRE, S. J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "REVEREND FATHER RORY MAQUIRE, S. J.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "FATHER SHERIDAN AS I KNEW HIM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FATHER SHERIDAN AS I KNEW HIM",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_011_full.webp",
+  "extracted_photos": []
+}

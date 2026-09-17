@@ -1,0 +1,274 @@
+{
+  "year": "1978",
+  "page": 23,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL LIBRARY Teacher Librarian: Mr. K. S. Fung",
+  "students": [
+    {
+      "english_name": "SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "LIBRARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LIBRARY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "T his year, the library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "T his year, the library",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "During Christmas, there was a gathering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During Christmas, there was a gathering",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Year Holidays, we paid a visit to the library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Year Holidays, we paid a visit to the library",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Librarian. The size of the library has been",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Librarian. The size of the library has been",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "At the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Thus, the lay-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thus, the lay-",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lawrence",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lawrence",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Also in March, our library was visited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Also in March, our library was visited",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "MIss Pang, a new Cerk. However, she left",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MIss Pang, a new Cerk. However, she left",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "We are intending to visit the library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are intending to visit the library",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "General intro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General intro-",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Moreover, the duration of the validity of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Moreover, the duration of the validity of",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Anyway, we would like to thank",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anyway, we would like to thank",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Teacher Librarian: Mr. K. S. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Teacher Librarian: Mr. K. S. Fung",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "changes: Mr. K. S. Fung took the place",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "changes: Mr. K. S. Fung took the place",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "of Fr. O'Cearbhallain, S.J. as the Teacher",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "of Fr. O'Cearbhallain, S.J. as the Teacher",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "out of the library was, with the help of Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "out of the library was, with the help of Mr.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "service and Mr. K. S. Fung for his guidance.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "service and Mr. K. S. Fung for his guidance.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_023_full.webp",
+  "extracted_photos": [
+    "1978_page_023_photo_1.webp",
+    "1978_page_023_photo_2.webp",
+    "1978_page_023_photo_3.webp"
+  ]
+}

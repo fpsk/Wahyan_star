@@ -1,0 +1,588 @@
+{
+  "year": "1979",
+  "page": 119,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 281 （1978-79）",
+  "summary": "Mr.K.L.Ma FORM 281 （1978-79） Chan Kin Chuen, Richard",
+  "students": [
+    {
+      "english_name": "Chan Kin Chuen, Richard",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Chuen, Richard",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Lee Tak Luen",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Tak Luen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Tat Ker",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tat Ker",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lee Victor",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Victor",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lo Wing Yee",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Wing Yee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Wai Man, Paul",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Man, Paul",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lu Ow Yang, David",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lu Ow Yang, David",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Chan Wai Shing",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ma Hang Cheong",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Hang Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Yee Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yee Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mak Kam Fai",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Kam Fai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheng Chi Wah",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Chi Wah",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Pau Chung Yin",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pau Chung Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheng Fun Yi, Charles",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Fun Yi, Charles",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lai Yin",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Yin",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Glcong",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Glcong",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Dominio",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dominio",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Tam Shu Pui",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Shu Pui",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Sit Hang",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sit Hang",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tong Po Kong",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Po Kong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ching Koon Wah",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ching Koon Wah",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ka Fai",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ka Fai",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tsang See Dark",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang See Dark",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chong",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chong",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Chow Sai Fat",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Sai Fat",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tse See Ming, Anthony",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse See Ming, Anthony",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Chu Hin Kei",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Hin Kei",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tsui Tse Kit",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Tse Kit",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fung Yee On",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Yee On",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Kin Fai",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kin Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Kwok Wai",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kwok Wai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Woo Ping Fai",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Woo Ping Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Wai Kin, Simon",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Wai Kin, Simon",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Wu Man Tsuen, Alfred",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Man Tsuen, Alfred",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Hui Chuen Kin",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Chuen Kin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wu Shang Fung, Anthony",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Shang Fung, Anthony",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Yao Ki Fu",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yao Ki Fu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Hui Tze Long",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Tze Long",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lam Thomas",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Thomas",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Yuen Anthony",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Anthony",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Law Chi Kin",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Law Chi Kin",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yung Roy Michael",
+      "chinese_name": "",
+      "class_designation": "FORM 281 （1978-79）",
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yung Roy Michael",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr.K.L.Ma",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.K.L.Ma",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_119_full.webp",
+  "extracted_photos": [
+    "1979_page_119_photo_1.webp"
+  ]
+}

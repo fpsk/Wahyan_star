@@ -1,0 +1,489 @@
+{
+  "year": "1972",
+  "page": 33,
+  "section_type": "Class Roster",
+  "class_designation": "Form: 2B4",
+  "summary": "Refund Justice for the Roast Meat Seller Name of Play: THE DEBTORS",
+  "students": [
+    {
+      "english_name": "Refund",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Refund",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Justice for the Roast Meat Seller",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Justice for the Roast Meat Seller",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Acted by",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Acted by",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Chief Characters",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chief Characters",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Servant",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Servant",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Acted By",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Acted By",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Servant",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Servant",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Mark Ben Simon",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mark Ben Simon",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yusue Ben Musa",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yusue Ben Musa",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "John",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "The Mathematics",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Mathematics",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Yusuf's Wife",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yusuf's Wife",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Samuel Ben",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Samuel Ben",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Yahanna",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yahanna",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Ist Man",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Man",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The History",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The History",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "The Physics",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Physics",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Man Po",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Man Po",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Soldier",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Soldier",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Sheung, Choi Hing Way",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sheung, Choi Hing Way",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "This play is the parable of the Unfor-",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This play is the parable of the Unfor-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Refund",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Refund",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "YUSUF",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YUSUF",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "SAMUEL BEN YOHANNA who has for-",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SAMUEL BEN YOHANNA who has for-",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "There is",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There is",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "The contest between",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The contest between",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "They",
+      "chinese_name": "",
+      "class_designation": "Form: 2B4",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Form Master: Mr.S.T. Wong",
+      "chinese_name": "",
+      "title_or_role": "Form Master",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Form Master: Mr.S.T. Wong",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Principal",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Principal",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Producer: Mr. S. T. Wong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Producer: Mr. S. T. Wong",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "appears in the Principal's",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "appears in the Principal's",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "his examiners - the Principal （Cheung",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "his examiners - the Principal （Cheung",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_033_full.webp",
+  "extracted_photos": [
+    "1972_page_033_photo_1.webp",
+    "1972_page_033_photo_2.webp"
+  ]
+}

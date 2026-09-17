@@ -1,0 +1,207 @@
+{
+  "year": "1976",
+  "page": 93,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "TABLE TENNIS ACJAMPION~ A GRADE",
+  "students": [
+    {
+      "english_name": "TABLE TENNIS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TABLE TENNIS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "In the Interschool A grade Table-Tennis Competition, our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the Interschool A grade Table-Tennis Competition, our",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "B GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "This year, our B ggrade table-tennis team was very unlucky. At the beginning, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, our B ggrade table-tennis team was very unlucky. At the beginning, we",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Soon after the school term began, we joined the Interschool Table-Tennis Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Soon after the school term began, we joined the Interschool Table-Tennis Competition",
+        "start_char": 0,
+        "end_char": 84
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "TABLE TENNIS",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "TABLE TENNIS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "event_name": "In the Interschool A grade Table-Tennis Competition, our",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "In the Interschool A grade Table-Tennis Competition, our",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "event_name": "This year, our B ggrade table-tennis team was very unlucky. At the beginning, we",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "This year, our B ggrade table-tennis team was very unlucky. At the beginning, we",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "event_name": "had excellent players in the school and we had rather an opportunity to obtain the champion-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "had excellent players in the school and we had rather an opportunity to obtain the champion-",
+        "start_char": 0,
+        "end_char": 92
+      }
+    },
+    {
+      "event_name": "C GRADE— CHAMPION",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "C GRADE— CHAMPION",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "event_name": "Soon after the school term began, we joined the Interschool Table-Tennis Competition",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Soon after the school term began, we joined the Interschool Table-Tennis Competition",
+        "start_char": 0,
+        "end_char": 84
+      }
+    },
+    {
+      "event_name": "Wah Yan, but never dreamed of getting the Championship. After several weeks of \"battles，",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Wah Yan, but never dreamed of getting the Championship. After several weeks of \"battles，",
+        "start_char": 0,
+        "end_char": 88
+      }
+    },
+    {
+      "event_name": "ceeded in obtaining. the Championship！",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "ceeded in obtaining. the Championship！",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_093_full.webp",
+  "extracted_photos": [
+    "1976_page_093_photo_1.webp"
+  ]
+}

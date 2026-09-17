@@ -1,0 +1,157 @@
+{
+  "year": "1973",
+  "page": 84,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "BASKETBALL REVEW Tong, would like to thank all team-mates Our B-Grade team might have got to",
+  "students": [
+    {
+      "english_name": "BASKETBALL REVEW",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BASKETBALL REVEW",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Tong, would like to thank all team-mates",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong, would like to thank all team-mates",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Our B-Grade team might have got to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our B-Grade team might have got to",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Lee Mui Sang who, after a busy week in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Mui Sang who, after a busy week in",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "This was during our Mid Term Examina-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was during our Mid Term Examina-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "CGrade Captain, Lam Wai Nang is very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CGrade Captain, Lam Wai Nang is very",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Our C-Grade team were all new blood",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our C-Grade team were all new blood",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Let us hope that we shall do a lot",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let us hope that we shall do a lot",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "are particularly grateful to Mr. Maurice",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "are particularly grateful to Mr. Maurice",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "grateful to the teacher-in-charge, Mr. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "grateful to the teacher-in-charge, Mr. Fung",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "and Mr. Ip Fook Wah, the coach, for their",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. Ip Fook Wah, the coach, for their",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_084_full.webp",
+  "extracted_photos": [
+    "1973_page_084_photo_1.webp"
+  ]
+}

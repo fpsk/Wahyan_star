@@ -1,0 +1,197 @@
+{
+  "year": "1974",
+  "page": 5,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "EDITORIAL Some Ehe news ochool year brought with it a large number o changeo.",
+  "students": [
+    {
+      "english_name": "EDITORIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Some",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Some",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ehe news ochool year brought with it a large number o changeo.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ehe news ochool year brought with it a large number o changeo.",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "Chinese musical inotruments and ocience equipment. Some other equipment",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese musical inotruments and ocience equipment. Some other equipment",
+        "start_char": 0,
+        "end_char": 71
+      }
+    },
+    {
+      "english_name": "Mrs. Eherese Kan Ehan Mo Yin very kindly donated a neu piano",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Eherese Kan Ehan Mo Yin very kindly donated a neu piano",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "english_name": "Knock-Out Championship. Our E-Grade came fourth in the League-Zong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Knock-Out Championship. Our E-Grade came fourth in the League-Zong",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "Song CArea.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Song CArea.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kaotly,the ochooliograteful to all thooe who helped in theo publication",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kaotly,the ochooliograteful to all thooe who helped in theo publication",
+        "start_char": 0,
+        "end_char": 71
+      }
+    },
+    {
+      "english_name": "Cheir oervice and cooperation ares highly meritoricuo.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheir oervice and cooperation ares highly meritoricuo.",
+        "start_char": 0,
+        "end_char": 54
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "year. Mr.e.y.Ehou had taught Chinese in Louer and Upper Sixth since",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "year. Mr.e.y.Ehou had taught Chinese in Louer and Upper Sixth since",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "Mr.Aenry Yuen had icined the school in cApril 46 on the oame day ao",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.Aenry Yuen had icined the school in cApril 46 on the oame day ao",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "cAs the result of a uery generous donation from Mr. Hohn Chung, ue",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "cAs the result of a uery generous donation from Mr. Hohn Chung, ue",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "dining-room,a biology preparation-room, a table-tennis room and a parlour. 9t",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "dining-room,a biology preparation-room, a table-tennis room and a parlour. 9t",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "event_name": "Knock-Out Championship. Our E-Grade came fourth in the League-Zong",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Knock-Out Championship. Our E-Grade came fourth in the League-Zong",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_005_full.webp",
+  "extracted_photos": []
+}

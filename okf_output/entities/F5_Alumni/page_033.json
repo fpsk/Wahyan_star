@@ -1,0 +1,128 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 33,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Poon Sek Kwong (潘錫光) • Pun Wai Sum (潘偉森) • Siu Chi Chun (蕭其雋) • See Ching Fai (施清輝)",
+  "students": [
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Poon Sek Kong",
+        "Poon Sik Kwong"
+      ]
+    },
+    {
+      "english_name": "Pun Wai Sum",
+      "chinese_name": "潘偉森",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Poon Wai Sum"
+      ]
+    },
+    {
+      "english_name": "Siu Chi Chun",
+      "chinese_name": "蕭其雋",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Siu Ki Chun"
+      ]
+    },
+    {
+      "english_name": "See Ching Fai",
+      "chinese_name": "施清輝",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Sze Ching Fai"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_033_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Poon Sek Kong",
+      "chinese_name": "潘錫光",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Poon Sik Kwong",
+      "chinese_name": "潘錫光",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Pun Wai Sum",
+      "chinese_name": "潘偉森",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Poon Wai Sum",
+      "chinese_name": "潘偉森",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Siu Chi Chun",
+      "chinese_name": "蕭其雋",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Siu Ki Chun",
+      "chinese_name": "蕭其雋",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "See Ching Fai",
+      "chinese_name": "施清輝",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 33,
+      "english_name": "Sze Ching Fai",
+      "chinese_name": "施清輝",
+      "class": "Form 5B1"
+    }
+  ]
+}

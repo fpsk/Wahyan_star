@@ -1,0 +1,252 @@
+{
+  "year": "1972",
+  "page": 123,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "BASKETBALL ‘A’GRADE This year was rather an unlucky year for the team.",
+  "students": [
+    {
+      "english_name": "This year was rather an unlucky year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year was rather an unlucky year",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Except for a few, most",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Except for a few, most",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "College, the present champions and St.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College, the present champions and St.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Paul's Boys' College in the same division",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Paul's Boys' College in the same division",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "However, the enthusiasm of the team was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, the enthusiasm of the team was",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Thomas Ho Pui Kun and all our players",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas Ho Pui Kun and all our players",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Captain.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Captain.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Thomas Ho Pui Kun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas Ho Pui Kun",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Eddie Chan Sui Ki",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eddie Chan Sui Ki",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Tong Sin Tsuen, Cheung Kwok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Sin Tsuen, Cheung Kwok",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Tam Kam Yu, Wong Chon Kin and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Kam Yu, Wong Chon Kin and",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Pang Kin Fu.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Kin Fu.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "St. Paul's, so we were not very successful.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's, so we were not very successful.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Still, I hope our team, listed below, will",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Still, I hope our team, listed below, will",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Tong Yuen-Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Yuen-Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Look Boon, David Ho.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Look Boon, David Ho.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "ter -Rev. Fr. Corbally, our coach，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ter -Rev. Fr. Corbally, our coach，",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "College, the present champions and St.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "College, the present champions and St.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_123_full.webp",
+  "extracted_photos": [
+    "1972_page_123_photo_1.webp"
+  ]
+}

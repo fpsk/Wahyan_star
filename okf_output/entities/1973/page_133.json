@@ -1,0 +1,53 @@
+{
+  "year": "1973",
+  "page": 133,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "the Compliments Wah Yan College Past Students Association",
+  "students": [
+    {
+      "english_name": "Past Students Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Past Students Association",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Oith the Complimento",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oith the Complimento",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Kwong Cheung Company",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong Cheung Company",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_133_full.webp",
+  "extracted_photos": []
+}

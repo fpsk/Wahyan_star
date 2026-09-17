@@ -1,0 +1,100 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 44,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Yu Hon Kong (余漢光) • Yu Chi Sum (余志深) • Yu Wai Kun (余偉根) • Yu Ho Ming (余浩鳴)",
+  "students": [
+    {
+      "english_name": "Yu Hon Kong",
+      "chinese_name": "余漢光",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yu Chi Sum",
+      "chinese_name": "余志深",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yu Wai Kun",
+      "chinese_name": "余偉根",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "俞慧根"
+      ]
+    },
+    {
+      "english_name": "Yu Ho Ming",
+      "chinese_name": "余浩鳴",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "余浩明"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_044_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Hon Kong",
+      "chinese_name": "余漢光",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Chi Sum",
+      "chinese_name": "余志深",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Wai Kun",
+      "chinese_name": "余偉根",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Wai Kun",
+      "chinese_name": "俞慧根",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Ho Ming",
+      "chinese_name": "余浩鳴",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 44,
+      "english_name": "Yu Ho Ming",
+      "chinese_name": "余浩明",
+      "class": "Form 5B1"
+    }
+  ]
+}

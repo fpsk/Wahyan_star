@@ -1,0 +1,41 @@
+{
+  "year": "1975",
+  "page": 73,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mr. Peter T. M. Kong & Miss Mary W. Chan Mr. William C.C. Li & Miss Linda W. C.Chim",
+  "students": [],
+  "staff": [
+    {
+      "english_name": "Mr. Peter T. M. Kong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Peter T. M. Kong",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. William C.C. Li & Miss Linda W. C.Chim",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. William C.C. Li & Miss Linda W. C.Chim",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_073_full.webp",
+  "extracted_photos": [
+    "1975_page_073_photo_1.webp",
+    "1975_page_073_photo_2.webp"
+  ]
+}

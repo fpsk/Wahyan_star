@@ -1,0 +1,160 @@
+{
+  "year": "1978",
+  "page": 10,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "PRINCIPAL MESSAGE T he past year has been a happy one in the",
+  "students": [
+    {
+      "english_name": "PRINCIPAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRINCIPAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "MESSAGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MESSAGE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "T he past year has been a happy one in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "T he past year has been a happy one in the",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "In fact, debating has now become a very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In fact, debating has now become a very",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Many of our younger students are now",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Many of our younger students are now",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Past students returnig from abroad whp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Past students returnig from abroad whp",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Congratulations to the Student Council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Congratulations to the Student Council",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Cyril Barrett S.J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cyril Barrett S.J.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "inter-school Chinese debating competition.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "inter-school Chinese debating competition.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "club_name": "In fact, debating has now become a very",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "In fact, debating has now become a very",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "recorded in this magazine. Another student",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "recorded in this magazine. Another student",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_010_full.webp",
+  "extracted_photos": [
+    "1978_page_010_photo_1.webp"
+  ]
+}

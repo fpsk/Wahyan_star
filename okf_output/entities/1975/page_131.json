@@ -1,0 +1,92 @@
+{
+  "year": "1975",
+  "page": 131,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "A VOTE OF THANKS TO OUR ADVERTISERS DONORS niversal Sports Company",
+  "students": [
+    {
+      "english_name": "A VOTE OF THANKS TO OUR ADVERTISERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A VOTE OF THANKS TO OUR ADVERTISERS",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "DONORS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DONORS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Middle Road.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Middle Road.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yun Ping Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yun Ping Road",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Milih the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Milih the Compliments",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Shanghai Commercial Bank Ltd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shanghai Commercial Bank Ltd.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_131_full.webp",
+  "extracted_photos": []
+}

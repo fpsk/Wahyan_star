@@ -1,0 +1,324 @@
+{
+  "year": "1972",
+  "page": 162,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "centre. A lawn lies beside the hall. Some MY SCHOOL trees are also growing there.",
+  "students": [
+    {
+      "english_name": "MY SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MY SCHOOL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "To the right of the entrance stands",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To the right of the entrance stands",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Mount Parrish. It is one of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mount Parrish. It is one of",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "It was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tsui.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Most",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Most",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "The foor is so clean that it shines.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The foor is so clean that it shines.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "If we go into the school by the main",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If we go into the school by the main",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "The avenue seems to be too Long",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The avenue seems to be too Long",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "However, it is a good exercise for us in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, it is a good exercise for us in",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The whole thing looks like a pic-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The whole thing looks like a pic-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "It runs almost the whole",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It runs almost the whole",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Length of the avenue.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Length of the avenue.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Before we enter the gate, we can see",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Before we enter the gate, we can see",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Hoors.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hoors.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "The hall can ac-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The hall can ac-",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "The sound effect of it is extremely good",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The sound effect of it is extremely good",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Sometimes it is used as an examination",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sometimes it is used as an examination",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "founded by Mr. Peter",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "founded by Mr. Peter",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Jesuits. The Jesuit Fathers run this school",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Jesuits. The Jesuit Fathers run this school",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "of the Fathers are also members of the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "of the Fathers are also members of the",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "wing, Fathers'quarters, a chapel, a tuck",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "wing, Fathers'quarters, a chapel, a tuck",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "room follows. The Fathers' quarters are",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "room follows. The Fathers' quarters are",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "so used as a place for clubs' meetings. A",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "so used as a place for clubs' meetings. A",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_162_full.webp",
+  "extracted_photos": [
+    "1972_page_162_photo_1.webp"
+  ]
+}

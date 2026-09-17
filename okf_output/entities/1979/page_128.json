@@ -1,0 +1,174 @@
+{
+  "year": "1979",
+  "page": 128,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "FOREWORD It is a great pleasure to introduce this pictorial record of the past year at Pun U Association Wah Yan Primary School.",
+  "students": [
+    {
+      "english_name": "FOREWORD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOREWORD",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "It is a great pleasure to introduce this pictorial record",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is a great pleasure to introduce this pictorial record",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "Hhe story that it tells covers an exciting range of acti-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hhe story that it tells covers an exciting range of acti-",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "A short foreword of this kind is normally not the place",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A short foreword of this kind is normally not the place",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "The present high st-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The present high st-",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Our considerable loss is very definite-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our considerable loss is very definite-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "In conclusion, I wish to thank all the members of our st-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In conclusion, I wish to thank all the members of our st-",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "Supervisor.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Supervisor.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr.Mallin was Headmaster of our school from 1971 to 1977",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.Mallin was Headmaster of our school from 1971 to 1977",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "Rev. Fr.Derek Reid, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr.Derek Reid, S.J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "It is a great pleasure to introduce this pictorial record",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "It is a great pleasure to introduce this pictorial record",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "event_name": "who cooperated in producing this imaginative record which, I am",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "who cooperated in producing this imaginative record which, I am",
+        "start_char": 0,
+        "end_char": 63
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_128_full.webp",
+  "extracted_photos": [
+    "1979_page_128_photo_1.webp"
+  ]
+}

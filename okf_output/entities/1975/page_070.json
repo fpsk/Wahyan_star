@@ -1,0 +1,56 @@
+{
+  "year": "1975",
+  "page": 70,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "0 God， Bhepherd and uuler of all yout people look mereifully on your seroant",
+  "students": [
+    {
+      "english_name": "Bhepherd and uuler of all yout people",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bhepherd and uuler of all yout people",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "John Baptist Wu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Baptist Wu",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Grant him the gtace",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grant him the gtace",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_070_full.webp",
+  "extracted_photos": [
+    "1975_page_070_photo_1.webp",
+    "1975_page_070_photo_2.webp"
+  ]
+}

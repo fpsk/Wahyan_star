@@ -1,0 +1,171 @@
+{
+  "year": "1974",
+  "page": 17,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "REVD. BRIAN C. KELLY S.J. Father Kelly died in Ipoh, Malaysia on February I7th, 1974. He was 72.",
+  "students": [
+    {
+      "english_name": "REVD. BRIAN C. KELLY S.J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "REVD. BRIAN C. KELLY S.J.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "He was probably better known in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was probably better known in",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Hong Kong as Warden of Ricci Hall.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong as Warden of Ricci Hall.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "However he had spent ten years teaching",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However he had spent ten years teaching",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Kong refugees in St. Luis Gonzaga, Macao",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong refugees in St. Luis Gonzaga, Macao",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Kelly spent twenty years in Singapore",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kelly spent twenty years in Singapore",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Macao.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Macao.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Sisters",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sisters",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Hospital",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hospital",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Lpoh. It was there that he died shortly",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lpoh. It was there that he died shortly",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Father Kelly died in Ipoh, Malaysia",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father Kelly died in Ipoh, Malaysia",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Kowloon then in Nelson Street. Father",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Kowloon then in Nelson Street. Father",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_017_full.webp",
+  "extracted_photos": [
+    "1974_page_017_photo_1.webp"
+  ]
+}

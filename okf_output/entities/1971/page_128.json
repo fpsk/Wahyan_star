@@ -1,0 +1,414 @@
+{
+  "year": "1971",
+  "page": 128,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "INTER - SCHOOL ATHLETIC TEAM Athletic Team（1970-71） B.L. Y. L. Yiu, N. S.Chan，",
+  "students": [
+    {
+      "english_name": "INTER - SCHOOL ATHLETIC TEAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTER - SCHOOL ATHLETIC TEAM",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "F.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.L.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "T. M. Ching",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "T. M. Ching",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "II,organised by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "II,organised by the",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Hong Kong School Sports Association was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong School Sports Association was",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Though we got no banner, the results were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though we got no banner, the results were",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Ip Fuk Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Fuk Wah",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Shot Put",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shot Put",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "There was one event that quite dis-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There was one event that quite dis-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Peter Law Bun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Law Bun",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ho Chi Sun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Chi Sun",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Kwok Hok Chuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwok Hok Chuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yin Yeung Lung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yin Yeung Lung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Peter Law Bun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Law Bun",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lu Kwong Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lu Kwong Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ip Fuk Wah and Lu Kwong Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ip Fuk Wah and Lu Kwong Chung",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Tam Kow Choy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Kow Choy",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Shot Put. Lu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shot Put. Lu",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tsoi Chin Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsoi Chin Sang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ko Pui Yung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ko Pui Yung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lu Kwong Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lu Kwong Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "B.C. Tsang, Mr. Robert",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "B.C. Tsang, Mr. Robert",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "4 x 100 m. Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 x 100 m. Relay",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "event_name": "4 x 100 m. relay.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 x 100 m. relay.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "event_name": "100m.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "100m.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "event_name": "100 m. Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "100 m. Relay",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "event_name": "became ‘A' grade High Jump champion and",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "became ‘A' grade High Jump champion and",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "event_name": "won the championship in the‘C’",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "won the championship in the‘C’",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_128_full.webp",
+  "extracted_photos": [
+    "1971_page_128_photo_1.webp"
+  ]
+}

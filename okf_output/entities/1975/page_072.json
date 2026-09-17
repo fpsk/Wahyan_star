@@ -1,0 +1,94 @@
+{
+  "year": "1975",
+  "page": 72,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mr. Yeung Wang Kay and Miss Man Kam To, Marie and Miss Mirian",
+  "students": [
+    {
+      "english_name": "Miss Man Kam To, Marie and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Man Kam To, Marie and",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Miss Mirian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Mirian",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lee Chun Ying, Frankie",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Chun Ying, Frankie",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Yeung Wang Kay and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Yeung Wang Kay and",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Mr. Lin Keung,Johnson",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lin Keung,Johnson",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "U Wah Yan） and Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "U Wah Yan） and Mr.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_072_full.webp",
+  "extracted_photos": [
+    "1975_page_072_photo_1.webp",
+    "1975_page_072_photo_2.webp",
+    "1975_page_072_photo_3.webp"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 41,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Wu Ying Kin (胡應堅) • Wut Kai Hong (屈啓康) • Yau Kai Hong, Jot (丘啟康) • Wu Hon Cheong (胡漢昌)",
+  "students": [
+    {
+      "english_name": "Wu Ying Kin",
+      "chinese_name": "胡應堅",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Wut Kai Hong",
+      "chinese_name": "屈啓康",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Wat Kai Hong"
+      ],
+      "aliases_zh": [
+        "屈啟康"
+      ]
+    },
+    {
+      "english_name": "Yau Kai Hong, Jot",
+      "chinese_name": "丘啟康",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "邱繼康"
+      ]
+    },
+    {
+      "english_name": "Wu Hon Cheong",
+      "chinese_name": "胡漢昌",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_041_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Wu Ying Kin",
+      "chinese_name": "胡應堅",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Wut Kai Hong",
+      "chinese_name": "屈啓康",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Wat Kai Hong",
+      "chinese_name": "屈啓康",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Wut Kai Hong",
+      "chinese_name": "屈啟康",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Yau Kai Hong, Jot",
+      "chinese_name": "丘啟康",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Yau Kai Hong, Jot",
+      "chinese_name": "邱繼康",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 41,
+      "english_name": "Wu Hon Cheong",
+      "chinese_name": "胡漢昌",
+      "class": "Form 5A1"
+    }
+  ]
+}

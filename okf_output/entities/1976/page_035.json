@@ -1,0 +1,162 @@
+{
+  "year": "1976",
+  "page": 35,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Joint School Walk For A Million 276",
+  "students": [
+    {
+      "english_name": "Joint School",
+      "chinese_name": "益金",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint School 益金",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Walk For",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Walk For",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "St. Francis Canossian College and ours",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Francis Canossian College and ours",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Refreshments were served at each check.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Refreshments were served at each check.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Thanks were given to those who took part",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thanks were given to those who took part",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "W.Y.C. H.K. - Kennedy Rd. - Wanchai-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "W.Y.C. H.K. - Kennedy Rd. - Wanchai-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Gap Rd. - Bowen Rd. - Blue Pool's Rd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gap Rd. - Bowen Rd. - Blue Pool's Rd.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Gap Rd.-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gap Rd.-",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Black's Link - Coombe Rd. - Peak Rd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Black's Link - Coombe Rd. - Peak Rd.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Bowen Path - Bowen Rd. - S.F.C.C.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bowen Path - Bowen Rd. - S.F.C.C.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "student walkers, there were some Fathers，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "student walkers, there were some Fathers，",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_035_full.webp",
+  "extracted_photos": [
+    "1976_page_035_photo_1.webp",
+    "1976_page_035_photo_2.webp",
+    "1976_page_035_photo_3.webp",
+    "1976_page_035_photo_4.webp"
+  ]
+}

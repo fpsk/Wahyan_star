@@ -1,0 +1,560 @@
+{
+  "year": "1973",
+  "page": 122,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "BANQUE BELGE POUR L'ETRANGER S. A. （Incorporated in Belgium with Limited Liability） All Banking Transactions Savings Accounts",
+  "students": [
+    {
+      "english_name": "BANQUE BELGE POUR L'ETRANGER S. A.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BANQUE BELGE POUR L'ETRANGER S. A.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "All Banking Transactions Savings Accounts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All Banking Transactions Savings Accounts",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Wong Tai Sin Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Tai Sin Branch",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Main Office",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Main Office",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mongkok Office",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mongkok Office",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tak",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tak",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ming",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Sai Yeung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 81,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sai Yeung",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "House",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edinburgh",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edinburgh",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "House",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Choi St.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choi St.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Sin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sin",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Wong Tai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Tai",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Ma Tau Wei Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Tau Wei Branch",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Tsuen Wan Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsuen Wan Branch",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Cheung Sha Wan Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Sha Wan Branch",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Chau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chau",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Shing Tak St.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shing Tak St.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Castle Peak Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Castle Peak Road",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Estate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Estate",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tau Wei",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tau Wei",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Shumshuipo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shumshuipo",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "To Kwa Wan Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To Kwa Wan Branch",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Quarry Bay Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Quarry Bay Branch",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ngau Tau Kok Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngau Tau Kok Branch",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Fok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fok",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ngau Tau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngau Tau",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Building",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Building",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheong",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Bay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bay",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Road",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Quarry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Quarry",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Chun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chun",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Kau Pui Lung Rd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 160,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kau Pui Lung Rd.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Let's Solve Them For You",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Solve Them For You",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mrs. Agnes Ng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Agnes Ng",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "INTERNATIONAL COURIST SERVICELTD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERNATIONAL COURIST SERVICELTD.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "KOWLOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KOWLOON",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Prince's Building",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 110,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prince's Building",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_122_full.webp",
+  "extracted_photos": []
+}

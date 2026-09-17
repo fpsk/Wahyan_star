@@ -1,0 +1,250 @@
+{
+  "year": "1972",
+  "page": 37,
+  "section_type": "Class Roster",
+  "class_designation": "616 Form 3",
+  "summary": "616 Form 3 Fa Kwok Hung Solo Verse Speaking in English",
+  "students": [
+    {
+      "english_name": "Fa Kwok Hung",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fa Kwok Hung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "David Ho",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David Ho",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Chan Pui Shing",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Pui Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in Cantonese",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in Cantonese",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Ho Kwong Kuen",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kwong Kuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chow Pak Ka",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Pak Ka",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Lai Tze Leung",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Tze Leung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Chow Pak Ka",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Pak Ka",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "School Choir",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Choir",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Speaking in Cantonese.",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Speaking in Cantonese.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Solo Verse Speaking in English.",
+      "chinese_name": "",
+      "class_designation": "616 Form 3",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Solo Verse Speaking in English.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Ho Chu Kurtz- Ist in Prose",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Ho Chu Kurtz- Ist in Prose",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Fr. Grogan and Poon Kin Sum Ist in",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Grogan and Poon Kin Sum Ist in",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_037_full.webp",
+  "extracted_photos": [
+    "1972_page_037_photo_1.webp",
+    "1972_page_037_photo_2.webp"
+  ]
+}

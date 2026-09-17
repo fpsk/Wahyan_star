@@ -1,0 +1,144 @@
+{
+  "year": "1976",
+  "page": 80,
+  "section_type": "Class Roster",
+  "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+  "summary": "do/ do | do i do i do i do op I do ldoI",
+  "students": [
+    {
+      "english_name": "Nichael Na Kam Lung",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nichael Na Kam Lung",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Miss Nargaret Ng",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Nargaret Ng",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Miss Annie Lo Nei Yee",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Annie Lo Nei Yee",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "I FORGOT TO BRING MY",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I FORGOT TO BRING MY",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "I op I op Iop I op I op I op",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I op I op Iop I op I op I op",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "IopIoplopIoplopIopIopIop",
+      "chinese_name": "",
+      "class_designation": "Paul Chan Ka Bun - U6A ‘69",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IopIoplopIoplopIopIopIop",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Marriage service by Fr. Joseph Tai, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Marriage service by Fr. Joseph Tai, S.J.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Dr. James Pang Shing Hung - U6S",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. James Pang Shing Hung - U6S",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "to Mr. Dominic Ho",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "to Mr. Dominic Ho",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Michael Ma Kam Lung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Michael Ma Kam Lung",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_080_full.webp",
+  "extracted_photos": [
+    "1976_page_080_photo_1.webp",
+    "1976_page_080_photo_2.webp"
+  ]
+}

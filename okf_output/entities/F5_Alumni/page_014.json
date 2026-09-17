@@ -1,0 +1,83 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 14,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chow Kiang Cheong (周烱昌) • Choi Hing Way (蔡馨偉) • Chok Kin Ming (束健銘) • Chow Yiu Hong (周耀康)",
+  "students": [
+    {
+      "english_name": "Chow Kiang Cheong",
+      "chinese_name": "周烱昌",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Choi Hing Way",
+      "chinese_name": "蔡馨偉",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chok Kin Ming",
+      "chinese_name": "束健銘",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chow Yiu Hong",
+      "chinese_name": "周耀康",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_014_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_014_photo_1.webp",
+    "F5_Alumni_page_014_photo_2.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 14,
+      "english_name": "Chow Kiang Cheong",
+      "chinese_name": "周烱昌",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 14,
+      "english_name": "Choi Hing Way",
+      "chinese_name": "蔡馨偉",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 14,
+      "english_name": "Chok Kin Ming",
+      "chinese_name": "束健銘",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 14,
+      "english_name": "Chow Yiu Hong",
+      "chinese_name": "周耀康",
+      "class": "Form 5B"
+    }
+  ]
+}

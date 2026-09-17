@@ -1,0 +1,27 @@
+{
+  "year": "1979",
+  "page": 97,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "FRINDS",
+  "students": [
+    {
+      "english_name": "FRINDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FRINDS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_097_full.webp",
+  "extracted_photos": []
+}

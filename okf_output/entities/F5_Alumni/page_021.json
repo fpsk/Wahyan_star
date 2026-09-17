@@ -1,0 +1,100 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 21,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Lam Ching Fung (林青鋒) • Lam Man Pan (林文彬) • Lam Hang Fung (林桁峯) • Lam Puy Chung, Dominic (林培中)",
+  "students": [
+    {
+      "english_name": "Lam Ching Fung",
+      "chinese_name": "林青鋒",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "林靑鋒"
+      ]
+    },
+    {
+      "english_name": "Lam Man Pan",
+      "chinese_name": "林文彬",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "林交彬"
+      ]
+    },
+    {
+      "english_name": "Lam Hang Fung",
+      "chinese_name": "林桁峯",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lam Puy Chung, Dominic",
+      "chinese_name": "林培中",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_021_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Ching Fung",
+      "chinese_name": "林青鋒",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Ching Fung",
+      "chinese_name": "林靑鋒",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Man Pan",
+      "chinese_name": "林文彬",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Man Pan",
+      "chinese_name": "林交彬",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Hang Fung",
+      "chinese_name": "林桁峯",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 21,
+      "english_name": "Lam Puy Chung, Dominic",
+      "chinese_name": "林培中",
+      "class": "Form 5B"
+    }
+  ]
+}

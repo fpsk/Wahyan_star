@@ -1,0 +1,82 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 30,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Man Po Sheung (文寶常) • Ng Chun Hung (吳俊雄) • Mok Hing Yim (莫慶炎) • Ng Lai Shun (吳禮信)",
+  "students": [
+    {
+      "english_name": "Man Po Sheung",
+      "chinese_name": "文寶常",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ng Chun Hung",
+      "chinese_name": "吳俊雄",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Mok Hing Yim",
+      "chinese_name": "莫慶炎",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ng Lai Shun",
+      "chinese_name": "吳禮信",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_030_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_030_photo_1.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 30,
+      "english_name": "Man Po Sheung",
+      "chinese_name": "文寶常",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 30,
+      "english_name": "Ng Chun Hung",
+      "chinese_name": "吳俊雄",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 30,
+      "english_name": "Mok Hing Yim",
+      "chinese_name": "莫慶炎",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 30,
+      "english_name": "Ng Lai Shun",
+      "chinese_name": "吳禮信",
+      "class": "Form 5B1"
+    }
+  ]
+}

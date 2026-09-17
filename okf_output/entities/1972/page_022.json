@@ -1,0 +1,57 @@
+{
+  "year": "1972",
+  "page": 22,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "Speech Day 8 P.ID. ＄≥≥",
+  "students": [
+    {
+      "english_name": "P.ID.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "P.ID.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Happy Group Together",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Happy Group Together",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Peter Hall and Fr. Barrett",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Peter Hall and Fr. Barrett",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_022_full.webp",
+  "extracted_photos": [
+    "1972_page_022_photo_1.webp",
+    "1972_page_022_photo_2.webp",
+    "1972_page_022_photo_3.webp"
+  ]
+}

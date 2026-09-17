@@ -1,0 +1,161 @@
+{
+  "year": "1978",
+  "page": 87,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "yellow house won the competition. he Annual Sports Day was held in T",
+  "students": [
+    {
+      "english_name": "Wong Chuk Hang Sports Ground",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chuk Hang Sports Ground",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Competition was held. Six relay teams",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Competition was held. Six relay teams",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Prizes for all the winners were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prizes for all the winners were",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "In order to stimulate the atmos-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In order to stimulate the atmos-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "This year, the Sports Day was very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, the Sports Day was very",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "presented on the Final Day by Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "presented on the Final Day by Fr.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Barrett, Mr. Yu and other teachers.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Barrett, Mr. Yu and other teachers.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "an Interschool Boy Relay Invitation",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "an Interschool Boy Relay Invitation",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "event_name": "Competition was held. Six relay teams",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Competition was held. Six relay teams",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "event_name": "their strong relay team won the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "their strong relay team won the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "event_name": "records made.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "records made.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_087_full.webp",
+  "extracted_photos": []
+}

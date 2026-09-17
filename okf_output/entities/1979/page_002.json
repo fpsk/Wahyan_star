@@ -1,0 +1,159 @@
+{
+  "year": "1979",
+  "page": 2,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "atent content content content content content content content content content content co ntent content content content content content content content content content content co ntent content content content content content content content content co",
+  "students": [
+    {
+      "english_name": "EDITORIAL BOARD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL BOARD",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "COLLEGE STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COLLEGE STAFF",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SCHOOL AND CATHOLIC ORGANISATIONS ..",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL AND CATHOLIC ORGANISATIONS ..",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "STUDENT ORGANISATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT ORGANISATIONS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "SCHOOL ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL ACTIVITIES",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "JOINT SCHOOL ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT SCHOOL ACTIVITIES",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "SPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "MY FRIENDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MY FRIENDS",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "PRIMARY SECTION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRIMARY SECTION",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_002_full.webp",
+  "extracted_photos": [
+    "1979_page_002_photo_1.webp"
+  ]
+}

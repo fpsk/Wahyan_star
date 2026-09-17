@@ -1,0 +1,523 @@
+{
+  "year": "1973",
+  "page": 109,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Fr. Rector FORM 4 BI （1972-1973）",
+  "students": [
+    {
+      "english_name": "Lo Sui Ping",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Sui Ping",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Cheong Pui",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Cheong Pui",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chan Kwok Wai, Americo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kwok Wai, Americo",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lo Sun Keung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Sun Keung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lo Wing Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Wing Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Wai Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Kong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ma Chun Hon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Chun Hon",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Wai Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cheung Chi Hung, Stephen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chi Hung, Stephen",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Ng Hoi Chuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Hoi Chuen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Poon Tak Woo, Mark",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Tak Woo, Mark",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Cheung Pak Choi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Pak Choi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Siu Chung Ki, Sherman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Chung Ki, Sherman",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "So Man Bong, Benjamin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Man Bong, Benjamin",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Chiang Shu Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiang Shu Yin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chiu Kan Yan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Kan Yan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "So Tin King",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Tin King",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chu Wai Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Wai Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tam Chiu Hung, Pierre",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Chiu Hung, Pierre",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "TTse Lai Kee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TTse Lai Kee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Kwong Kuen, David",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kwong Kuen, David",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Hui Ying Nam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Ying Nam",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wong Chi Sam, Samuel",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chi Sam, Samuel",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Hung Hin Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Hin Cheung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Wong Chi Wai, Vincent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chi Wai, Vincent",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Joaquim M. Nicolau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joaquim M. Nicolau",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Wong Chor Kin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chor Kin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ko Pang, Paul",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ko Pang, Paul",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Hoi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Hoi",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Lau Chung Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Chung Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Hoi To, Hector",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Hoi To, Hector",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Yeung Pak Chung, Hiphon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Pak Chung, Hiphon",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Lee Chun Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Chun Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yeung Kin Yip",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Kin Yip",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Leung Pik Fai, Johnson",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Pik Fai, Johnson",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Yu Ka Wo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Ka Wo",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Li Ho Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Ho Ming",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Rector",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Rector",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_109_full.webp",
+  "extracted_photos": [
+    "1973_page_109_photo_1.webp"
+  ]
+}

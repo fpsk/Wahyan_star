@@ -1,0 +1,302 @@
+{
+  "year": "1974",
+  "page": 111,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 3B（1973-74）",
+  "summary": "一 Mr.M.S. Cheung 36 FORM 3B（1973-74）",
+  "students": [
+    {
+      "english_name": "Li Kwok Hung",
+      "chinese_name": "志强",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kwok Hung 志强",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tony",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tony",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ng Kwok Wang",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Kwok Wang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Poon Kwok Wai",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Kwok Wai",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Shuen Pak Ling",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shuen Pak Ling",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tang Man Fung",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Man Fung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tong Yi Hong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Yi Hong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tong Yuen Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Yuen Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tse Yat Lung",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Yat Lung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wai Ping Chuen, Henry",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai Ping Chuen, Henry",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Wong Wai Hon",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Wai Hon",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wu Hing Tong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Hing Tong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wu Shu Key",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Shu Key",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Young Man Hung",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Young Man Hung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Siu",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Yeung",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Yeung Siu Tat",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Siu Tat",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yip Kwong Yam",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yip Kwong Yam",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yuen Ka Pak",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Ka Pak",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yuen Kai Yin",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Kai Yin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yuen Wah Sang",
+      "chinese_name": "",
+      "class_designation": "FORM 3B（1973-74）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Wah Sang",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr.M.S. Cheung 36",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.M.S. Cheung 36",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_111_full.webp",
+  "extracted_photos": [
+    "1974_page_111_photo_1.webp"
+  ]
+}

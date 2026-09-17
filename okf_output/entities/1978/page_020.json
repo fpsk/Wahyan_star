@@ -1,0 +1,201 @@
+{
+  "year": "1978",
+  "page": 20,
+  "section_type": "Class Roster",
+  "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+  "summary": "STUDENT COUNCIL President: Cheng Tsang Wah, Thomas （L6A） Vice-President",
+  "students": [
+    {
+      "english_name": "STUDENT COUNCIL",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT COUNCIL",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Vice-President",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-President",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Social Correspondent",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Correspondent",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lai Cheung Wah, Daniel",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Cheung Wah, Daniel",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Programme Secretary",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Programme Secretary",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Wong Wing Kwong, Caesar",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Wing Kwong, Caesar",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Recording Secretary",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Recording Secretary",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Sec. of General Affairs",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sec. of General Affairs",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "A survey was carried out on the tuck shop.",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A survey was carried out on the tuck shop.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "A seminar was held with the Councillors and the clubs' chairmen.",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A seminar was held with the Councillors and the clubs' chairmen.",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "Tle Senior and Intermediate plays of the. Drama Festival were staged.",
+      "chinese_name": "",
+      "class_designation": "President: Cheng Tsang Wah, Thomas （L6A）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tle Senior and Intermediate plays of the. Drama Festival were staged.",
+        "start_char": 0,
+        "end_char": 69
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "3. A seminar was held with the Councillors and the clubs' chairmen.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "3. A seminar was held with the Councillors and the clubs' chairmen.",
+        "start_char": 0,
+        "end_char": 67
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Recording Secretary",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Recording Secretary",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_020_full.webp",
+  "extracted_photos": [
+    "1978_page_020_photo_1.webp",
+    "1978_page_020_photo_2.webp"
+  ]
+}

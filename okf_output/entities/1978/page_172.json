@@ -1,0 +1,105 @@
+{
+  "year": "1978",
+  "page": 172,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "HMK Yiu Hei-kan Sales Manager",
+  "students": [
+    {
+      "english_name": "HMK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HMK",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Yiu Hei-kan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yiu Hei-kan",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Sales Manager",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sales Manager",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "ODth the Comgliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ODth the Comgliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Qalls Cfeamshit Conpeny, ad.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Qalls Cfeamshit Conpeny, ad.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "TH FLOOR, NEW HENRY HOUSE.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TH FLOOR, NEW HENRY HOUSE.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_172_full.webp",
+  "extracted_photos": []
+}

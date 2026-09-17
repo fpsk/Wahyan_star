@@ -1,0 +1,169 @@
+{
+  "year": "1973",
+  "page": 16,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "OBITUARY Roiert Lim Gek Bor was a pupil of Wah Yan College, Hong Kong until July，",
+  "students": [
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Roiert Lim Gek Bor was a pupil of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Roiert Lim Gek Bor was a pupil of",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "After the War he entered Government",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After the War he entered Government",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Service and remained until he retired at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Service and remained until he retired at",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Robert became a teacher in our Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Robert became a teacher in our Wah",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "It was during this time that he founded the Wab Yan Shoeshine Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1952,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was during this time that he founded the Wab Yan Shoeshine Club",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "Association.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Association.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "wanted to enter Mr. Lim's class and no",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "wanted to enter Mr. Lim's class and no",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Father Joseph Howatson was born in Co. Kerry, Ireland in 1910. He",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father Joseph Howatson was born in Co. Kerry, Ireland in 1910. He",
+        "start_char": 0,
+        "end_char": 65
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "entered the Society of Jesus in 1927. In 1937 he came to Wah Yan to teach",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "entered the Society of Jesus in 1927. In 1937 he came to Wah Yan to teach",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "club_name": "1952. It was during this time that he founded the Wab Yan Shoeshine Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "1952. It was during this time that he founded the Wab Yan Shoeshine Club",
+        "start_char": 0,
+        "end_char": 72
+      }
+    },
+    {
+      "club_name": "life. The work he loved most and did inost for was the Boys' and Girls’ Clubs",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "life. The work he loved most and did inost for was the Boys' and Girls’ Clubs",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_016_full.webp",
+  "extracted_photos": [
+    "1973_page_016_photo_1.webp"
+  ]
+}

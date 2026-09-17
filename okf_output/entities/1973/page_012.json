@@ -1,0 +1,52 @@
+{
+  "year": "1973",
+  "page": 12,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MEMORIAL：— Most Rev. Francis C.P.Hsu Robert Lim Gek Bor",
+  "students": [
+    {
+      "english_name": "Robert Lim Gek Bor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Robert Lim Gek Bor",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Most Rev. Francis C.P.Hsu",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Most Rev. Francis C.P.Hsu",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Joseph Hawatson",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Joseph Hawatson",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_012_full.webp",
+  "extracted_photos": []
+}

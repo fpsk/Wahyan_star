@@ -1,0 +1,1184 @@
+{
+  "year": "1975",
+  "page": 20,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "9e.K. Certficate of Cducation （Cnglish） Cxamination 1974 孔憲祥",
+  "students": [
+    {
+      "english_name": "Chan Cheong Pui",
+      "chinese_name": "孔憲祥",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Cheong Pui 孔憲祥",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Hung",
+      "chinese_name": "洪玖瑩",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung 洪玖瑩",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Hin Cheung",
+      "chinese_name": "洪日平",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hin Cheung 洪日平",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Chung Cheong",
+      "chinese_name": "謝若敬",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chung Cheong 謝若敬",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Hung Kaw Yung",
+      "chinese_name": "簡堅長",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Kaw Yung 簡堅長",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Kin",
+      "chinese_name": "簡聖年",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kin 簡聖年",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Chan",
+      "chinese_name": "喬孝忠",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan 喬孝忠",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Hung Yat Ping",
+      "chinese_name": "高培容",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Yat Ping 高培容",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Kwok Fan",
+      "chinese_name": "江達峯",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kwok Fan 江達峯",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Joaquim Manuel Micolau",
+      "chinese_name": "江潤秋",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joaquim Manuel Micolau 江潤秋",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Chan Kwok Wai, Americo",
+      "chinese_name": "鞠應忠",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kwok Wai, Americo 鞠應忠",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Kan Kin Leung Leo",
+      "chinese_name": "關展强",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kan Kin Leung Leo 關展强",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Chan Sing Fat",
+      "chinese_name": "賴柏生",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Sing Fat 賴柏生",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Kan Sing Nin, Jude",
+      "chinese_name": "黎世雄",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kan Sing Nin, Jude 黎世雄",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Chan Wai Ka",
+      "chinese_name": "黎耀偉",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Ka 黎耀偉",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kiu Hau Chung",
+      "chinese_name": "林香豪",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kiu Hau Chung 林香豪",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ko Pui Yung",
+      "chinese_name": "林賀有",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ko Pui Yung 林賀有",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Wai Kong",
+      "chinese_name": "林冠城",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Kong 林冠城",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Wai",
+      "chinese_name": "林維新",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai 林維新",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Kong Tat Phone",
+      "chinese_name": "林雲彬",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Tat Phone 林雲彬",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Shing",
+      "chinese_name": "劉智和",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shing 劉智和",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Cheung Chun Fai",
+      "chinese_name": "劉仲賢",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chun Fai 劉仲賢",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Kong",
+      "chinese_name": "朱長江",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong 朱長江",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Cheung Ka Fung",
+      "chinese_name": "劉世俊",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Ka Fung 劉世俊",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Kook Ying Chung",
+      "chinese_name": "朱偉明",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kook Ying Chung 朱偉明",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Kam Kwong",
+      "chinese_name": "劉守川",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kam Kwong 劉守川",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Kwan Chin Keung",
+      "chinese_name": "花國雄",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwan Chin Keung 花國雄",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "劉永成",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 劉永成",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Kin Wah",
+      "chinese_name": "劉宇航",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kin Wah 劉宇航",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Lai Pak Sang",
+      "chinese_name": "方長發",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Pak Sang 方長發",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "利憲彬",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 利憲彬",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "方志强",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 方志强",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lai Sai Hung",
+      "chinese_name": "方富成",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Sai Hung 方富成",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kwok Tung",
+      "chinese_name": "李國安",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwok Tung 李國安",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Pak Choi",
+      "chinese_name": "方交康",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pak Choi 方交康",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "李保羅",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 李保羅",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lam Heung Ho, Tony",
+      "chinese_name": "梁傑賢",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Heung Ho, Tony 梁傑賢",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "方敏豪",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 方敏豪",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ping Hei",
+      "chinese_name": "梁貴初",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ping Hei 梁貴初",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Lam Hor Yau",
+      "chinese_name": "馮載安",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Hor Yau 馮載安",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wah Chai",
+      "chinese_name": "馮冠",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah Chai 馮冠",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "嘉敏",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 嘉敏",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Yiu Kee",
+      "chinese_name": "梁寳材",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yiu Kee 梁寳材",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Lam Koon Sing",
+      "chinese_name": "李浩明",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Koon Sing 李浩明",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "何志",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung 何志",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lam Wai Sun",
+      "chinese_name": "李學正",
+      "class_designation": null,
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Wai Sun 李學正",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kam Sing",
+      "chinese_name": "許偉基",
+      "class_designation": null,
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kam Sing 許偉基",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Chiang",
+      "chinese_name": "李金錚",
+      "class_designation": null,
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiang 李金錚",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lam Wan Bun",
+      "chinese_name": "許偉光",
+      "class_designation": null,
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Wan Bun 許偉光",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Shu Yin",
+      "chinese_name": "李國賢",
+      "class_designation": null,
+      "seat_number": 50,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shu Yin 李國賢",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Chiang",
+      "chinese_name": "李盈满",
+      "class_designation": null,
+      "seat_number": 51,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiang 李盈满",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Chiu Kan Yan",
+      "chinese_name": "許應南",
+      "class_designation": null,
+      "seat_number": 52,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Kan Yan 許應南",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lau Chi Wo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 53,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Chi Wo",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chow Yiu Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 54,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Yiu Hong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lau Chung Kee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 55,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Chung Kee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lau Chung Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 56,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Chung Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Choy Ching Ho",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 57,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choy Ching Ho",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lau Sai Tsun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 58,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Sai Tsun",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chu Cheung Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 59,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Cheung Kong",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lau Sau Tsuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Sau Tsuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chu Wai Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 61,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Wai Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fa Kwok Hung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 62,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fa Kwok Hung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lau Wing Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 63,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Wing Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lau Yu Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 64,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Yu Hong",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fong Cheung Fat",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 65,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Cheung Fat",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lee Hsien Pin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 66,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Hsien Pin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fong Chi Keung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 67,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Chi Keung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lee Kwok On",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 68,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Kwok On",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fong Foo Sing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 69,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Foo Sing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lee Paul",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 70,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Paul",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Fong Man Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 71,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Man Hong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mun Ho",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 72,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mun Ho",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Leung Kit Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 73,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kit Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 74,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Leung Kwai Chor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 75,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kwai Chor",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Fung Choi On",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 76,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Choi On",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fung Koon Yau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 77,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Koon Yau",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Leung Pik Fai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 78,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Pik Fai",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ho Ka Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 79,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Ka Man",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Leung Po Choi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 80,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Po Choi",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ho Wing Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 81,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Wing Tong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Li Ho Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 82,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Ho Ming",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Ho Chi Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 83,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Chi Ming",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Hok Ching",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 84,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Hok Ching",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Hui Wai Kee Thomas",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 85,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Wai Kee Thomas",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Li Kam Ching",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 86,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kam Ching",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Li Kwok Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 87,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kwok Yin",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Hui Wai Kwong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 88,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Wai Kwong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Hui Ying Nam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 89,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Ying Nam",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Li Ying Mun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 90,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Ying Mun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_020_full.webp",
+  "extracted_photos": []
+}

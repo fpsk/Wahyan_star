@@ -1,0 +1,53 @@
+{
+  "year": "1974",
+  "page": 49,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "What God hath joined..... Wedding Bells",
+  "students": [
+    {
+      "english_name": "What God hath joined.....",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "What God hath joined.....",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Wedding",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wedding",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Bells",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bells",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_049_full.webp",
+  "extracted_photos": []
+}

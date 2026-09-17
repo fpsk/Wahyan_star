@@ -1,0 +1,153 @@
+{
+  "year": "1972",
+  "page": 201,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "Champions and winning team in St.James Settlement Sports Fr. Corbally presenting a banner A coming champion",
+  "students": [
+    {
+      "english_name": "Champions and winning team in St.James Settlement Sports",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Champions and winning team in St.James Settlement Sports",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "A coming champion",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A coming champion",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "The AM session winners of the AM vPM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The AM session winners of the AM vPM",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "AM session AM v PM Basketball Com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AM session AM v PM Basketball Com-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Table Tennis Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table Tennis Competition",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Corbally presenting a banner",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Corbally presenting a banner",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Fr. Corbally presenting the shield to the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Corbally presenting the shield to the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Champions and winning team in St.James Settlement Sports",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Champions and winning team in St.James Settlement Sports",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "event_name": "A coming champion",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "A coming champion",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "event_name": "Table Tennis Competition",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table Tennis Competition",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_201_full.webp",
+  "extracted_photos": [
+    "1972_page_201_photo_1.webp",
+    "1972_page_201_photo_2.webp",
+    "1972_page_201_photo_3.webp",
+    "1972_page_201_photo_4.webp",
+    "1972_page_201_photo_5.webp"
+  ]
+}

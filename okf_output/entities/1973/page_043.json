@@ -1,0 +1,70 @@
+{
+  "year": "1973",
+  "page": 43,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "給他們幫助 給他們希望 請捐公益金",
+  "students": [
+    {
+      "english_name": "Give help",
+      "chinese_name": "給他們幫助",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Give help 給他們幫助",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Give hope",
+      "chinese_name": "給他們希望",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Give hope 給他們希望",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Give to the Community Chest",
+      "chinese_name": "請捐公益金",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Give to the Community Chest 請捐公益金",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "EST OF HONE KONG",
+      "chinese_name": "益金",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EST OF HONE KONG 益金",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_043_full.webp",
+  "extracted_photos": [
+    "1973_page_043_photo_1.webp",
+    "1973_page_043_photo_2.webp",
+    "1973_page_043_photo_3.webp"
+  ]
+}

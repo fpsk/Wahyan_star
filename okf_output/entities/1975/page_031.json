@@ -1,0 +1,31 @@
+{
+  "year": "1975",
+  "page": 31,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Make it Be Quick！！ 1, 2 3 jump！",
+  "students": [
+    {
+      "english_name": "Make it",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Make it",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_031_full.webp",
+  "extracted_photos": [
+    "1975_page_031_photo_1.webp",
+    "1975_page_031_photo_2.webp",
+    "1975_page_031_photo_3.webp"
+  ]
+}

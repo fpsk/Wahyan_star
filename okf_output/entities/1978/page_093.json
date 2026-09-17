@@ -1,0 +1,562 @@
+{
+  "year": "1978",
+  "page": 93,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SWIMMING INTERSCHOOL SWIMMING GALA fter one year's non-stop practice, we will",
+  "students": [
+    {
+      "english_name": "SWIMMING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "INTERSCHOOL SWIMMING GALA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERSCHOOL SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "H.K. Since our team consists of quite a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "H.K. Since our team consists of quite a",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "We are now one of the eight schools",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are now one of the eight schools",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Division II Overall First Runners-up",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Division II Overall First Runners-up",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Lau Shi Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Shi Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Wing Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wing Sang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "So Man San",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Man San",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Hui Chi Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Chi Sang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "So Man San",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Man San",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Hui Chi Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Chi Sang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Li Kai Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kai Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Kai Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kai Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Lau Shi Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Shi Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Hui Chi Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Chi Sang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Li Kai Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kai Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lau Shi Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Shi Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "So Man San",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Man San",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Leung Kit Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kit Fung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Leung Kit Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kit Fung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Luk Wing Hang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luk Wing Hang",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Srd",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Srd",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Wong Kung Wing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kung Wing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lau Pak Wai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Pak Wai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lllk Wing Hang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lllk Wing Hang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wei Yick Duen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wei Yick Duen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "INTERSCHOOL SWIMMING GALA",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "INTERSCHOOL SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "event_name": "which are highest in swimming standards in",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "which are highest in swimming standards in",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "'A' grade - Overall Boys Champion",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "'A' grade - Overall Boys Champion",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "event_name": "50M Butterfly stroke：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "50M Butterfly stroke：",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "event_name": "100M Back stroke：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "100M Back stroke：",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "event_name": "100M Breast stroke：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "100M Breast stroke：",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "event_name": "200M Breast stroke：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "200M Breast stroke：",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "event_name": "4 x 5OM Medley Relay：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 x 5OM Medley Relay：",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "event_name": "50N Butterfly stroke：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "50N Butterfly stroke：",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "event_name": "4 x 50M Free Style Relay：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 x 50M Free Style Relay：",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_093_full.webp",
+  "extracted_photos": [
+    "1978_page_093_photo_1.webp",
+    "1978_page_093_photo_2.webp"
+  ]
+}

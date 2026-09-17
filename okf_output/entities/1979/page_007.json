@@ -1,0 +1,110 @@
+{
+  "year": "1979",
+  "page": 7,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "SPEECH DAY DA The 59th Speech Day was held on",
+  "students": [
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "The gra-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The gra-",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "This was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Fang and the vote of thanks by our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fang and the vote of thanks by our",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Head Prefect.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Prefect.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "gguest Dr. Harry S. Y. Fang. Following",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "gguest Dr. Harry S. Y. Fang. Following",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "these were the address by Dr. Harry",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "these were the address by Dr. Harry",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_007_full.webp",
+  "extracted_photos": [
+    "1979_page_007_photo_1.webp",
+    "1979_page_007_photo_2.webp",
+    "1979_page_007_photo_3.webp",
+    "1979_page_007_photo_4.webp",
+    "1979_page_007_photo_5.webp"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 28,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Lui Siu Seck (呂少碩) • Ling Ann Sau (凌安壽) • Lo Chi Shun, James (盧志信) • Lui Tai Lok (呂大樂)",
+  "students": [
+    {
+      "english_name": "Lui Siu Seck",
+      "chinese_name": "呂少碩",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ling Ann Sau",
+      "chinese_name": "凌安壽",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lo Chi Shun, James",
+      "chinese_name": "盧志信",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lui Tai Lok",
+      "chinese_name": "呂大樂",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_028_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 28,
+      "english_name": "Lui Siu Seck",
+      "chinese_name": "呂少碩",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 28,
+      "english_name": "Ling Ann Sau",
+      "chinese_name": "凌安壽",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 28,
+      "english_name": "Lo Chi Shun, James",
+      "chinese_name": "盧志信",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 28,
+      "english_name": "Lui Tai Lok",
+      "chinese_name": "呂大樂",
+      "class": "Form 5B"
+    }
+  ]
+}

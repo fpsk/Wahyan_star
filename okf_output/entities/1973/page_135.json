@@ -1,0 +1,40 @@
+{
+  "year": "1973",
+  "page": 135,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "UOith the Eompliments of the Student Association",
+  "students": [
+    {
+      "english_name": "UOith the Eompliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UOith the Eompliments",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Student Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Association",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_135_full.webp",
+  "extracted_photos": []
+}

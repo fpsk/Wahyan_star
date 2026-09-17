@@ -1,0 +1,29 @@
+{
+  "year": "1978",
+  "page": 58,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Ocean Park Trip Date: 22nd Dec.， 1977",
+  "students": [
+    {
+      "english_name": "Ocean Park Trip",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ocean Park Trip",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_058_full.webp",
+  "extracted_photos": [
+    "1978_page_058_photo_1.webp"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": "1972",
+  "page": 11,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MEMORIAL：- REV. FR. JOHN TURNER S.J. MR. FUNG YAT CHIH",
+  "students": [
+    {
+      "english_name": "REV. FR. JOHN TURNER S.J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "REV. FR. JOHN TURNER S.J.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "MR. FUNG YAT CHIH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. FUNG YAT CHIH",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "MR. DAVID MA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. DAVID MA",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_011_full.webp",
+  "extracted_photos": []
+}

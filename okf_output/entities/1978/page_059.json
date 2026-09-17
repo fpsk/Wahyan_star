@@ -1,0 +1,55 @@
+{
+  "year": "1978",
+  "page": 59,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "PRESENTED BY THE MUSIC SOCIETY 22 00T. 1977 7:30 PM",
+  "students": [
+    {
+      "english_name": "PRESENTED BY THE MUSIC SOCIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRESENTED BY THE MUSIC SOCIETY",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "EVENING SERENADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENING SERENADE",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "PRESENTED BY THE MUSIC SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "PRESENTED BY THE MUSIC SOCIETY",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_059_full.webp",
+  "extracted_photos": [
+    "1978_page_059_photo_1.webp"
+  ]
+}

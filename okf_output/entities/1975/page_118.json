@@ -1,0 +1,354 @@
+{
+  "year": "1975",
+  "page": 118,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "34 Miss M. Lam FORM IB （1974-75） 1.",
+  "students": [
+    {
+      "english_name": "Miss M. Lam",
+      "chinese_name": "司徒景康",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss M. Lam 司徒景康",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ma Tak Sing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Tak Sing",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Chan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Thomas",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Poon Yue Chee, Eddy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Yue Chee, Eddy",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Pow Wing Nin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pow Wing Nin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Sham Ying Kei, Peter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sham Ying Kei, Peter",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Szeto Ching Hong, Tommy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Szeto Ching Hong, Tommy",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Tam Pui Kwan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Pui Kwan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Tang Chau Ming, Peter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Chau Ming, Peter",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Tsang Chiu Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Chiu Yin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Win",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Win",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Tsang Kwong Yuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Kwong Yuen",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Tsun Yat Lun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsun Yat Lun",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tung Chi Wah, Wally",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tung Chi Wah, Wally",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Wong Kee Wong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kee Wong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Wing Kee, Christopher",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Wing Kee, Christopher",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Albert",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Albert",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Yu Wai Sing, Vincent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Wai Sing, Vincent",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Yu Yin Lok, Vincent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Yin Lok, Vincent",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Simon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Simon",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Zay William",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Zay William",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ma Kai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Kai",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sang",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_118_full.webp",
+  "extracted_photos": [
+    "1975_page_118_photo_1.webp"
+  ]
+}

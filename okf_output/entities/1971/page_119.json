@@ -1,0 +1,320 @@
+{
+  "year": "1971",
+  "page": 119,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SPORTS REVIEW OF THE YEAR If you are interested in the Sports Badminton：",
+  "students": [
+    {
+      "english_name": "SPORTS REVIEW OF THE YEAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS REVIEW OF THE YEAR",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "If you are interested in the Sports",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If you are interested in the Sports",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Review of the Year, you are well advised",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Review of the Year, you are well advised",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Wah. They give a fair picture of the year's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah. They give a fair picture of the year's",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Right here, it is worth sounding a note",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Right here, it is worth sounding a note",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Special mention",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Special mention",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Long",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "You or",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "You or",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. K. T. Tsang",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. T. Tsang",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr.M. S. Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.M. S. Cheung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr. C. H.Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. C. H.Lee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. P.K.Ho",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. P.K.Ho",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mr. R. Chung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. R. Chung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. R. Chung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. R. Chung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr.W.Y. Wang",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.W.Y. Wang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Br. L. Thoo, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Br. L. Thoo, S.J.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr.R. Chung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.R. Chung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fr. P. O'Rourke, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. O'Rourke, S.J.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mr. K. P. Lee （A, B, C Grades）",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. P. Lee （A, B, C Grades）",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Mr.S.S.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.S.S.Chan",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Br. L. Thoo",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Br. L. Thoo",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Judo：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Judo：",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "（28th and 30th October） and a Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "（28th and 30th October） and a Swimming",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "event_name": "Table Tennis：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table Tennis：",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_119_full.webp",
+  "extracted_photos": [
+    "1971_page_119_photo_1.webp",
+    "1971_page_119_photo_2.webp"
+  ]
+}

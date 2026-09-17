@@ -1,0 +1,184 @@
+{
+  "year": "1979",
+  "page": 51,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Adviser: Mr. Thomas Ng. CINE CLUB Chairman: Mak Dai Kwok, Paul.",
+  "students": [
+    {
+      "english_name": "CINE CLUB",
+      "chinese_name": "國術學會",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CINE CLUB 國術學會",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "We planned to visit RTV in December.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We planned to visit RTV in December.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "THls year there were not many activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THls year there were not many activities",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "However, the station was busy at the time and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, the station was busy at the time and",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "In March, during the Student Festival, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In March, during the Student Festival, we",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Thomas Ng, our advisor, for his guidance and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas Ng, our advisor, for his guidance and",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "XMAE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "XMAE",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "CELEBOATION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CELEBOATION",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Mr. Thomas Ng.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Mr. Thomas Ng.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "by Mr. Kam Kwok Leung on television pro-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "by Mr. Kam Kwok Leung on television pro-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "In conclusion, we would like to thank Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "In conclusion, we would like to thank Mr.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "CINE CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "CINE CLUB",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "club_name": "as the club members for their co-operation.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "as the club members for their co-operation.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_051_full.webp",
+  "extracted_photos": [
+    "1979_page_051_photo_1.webp",
+    "1979_page_051_photo_2.webp",
+    "1979_page_051_photo_3.webp"
+  ]
+}

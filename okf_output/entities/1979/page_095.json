@@ -1,0 +1,40 @@
+{
+  "year": "1979",
+  "page": 95,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "DSY K BART",
+  "students": [
+    {
+      "english_name": "DSY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DSY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "K BART",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "K BART",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_095_full.webp",
+  "extracted_photos": []
+}

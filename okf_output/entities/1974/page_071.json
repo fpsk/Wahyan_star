@@ -1,0 +1,660 @@
+{
+  "year": "1974",
+  "page": 71,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "GEOTRAPIIY JUDO CLUB SOCIITY",
+  "students": [
+    {
+      "english_name": "GEOTRAPIIY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GEOTRAPIIY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "JUDO CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JUDO CLUB",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "SOCIITY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOCIITY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Student Council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Council",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Visit to tae Royal Ob-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit to tae Royal Ob-",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Vice-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Film show - industries of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Film show - industries of",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Taiwan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Taiwan",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Visit to the National Lac",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit to the National Lac",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Ltd. and the H.K. Bean",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ltd. and the H.K. Bean",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Ng Ka Yuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Ka Yuen",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "GeneralQuiz",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GeneralQuiz",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Joint-School Seminar at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint-School Seminar at",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "St. Joseph's College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Joseph's College",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Visit to the Container Pier",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit to the Container Pier",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Geography",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Geography",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "During Christmas, we paid a visit to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During Christmas, we paid a visit to",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "We had some judo demonstrations in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had some judo demonstrations in",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Beginning of the Inter-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Beginning of the Inter-",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Final match of the Inter-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Final match of the Inter-",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "We participated in the Over-all Judo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We participated in the Over-all Judo",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Championship Competition in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Championship Competition in the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Elizabeth Yourth Stadium as specta-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Elizabeth Yourth Stadium as specta-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "SIx new members were promoted to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SIx new members were promoted to",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "April.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "April.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Salesian College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Salesian College",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "In May,we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In May,we",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "With their judo cub members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With their judo cub members.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "There well be a gathering for mem-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There well be a gathering for mem-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Overall Judo Championship Com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Overall Judo Championship Com-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Visit to the Container Pier",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit to the Container Pier",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "：Mr. S.H. Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Mr. S.H. Chau",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "：Fr. Corbally S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Fr. Corbally S.J.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "JUDO CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "JUDO CLUB",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "club_name": "the Far East Judo Institute.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Far East Judo Institute.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "club_name": "We had some judo demonstrations in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "We had some judo demonstrations in",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "club_name": "Club on 28th, Jan.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club on 28th, Jan.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "club_name": "We participated in the Over-all Judo",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "We participated in the Over-all Judo",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "With their judo cub members.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "With their judo cub members.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "club_name": "Overall Judo Championship Com-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Overall Judo Championship Com-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "club_name": "petition' organized by a private judo",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "petition' organized by a private judo",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Championship Competition in the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Championship Competition in the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "event_name": "Overall Judo Championship Com-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Overall Judo Championship Com-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_071_full.webp",
+  "extracted_photos": [
+    "1974_page_071_photo_1.webp",
+    "1974_page_071_photo_2.webp"
+  ]
+}

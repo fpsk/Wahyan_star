@@ -1,0 +1,81 @@
+{
+  "year": "1978",
+  "page": 106,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "（66） 1o liss Chiuela-Lo on Sat,28 Jan.， 1978 Ou Snly-ooNI. Carmel Church, St.Patrick Sureel， Domiy",
+  "students": [
+    {
+      "english_name": "Domiy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Domiy",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "St. Nlays Anglican Church, Causeway",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Nlays Anglican Church, Causeway",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Mak Kwai Wing to Veronica Chan at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Kwai Wing to Veronica Chan at",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Vilovddc",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vilovddc",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "* Mr. Patrick Fong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "* Mr. Patrick Fong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_106_full.webp",
+  "extracted_photos": [
+    "1978_page_106_photo_1.webp"
+  ]
+}

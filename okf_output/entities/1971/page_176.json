@@ -1,0 +1,53 @@
+{
+  "year": "1971",
+  "page": 176,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "WUid the Conplinents FOOK LEE CONSTRUCTION CO.， LTD. FOOK LEE HOLDINGS LTD.",
+  "students": [
+    {
+      "english_name": "WUid the Conplinents",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WUid the Conplinents",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "FOOK LEE HOLDINGS LTD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOK LEE HOLDINGS LTD.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "FOOK LEE ESTATES LTD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOK LEE ESTATES LTD.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_176_full.webp",
+  "extracted_photos": []
+}

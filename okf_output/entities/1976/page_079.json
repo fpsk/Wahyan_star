@@ -1,0 +1,263 @@
+{
+  "year": "1976",
+  "page": 79,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Weddings Paul Chan Ka Bun and Miss Fan Tak Yat",
+  "students": [
+    {
+      "english_name": "Weddings",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Weddings",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Paul Chan Ka Bun and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Paul Chan Ka Bun and",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Miss Fan Tak Yat",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Fan Tak Yat",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Anthony Cheung Ping Leung and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Cheung Ping Leung and",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Miss Ng Gaik Koon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Ng Gaik Koon",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Kam Pak Ho and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kam Pak Ho and",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miss Lau Lai Yam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Lau Lai Yam",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Francis Lee Chun Sang and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Lee Chun Sang and",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Miss Margaret Ng Lai Wak",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Margaret Ng Lai Wak",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Miss Maria Madalene Yapp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Maria Madalene Yapp",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Lawrence Wong Woon Cheung and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lawrence Wong Woon Cheung and",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Miss Angela Leung Ying Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Angela Leung Ying Man",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Yeung Chung Him and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Chung Him and",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Miss Cheong Man Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Cheong Man Wah",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Michael Ma Kam Lung and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Michael Ma Kam Lung and",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Miss Annie Lo Nei Yee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Annie Lo Nei Yee",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Dominic Ho and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dominic Ho and",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miss Margaret Ng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Margaret Ng",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Dr. James Pang Shing Hung and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. James Pang Shing Hung and",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_079_full.webp",
+  "extracted_photos": [
+    "1976_page_079_photo_1.webp"
+  ]
+}

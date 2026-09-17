@@ -1,0 +1,210 @@
+{
+  "year": "1974",
+  "page": 68,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Chinese Bosing Club Chairman ：Johnson Leung",
+  "students": [
+    {
+      "english_name": "Chinese Bosing Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Bosing Club",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Instructors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Instructors",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Tai On",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tai On",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "The Chinese Boxing Club was-still very successful this year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chinese Boxing Club was-still very successful this year.",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "english_name": "Practices on every Tuesday and Friday after school.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Practices on every Tuesday and Friday after school.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    },
+    {
+      "english_name": "Lectures were given by our adviser and the Committee members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lectures were given by our adviser and the Committee members.",
+        "start_char": 0,
+        "end_char": 61
+      }
+    },
+    {
+      "english_name": "Members learnt the basic technique of Chinese Kung Fu.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members learnt the basic technique of Chinese Kung Fu.",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "english_name": "As a result, they were better and stronger than before.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As a result, they were better and stronger than before.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "We would like to thank Mr. Chan for his advice and all our members for their",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We would like to thank Mr. Chan for his advice and all our members for their",
+        "start_char": 0,
+        "end_char": 76
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "： Mr. Chan Shek Chun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. Chan Shek Chun",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Chinese Bosing Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Chinese Bosing Club",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "club_name": "The Chinese Boxing Club was-still very successful this year.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Chinese Boxing Club was-still very successful this year.",
+        "start_char": 0,
+        "end_char": 60
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_068_full.webp",
+  "extracted_photos": [
+    "1974_page_068_photo_1.webp",
+    "1974_page_068_photo_2.webp"
+  ]
+}

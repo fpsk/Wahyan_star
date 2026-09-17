@@ -1,0 +1,194 @@
+{
+  "year": "1972",
+  "page": 104,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "TAS. STORLST school year. But since many of the com-",
+  "students": [
+    {
+      "english_name": "TAS.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TAS.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "STORLST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STORLST",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "One dollar and fifty cents was all that",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "One dollar and fifty cents was all that",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Starlet.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Starlet.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "It is inappropriate for me to evaluate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is inappropriate for me to evaluate",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The beginning of the school term saw",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The beginning of the school term saw",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "All newspapers need to have their",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All newspapers need to have their",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Starlet",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Starlet",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The response",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The response",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "With the kindly consent of Rev.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "With the kindly consent of Rev.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "the Primary school, and Rev. Fr. Mallin，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the Primary school, and Rev. Fr. Mallin，",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Later, we arranged with Rev. Fr. Mallin",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Later, we arranged with Rev. Fr. Mallin",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "and Mr. Lam, the Assistant Principal of",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. Lam, the Assistant Principal of",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_104_full.webp",
+  "extracted_photos": [
+    "1972_page_104_photo_1.webp"
+  ]
+}

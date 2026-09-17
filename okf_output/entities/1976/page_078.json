@@ -1,0 +1,469 @@
+{
+  "year": "1976",
+  "page": 78,
+  "section_type": "Class Roster",
+  "class_designation": "Abroad Upper Six '75",
+  "summary": "Wah Yan Past Abroad Upper Six '75 In Hong Kong University '74-'75",
+  "students": [
+    {
+      "english_name": "Tang Hay Tim",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Hay Tim",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mak Ping Sum",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Ping Sum",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Kin Ming",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Kin Ning",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Ning",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Ying Wan",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ying Wan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Kong Chi Leung",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Chi Leung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lam Sui Lun",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Sui Lun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Chee",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chee",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Leung Chung Ghu",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Chung Ghu",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lai Wai Shing",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Wai Shing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Li Chu Kwong",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chu Kwong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wong Hon Ming",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Hon Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "King Fai",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King Fai",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Leung Chi Ming",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Chi Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Li Chi Him",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chi Him",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Luk Kin Leung",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luk Kin Leung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "So Chun Ho",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Chun Ho",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Teo Peter",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Teo Peter",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Wong Gene",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Gene",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Chan Chi Kin",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chi Kin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Ming Fai",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ming Fai",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Tai On",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tai On",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fong Cheung Heo",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Cheung Heo",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Pang Sing Kim",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Sing Kim",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheung King Nan",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung King Nan",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Choi Chung Lok",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choi Chung Lok",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Fong Ka Tsun",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Ka Tsun",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Che Sun",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Che Sun",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lee Shu Kee",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Shu Kee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Szeto Sai Yin",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Szeto Sai Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wan Shiu Man",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wan Shiu Man",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yu Wing Cheung",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Wing Cheung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yau Sui Kwong",
+      "chinese_name": "",
+      "class_designation": "Abroad Upper Six '75",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yau Sui Kwong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_078_full.webp",
+  "extracted_photos": []
+}

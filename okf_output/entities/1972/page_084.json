@@ -1,0 +1,30 @@
+{
+  "year": "1972",
+  "page": 84,
+  "section_type": "Class Roster",
+  "class_designation": "Name: Louis Huang L6A",
+  "summary": "PHOTO CONTTEST First （Senior Section）",
+  "students": [
+    {
+      "english_name": "CONTTEST",
+      "chinese_name": "",
+      "class_designation": "Name: Louis Huang L6A",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CONTTEST",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_084_full.webp",
+  "extracted_photos": [
+    "1972_page_084_photo_1.webp",
+    "1972_page_084_photo_2.webp"
+  ]
+}

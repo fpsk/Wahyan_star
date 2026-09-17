@@ -1,0 +1,81 @@
+{
+  "year": "1974",
+  "page": 125,
+  "section_type": "Class Roster",
+  "class_designation": "6A2 Chan Chi Fai",
+  "summary": "幼 童軍 甲：隸屬香港十五旅（華仁中學）",
+  "students": [
+    {
+      "english_name": "ART",
+      "chinese_name": "童軍",
+      "class_designation": "6A2 Chan Chi Fai",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ART 童軍",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "COMPETITION",
+      "chinese_name": "",
+      "class_designation": "6A2 Chan Chi Fai",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COMPETITION",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "ARAINY DAY",
+      "chinese_name": "",
+      "class_designation": "6A2 Chan Chi Fai",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ARAINY DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "We were disappointed and looked gloomily out of the windows. People without",
+      "chinese_name": "",
+      "class_designation": "6A2 Chan Chi Fai",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were disappointed and looked gloomily out of the windows. People without",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Most buses, trams and taxi-cabs were full. There were shelters too. What we saw made",
+      "chinese_name": "",
+      "class_designation": "6A2 Chan Chi Fai",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Most buses, trams and taxi-cabs were full. There were shelters too. What we saw made",
+        "start_char": 0,
+        "end_char": 84
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_125_full.webp",
+  "extracted_photos": [
+    "1974_page_125_photo_1.webp"
+  ]
+}

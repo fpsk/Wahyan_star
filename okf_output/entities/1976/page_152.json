@@ -1,0 +1,443 @@
+{
+  "year": "1976",
+  "page": 152,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "齡記 書店 香港德輔道中127號",
+  "students": [
+    {
+      "english_name": "LING KEE BOOK STORE",
+      "chinese_name": "齡記",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LING KEE BOOK STORE 齡記",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "NATHAN ROAD, MONGKOK, KOWLOON.",
+      "chinese_name": "書店",
+      "class_designation": null,
+      "seat_number": 678,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NATHAN ROAD, MONGKOK, KOWLOON. 書店",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "LING KEE PUBLISHING CO.",
+      "chinese_name": "齡記課本",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LING KEE PUBLISHING CO. 齡記課本",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "QUARRY BAY, HONG KONG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "QUARRY BAY, HONG KONG.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Great Stories in Easy English",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Great Stories in Easy English",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "FIRST SERIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FIRST SERIES",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "SECOND SERIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SECOND SERIES",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "TREASURE ISLAND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TREASURE ISLAND",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "ROUND THE WORLD IN EIGHTY DAYS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ROUND THE WORLD IN EIGHTY DAYS",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "THE THREE MUSKETEERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE THREE MUSKETEERS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "THE ADVENTURES OF TOM SAWYER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE ADVENTURES OF TOM SAWYER",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "JANE EYRE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JANE EYRE",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "TALES FROM THE ARABIAN NIGHTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TALES FROM THE ARABIAN NIGHTS",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "THE PRISONER OF ZENDA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE PRISONER OF ZENDA",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "A TALE OF TWO CITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A TALE OF TWO CITIES",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "KIDNAPPED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KIDNAPPED",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "MONTE CRISTO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MONTE CRISTO",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LITTLE WOMEN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LITTLE WOMEN",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "GREAT EXPECTATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GREAT EXPECTATIONS",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "DAVID COPPERFIELD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAVID COPPERFIELD",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "IVANHOE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IVANHOE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "OLIVER TWIST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OLIVER TWIST",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "PRIDE AND PREJUDICE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRIDE AND PREJUDICE",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "SILAS MARNER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SILAS MARNER",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "EMMA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EMMA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SWISS FAMILY ROBINSON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWISS FAMILY ROBINSON",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "WUTHERING HEIGHTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WUTHERING HEIGHTS",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "THE CORAL ISLAND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE CORAL ISLAND",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "TALES FROM SHAKESPEARE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TALES FROM SHAKESPEARE",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "HUCKLEBERRY FINN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HUCKLEBERRY FINN",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "MORE TALES FROM SHAKESPEARE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MORE TALES FROM SHAKESPEARE",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "All the books are simplified in easy but natural English, making full use of the sentence patterns",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All the books are simplified in easy but natural English, making full use of the sentence patterns",
+        "start_char": 0,
+        "end_char": 98
+      }
+    },
+    {
+      "english_name": "This unique feature",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This unique feature",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_152_full.webp",
+  "extracted_photos": []
+}

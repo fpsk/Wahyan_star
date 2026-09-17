@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 12,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Cheung Wai Yee (張偉義) • Cheng Tak Chung (鄭德忠) • Cheung Po Wah (張寶華) • Cheung Yuk Tong (張玉堂)",
+  "students": [
+    {
+      "english_name": "Cheung Wai Yee",
+      "chinese_name": "張偉義",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Cheng Tak Chung",
+      "chinese_name": "鄭德忠",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Cheung Po Wah",
+      "chinese_name": "張寶華",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Cheung Yuk Tong",
+      "chinese_name": "張玉堂",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_012_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 12,
+      "english_name": "Cheung Wai Yee",
+      "chinese_name": "張偉義",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 12,
+      "english_name": "Cheng Tak Chung",
+      "chinese_name": "鄭德忠",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 12,
+      "english_name": "Cheung Po Wah",
+      "chinese_name": "張寶華",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 12,
+      "english_name": "Cheung Yuk Tong",
+      "chinese_name": "張玉堂",
+      "class": "Form 5B"
+    }
+  ]
+}

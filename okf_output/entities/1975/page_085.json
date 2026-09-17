@@ -1,0 +1,831 @@
+{
+  "year": "1975",
+  "page": 85,
+  "section_type": "Class Roster",
+  "class_designation": "5B1",
+  "summary": "Inter-House Competition Total Points （1974-75） House Points",
+  "students": [
+    {
+      "english_name": "House",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "House",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Points",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Points",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "House-Captain",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "House-Captain",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheung Po Wah",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Po Wah",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ngq Hoi Chuen",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngq Hoi Chuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fung Kit Man",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Kit Man",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheung Yuk Tong",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Yuk Tong",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chu Cheung Kong",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Cheung Kong",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chan Yuk Keung",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yuk Keung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tang Hay Tim",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Hay Tim",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lam Sui Lung",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Sui Lung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Points",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Points",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Event",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Event",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Points",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Points",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Runners-Up",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Runners-Up",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Champions",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Brown",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Brown",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Yellow",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yellow",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Athletics",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Athletics",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Red",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Red",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Basketball",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basketball",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Badminton",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Red",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Red",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Blue",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Blue",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Brown",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Brown",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Debate",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Debate",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Dramatic",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dramatic",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Blue",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Blue",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Brown",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Brown",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Football",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Football",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Purple and Red",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Purple and Red",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Heading Tennis",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Heading Tennis",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Black",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Black",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Yellow",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yellow",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Brown",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Brown",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Table-Tennis",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Purple",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Purple",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Blue",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Blue",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Talent Time",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Talent Time",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Black",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Black",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Green",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Green",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Volleyball",
+      "chinese_name": "",
+      "class_designation": "5B1",
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Volleyball",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Form House-Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Form House-Master",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Fr. J. Foley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. J. Foley",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. P. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. McGaley",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mr. P.H.Cheng",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. P.H.Cheng",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fr.M.Brosnan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.M.Brosnan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. P. Toner",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. Toner",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. P. O'Rourke",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. O'Rourke",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr. S.H.Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.H.Chau",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. S. K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S. K. Lee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Special Sports Champions and Runners-Up （1974-75）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Special Sports Champions and Runners-Up （1974-75）",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "event_name": "Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Heading Tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Heading Tennis",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "Table-Tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_085_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,169 @@
+{
+  "year": "1975",
+  "page": 40,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MILLION WALK125 It was a bad Saturday morning. The Before I began my journey, I had to",
+  "students": [
+    {
+      "english_name": "It was a bad Saturday morning. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was a bad Saturday morning. The",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Before I began my journey, I had to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Before I began my journey, I had to",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Student Council, the start was made at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Council, the start was made at",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Francis Canossian College and our school.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Canossian College and our school.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "I had no intention to participate in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I had no intention to participate in",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Unfortunately, I hurt my leg on the way.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unfortunately, I hurt my leg on the way.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "I had to walk, with the help of my",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I had to walk, with the help of my",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "start by the Principals, Sister Marie and",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "start by the Principals, Sister Marie and",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Fr. Barrett. At last, with the help of our",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Barrett. At last, with the help of our",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "About fve of our Fathers took part",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "About fve of our Fathers took part",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Fr. McGaley. He walked with us among",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. McGaley. He walked with us among",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "ed by the Social Activities Club of St.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "ed by the Social Activities Club of St.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_040_full.webp",
+  "extracted_photos": [
+    "1975_page_040_photo_1.webp"
+  ]
+}

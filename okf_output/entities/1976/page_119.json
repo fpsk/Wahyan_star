@@ -1,0 +1,549 @@
+{
+  "year": "1976",
+  "page": 119,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 3B1（1975-76）",
+  "summary": "Mr. K. S. Fung Absentee: 2 FORM 3B1（1975-76）",
+  "students": [
+    {
+      "english_name": "Lee Chi Fai, Lawrence",
+      "chinese_name": "李智",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Chi Fai, Lawrence 李智",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Chan Ping Chiu",
+      "chinese_name": "梁兆權",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ping Chiu 梁兆權",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Shu Wing, Edward",
+      "chinese_name": "李民威",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Shu Wing, Edward 李民威",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Leung Siu Kuen",
+      "chinese_name": "梁展雄",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Siu Kuen 梁展雄",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Tai Cheong, Alan",
+      "chinese_name": "羅志榮",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tai Cheong, Alan 羅志榮",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Li Man Wai, John",
+      "chinese_name": "呂佩源",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Man Wai, John 呂佩源",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Cheng Kat Hung",
+      "chinese_name": "岑迅偉",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Kat Hung 岑迅偉",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Liang Gin Hung",
+      "chinese_name": "蕭安國",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liang Gin Hung 蕭安國",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cheung Man To, Raymond",
+      "chinese_name": "蕭子超",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Man To, Raymond 蕭子超",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lo Chi Wing",
+      "chinese_name": "蘇建佳",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Chi Wing 蘇建佳",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lui Pui Yuen",
+      "chinese_name": "蘇建義",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lui Pui Yuen 蘇建義",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheung Shek Fai, Raymond",
+      "chinese_name": "宋建超",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Shek Fai, Raymond 宋建超",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Chiu Hau Shun",
+      "chinese_name": "鄧啓明",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Hau Shun 鄧啓明",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Sham Shun Wai, Christopher",
+      "chinese_name": "陶懷方",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sham Shun Wai, Christopher 陶懷方",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Chiu Kwok Hung, Thomas",
+      "chinese_name": "唐社女",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Kwok Hung, Thomas 唐社女",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Siu On Kwok,Tommy",
+      "chinese_name": "謝志女",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu On Kwok,Tommy 謝志女",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Siu Tsz Chiu",
+      "chinese_name": "謝君俠",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Tsz Chiu 謝君俠",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chow Wai Ping",
+      "chinese_name": "徐佩宏",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Wai Ping 徐佩宏",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "So Kin Kai",
+      "chinese_name": "黃紹樂",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Kin Kai 黃紹樂",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chu Kwok Chuen",
+      "chinese_name": "余守訓",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Kwok Chuen 余守訓",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "So Kin Yee, Kenny",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Kin Yee, Kenny",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Chu Kwok Keung, Stephen",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Kwok Keung, Stephen",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Sung Kin Chiu",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sung Kin Chiu",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chung Chi Bo, Paul",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung Chi Bo, Paul",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Tang Kai Ming,Eddie",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Kai Ming,Eddie",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Hui Chi Wing",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Chi Wing",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tao Wai Fong, Clarence",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tao Wai Fong, Clarence",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Hui Mo Sze",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Mo Sze",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Ku Tsu Tsau, Arnold",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ku Tsu Tsau, Arnold",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Tong Share Man, Ryan",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Share Man, Ryan",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Tse Chi Man",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Chi Man",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lam Cheuk Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Cheuk Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tse Kwan Hop, Tony",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Kwan Hop, Tony",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lam Kwok Hung, Raymond",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Kwok Hung, Raymond",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Tsui Pui Wang, Ephraem",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Pui Wang, Ephraem",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lam Yin Sze,Ignatius",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Yin Sze,Ignatius",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Wong Sui Lok",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sui Lok",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lau Koon Man, Vincent",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Koon Man, Vincent",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Yee Sau Fun,Stephen",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yee Sau Fun,Stephen",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Lee Bing Sum,Samuel",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1975-76）",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Bing Sum,Samuel",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. K. S. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. S. Fung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_119_full.webp",
+  "extracted_photos": [
+    "1976_page_119_photo_1.webp"
+  ]
+}

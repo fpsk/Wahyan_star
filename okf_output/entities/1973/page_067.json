@@ -1,0 +1,247 @@
+{
+  "year": "1973",
+  "page": 67,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "failed to have the newspaper issued on THE STARLET time. We failed to foresee dificulties",
+  "students": [
+    {
+      "english_name": "THE STARLET",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE STARLET",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Thanks to the good-heartedness of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thanks to the good-heartedness of the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Nevertheless, we enjoyed an internal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nevertheless, we enjoyed an internal",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "As greenhorns, we tried to change",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As greenhorns, we tried to change",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Finally, we would like to thank our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, we would like to thank our",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Cheung, for their precious counselling and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung, for their precious counselling and",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "It acquired a circulation of over a thou-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It acquired a circulation of over a thou-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "But, then, problems cropped up, trou-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But, then, problems cropped up, trou-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "In the belief that posters were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the belief that posters were",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "As a whole, this worked out well. How-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As a whole, this worked out well. How-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Also,this year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Also,this year",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "First, we are",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First, we are",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. McGaley &",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. McGaley &",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Mr. M. S. Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M. S. Cheung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "advisers, Rev. Fr. McGaley and Mr. M. S.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "advisers, Rev. Fr. McGaley and Mr. M. S.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_067_full.webp",
+  "extracted_photos": [
+    "1973_page_067_photo_1.webp"
+  ]
+}

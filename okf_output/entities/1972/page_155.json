@@ -1,0 +1,419 @@
+{
+  "year": "1972",
+  "page": 155,
+  "section_type": "Class Roster",
+  "class_designation": "LOWER 6 SCIENCE （1971-72）",
+  "summary": "13 Fr. McGaley LOWER 6 SCIENCE （1971-72） 16. Mun Ping Kuen, Dominic",
+  "students": [
+    {
+      "english_name": "Mun Ping Kuen, Dominic",
+      "chinese_name": "聞炳權",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mun Ping Kuen, Dominic 聞炳權",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Cheng Lap Yan",
+      "chinese_name": "鄭立仁",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Lap Yan 鄭立仁",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ng Ka Lun, Tommy",
+      "chinese_name": "吳家麟",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Ka Lun, Tommy 吳家麟",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Cheung Shun Wo, Lawrence",
+      "chinese_name": "張順和",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Shun Wo, Lawrence 張順和",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Cheung Tai Fu, Gabriel",
+      "chinese_name": "吳傽琦",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Tai Fu, Gabriel 吳傽琦",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Ng Wai Ki",
+      "chinese_name": "張大虎",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Wai Ki 張大虎",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ng Wai Sun",
+      "chinese_name": "吳偉純",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Wai Sun 吳偉純",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chung Sheung Chee",
+      "chinese_name": "鐘尚志",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung Sheung Chee 鐘尚志",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Pang Wai Sang, Joseph",
+      "chinese_name": "彭煒生",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Wai Sang, Joseph 彭煒生",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Fung Yin Kai, Edgar",
+      "chinese_name": "馮賢楷",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Yin Kai, Edgar 馮賢楷",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Poon Chung Yin, Joseph",
+      "chinese_name": "潘仲賢",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Chung Yin, Joseph 潘仲賢",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Ho Heh Ngao, Johnson",
+      "chinese_name": "何皆昂",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Heh Ngao, Johnson 何皆昂",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Sham Hi Keung",
+      "chinese_name": "岑熙强",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sham Hi Keung 岑熙强",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Hu Fai Chung",
+      "chinese_name": "胡懷中",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hu Fai Chung 胡懷中",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kwok Hok Chuen",
+      "chinese_name": "蘇仲維",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwok Hok Chuen 蘇仲維",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "So Chung Wai",
+      "chinese_name": "郭學全",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Chung Wai 郭學全",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Sung Shu Ding",
+      "chinese_name": "孫樹亭",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sung Shu Ding 孫樹亭",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lau Ming Charm",
+      "chinese_name": "劉明湛",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Ming Charm 劉明湛",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tong Wai Kwong, Henry",
+      "chinese_name": "唐偉光",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Wai Kwong, Henry 唐偉光",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lau Tai Chu",
+      "chinese_name": "劉犬鑄",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Tai Chu 劉犬鑄",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tsang Yam Chuen, Charles",
+      "chinese_name": "曾蔭茶",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Yam Chuen, Charles 曾蔭茶",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Law Kee Leung",
+      "chinese_name": "羅紀長",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Law Kee Leung 羅紀長",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tsui Yat Kong",
+      "chinese_name": "徐日光",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Yat Kong 徐日光",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Li Chi Fai",
+      "chinese_name": "李志輝",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chi Fai 李志輝",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Wu Chiu Fu",
+      "chinese_name": "胡朝輝",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Chiu Fu 胡朝輝",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Li Shing Fu",
+      "chinese_name": "李成富",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Shing Fu 李成富",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wu Sai Fong",
+      "chinese_name": "鄔世芳",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Sai Fong 鄔世芳",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Shu Chuen",
+      "chinese_name": "李樹泉",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Shu Chuen 李樹泉",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yung Kok Hing",
+      "chinese_name": "翁國興",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yung Kok Hing 翁國興",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lo Cheuk Lun",
+      "chinese_name": "勞焯能",
+      "class_designation": "LOWER 6 SCIENCE （1971-72）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Cheuk Lun 勞焯能",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "13 Fr. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "13 Fr. McGaley",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_155_full.webp",
+  "extracted_photos": [
+    "1972_page_155_photo_1.webp"
+  ]
+}

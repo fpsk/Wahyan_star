@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 19,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Kong Yu Key (江禹基) • Kong Yun Chow (江潤秋) • Kong Yuen Ching (江遠清) • Koo Wai (顧偉)",
+  "students": [
+    {
+      "english_name": "Kong Yu Key",
+      "chinese_name": "江禹基",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Kong Yun Chow",
+      "chinese_name": "江潤秋",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Kong Yuen Ching",
+      "chinese_name": "江遠清",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Koo Wai",
+      "chinese_name": "顧偉",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_019_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 19,
+      "english_name": "Kong Yu Key",
+      "chinese_name": "江禹基",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 19,
+      "english_name": "Kong Yun Chow",
+      "chinese_name": "江潤秋",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 19,
+      "english_name": "Kong Yuen Ching",
+      "chinese_name": "江遠清",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 19,
+      "english_name": "Koo Wai",
+      "chinese_name": "顧偉",
+      "class": "Form 5B1"
+    }
+  ]
+}

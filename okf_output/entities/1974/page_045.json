@@ -1,0 +1,108 @@
+{
+  "year": "1974",
+  "page": 45,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "T. W. Lee and Derek Kong. All participants enjoyed it to their hearts' content in a gay Christmas spirit and with festive splendour. The usual Lucky Draw with attractive prizes, plus the floor-shows and excellent dinner, received the appreciative pra",
+  "students": [
+    {
+      "english_name": "Suests and members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Suests and members.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "It is hoped",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is hoped",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Despite the somewhat severe heat, all participants made themselves happy with",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Despite the somewhat severe heat, all participants made themselves happy with",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "Exercise was quite strenuous for some elderly people.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exercise was quite strenuous for some elderly people.",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "HAN TAN ER PAST STUREXIS KSSDATOE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HAN TAN ER PAST STUREXIS KSSDATOE",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Reunion Dinner",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Reunion Dinner",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_045_full.webp",
+  "extracted_photos": [
+    "1974_page_045_photo_1.webp",
+    "1974_page_045_photo_2.webp"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "year": "1972",
+  "page": 190,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Olith the Compliments Eondon Dce Eream Eo. Etd. 敦雪糕",
+  "students": [
+    {
+      "english_name": "Olith the Compliments",
+      "chinese_name": "敦雪糕",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Olith the Compliments 敦雪糕",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Eondon Dce Eream Eo. Etd.",
+      "chinese_name": "有限公司",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eondon Dce Eream Eo. Etd. 有限公司",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_190_full.webp",
+  "extracted_photos": [
+    "1972_page_190_photo_1.webp"
+  ]
+}

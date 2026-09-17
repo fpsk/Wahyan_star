@@ -1,0 +1,27 @@
+{
+  "year": "1973",
+  "page": 81,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SLHOds",
+  "students": [
+    {
+      "english_name": "SLHOds",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SLHOds",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_081_full.webp",
+  "extracted_photos": []
+}

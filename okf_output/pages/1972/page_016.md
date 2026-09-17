@@ -1,0 +1,19 @@
+# Wah Yan Star 1972 - Page 16
+
+## Extracted Photos & Figures
+
+![1972 Page 16 Photo](../photos/1972_page_016_photo_1.webp)
+
+## Page Text Content
+
+```text
+SCHOOL EVENTS：-
+SPEECH DAY AND EXAM RESULTS
+DRAMA FESTIVAL
+MUSICAL FESTIVAL
+ANNUAL BALL
+TEACHER'S DAY
+TALENT TIME
+GENERAL QUIZ
+EVENING SCHOOL
+```

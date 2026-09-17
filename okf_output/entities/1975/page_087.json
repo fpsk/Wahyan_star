@@ -1,0 +1,211 @@
+{
+  "year": "1975",
+  "page": 87,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "REPORT OF BADMINTON This year we have a strong team - all the members were experienced and",
+  "students": [
+    {
+      "english_name": "REPORT OF BADMINTON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "REPORT OF BADMINTON",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "This year we have a strong team -",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year we have a strong team -",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "We didn't do well this year. Our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We didn't do well this year. Our",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "I hope that we can do better next year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I hope that we can do better next year.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "B GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Our team consisted of boys from F.l",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our team consisted of boys from F.l",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Fai Hung, our coach, despite his work",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fai Hung, our coach, despite his work",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "C GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "coach Mr. Wong Fai Hung, we practis",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "coach Mr. Wong Fai Hung, we practis",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "the help of Brother Chan and the A",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the help of Brother Chan and the A",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "We would like to thank Rev. Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We would like to thank Rev. Fr.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Corbally for his guidience; Mr. Wong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Corbally for his guidience; Mr. Wong",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Saturday, and Mr. Lee, Mr. Cheung for",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Saturday, and Mr. Lee, Mr. Cheung for",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "could win the championship but fate was",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "could win the championship but fate was",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_087_full.webp",
+  "extracted_photos": [
+    "1975_page_087_photo_1.webp",
+    "1975_page_087_photo_2.webp",
+    "1975_page_087_photo_3.webp"
+  ]
+}

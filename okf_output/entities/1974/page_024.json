@@ -1,0 +1,108 @@
+{
+  "year": "1974",
+  "page": 24,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "DRAMA FESTIVAL It was held in Dec. '73 （Senior & co-operation of the whole class for the",
+  "students": [
+    {
+      "english_name": "DRAMA FESTIVAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DRAMA FESTIVAL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Participated.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Participated.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Quite a number of students enjoyed",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Quite a number of students enjoyed",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The Festival showed the enthusiasm",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Festival showed the enthusiasm",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Fun and joy filled the hall in an excellent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fun and joy filled the hall in an excellent",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Christopher Tham, Albert Mak, Fabian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christopher Tham, Albert Mak, Fabian",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "judged by Rev. Fr. Grogan. 20 Classes",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "judged by Rev. Fr. Grogan. 20 Classes",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_024_full.webp",
+  "extracted_photos": [
+    "1974_page_024_photo_1.webp",
+    "1974_page_024_photo_2.webp"
+  ]
+}

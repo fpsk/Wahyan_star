@@ -1,0 +1,90 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 10,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chan Siu Kau (陳紹裘) • Chan Pui Shing (陳沛誠) • Chan Wai Leung, Valiant (陳偉亮) • Chan Sik Pok (陳皙博)",
+  "students": [
+    {
+      "english_name": "Chan Siu Kau",
+      "chinese_name": "陳紹裘",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chan Pui Shing",
+      "chinese_name": "陳沛誠",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chan Wai Leung, Valiant",
+      "chinese_name": "陳偉亮",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chan Sik Pok",
+      "chinese_name": "陳皙博",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "陳哲博"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_010_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 10,
+      "english_name": "Chan Siu Kau",
+      "chinese_name": "陳紹裘",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 10,
+      "english_name": "Chan Pui Shing",
+      "chinese_name": "陳沛誠",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 10,
+      "english_name": "Chan Wai Leung, Valiant",
+      "chinese_name": "陳偉亮",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 10,
+      "english_name": "Chan Sik Pok",
+      "chinese_name": "陳皙博",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 10,
+      "english_name": "Chan Sik Pok",
+      "chinese_name": "陳哲博",
+      "class": "Form 5B1"
+    }
+  ]
+}

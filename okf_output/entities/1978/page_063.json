@@ -1,0 +1,55 @@
+{
+  "year": "1978",
+  "page": 63,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SVINCES IN HOGS SIGNO",
+  "students": [
+    {
+      "english_name": "SVINCES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SVINCES",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "IN HOGS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IN HOGS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "SIGNO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SIGNO",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_063_full.webp",
+  "extracted_photos": [
+    "1978_page_063_photo_1.webp"
+  ]
+}

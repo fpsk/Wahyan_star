@@ -1,0 +1,70 @@
+{
+  "year": "1975",
+  "page": 32,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SWIMMING GALA Flying Fish！",
+  "students": [
+    {
+      "english_name": "SWIMMING GALA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Flying",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Flying",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Splash",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Splash",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING GALA",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_032_full.webp",
+  "extracted_photos": [
+    "1975_page_032_photo_1.webp"
+  ]
+}

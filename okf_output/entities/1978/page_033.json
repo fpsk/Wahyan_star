@@ -1,0 +1,237 @@
+{
+  "year": "1978",
+  "page": 33,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "STUDENT NILAS STUDENT",
+  "students": [
+    {
+      "english_name": "STUDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "NILAS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NILAS",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "STUDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "TNT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TNT",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ORGANIZATIOT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ORGANIZATIOT",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "S STUDENT OR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S STUDENT OR",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "EORCANIZA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EORCANIZA",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "NRG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NRG",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "STUDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "ORGANIZATIONY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ORGANIZATIONY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "NORGANI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NORGANI",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "JRGA'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JRGA'",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "STUDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "ENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ENT",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ORGA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ORGA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ONS",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "STU'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STU'",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_033_full.webp",
+  "extracted_photos": [
+    "1978_page_033_photo_1.webp"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "year": "1978",
+  "page": 27,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "THE 15TH HONG KONG GROUP SCOUTS Patron: Rev. Fr. C. J. Barrett, S.J.",
+  "students": [
+    {
+      "english_name": "SCOUTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCOUTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "College,Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College,Hong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kong has had a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong has had a",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "As in the past years, we still had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As in the past years, we still had",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Atthe",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Atthe",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "However we find these",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However we find these",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "We would like",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We would like",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Finally, we would like to give our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, we would like to give our",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Patron: Rev. Fr. C. J. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Patron: Rev. Fr. C. J. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "most sincere thanks to Fr. Barrett, Mr. Yu",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "most sincere thanks to Fr. Barrett, Mr. Yu",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Our Patron, Advisers and Leaders",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Our Patron, Advisers and Leaders",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SCOUTS",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCOUTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "club_name": "new scouts are not as active as those in the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "new scouts are not as active as those in the",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "to thank all the scouts of our group who",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "to thank all the scouts of our group who",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_027_full.webp",
+  "extracted_photos": [
+    "1978_page_027_photo_1.webp",
+    "1978_page_027_photo_2.webp",
+    "1978_page_027_photo_3.webp",
+    "1978_page_027_photo_4.webp",
+    "1978_page_027_photo_5.webp"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "year": "1979",
+  "page": 66,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "賽比劇播廣校聯 解 放",
+  "students": [
+    {
+      "english_name": "JOINT SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT SCHOOL",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "ASTRONOMY EXHIBITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ASTRONOMY EXHIBITION",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "School Astronomy Exhibition, organized by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Astronomy Exhibition, organized by the",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Joint School Astronomical Society, started in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint School Astronomical Society, started in",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Since all of our projects were based in in-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Since all of our projects were based in in-",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "This year we had received help from about",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year we had received help from about",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Really, we had done our best and learned",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Really, we had done our best and learned",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The only joint project we entered was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The only joint project we entered was",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "was successful, and we would like to thank Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "was successful, and we would like to thank Fr.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Barrett, Fr. Cryan and Mr. S. K. Lee for their",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Barrett, Fr. Cryan and Mr. S. K. Lee for their",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Joint School Astronomical Society, started in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Joint School Astronomical Society, started in",
+        "start_char": 0,
+        "end_char": 45
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_066_full.webp",
+  "extracted_photos": []
+}

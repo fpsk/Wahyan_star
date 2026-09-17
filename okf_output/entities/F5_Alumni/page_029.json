@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 29,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Ma Chun Hon (馬鎮漢) • Luk Hoi Tak (陸海德) • Mak Chee Fai (麥志輝) • Ma Kin Chung (馬健忠)",
+  "students": [
+    {
+      "english_name": "Ma Chun Hon",
+      "chinese_name": "馬鎮漢",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Luk Hoi Tak",
+      "chinese_name": "陸海德",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Mak Chee Fai",
+      "chinese_name": "麥志輝",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ma Kin Chung",
+      "chinese_name": "馬健忠",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_029_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 29,
+      "english_name": "Ma Chun Hon",
+      "chinese_name": "馬鎮漢",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 29,
+      "english_name": "Luk Hoi Tak",
+      "chinese_name": "陸海德",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 29,
+      "english_name": "Mak Chee Fai",
+      "chinese_name": "麥志輝",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 29,
+      "english_name": "Ma Kin Chung",
+      "chinese_name": "馬健忠",
+      "class": "Form 5B1"
+    }
+  ]
+}

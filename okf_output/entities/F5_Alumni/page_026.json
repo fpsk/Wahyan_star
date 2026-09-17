@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 26,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Leung Kit Yin (梁傑賢) • Leung Wing Fung (梁永峯) • Lau Tak Yuen (劉德源) • Leung Wai Shing (梁威成)",
+  "students": [
+    {
+      "english_name": "Leung Kit Yin",
+      "chinese_name": "梁傑賢",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Leung Wing Fung",
+      "chinese_name": "梁永峯",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lau Tak Yuen",
+      "chinese_name": "劉德源",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Leung Wai Shing",
+      "chinese_name": "梁威成",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_026_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 26,
+      "english_name": "Leung Kit Yin",
+      "chinese_name": "梁傑賢",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 26,
+      "english_name": "Leung Wing Fung",
+      "chinese_name": "梁永峯",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 26,
+      "english_name": "Lau Tak Yuen",
+      "chinese_name": "劉德源",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 26,
+      "english_name": "Leung Wai Shing",
+      "chinese_name": "梁威成",
+      "class": "Form 5B1"
+    }
+  ]
+}

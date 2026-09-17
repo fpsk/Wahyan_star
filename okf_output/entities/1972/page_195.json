@@ -1,0 +1,29 @@
+{
+  "year": "1972",
+  "page": 195,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "空中庭園 典雅開静 當閣下乘搭日本航空公司747噴射客機時， 會發覺自己置身於一個清新脫俗的日本庭園境界.",
+  "students": [
+    {
+      "english_name": "JAL",
+      "chinese_name": "口航",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JAL 口航",
+        "start_char": 0,
+        "end_char": 3
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_195_full.webp",
+  "extracted_photos": [
+    "1972_page_195_photo_1.webp"
+  ]
+}

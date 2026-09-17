@@ -1,0 +1,40 @@
+{
+  "year": "1979",
+  "page": 166,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Eompliments SHUM SHING PRINTING CO. 7, SHIP STREET, GROUND FLOOR，",
+  "students": [
+    {
+      "english_name": "With the Eompliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Eompliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "SHUM SHING PRINTING CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHUM SHING PRINTING CO.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_166_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,133 @@
+{
+  "year": "1979",
+  "page": 167,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "McDonalds CPonel Friends，",
+  "students": [
+    {
+      "english_name": "McDonalds",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "McDonalds",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "CPonel",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CPonel",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Paterson Street, Causeway Bay, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Paterson Street, Causeway Bay, Hong Kong.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Lido, Beach Road, Repulse Bay, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lido, Beach Road, Repulse Bay, Hong Kong.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Fung House, Connaught Road, Central, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung House, Connaught Road, Central, Hong Kong.",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Nathan Road, Yaumati, Kowloon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nathan Road, Yaumati, Kowloon.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Golden Harvest Theatre, Jordan Road, Kowloon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Golden Harvest Theatre, Jordan Road, Kowloon.",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "King's Road, North Point, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King's Road, North Point, Hong Kong.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Causeway Bay, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Causeway Bay, Hong Kong.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_167_full.webp",
+  "extracted_photos": [
+    "1979_page_167_photo_1.webp"
+  ]
+}

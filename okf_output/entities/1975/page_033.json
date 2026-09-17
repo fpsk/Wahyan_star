@@ -1,0 +1,27 @@
+{
+  "year": "1975",
+  "page": 33,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "STUDENT ACTIVITIES",
+  "students": [
+    {
+      "english_name": "STUDENT ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT ACTIVITIES",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_033_full.webp",
+  "extracted_photos": []
+}

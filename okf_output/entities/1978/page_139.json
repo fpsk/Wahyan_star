@@ -1,0 +1,588 @@
+{
+  "year": "1978",
+  "page": 139,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 3B1（1977-78）",
+  "summary": "L082 32 Mr. K. S. Fung FORM 3B1（1977-78）",
+  "students": [
+    {
+      "english_name": "Lee Kam Hong",
+      "chinese_name": "歐陽錦耣",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Kam Hong 歐陽錦耣",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Siu Kee",
+      "chinese_name": "李錦康",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Siu Kee 李錦康",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Yu Sum",
+      "chinese_name": "張天錫",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yu Sum 張天錫",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Chi Chuen",
+      "chinese_name": "玉林",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chi Chuen 玉林",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheng Koon Wai",
+      "chinese_name": "家明",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Koon Wai 家明",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Li Sze Yiu",
+      "chinese_name": "孫華欽",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Sze Yiu 孫華欽",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Cheng Siu Cheong, Bernard",
+      "chinese_name": "家昌",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Siu Cheong, Bernard 家昌",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Ma Kai Sang",
+      "chinese_name": "司徒景康",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Kai Sang 司徒景康",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheng",
+      "chinese_name": "務仁",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng 務仁",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Wai Hung",
+      "chinese_name": "文博",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai Hung 文博",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Mak Kong Choi",
+      "chinese_name": "文德",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Kong Choi 文德",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheng Wai Man",
+      "chinese_name": "宇航",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Wai Man 宇航",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ng Chin Hang",
+      "chinese_name": "劉劉躍",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Chin Hang 劉劉躍",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheung Tin Shek",
+      "chinese_name": "柏偉",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Tin Shek 柏偉",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Sham Wai Shun, Peter",
+      "chinese_name": "錦祥",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sham Wai Shun, Peter 錦祥",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Cheung Yuk Lam",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Yuk Lam",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "SoKwong Chun",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SoKwong Chun",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Suen Wa Yam",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Suen Wa Yam",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chew Ka Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chew Ka Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chung Ka Cheung",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung Ka Cheung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Szeto Ching Hong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Szeto Ching Hong",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Fu Ming Wai",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fu Ming Wai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tam Wing Tsang",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Wing Tsang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Fung Mo Yan, William",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Mo Yan, William",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lsang Kwok Wing",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lsang Kwok Wing",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Go Yat Man",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Go Yat Man",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ko Man Pok",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ko Man Pok",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Kung Bun",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kung Bun",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Kwan Ki Pat",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwan Ki Pat",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Kwok Yin",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kwok Yin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lam Man Tak, Kenneth",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Man Tak, Kenneth",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Wong Li Kit",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Li Kit",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lam Yin Bong, Michael",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Yin Bong, Michael",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Wong Michael",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Michael",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lau Sning Tat",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Sning Tat",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Wai Sing",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Wai Sing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Woo Yiu Bo",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Woo Yiu Bo",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lau Yu Hong",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Yu Hong",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Law Pak Wai",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Law Pak Wai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wu Kim Hung, Bosco",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Kim Hung, Bosco",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lee Kam Cheung, Anthony",
+      "chinese_name": "",
+      "class_designation": "FORM 3B1（1977-78）",
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Kam Cheung, Anthony",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "32 Mr. K. S. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "32 Mr. K. S. Fung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_139_full.webp",
+  "extracted_photos": [
+    "1978_page_139_photo_1.webp"
+  ]
+}

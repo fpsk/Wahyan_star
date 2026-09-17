@@ -1,0 +1,53 @@
+{
+  "year": "1974",
+  "page": 142,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments SHUM SHING PRINTING COMPANY",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "SHUM SHING PRINTING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHUM SHING PRINTING",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COMPANY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_142_full.webp",
+  "extracted_photos": []
+}

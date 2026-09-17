@@ -1,0 +1,161 @@
+{
+  "year": "1974",
+  "page": 26,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "SPEECH DAY On the 29th Nov.，1973, the graduates had their Annual Speech Day. The They were fortunate to have Mr. N. M. Ho，",
+  "students": [
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "After the presentation and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After the presentation and the",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "S speech.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S speech.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Kelglon, nature, tne",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kelglon, nature, tne",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Unfortunately, they do not realise with anything like",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unfortunately, they do not realise with anything like",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "The ceremony was adjourned by some entertainments from the School Choir and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The ceremony was adjourned by some entertainments from the School Choir and",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Student Association.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Association.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "CRADUAT ION DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CRADUAT ION DAY",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "They were fortunate to have Mr. N. M. Ho，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "They were fortunate to have Mr. N. M. Ho，",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Mr. Ho was also sincerely gqrateful to be able to come and present",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Ho was also sincerely gqrateful to be able to come and present",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "the School Orchestra. Afterwards, the graduates were invited to a dinner by the Past",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the School Orchestra. Afterwards, the graduates were invited to a dinner by the Past",
+        "start_char": 0,
+        "end_char": 84
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_026_full.webp",
+  "extracted_photos": [
+    "1974_page_026_photo_1.webp",
+    "1974_page_026_photo_2.webp",
+    "1974_page_026_photo_3.webp",
+    "1974_page_026_photo_4.webp"
+  ]
+}

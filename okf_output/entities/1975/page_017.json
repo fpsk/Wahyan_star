@@ -1,0 +1,29 @@
+{
+  "year": "1975",
+  "page": 17,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL EVENT",
+  "students": [
+    {
+      "english_name": "SCHOOL EVENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL EVENT",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_017_full.webp",
+  "extracted_photos": [
+    "1975_page_017_photo_1.webp"
+  ]
+}

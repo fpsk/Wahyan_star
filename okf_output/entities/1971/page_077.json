@@ -1,0 +1,210 @@
+{
+  "year": "1971",
+  "page": 77,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "THE STARLET The Starlet, although six years old, is the expenses; so if our students do not sup-",
+  "students": [
+    {
+      "english_name": "THE STARLET",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE STARLET",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "The Starlet, although six years old, is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Starlet, although six years old, is",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "It tries",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It tries",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Beside the technical and financial dif-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Beside the technical and financial dif-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The Starlet is intended to be a medium for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Starlet is intended to be a medium for",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "It is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "It is perhaps",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is perhaps",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "This",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "It needs your",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It needs your",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Financially the Starlet depends mainly",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Financially the Starlet depends mainly",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Students are not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Students are not",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Finally, the Starlet is greatly indebted",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, the Starlet is greatly indebted",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "This definitely is not a good sign. The price",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This definitely is not a good sign. The price",
+        "start_char": 0,
+        "end_char": 45
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "tance, to our advisers Rev. Fr. Barrett and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "tance, to our advisers Rev. Fr. Barrett and",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Mr. M.S. Cheung for their help; to its staff",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M.S. Cheung for their help; to its staff",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_077_full.webp",
+  "extracted_photos": [
+    "1971_page_077_photo_1.webp"
+  ]
+}

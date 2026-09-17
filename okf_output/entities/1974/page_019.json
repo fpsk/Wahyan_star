@@ -1,0 +1,27 @@
+{
+  "year": "1974",
+  "page": 19,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL EVENTS",
+  "students": [
+    {
+      "english_name": "SCHOOL EVENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL EVENTS",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_019_full.webp",
+  "extracted_photos": []
+}

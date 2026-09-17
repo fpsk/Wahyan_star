@@ -1,0 +1,456 @@
+{
+  "year": "1975",
+  "page": 79,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Wah Yan Past Lo Chung Fai - St. Andrew's In Hong Kong University '73 - 274",
+  "students": [
+    {
+      "english_name": "Lo Chung Fai - St. Andrew's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Chung Fai - St. Andrew's",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Ho Kam Chuen, Ho Tak Hay, Kenneth",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kam Chuen, Ho Tak Hay, Kenneth",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Chan Piu Yan - University of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Piu Yan - University of",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Western Ontario",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Western Ontario",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Ip, Law Shiu Chuen.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ip, Law Shiu Chuen.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Victor Wu- Boston University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Victor Wu- Boston University",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Chu Chi Keung, Ho Yum Ting",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Chi Keung, Ho Yum Ting",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Poon Kin Sum, Shum Mau Kit.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Kin Sum, Shum Mau Kit.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Samuel Kwok - Boston",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Samuel Kwok - Boston",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lee Man Chiat - Cornell",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Man Chiat - Cornell",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Wong Kwok Wai, Yu Ho Chiu.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kwok Wai, Yu Ho Chiu.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Shiu Man - Vassar",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Shiu Man - Vassar",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Cheung Yui Kin, Hung Nap Ho.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Yui Kin, Hung Nap Ho.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Ho Wai Yiu - University of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Wai Yiu - University of",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Wisconsin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wisconsin",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Leung Bing Wah.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Bing Wah.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Yuen Kai Cheung - University of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Kai Cheung - University of",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Wisconsin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wisconsin",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ching Kwok Ho, Ng Liu Lok, Chau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ching Kwok Ho, Ng Liu Lok, Chau",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Wong Kin Ting - Washington",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kin Ting - Washington",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Wing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wing",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Leung Ho Fai, To Shu Shing, Fong Foo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Ho Fai, To Shu Shing, Fong Foo",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Wong Sze Cheung - Madison",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sze Cheung - Madison",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shing",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "United Kingdom",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "United Kingdom",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mark Poon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mark Poon",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "John Lam - York Memorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Lam - York Memorial",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Wu Ting Yuk - Teeside",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Ting Yuk - Teeside",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Collegiate Institute",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Collegiate Institute",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Polytechnic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Polytechnic",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_079_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,221 @@
+{
+  "year": "1979",
+  "page": 47,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "SCIENCE SOCIETY Advisers: Fr. M. Cryan Mr. S.K. Lee",
+  "students": [
+    {
+      "english_name": "FATHER Cryan had been our adviser for the past few years.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FATHER Cryan had been our adviser for the past few years.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "We regret his death and will never forget his advice to uS.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We regret his death and will never forget his advice to uS.",
+        "start_char": 0,
+        "end_char": 59
+      }
+    },
+    {
+      "english_name": "The class met regularly during the year. Slide shows and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The class met regularly during the year. Slide shows and",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "A. total of eight classes were given and four projects were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A. total of eight classes were given and four projects were",
+        "start_char": 0,
+        "end_char": 59
+      }
+    },
+    {
+      "english_name": "EREMOTE CONII",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EREMOTE CONII",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "It was held in April. Its aim was to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was held in April. Its aim was to",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "The Senior General Quiz was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Senior General Quiz was",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "In the coming Summer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the coming Summer",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Twelve films were shown in four sections.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Twelve films were shown in four sections.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "It was published and distributed free of charge to all members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was published and distributed free of charge to all members.",
+        "start_char": 0,
+        "end_char": 63
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers: Fr. M. Cryan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Fr. M. Cryan",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Mr. S.K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.K. Lee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. T. Y. Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. T. Y. Chan",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SCIENCE SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCIENCE SOCIETY",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "phy Society and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "phy Society and",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "our society for",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "our society for",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_047_full.webp",
+  "extracted_photos": [
+    "1979_page_047_photo_1.webp",
+    "1979_page_047_photo_2.webp"
+  ]
+}

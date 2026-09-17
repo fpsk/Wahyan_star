@@ -1,0 +1,43 @@
+{
+  "year": "1971",
+  "page": 115,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "The Religious Sounds of 71.It was a concert organized by the Serra Club to which all Catholics were welcomed. Its aim was to arouse the Christian spirit in the Catholics",
+  "students": [
+    {
+      "english_name": "Its aim was to arouse the Christian spirit in the Catholics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Its aim was to arouse the Christian spirit in the Catholics",
+        "start_char": 0,
+        "end_char": 59
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "The Religious Sounds of 71.It was a concert organized by the Serra Club to which",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Religious Sounds of 71.It was a concert organized by the Serra Club to which",
+        "start_char": 0,
+        "end_char": 80
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_115_full.webp",
+  "extracted_photos": [
+    "1971_page_115_photo_1.webp",
+    "1971_page_115_photo_2.webp"
+  ]
+}

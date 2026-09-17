@@ -1,0 +1,42 @@
+{
+  "year": "1979",
+  "page": 144,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "•星島書法 聖蠋之光 第三名",
+  "students": [
+    {
+      "english_name": "The",
+      "chinese_name": "聖蠋之光",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The 聖蠋之光",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Spacg",
+      "chinese_name": "第三名",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Spacg 第三名",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_144_full.webp",
+  "extracted_photos": [
+    "1979_page_144_photo_1.webp"
+  ]
+}

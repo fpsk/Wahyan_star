@@ -1,0 +1,134 @@
+{
+  "year": "1978",
+  "page": 65,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Competition mO Games",
+  "students": [
+    {
+      "english_name": "Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Competition",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Games",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Games",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Inter-house",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-house",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "The Chinese Cultural Night",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chinese Cultural Night",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Our Teachers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Teachers",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Our Students",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Students",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Our Student Teacher",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Student Teacher",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "The Social Work Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Social Work Exhibition",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "W. Y. C.H.K",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "W. Y. C.H.K",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_065_full.webp",
+  "extracted_photos": [
+    "1978_page_065_photo_1.webp",
+    "1978_page_065_photo_2.webp"
+  ]
+}

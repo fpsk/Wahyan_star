@@ -1,0 +1,94 @@
+{
+  "year": "1973",
+  "page": 14,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "親愛的朋友， 我們應該彼此相愛， 因為愛是出於天主的！",
+  "students": [
+    {
+      "english_name": "LET US LOVE ONE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LET US LOVE ONE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "BECAUSE LOVE IS FROM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BECAUSE LOVE IS FROM",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "GOD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GOD.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Bishop of Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bishop of Hong Kong",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Nominated Bishop of Hong Kong on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nominated Bishop of Hong Kong on",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Most Rev. Francis C. P.HsU-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Most Rev. Francis C. P.HsU-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_014_full.webp",
+  "extracted_photos": [
+    "1973_page_014_photo_1.webp"
+  ]
+}

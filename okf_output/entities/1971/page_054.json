@@ -1,0 +1,318 @@
+{
+  "year": "1971",
+  "page": 54,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "NEWS OF THE PAST Brief Review of Wah Yan （H.K.） Past Students' Association's Achievment",
+  "students": [
+    {
+      "english_name": "NEWS OF THE PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS OF THE PAST",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Association's Achievment",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Association's Achievment",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "By Hon. Sec.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "By Hon. Sec.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Since its incorporation under the Com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Since its incorporation under the Com-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Among",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Among",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Swimming Shed at South Bay after",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming Shed at South Bay after",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "King Restaurant, with majong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King Restaurant, with majong",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "College itself.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College itself.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Jun.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jun.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "A special Scholarship",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A special Scholarship",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "House in honour of Mr. Peter Tsui，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "House in honour of Mr. Peter Tsui，",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Mr. Paul Lim How Ping",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Paul Lim How Ping",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mr. Peter K. C. Hall （Chairman） and the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Peter K. C. Hall （Chairman） and the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Jan. — Mr. Kwan Man-wai F.C.C.A.， on",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Jan. — Mr. Kwan Man-wai F.C.C.A.， on",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Feb. — Mr. Paul Lim on “Industry & Its",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Feb. — Mr. Paul Lim on “Industry & Its",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Mar. — Rev. Fr. Grogan on “Catholic Ac-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mar. — Rev. Fr. Grogan on “Catholic Ac-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "respectively given by Mr. Li Yiu-bor",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "respectively given by Mr. Li Yiu-bor",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "and Mr. Joe Wu and attracted many",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. Joe Wu and attracted many",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Apr. — Mr. Li Fook-shiu on “H.K. Real",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Apr. — Mr. Li Fook-shiu on “H.K. Real",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "David Lee and Mr. Chou Cham Sun and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "David Lee and Mr. Chou Cham Sun and",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "May — Mr. Wan Tak-wah on \"Rediffusion",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "May — Mr. Wan Tak-wah on \"Rediffusion",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "— Mr. Cheng Yu-long on “Public Re-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "— Mr. Cheng Yu-long on “Public Re-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Fund in memory of the late Mr. Cromwell",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fund in memory of the late Mr. Cromwell",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Swimming Shed at South Bay after",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Shed at South Bay after",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_054_full.webp",
+  "extracted_photos": [
+    "1971_page_054_photo_1.webp"
+  ]
+}

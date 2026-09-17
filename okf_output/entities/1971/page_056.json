@@ -1,0 +1,170 @@
+{
+  "year": "1971",
+  "page": 56,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Lee Chuck Kwan '62 Cheng Chi Yan, Frank '57 Lee Fook Kay '50",
+  "students": [
+    {
+      "english_name": "Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lert Srichandra",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lert Srichandra",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chow",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Choy Wai Shuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choy Wai Shuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Foo Kam Soo, Stephen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Foo Kam Soo, Stephen",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Ho Sai Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Sai Kong",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Poon Kwong Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Kwong Chiu",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Kong ChiTai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong ChiTai",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Wai Kee Haw, Albert",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai Kee Haw, Albert",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Lau Hon Wing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Hon Wing",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_056_full.webp",
+  "extracted_photos": []
+}

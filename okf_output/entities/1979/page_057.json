@@ -1,0 +1,122 @@
+{
+  "year": "1979",
+  "page": 57,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "CARITAS BAZAAR The Annual Caritas Bazaar is one of the most important social service",
+  "students": [
+    {
+      "english_name": "CARITAS BAZAAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CARITAS BAZAAR",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "As usual, the four catholic societies of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As usual, the four catholic societies of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "During the summer vocation, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the summer vocation, we",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "With the help of the school authorities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the help of the school authorities",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "We had adopted a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had adopted a",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "We felt very satisfed not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We felt very satisfed not",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "All in all, it was a success.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All in all, it was a success.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "to our advisor, Rev.Fr. McGaley,all",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "to our advisor, Rev.Fr. McGaley,all",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_057_full.webp",
+  "extracted_photos": [
+    "1979_page_057_photo_1.webp",
+    "1979_page_057_photo_2.webp",
+    "1979_page_057_photo_3.webp"
+  ]
+}

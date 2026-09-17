@@ -1,0 +1,29 @@
+# Wah Yan Star 1973 - Page 125
+
+
+## Page Text Content
+
+```text
+Withthe Compliments
+PAK SHIU COMPANY
+CHINESE FREIGHT AGENTS
+FOR
+N. Y. K. LINE （HONG KONG） LIMITED
+P & O Building 9th Floor
+21 Des Voeux Road Central
+HONG KONG
+TELEPHONE: 5-248081（10 Lines）
+With the Compliments
+With the Compliments
+FOO HANG JEWELLERY
+IMPORTERS & WHOLESALES
+DIAMONDS
+WING LUNG BANK LIMITED
+HONG KONG
+富衡珠寶行
+ENTERTAINMENT BUILDING 16TH FLOOR.
+永隆銀行致意
+HONG KONG
+TEL. H-227087 （4 LINES）
+- 128 -
+```

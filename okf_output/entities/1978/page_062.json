@@ -1,0 +1,250 @@
+{
+  "year": "1978",
+  "page": 62,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "INTERNAL BRIDGE TOURNAMENT O 2 lzth November, an internal pair bridge",
+  "students": [
+    {
+      "english_name": "INTERNAL BRIDGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERNAL BRIDGE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "TOURNAMENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TOURNAMENT",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "As it was only for our students, it was free",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As it was only for our students, it was free",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "This year, six pairs were from the in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, six pairs were from the in",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "ALthough",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALthough",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "LOS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LOS",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Michael Tseng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Michael Tseng",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Archibald Woo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Archibald Woo",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Johnson Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Johnson Lam",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Ka Yan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ka Yan",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Wai Yuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wai Yuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Peter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "BALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BALL",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Maryknoll Sister",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maryknoll Sister",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "St. Francis Canossian Colege and St. Paul's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Francis Canossian Colege and St. Paul's",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Convent School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Convent School.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Instead, each and every-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Instead, each and every-",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_062_full.webp",
+  "extracted_photos": [
+    "1978_page_062_photo_1.webp"
+  ]
+}

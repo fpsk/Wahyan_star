@@ -1,0 +1,209 @@
+{
+  "year": "1973",
+  "page": 123,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments THE ASIA PROVISIONS CO.， LTD. PROVISION MERCHANTS",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "PROVISION MERCHANTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PROVISION MERCHANTS",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "SUPERMARKETS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUPERMARKETS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "BRANCHES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BRANCHES",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Sincere Co. Basement",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sincere Co. Basement",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Des Voeux Road C.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 173,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Des Voeux Road C.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Central, Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Central, Hong Kong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "North Point Market",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "North Point Market",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Pak Fuk Road, North Point",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pak Fuk Road, North Point",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Tsim Sha Tsui, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsim Sha Tsui, Kowloon",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Peak Tower",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peak Tower",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Cambridge Road",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cambridge Road",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "The Peak",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Peak",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_123_full.webp",
+  "extracted_photos": []
+}

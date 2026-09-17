@@ -1,0 +1,202 @@
+{
+  "year": "1972",
+  "page": 42,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Talent Time Winners： Folk Group： Ist: Douglas Van, John Lau，",
+  "students": [
+    {
+      "english_name": "Samuel Kook",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Samuel Kook",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "So Kuen Kwok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Kuen Kwok",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kwan, Charles",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwan, Charles",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Stan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stan",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Yip Siu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yip Siu",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tony",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tony",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Yeung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Our Champion",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Champion",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "So Kuen Kwok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Kuen Kwok",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Edward and Charles",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edward and Charles",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Our Champion",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Our Champion",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_042_full.webp",
+  "extracted_photos": [
+    "1972_page_042_photo_1.webp",
+    "1972_page_042_photo_2.webp",
+    "1972_page_042_photo_3.webp"
+  ]
+}

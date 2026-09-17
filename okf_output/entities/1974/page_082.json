@@ -1,0 +1,139 @@
+{
+  "year": "1974",
+  "page": 82,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "2T9092 FOOTBALL REVIEW LEAGUE CHAMPIONS - Our sChool A Grade Team had never got the title",
+  "students": [
+    {
+      "english_name": "FOOTBALL REVIEW",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOTBALL REVIEW",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "LEAGUE CHAMPIONS - Our sChool A Grade Team had never got the title",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEAGUE CHAMPIONS - Our sChool A Grade Team had never got the title",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "Finally, we would like to thank Fr. Corbally for his encouragement, Mr.Ip Fuk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, we would like to thank Fr. Corbally for his encouragement, Mr.Ip Fuk",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "A Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "C Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "B Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Wah & Mr. Li Sai Kuen for being our team-coaches.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Wah & Mr. Li Sai Kuen for being our team-coaches.",
+        "start_char": 0,
+        "end_char": 49
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "LEAGUE CHAMPIONS - Our sChool A Grade Team had never got the title",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "LEAGUE CHAMPIONS - Our sChool A Grade Team had never got the title",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "event_name": "won the League Champion 1973/74.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "won the League Champion 1973/74.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_082_full.webp",
+  "extracted_photos": [
+    "1974_page_082_photo_1.webp",
+    "1974_page_082_photo_2.webp",
+    "1974_page_082_photo_3.webp",
+    "1974_page_082_photo_4.webp"
+  ]
+}

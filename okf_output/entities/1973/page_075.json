@@ -1,0 +1,29 @@
+{
+  "year": "1973",
+  "page": 75,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "ART EXHIBITION/CITY HALL/18.19.20. APRIL/DA VINCI （ART） CLUB：",
+  "students": [],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "ART EXHIBITION/CITY HALL/18.19.20. APRIL/DA VINCI （ART） CLUB：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "ART EXHIBITION/CITY HALL/18.19.20. APRIL/DA VINCI （ART） CLUB：",
+        "start_char": 0,
+        "end_char": 61
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_075_full.webp",
+  "extracted_photos": [
+    "1973_page_075_photo_1.webp",
+    "1973_page_075_photo_2.webp"
+  ]
+}

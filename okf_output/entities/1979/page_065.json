@@ -1,0 +1,159 @@
+{
+  "year": "1979",
+  "page": 65,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "~！ SERVICES SERVY",
+  "students": [
+    {
+      "english_name": "SERVICES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SERVICES",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "SERVY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SERVY",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "MEDICAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MEDICAL",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "THE Sth Joint School Geography Ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE Sth Joint School Geography Ex-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Geography Association was held in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Geography Association was held in the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The exhibition itself was far from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The exhibition itself was far from",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Visitors gained much from the exhibits",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visitors gained much from the exhibits",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The whole exhibition was divided",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The whole exhibition was divided",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "But perhaps the most valuable",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But perhaps the most valuable",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "The group's research work began in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The group's research work began in",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Last of all, we were grateful to all",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Last of all, we were grateful to all",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_065_full.webp",
+  "extracted_photos": [
+    "1979_page_065_photo_1.webp"
+  ]
+}

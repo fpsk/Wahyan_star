@@ -1,0 +1,203 @@
+{
+  "year": "1978",
+  "page": 98,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "TENNIS C89 8 College. We were not discouraged and the",
+  "students": [
+    {
+      "english_name": "TENNIS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TENNIS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "College. We were not discouraged and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College. We were not discouraged and the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The team was recruites early enough this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The team was recruites early enough this",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Victor Un who left for England to further their",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Victor Un who left for England to further their",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "In addition to the interschool matches, the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In addition to the interschool matches, the",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Joined us.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joined us.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Our confidence was quite high this year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our confidence was quite high this year",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "friendly match with the teachers, namely, Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "friendly match with the teachers, namely, Fr.",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Farren, Fr. O'Rourke, Fr. Shields, Mr. Yung and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Farren, Fr. O'Rourke, Fr. Shields, Mr. Yung and",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Mr. Ip, in the Chinese New Year. It was such",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Ip, in the Chinese New Year. It was such",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "team represented the Tennis Club to play a",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "team represented the Tennis Club to play a",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "TENNIS",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "TENNIS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "event_name": "team represented the Tennis Club to play a",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "team represented the Tennis Club to play a",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "place in the Tennis League with Ng Wah",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "place in the Tennis League with Ng Wah",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_098_full.webp",
+  "extracted_photos": [
+    "1978_page_098_photo_1.webp",
+    "1978_page_098_photo_2.webp",
+    "1978_page_098_photo_3.webp",
+    "1978_page_098_photo_4.webp"
+  ]
+}

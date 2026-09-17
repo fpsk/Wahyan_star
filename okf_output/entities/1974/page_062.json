@@ -1,0 +1,166 @@
+{
+  "year": "1974",
+  "page": 62,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SOOIETY SOIENCE Advisers",
+  "students": [
+    {
+      "english_name": "SOOIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOOIETY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "SOIENCE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOIENCE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "An interschool Mathematics Quiz was organized by the Mathematics Society of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An interschool Mathematics Quiz was organized by the Mathematics Society of",
+        "start_char": 0,
+        "end_char": 75
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. D. Lawler",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. D. Lawler",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Rev. Fr. M. Cryan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. M. Cryan",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Leung Kin Yuen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Leung Kin Yuen",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Lee Sai Kuen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lee Sai Kuen",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mr. Chan Pui Yuen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chan Pui Yuen",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "6. Three issues of Scientia, our club magazine, were published and distributed free of",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "6. Three issues of Scientia, our club magazine, were published and distributed free of",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "club_name": "7. An interschool Mathematics Quiz was organized by the Mathematics Society of",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "7. An interschool Mathematics Quiz was organized by the Mathematics Society of",
+        "start_char": 0,
+        "end_char": 78
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_062_full.webp",
+  "extracted_photos": [
+    "1974_page_062_photo_1.webp"
+  ]
+}

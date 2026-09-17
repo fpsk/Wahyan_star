@@ -1,0 +1,328 @@
+{
+  "year": "1975",
+  "page": 68,
+  "section_type": "Class Roster",
+  "class_designation": "（L. 6A）",
+  "summary": "Cheistian Lite Community 1Serios/ Ecclesiastical Assistant : Rev. A. Farren, S.J.",
+  "students": [
+    {
+      "english_name": "Cheistian Lite",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheistian Lite",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Prefect",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prefect",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "One respresentative from our centre",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "One respresentative from our centre",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Meetig",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meetig",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Assenbly",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Assenbly",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "We had our general",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had our general",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "As one of the main activities of the",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As one of the main activities of the",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "A gathering for all Catholic students",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A gathering for all Catholic students",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Hong Kong Federation of Christian",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong Federation of Christian",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Life Communities, the Christian Life",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Life Communities, the Christian Life",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Society and C.L.c. on Christmas Eve.",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society and C.L.c. on Christmas Eve.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "There were games and a film show -",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There were games and a film show -",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Chinese University in August. A large",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese University in August. A large",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Our members also took part in a fund",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our members also took part in a fund",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "School as usual. Under the leadership",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School as usual. Under the leadership",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Straw Dogs'.",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Straw Dogs'.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "In March, there was another flm show",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In March, there was another flm show",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "August.",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "August.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The amount of donations and giftscol-",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The amount of donations and giftscol-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Ou stall put on a new look as the",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ou stall put on a new look as the",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "We made several visits to the meetings",
+      "chinese_name": "",
+      "class_designation": "（L. 6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We made several visits to the meetings",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Ecclesiastical Assistant : Rev. A. Farren, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Ecclesiastical Assistant : Rev. A. Farren, S.J.",
+        "start_char": 0,
+        "end_char": 47
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Society and C.L.c. on Christmas Eve.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society and C.L.c. on Christmas Eve.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_068_full.webp",
+  "extracted_photos": [
+    "1975_page_068_photo_1.webp"
+  ]
+}

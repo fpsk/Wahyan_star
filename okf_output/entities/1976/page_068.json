@@ -1,0 +1,42 @@
+{
+  "year": "1976",
+  "page": 68,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "eatholie Life Altar Boys A.OP. C.B.S.",
+  "students": [
+    {
+      "english_name": "Altar Boys",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Altar Boys",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "A.OP. C.B.S.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A.OP. C.B.S.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_068_full.webp",
+  "extracted_photos": [
+    "1976_page_068_photo_1.webp"
+  ]
+}

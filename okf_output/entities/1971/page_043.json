@@ -1,0 +1,1028 @@
+{
+  "year": "1971",
+  "page": 43,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 2A1",
+  "summary": "FORM 2A1 FORM 2B TN THE DENTIST'S CHAIR",
+  "students": [
+    {
+      "english_name": "TN THE DENTIST'S CHAIR",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TN THE DENTIST'S CHAIR",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "THE BEST LAID PLAN",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE BEST LAID PLAN",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Directors",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Directors",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Directors",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Directors",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cast",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cast",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Americo Chan",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Americo Chan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Yiu Hang",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Yiu Hang",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wood",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wood",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Cast",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cast",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Sherider",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sherider",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Bill",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bill",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Leung Po Choi",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Po Choi",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Dentist",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dentist",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Tseng Tai Hee",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tseng Tai Hee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Jack",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jack",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Murderer",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Murderer",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Billy Woo",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Billy Woo",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Kong Tat Phone",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Tat Phone",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Assistant",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Assistant",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Policeman",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Policeman",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Patrick Fong",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patrick Fong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tsang Hing Ning",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Hing Ning",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Murdered Man",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Murdered Man",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "John Lau",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Lau",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Primose",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Primose",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Fa Kwok Hung",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fa Kwok Hung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lau Tak Yuen",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Tak Yuen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Detective",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Detective",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Woman",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Woman",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Pang Wing Kin",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Wing Kin",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Detective",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Detective",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Policeman",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Policeman",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Wong Chi Sum",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chi Sum",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Wing Tong",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Wing Tong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Doctor",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Doctor",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Stage Manager",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stage Manager",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tsang Kwok Shun",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Kwok Shun",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Raymond Wong",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Raymond Wong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Prompters",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prompters",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Fong Mun Ho",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Mun Ho",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ma Wai Hung",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ma Wai Hung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lan Wan Bun",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lan Wan Bun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Plk Fal",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Plk Fal",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lee Chun Cheung",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Chun Cheung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "The play is about two burglars,Jack",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The play is about two burglars,Jack",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The one and only scene is laid in a",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The one and only scene is laid in a",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Jack had made very careful plans",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jack had made very careful plans",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "The transter from the real worlo",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The transter from the real worlo",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "But this was",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 50,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But this was",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "By a trick Jack",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 51,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "By a trick Jack",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "The central character is Kong Tat",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 52,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The central character is Kong Tat",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "While ,the dialogue was",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 53,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "While ,the dialogue was",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "The dentist was not always profes-",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 54,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The dentist was not always profes-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The dead man's entry was",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 55,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The dead man's entry was",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The policeman",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 56,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The policeman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "P.E. to give him a more drilled appear-",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 57,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "P.E. to give him a more drilled appear-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The scenery was good, especially the cur-",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 58,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The scenery was good, especially the cur-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "THE SHERIFE'S KITCHEN",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 59,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE SHERIFE'S KITCHEN",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Directors",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Directors",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Robin Hood",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 61,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Robin Hood",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lewis Tsoa",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 62,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lewis Tsoa",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Yip Kai Cheung",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 63,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yip Kai Cheung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cast",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 64,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cast",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Man-At-ArmS",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 65,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Man-At-ArmS",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Nim Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 66,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Nim Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Sheriff",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 67,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sheriff",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Guard",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 68,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Guard",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Cook",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 69,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cook",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Guard",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 70,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Guard",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Peter Chan",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 71,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Chan",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Steward",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 72,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Steward",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Lee Kum Chum",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 73,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Kum Chum",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Prompters",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 74,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prompters",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Little John",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 75,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Little John",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mo Chin Ho",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 76,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mo Chin Ho",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Friar Tuck",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 77,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friar Tuck",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Kong Yuen Chao",
+      "chinese_name": "",
+      "class_designation": "FORM 2A1",
+      "seat_number": 78,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Yuen Chao",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_043_full.webp",
+  "extracted_photos": []
+}

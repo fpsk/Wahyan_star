@@ -1,0 +1,296 @@
+{
+  "year": "1971",
+  "page": 74,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "VENTURE SCOUTS The programming and administration of the unit were fully entrusted",
+  "students": [
+    {
+      "english_name": "VENTURE SCOUTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VENTURE SCOUTS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "The programming and administration",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The programming and administration",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Executive Committee which consisted of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Executive Committee which consisted of",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Keung Kun and Ng Fook Hoi attended a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Keung Kun and Ng Fook Hoi attended a",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Leadership Training Course run by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leadership Training Course run by the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Regional Headquarters. The application",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Regional Headquarters. The application",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Sun was approved and he was the first ven-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sun was approved and he was the first ven-",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "SCOUTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCOUTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "The troop had the assistance of two",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The troop had the assistance of two",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Leung. A troop week-end camp was held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung. A troop week-end camp was held",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "If they win, they will be qualified for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If they win, they will be qualified for the",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Regional Competition and then the Colony-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Regional Competition and then the Colony-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Scouts Camp Gate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scouts Camp Gate",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Scout Troop",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scout Troop",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "VENTURE SCOUTS",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "VENTURE SCOUTS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "club_name": "venture scouts, Chan Chi Keung, Chow",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "venture scouts, Chan Chi Keung, Chow",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "for the Venture Scout Award for Lum Yuk",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "for the Venture Scout Award for Lum Yuk",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "ture scout of the unit to get that award.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "ture scout of the unit to get that award.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "SCOUTS",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCOUTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "club_name": "scouts had enrolled for the Eastern District",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "scouts had enrolled for the Eastern District",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "Scouts Camp Gate",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scouts Camp Gate",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "club_name": "Scout Troop",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Troop",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_074_full.webp",
+  "extracted_photos": [
+    "1971_page_074_photo_1.webp",
+    "1971_page_074_photo_2.webp"
+  ]
+}

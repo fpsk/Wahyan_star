@@ -1,0 +1,183 @@
+{
+  "year": "1971",
+  "page": 188,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Order your 迅達旅遊貿易有限公司 Favourite Food, Drink",
+  "students": [
+    {
+      "english_name": "Order your",
+      "chinese_name": "興眾不同",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Order your 興眾不同",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Favourite Food, Drink",
+      "chinese_name": "全新編排",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Favourite Food, Drink 全新編排",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "WING SANG CHEONG LTD.",
+      "chinese_name": "出發日期",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WING SANG CHEONG LTD. 出發日期",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "The Long Est'd Food Providers",
+      "chinese_name": "店總",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Long Est'd Food Providers 店總",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Main Shop",
+      "chinese_name": "店分區東",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Main Shop 店分區東",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Peel",
+      "chinese_name": "八月十六日",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peel 八月十六日",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Tel.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tel.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Eastern Branch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eastern Branch",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Past Students Association Ltd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Past Students Association Ltd.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. S.Y. TING",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.Y. TING",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_188_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,219 @@
+{
+  "year": "1973",
+  "page": 79,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "HISTORY CLUB Advisers ：Rev. Fr. MCGaley, S.J.",
+  "students": [
+    {
+      "english_name": "HISTORY CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HISTORY CLUB",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mrs. H. Lee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. H. Lee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "History Quiz. The winner in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "History Quiz. The winner in the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Al.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Al.",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "We had a Christmas Party for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had a Christmas Party for the",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "TThere was another",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TThere was another",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Egypt. During it, slides were shown.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Egypt. During it, slides were shown.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "There was a debate between the tea-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There was a debate between the tea-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. MCGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. MCGaley, S.J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mr. Lee Ngok.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lee Ngok.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "lecture by Mr. Chu Wai Tak on",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "lecture by Mr. Chu Wai Tak on",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Talk by Mr. Lee Ngok on Chinese Communism",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Talk by Mr. Lee Ngok on Chinese Communism",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "HISTORY CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "HISTORY CLUB",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "club_name": "vember, the club held an Interclass",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "vember, the club held an Interclass",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_079_full.webp",
+  "extracted_photos": [
+    "1973_page_079_photo_1.webp"
+  ]
+}

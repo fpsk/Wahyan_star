@@ -1,0 +1,66 @@
+{
+  "year": "1972",
+  "page": 199,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Olith the Complinents Shum Shing Printing Co. GENERAL PRINTERS",
+  "students": [
+    {
+      "english_name": "Olith the Complinents",
+      "chinese_name": "琛印刷空司",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Olith the Complinents 琛印刷空司",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Shum Shing Printing Co.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shum Shing Printing Co.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "GENERAL PRINTERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GENERAL PRINTERS",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_199_full.webp",
+  "extracted_photos": []
+}

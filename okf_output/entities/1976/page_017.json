@@ -1,0 +1,469 @@
+{
+  "year": "1976",
+  "page": 17,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOLARSHIPS Government Scholarships for Secondary School Course： Kwong Chuk Kun",
+  "students": [
+    {
+      "english_name": "SCHOLARSHIPS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOLARSHIPS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kwong Chuk Kun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong Chuk Kun",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "SUCJECT PRIZE WINNERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUCJECT PRIZE WINNERS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Law Sin Kin",
+      "chinese_name": "羅先建",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Law Sin Kin 羅先建",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "First in English Language",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in English Language",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Lui Siu Seck",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lui Siu Seck",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "First in Chinese Language",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Chinese Language",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Chui Chi Fai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chui Chi Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "First in Chinese History",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Chinese History",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Sek Kwong 潘錫光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "First in Biology and Physics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Biology and Physics",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Fan Man Kwong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fan Man Kwong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "First in History",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in History",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Wu Ying Kin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Ying Kin",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "First in Geography",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Geography",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Cheng Kwok Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Kwok Ming",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "First in Chemistry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Chemistry",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Tam Kwai Ki",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Kwai Ki",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "First in Mathematics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Mathematics",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Pang Che Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Che Hong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "First in Biblical Knowledge",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First in Biblical Knowledge",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "First place",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First place",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHINESE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHINESE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Leung Sing Chow",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Sing Chow",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Leung Kun Yu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kun Yu",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fung King Tak",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung King Tak",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "To Wing Kee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To Wing Kee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "SPECIAL AWARDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPECIAL AWARDS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yu Mun Kee, Roy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Mun Kee, Roy",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Wong Hon Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Hon Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tsang Hing Ning",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang Hing Ning",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Gold Medal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gold Medal",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Tsui Chi Kin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Chi Kin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Silver Medal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Silver Medal",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yu Mun Kee, Roy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Mun Kee, Roy",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_017_full.webp",
+  "extracted_photos": []
+}

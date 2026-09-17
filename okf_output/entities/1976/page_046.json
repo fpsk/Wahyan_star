@@ -1,0 +1,173 @@
+{
+  "year": "1976",
+  "page": 46,
+  "section_type": "Class Roster",
+  "class_designation": "： Dennis Au Kin Kwok （L6A）",
+  "summary": "Prefeets School 50070 23",
+  "students": [
+    {
+      "english_name": "Prefeets",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prefeets",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "School",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Head Prefect",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Prefect",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Six prefects left school in the early part of",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Six prefects left school in the early part of",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Prefects who left for their exams.",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prefects who left for their exams.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "In December, our prefects were invited by the prefects of B.P.S. to a folk dance.",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In December, our prefects were invited by the prefects of B.P.S. to a folk dance.",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "Everyone enjoyed the dance very much. In February we had a football match with our",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Everyone enjoyed the dance very much. In February we had a football match with our",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "The 'Sale of old Books' organized by the Prefects during the summer holiday was very",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The 'Sale of old Books' organized by the Prefects during the summer holiday was very",
+        "start_char": 0,
+        "end_char": 84
+      }
+    },
+    {
+      "english_name": "We are much indebted to Mr. Chau and the School Authorities for encouraging us",
+      "chinese_name": "",
+      "class_designation": "： Dennis Au Kin Kwok （L6A）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are much indebted to Mr. Chau and the School Authorities for encouraging us",
+        "start_char": 0,
+        "end_char": 78
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "： Mr. S. H.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. S. H.Chan",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "order and discipline at various functions such as Speech Day, Swimming Gala, Annual Ball，",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "order and discipline at various functions such as Speech Day, Swimming Gala, Annual Ball，",
+        "start_char": 0,
+        "end_char": 89
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_046_full.webp",
+  "extracted_photos": [
+    "1976_page_046_photo_1.webp"
+  ]
+}

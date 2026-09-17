@@ -1,0 +1,666 @@
+{
+  "year": "1971",
+  "page": 60,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "OLD BOYS IN AND OUT --- Chan Cheong Him, Ignatius， （Sunney Professor",
+  "students": [
+    {
+      "english_name": "OLD BOYS IN AND OUT ---",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OLD BOYS IN AND OUT ---",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Professor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Professor",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Since",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Since",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "California Institute of Technology.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "California Institute of Technology.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "He had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He had",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Taiwan.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Taiwan.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Ignatius was born in U.S.A.So",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ignatius was born in U.S.A.So",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Yuen now",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen now",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Ph.D. in Caltech. Ignatius advises present",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ph.D. in Caltech. Ignatius advises present",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Last year, Caltech ac-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Last year, Caltech ac-",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Hong Kong but",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong but",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ignatius' brother David Chan Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ignatius' brother David Chan Cheong",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "King is a Ph.D. of Purdue and is now a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King is a Ph.D. of Purdue and is now a",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Vincent Tse Kin Tsuen is a doctor in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vincent Tse Kin Tsuen is a doctor in",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Queen Mary Hospital in the Radio Therapy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen Mary Hospital in the Radio Therapy",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Dept.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dept.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Michael Ma Chung Woon is in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Michael Ma Chung Woon is in the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Trade Development Council as Trade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Trade Development Council as Trade",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "David Lee See Ning S.J.is doing an",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David Lee See Ning S.J.is doing an",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Ricci Hall.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ricci Hall.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "John",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Cheng Loy Fun, Bernard is in I.B.M.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Loy Fun, Bernard is in I.B.M.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Chan Kai Kay, Stephen is a physio-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kai Kay, Stephen is a physio-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Yam Kuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yam Kuen",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Donald Tsang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Donald Tsang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Education officer in Govt. Service.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Education officer in Govt. Service.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Peter Ng is teaching in Raimondi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Ng is teaching in Raimondi",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "U.C. Berkeley, studying Electrical Engineer-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.C. Berkeley, studying Electrical Engineer-",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "College, having taken his B.A. degree from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College, having taken his B.A. degree from",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Chung Chi College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung Chi College.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Peter Kwok is studying Hotel Manage-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Kwok is studying Hotel Manage-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Man Shing Kwan is a Senior Inspector",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Man Shing Kwan is a Senior Inspector",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Dickson Yuen is an executive officer in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dickson Yuen is an executive officer in",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Eugene Lau Man Wai and Paul Lee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eugene Lau Man Wai and Paul Lee",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Government.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Government.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lam Foo are in Advertising.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Foo are in Advertising.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Thomas Chick is with the firm of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas Chick is with the firm of",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Chan Tai Yau is with Textile Alliance.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tai Yau is with Textile Alliance.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "David So is a supervisor in CPA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David So is a supervisor in CPA",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Tong Hung Fai is a teacher.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Hung Fai is a teacher.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Chan Yue Yan is back from Australia.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yue Yan is back from Australia.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Yiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yiu",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Lai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "He is B.A. in Maths and Philosophy. He",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He is B.A. in Maths and Philosophy. He",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Joseph Lau Yun Wing is an accoun-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joseph Lau Yun Wing is an accoun-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Lee Yick Chee is back from Canada-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Yick Chee is back from Canada-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Wong Sze Kwong is a lawyer.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sze Kwong is a lawyer.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_060_full.webp",
+  "extracted_photos": [
+    "1971_page_060_photo_1.webp"
+  ]
+}

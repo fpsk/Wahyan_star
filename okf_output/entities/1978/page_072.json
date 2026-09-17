@@ -1,0 +1,215 @@
+{
+  "year": "1978",
+  "page": 72,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "JOINT SCHOOL SOCIAL WORK EXHIBITION",
+  "students": [
+    {
+      "english_name": "JOINT SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT SCHOOL",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "SOCIAL WORK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOCIAL WORK",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "EXHIBITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EXHIBITION",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Social Work Exhibition held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Work Exhibition held",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Head Family Services Division of the Socal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Family Services Division of the Socal",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Welfare Department, to cut the ribbon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Welfare Department, to cut the ribbon.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The exhibition aimed at arousing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The exhibition aimed at arousing",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "At the same time, it promoted triend",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the same time, it promoted triend",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "WOrk.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WOrk.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "On the boards, the definition and history",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On the boards, the definition and history",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "The Opening Ceremony",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Opening Ceremony",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Moreover,in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Moreover,in",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "As a conclusion, it imparted to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As a conclusion, it imparted to",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Lastly, the organiser",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, the organiser",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Some of the V.l.P.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Some of the V.l.P.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_072_full.webp",
+  "extracted_photos": [
+    "1978_page_072_photo_1.webp",
+    "1978_page_072_photo_2.webp",
+    "1978_page_072_photo_3.webp",
+    "1978_page_072_photo_4.webp",
+    "1978_page_072_photo_5.webp"
+  ]
+}

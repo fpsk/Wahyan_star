@@ -1,0 +1,484 @@
+{
+  "year": "1979",
+  "page": 102,
+  "section_type": "Class Roster",
+  "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+  "summary": "Fr.Reid LOWER FORM 6 SCIENCE（1978-79） 陳智郁",
+  "students": [
+    {
+      "english_name": "Chan Chi Yuk",
+      "chinese_name": "陳智郁",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chi Yuk 陳智郁",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Chi Hung, Joseph",
+      "chinese_name": "陳俊銘",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Chi Hung, Joseph 陳俊銘",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Chan Chun Ming",
+      "chinese_name": "陳漢明",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chun Ming 陳漢明",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lo Tak Shing, Peter",
+      "chinese_name": "陳庭輝",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Tak Shing, Peter 陳庭輝",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Chan Hon Ming",
+      "chinese_name": "陳偉康",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Hon Ming 陳偉康",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Pang Chung Kit",
+      "chinese_name": "張志倫",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Chung Kit 張志倫",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Ting Fai",
+      "chinese_name": "張明智",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ting Fai 張明智",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Pang Heung Wing, Dominic",
+      "chinese_name": "趙民忠",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Heung Wing, Dominic 趙民忠",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Shum Sze Ho",
+      "chinese_name": "霍偉傑",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shum Sze Ho 霍偉傑",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Wai Hong",
+      "chinese_name": "馮兆麟",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Hong 馮兆麟",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tan Chin An",
+      "chinese_name": "姚明宗",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tan Chin An 姚明宗",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheung Chi Lun",
+      "chinese_name": "黎文傑",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chi Lun 黎文傑",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cheung Ming Chee, Michael",
+      "chinese_name": "黎永康",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Ming Chee, Michael 黎永康",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Ting Chick Kee",
+      "chinese_name": "林子顥",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ting Chick Kee 林子顥",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chiu Man Chung",
+      "chinese_name": "劉啓漢",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Man Chung 劉啓漢",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "To Wing Kee",
+      "chinese_name": "劉建新",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To Wing Kee 劉建新",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tse Pak On",
+      "chinese_name": "劉仕强",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Pak On 劉仕强",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Fouk Wai Kit",
+      "chinese_name": "李以楷",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fouk Wai Kit 李以楷",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fung Shiu Lun, Anthony",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Shiu Lun, Anthony",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Tse Siu Ming",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Siu Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tseung Sik Yin",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tseung Sik Yin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Iu Ming ChungPeter",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Iu Ming ChungPeter",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lai Man Kit, Augustine",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Man Kit, Augustine",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Tsui Hing Chung",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Hing Chung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Wong Kim Ming",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kim Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lai Wing Hong, Joseph",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Wing Hong, Joseph",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lam Tsze Ho",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Tsze Ho",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Sing Ho",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sing Ho",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yu Wai Le",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Wai Le",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Lau Kai Hon",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Kai Hon",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lau Kin Sun",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Kin Sun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yuen Hong Sang, Anthony",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Hong Sang, Anthony",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Lau Sze Keung",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Sze Keung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yung Chiu Wah",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yung Chiu Wah",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lee Yee Kai, Charles",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 SCIENCE（1978-79）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Yee Kai, Charles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr.Reid",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.Reid",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_102_full.webp",
+  "extracted_photos": [
+    "1979_page_102_photo_1.webp"
+  ]
+}

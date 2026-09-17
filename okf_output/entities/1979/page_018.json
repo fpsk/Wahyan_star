@@ -1,0 +1,225 @@
+{
+  "year": "1979",
+  "page": 18,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "JUNIOR RED CROSS Patron: Fr. C.J. Barrett, S.J. Cadet Officer: Mr. Adrian Lee",
+  "students": [
+    {
+      "english_name": "JUNIOR RED CROSS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JUNIOR RED CROSS",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "A' the beginning of this academic year, our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A' the beginning of this academic year, our",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "We also took part in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We also took part in the",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The unit practised drilling frequently and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The unit practised drilling frequently and",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "First aiders from our unit were sent out to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First aiders from our unit were sent out to",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "An Easter Project",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An Easter Project",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Besides service and training, the unit also",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Besides service and training, the unit also",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "St. Francis Canossian College for approximatey",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Francis Canossian College for approximatey",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "The unit participated in the Sports",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The unit participated in the Sports",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Day and the Swimming Gala arranged by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Day and the Swimming Gala arranged by the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Summer, a service project is to be held for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Summer, a service project is to be held for",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "In this year, the unit has prepared some",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In this year, the unit has prepared some",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Patron: Fr. C.J. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Patron: Fr. C.J. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Cadet Officer: Mr. Adrian Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Cadet Officer: Mr. Adrian Lee",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Day and the Swimming Gala arranged by the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Day and the Swimming Gala arranged by the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_018_full.webp",
+  "extracted_photos": [
+    "1979_page_018_photo_1.webp"
+  ]
+}

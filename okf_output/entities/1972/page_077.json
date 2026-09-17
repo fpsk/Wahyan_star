@@ -1,0 +1,441 @@
+{
+  "year": "1972",
+  "page": 77,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "THE LET'S GET TOGETHBR CLUB （MUSIC SOCIETY） This year, the Let's Get Together",
+  "students": [
+    {
+      "english_name": "THE LET'S GET TOGETHBR CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE LET'S GET TOGETHBR CLUB",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "This year, the Let's Get Together",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, the Let's Get Together",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Club.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Eleven leading schools",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eleven leading schools",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Christian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christian",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Students of Mary-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Students of Mary-",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Music Club of Ying",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Club of Ying",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "The Music Association of St. Stephen's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Music Association of St. Stephen's",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The Tri-M Society of St. Paul's Secondary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Tri-M Society of St. Paul's Secondary",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "School. We also invited our own Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School. We also invited our own Chinese",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Dramatic Club to be in charge of light",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dramatic Club to be in charge of light",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ltd.and Tsang Fook Piano Company and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ltd.and Tsang Fook Piano Company and",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Assistant Principal, Mr. Raymond Yu. It",
+      "chinese_name": "余本良",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Assistant Principal, Mr. Raymond Yu. It",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "ing. Guests like Mr. Derek Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ing. Guests like Mr. Derek Cheung",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "it was compered by Mr. Keith Tao. Pro-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "it was compered by Mr. Keith Tao. Pro-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "THE LET'S GET TOGETHBR CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "THE LET'S GET TOGETHBR CLUB",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "club_name": "（MUSIC SOCIETY）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "（MUSIC SOCIETY）",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "Club is half a decade old. It was formed",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club is half a decade old. It was formed",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "er of members in the club is greatly de",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "er of members in the club is greatly de",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "club_name": "creased this year. But still the Club or-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "creased this year. But still the Club or-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "the distribution of school reports, the Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the distribution of school reports, the Club",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "Society of St. Joseph's College 3） The Folk",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society of St. Joseph's College 3） The Folk",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "Club of Diocesan Girls'School 4） The",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club of Diocesan Girls'School 4） The",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "Music Club of Wah Yan College Kow-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Music Club of Wah Yan College Kow-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "club_name": "loon 5） The Music Appreciation Club and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "loon 5） The Music Appreciation Club and",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "knoll Sisters' School 6） The Music Club of",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "knoll Sisters' School 6） The Music Club of",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "club_name": "Music Club of Ying",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Music Club of Ying",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "club_name": "Girls’College 9） The Music Club of St.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Girls’College 9） The Music Club of St.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "Society of St. Paul's Convent School 11）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society of St. Paul's Convent School 11）",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "The Tri-M Society of St. Paul's Secondary",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Tri-M Society of St. Paul's Secondary",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "Dramatic Club to be in charge of light",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Dramatic Club to be in charge of light",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_077_full.webp",
+  "extracted_photos": [
+    "1972_page_077_photo_1.webp",
+    "1972_page_077_photo_2.webp"
+  ]
+}

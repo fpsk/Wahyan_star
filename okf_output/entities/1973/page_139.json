@@ -1,0 +1,146 @@
+{
+  "year": "1973",
+  "page": 139,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "DUTCH BABY THE EVAPORATED MILK",
+  "students": [
+    {
+      "english_name": "DUTCH BABY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DUTCH BABY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "EVAPORATED MILK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVAPORATED MILK",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Full cream unsweetened",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Full cream unsweetened",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "DNE DUTCHBXBY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DNE DUTCHBXBY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "SOLL CREAM UNSWE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOLL CREAM UNSWE",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "TRAD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRAD",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SVAPORATEEM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SVAPORATEEM",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "On sale at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On sale at",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Holland House.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Holland House.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_139_full.webp",
+  "extracted_photos": [
+    "1973_page_139_photo_1.webp"
+  ]
+}

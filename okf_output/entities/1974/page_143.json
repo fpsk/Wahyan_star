@@ -1,0 +1,42 @@
+{
+  "year": "1974",
+  "page": 143,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "INTEHNATTON,FIRST 第 CLOTHIERS",
+  "students": [
+    {
+      "english_name": "INTEHNATTON,FIRST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTEHNATTON,FIRST",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "CLOTHIERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CLOTHIERS",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_143_full.webp",
+  "extracted_photos": [
+    "1974_page_143_photo_1.webp"
+  ]
+}

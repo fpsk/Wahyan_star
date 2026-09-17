@@ -1,0 +1,123 @@
+{
+  "year": "1972",
+  "page": 202,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "School Prefects Picnic Friendly match between Wah Yan H.K. and Pun",
+  "students": [
+    {
+      "english_name": "School Prefects Picnic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Prefects Picnic",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Friendly match between",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friendly match between",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Schoor.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Schoor.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Scout Cubs Winners",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scout Cubs Winners",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "First Place Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First Place Competition",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Music Festival Certificate holders",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Festival Certificate holders",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Scout Cubs Winners",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Cubs Winners",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_202_full.webp",
+  "extracted_photos": [
+    "1972_page_202_photo_1.webp",
+    "1972_page_202_photo_2.webp",
+    "1972_page_202_photo_3.webp",
+    "1972_page_202_photo_4.webp"
+  ]
+}

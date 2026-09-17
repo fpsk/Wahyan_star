@@ -1,0 +1,66 @@
+{
+  "year": "1974",
+  "page": 136,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Witk the Conplimends SINN CONSTRUCTION CO. BUILDING CONTRACTORS",
+  "students": [
+    {
+      "english_name": "Witk the Conplimends",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Witk the Conplimends",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "SINN CONSTRUCTION CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SINN CONSTRUCTION CO.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "BUILDING CONTRACTORS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BUILDING CONTRACTORS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "SHIP G HOUSE PAINTERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHIP G HOUSE PAINTERS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_136_full.webp",
+  "extracted_photos": []
+}

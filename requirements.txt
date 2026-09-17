@@ -1,0 +1,2 @@
+# Wah Yan Star Web Application
+# Standard library only (http.server, socketserver, urllib)

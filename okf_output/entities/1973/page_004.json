@@ -1,0 +1,279 @@
+{
+  "year": "1973",
+  "page": 4,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "EDITORIAL Mrs. Cissy Lau was on the Staff from The upper part of our avenue suf-",
+  "students": [
+    {
+      "english_name": "EDITORIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Mrs. Cissy Lau was on the Staff from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Cissy Lau was on the Staff from",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Sabrina Yung, our very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sabrina Yung, our very",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Staff.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Staff.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "We welcome new teachers - Messrs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We welcome new teachers - Messrs.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "M. C. Lee, S. K. Lee and Miss Winnie",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. C. Lee, S. K. Lee and Miss Winnie",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Ting, also, James Tong and David Lee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ting, also, James Tong and David Lee",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Our Hong Kong School Certifcate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Hong Kong School Certifcate",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Examination results were good. Of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Examination results were good. Of the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The school library will henceforth be",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The school library will henceforth be",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "We have much pleasure in reporting",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We have much pleasure in reporting",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "We congratulate Mr. F. K. Li who",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We congratulate Mr. F. K. Li who",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Dr. Ma Pak Shee three generations of",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. Ma Pak Shee three generations of",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "his father, Mr. Ma Ying, to pay off the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "his father, Mr. Ma Ying, to pay off the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Mr. Gordon Wu, a past student and a",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Gordon Wu, a past student and a",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Mr. K. Y. Lo and Mr. George Hong Choy",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. Y. Lo and Mr. George Hong Choy",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Mr. Lo was on our Staff from 1938",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lo was on our Staff from 1938",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "that Mr. Kong Tak Yan has donated the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "that Mr. Kong Tak Yan has donated the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "War 41-45. Mr. George Hong Choy",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "War 41-45. Mr. George Hong Choy",
+        "start_char": 0,
+        "end_char": 31
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "keen scout at school, has kindly donated",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "keen scout at school, has kindly donated",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "the scout headquarters in the school.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the scout headquarters in the school.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_004_full.webp",
+  "extracted_photos": []
+}

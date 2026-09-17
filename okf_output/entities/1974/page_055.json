@@ -1,0 +1,144 @@
+{
+  "year": "1974",
+  "page": 55,
+  "section_type": "Class Roster",
+  "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+  "summary": "Sehool Yrefeets Adviser ： Mr. S. H. Chau",
+  "students": [
+    {
+      "english_name": "Sehool Yrefeets",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sehool Yrefeets",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Head Prefect",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Prefect",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "The duty of a School Prefect is to keep the school in good order.",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The duty of a School Prefect is to keep the school in good order.",
+        "start_char": 0,
+        "end_char": 65
+      }
+    },
+    {
+      "english_name": "Besides the regular duties at the stair case, along the corridor, in the Tuck Shop",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Besides the regular duties at the stair case, along the corridor, in the Tuck Shop",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "School Hall and at the entrance of the corridor leading to the Common Room. We",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Hall and at the entrance of the corridor leading to the Common Room. We",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "The Sale of Old Books' organised by the School Prefects during the summer",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Sale of Old Books' organised by the School Prefects during the summer",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "english_name": "We must thank most heartily Mr. Chau and the School Authorities in encourag-",
+      "chinese_name": "",
+      "class_designation": "This year we had 9 Prefects from lower six and 6 from F.5 making up a",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We must thank most heartily Mr. Chau and the School Authorities in encourag-",
+        "start_char": 0,
+        "end_char": 76
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "： Mr. S. H. Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. S. H. Chau",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "total of 25. We were glad to have Mr. S.H. Chau as our adviser.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "total of 25. We were glad to have Mr. S.H. Chau as our adviser.",
+        "start_char": 0,
+        "end_char": 63
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_055_full.webp",
+  "extracted_photos": [
+    "1974_page_055_photo_1.webp"
+  ]
+}

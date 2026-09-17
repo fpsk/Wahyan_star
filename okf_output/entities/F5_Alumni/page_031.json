@@ -1,0 +1,108 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 31,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Ng Pak Kan (吳栢芹) • Ng Siu Fai (吳少輝) • Ngai Tak Ping (魏德平) • Ng Pak Shing, Simon (吳百誠)",
+  "students": [
+    {
+      "english_name": "Ng Pak Kan",
+      "chinese_name": "吳栢芹",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "吳柏芹"
+      ]
+    },
+    {
+      "english_name": "Ng Siu Fai",
+      "chinese_name": "吳少輝",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ngai Tak Ping",
+      "chinese_name": "魏德平",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ng Pak Shing, Simon",
+      "chinese_name": "吳百誠",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "伍百成",
+        "伍百誠"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_031_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Pak Kan",
+      "chinese_name": "吳栢芹",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Pak Kan",
+      "chinese_name": "吳柏芹",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Siu Fai",
+      "chinese_name": "吳少輝",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ngai Tak Ping",
+      "chinese_name": "魏德平",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Pak Shing, Simon",
+      "chinese_name": "吳百誠",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Pak Shing, Simon",
+      "chinese_name": "伍百成",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 31,
+      "english_name": "Ng Pak Shing, Simon",
+      "chinese_name": "伍百誠",
+      "class": "Form 5B"
+    }
+  ]
+}

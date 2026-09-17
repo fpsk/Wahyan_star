@@ -1,0 +1,68 @@
+{
+  "year": "1978",
+  "page": 82,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Private Eyes？ Bridge over... Treasure Hunt！",
+  "students": [
+    {
+      "english_name": "Bridge over...",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bridge over...",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "What do you mean by...",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "What do you mean by...",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Hurry Up......",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hurry Up......",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "It's more than a soft drink",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It's more than a soft drink",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_082_full.webp",
+  "extracted_photos": [
+    "1978_page_082_photo_1.webp"
+  ]
+}

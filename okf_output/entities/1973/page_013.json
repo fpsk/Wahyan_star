@@ -1,0 +1,53 @@
+{
+  "year": "1973",
+  "page": 13,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "UPON THE EARTH",
+  "students": [
+    {
+      "english_name": "UPON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UPON",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "EARTH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EARTH",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_013_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,23 @@
+# Wah Yan Star 1972 - Page 183
+
+## Extracted Photos & Figures
+
+![1972 Page 183 Photo](../photos/1972_page_183_photo_1.webp)
+
+## Page Text Content
+
+```text
+九港
+Jho Kint Kee
+HAICH CO.
+HEAD CEFICE
+597 NATHAN ROAD, KOWLOON
+TE-K887714 887688
+301 KING S ROAD. NORTH POINT
+TEL A 701426
+HONG KONG
+WATCHSCOLTDS
+8ONOS THESTTE）
+KIAEIETONG KOWLOON
+②4E⅓€9$519 891805
+```

@@ -1,0 +1,79 @@
+{
+  "year": "1976",
+  "page": 156,
+  "section_type": "Class Roster",
+  "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+  "summary": "With the Compliments DELIGHT AIR TRANSPORTATION LTD.",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "客務總代理",
+      "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 客務總代理",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "DELIGHT AIR",
+      "chinese_name": "總代理",
+      "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DELIGHT AIR 總代理",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "TRANSPORTATION LTD.",
+      "chinese_name": "",
+      "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRANSPORTATION LTD.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "General Sales Agent",
+      "chinese_name": "",
+      "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General Sales Agent",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "NORTHWEST ORIENT",
+      "chinese_name": "",
+      "class_designation": "DAILY HOUSE. S/F. 35-37, HAIPHONG ROAD. KOWLOON. HONG KONG",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NORTHWEST ORIENT",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_156_full.webp",
+  "extracted_photos": []
+}

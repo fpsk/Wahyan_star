@@ -1,0 +1,109 @@
+{
+  "year": "1971",
+  "page": 64,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Willing Boll Mr. & Mrs. Woo Ka Yin, Anthony",
+  "students": [
+    {
+      "english_name": "Willing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Willing",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Boll",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boll",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Peter Chan Ka Wah and Doris Chan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Chan Ka Wah and Doris Chan",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Lee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Maurice",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maurice",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. & Mrs. Woo Ka Yin, Anthony",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. & Mrs. Woo Ka Yin, Anthony",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_064_full.webp",
+  "extracted_photos": [
+    "1971_page_064_photo_1.webp",
+    "1971_page_064_photo_2.webp",
+    "1971_page_064_photo_3.webp"
+  ]
+}

@@ -1,0 +1,25 @@
+# Wah Yan Star 1973 - Page 121
+
+## Extracted Photos & Figures
+
+![1973 Page 121 Photo](../photos/1973_page_121_photo_1.webp)
+
+## Page Text Content
+
+```text
+九港
+Wie Kin Kee
+WATEH
+LEAD CFFICE
+597 NATHAN RO- D KOWLOON
+$E K88771 887€86
+801 KING S ROAD. NORTH POINT
+TEL終 701426
+HONG KONG
+HATCH CO.LTD
+MIOE ANSION
+SONIDS THE AIRE
+KCUI IONG、KOWLOON
+71698589 891805
+— 119 -
+```

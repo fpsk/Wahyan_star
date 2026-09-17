@@ -1,0 +1,98 @@
+{
+  "year": "1979",
+  "page": 83,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "‘BADMINTON 78-79’ It was a challenging year for our school teams. The ‘C' graders strove their very best, however, they encountered strong",
+  "students": [
+    {
+      "english_name": "It was a challenging year for our school teams.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was a challenging year for our school teams.",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Unfortunately, their endeavours",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unfortunately, their endeavours",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "However in the Joint School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However in the Joint School",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Li for their guidance throughout the year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li for their guidance throughout the year.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Last of all, we would like to thank Mr. Wong Fai Hung and Mr. Alfred",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Last of all, we would like to thank Mr. Wong Fai Hung and Mr. Alfred",
+        "start_char": 0,
+        "end_char": 68
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "overall champions in division I.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "overall champions in division I.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_083_full.webp",
+  "extracted_photos": [
+    "1979_page_083_photo_1.webp",
+    "1979_page_083_photo_2.webp",
+    "1979_page_083_photo_3.webp"
+  ]
+}

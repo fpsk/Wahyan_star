@@ -1,0 +1,29 @@
+{
+  "year": "1979",
+  "page": 33,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "LAY YAR",
+  "students": [
+    {
+      "english_name": "LAY YAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAY YAR",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_033_full.webp",
+  "extracted_photos": [
+    "1979_page_033_photo_1.webp"
+  ]
+}

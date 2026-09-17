@@ -1,0 +1,210 @@
+{
+  "year": "1975",
+  "page": 35,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "I arrived at the school at eight thirty Time passed by rapidly and it was time for the opening ceremony. Mr. Paul",
+  "students": [
+    {
+      "english_name": "I arrived at the school at eight thirty",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I arrived at the school at eight thirty",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Time passed by rapidly and it was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Time passed by rapidly and it was",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "K.C. Tsui, J.P. who was a past student",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "K.C. Tsui, J.P. who was a past student",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "All of us were warmly welcomed both in-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All of us were warmly welcomed both in-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The Chapel bell rang and some went",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chapel bell rang and some went",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "There was music for the whole day and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There was music for the whole day and",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Room in the morning. The atmosphere",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Room in the morning. The atmosphere",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "At home next morning I knew",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At home next morning I knew",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "There were also club exhibitions that",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There were also club exhibitions that",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The rain was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The rain was",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "EOLEcE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EOLEcE",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "time for the opening ceremony. Mr. Paul",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "time for the opening ceremony. Mr. Paul",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "by warm claps. Then Mr. Tsui together",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "by warm claps. Then Mr. Tsui together",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "with Rev. Fr. Barrett, S.j. and Mr. Ray-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "with Rev. Fr. Barrett, S.j. and Mr. Ray-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "There were also club exhibitions that",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "There were also club exhibitions that",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_035_full.webp",
+  "extracted_photos": [
+    "1975_page_035_photo_1.webp",
+    "1975_page_035_photo_2.webp"
+  ]
+}

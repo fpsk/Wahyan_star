@@ -1,0 +1,181 @@
+{
+  "year": "1974",
+  "page": 65,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "6） During Christmas, our club ran two stalls in the Family Fate, organized by the St. James Settlement. Besides, a seminar was also organized. On the same day, a fund raising ball organized for the Joint Youth Development project was held in",
+  "students": [
+    {
+      "english_name": "James Settlement. Besides, a seminar was also organized. On the same day, a fund",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "James Settlement. Besides, a seminar was also organized. On the same day, a fund",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Maryknoll Convent School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maryknoll Convent School.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "In the Million Walk organized by",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the Million Walk organized by",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "In the same month, we assisted the H.K. Council of Social Service in organizing a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the same month, we assisted the H.K. Council of Social Service in organizing a",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "Lun Primary School. Last of all, a summer cub would be set up during the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lun Primary School. Last of all, a summer cub would be set up during the",
+        "start_char": 0,
+        "end_char": 72
+      }
+    },
+    {
+      "english_name": "CINE CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CINE CLUB",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Subsidies were given to members for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Subsidies were given to members for",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Fr. McCarthy",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Fr. McCarthy",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "We would like to thank Mr. Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We would like to thank Mr. Chan",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Kit Ming and Mr. Victor Wu for lending",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Kit Ming and Mr. Victor Wu for lending",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "6） During Christmas, our club ran two stalls in the Family Fate, organized by the St.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "6） During Christmas, our club ran two stalls in the Family Fate, organized by the St.",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "club_name": "our club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "our club",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "club_name": "CINE CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "CINE CLUB",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_065_full.webp",
+  "extracted_photos": [
+    "1974_page_065_photo_1.webp"
+  ]
+}

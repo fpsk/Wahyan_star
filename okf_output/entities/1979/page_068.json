@@ -1,0 +1,392 @@
+{
+  "year": "1979",
+  "page": 68,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Joint School Debating Contest The contest started around Christmas but our frst debate did not come until February.",
+  "students": [
+    {
+      "english_name": "Joint School Debating Contest",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint School Debating Contest",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "The contest started around Christmas but our frst debate did not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The contest started around Christmas but our frst debate did not",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "When we learned that our opponent was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "When we learned that our opponent was",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Maryknoll Sisters' School, we became very excited. M.S.S. knocked out",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maryknoll Sisters' School, we became very excited. M.S.S. knocked out",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "On one hand, we were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On one hand, we were",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "The debate was held in St. Paul's Secondary School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The debate was held in St. Paul's Secondary School.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    },
+    {
+      "english_name": "That Behaviour is Conditioned by Environment and we were on the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That Behaviour is Conditioned by Environment and we were on the",
+        "start_char": 0,
+        "end_char": 63
+      }
+    },
+    {
+      "english_name": "Government side.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Government side.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Our effort was rewarded.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our effort was rewarded.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "We won marginally.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We won marginally.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Due to a special system of competition, we were up against N.S.s",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Due to a special system of competition, we were up against N.S.s",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "We met Diocean Boys' School in the third round. The motion",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We met Diocean Boys' School in the third round. The motion",
+        "start_char": 0,
+        "end_char": 58
+      }
+    },
+    {
+      "english_name": "We were now in the semi-final and our opponent was La Salle",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were now in the semi-final and our opponent was La Salle",
+        "start_char": 0,
+        "end_char": 59
+      }
+    },
+    {
+      "english_name": "College. The debate was held in Diocean Girls' School and the motion",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College. The debate was held in Diocean Girls' School and the motion",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "english_name": "College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Our opponent in the final was Sacred Heart Canossian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our opponent in the final was Sacred Heart Canossian",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "This was a very strong team and we were fully aware of it. Under",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was a very strong team and we were fully aware of it. Under",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "We were again",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were again",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "No marks or votes were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "No marks or votes were",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Amidst the applause irom the hal, te trophy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Amidst the applause irom the hal, te trophy",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "We started practising well before the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We started practising well before the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Each time we received a motion, we put aside everything",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Each time we received a motion, we put aside everything",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "We spent hours after hours in ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We spent hours after hours in ex-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "He also",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He also",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "His advice ano",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His advice ano",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "However, even",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, even",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "and the souvenirs were presented to the school team by Mr. Patrick",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and the souvenirs were presented to the school team by Mr. Patrick",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "Fr. O'Rourke, often join-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. O'Rourke, often join-",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Joint School Debating Contest",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Joint School Debating Contest",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_068_full.webp",
+  "extracted_photos": [
+    "1979_page_068_photo_1.webp"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "year": "1978",
+  "page": 110,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "HKU Medical Graduates \"77 were",
+  "students": [
+    {
+      "english_name": "HKU Medical",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HKU Medical",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "All of them",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All of them",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Sui Yum",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Sui Yum",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tse Wai Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Wai Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Eric",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eric",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chung",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Chan Tze",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tze",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Barrett and the graduates at the City Hall after ceremony",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Barrett and the graduates at the City Hall after ceremony",
+        "start_char": 0,
+        "end_char": 61
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_110_full.webp",
+  "extracted_photos": [
+    "1978_page_110_photo_1.webp",
+    "1978_page_110_photo_2.webp"
+  ]
+}

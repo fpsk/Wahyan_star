@@ -1,0 +1,160 @@
+{
+  "year": "1971",
+  "page": 118,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SPORTS： SPORTS REVIEW OF THE YEAR SWIMMING GALA",
+  "students": [
+    {
+      "english_name": "SPORTS REVIEW OF THE YEAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS REVIEW OF THE YEAR",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "SWIMMING GALA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "SPORTS DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "INTERSCHOOL ATHLETIC TEAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERSCHOOL ATHLETIC TEAM",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "BASKETBALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BASKETBALL",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "FOOTBALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOTBALL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "BADMINTON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BADMINTON",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "INTERHOUSE COMPETITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERHOUSE COMPETITION",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "INTRAMURAL CHAMPIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTRAMURAL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING GALA",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING GALA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "event_name": "INTRAMURAL CHAMPIONS",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "INTRAMURAL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_118_full.webp",
+  "extracted_photos": []
+}

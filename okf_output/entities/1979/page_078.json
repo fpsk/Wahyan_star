@@ -1,0 +1,270 @@
+{
+  "year": "1979",
+  "page": 78,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SWIMMING trained swimming representatives. More- THE Joeracheol Swimming Competi.",
+  "students": [
+    {
+      "english_name": "SWIMMING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "THE Joeracheol Swimming Competi.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE Joeracheol Swimming Competi.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Kong School Sports Association, was held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong School Sports Association, was held",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "This year our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year our",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "However, our school swimming relay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, our school swimming relay",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The competitors of the other seven",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The competitors of the other seven",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Li Kai Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kai Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Kai Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kai Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "INTERSCHOOL LIFE.SAVING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERSCHOOL LIFE.SAVING",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "COMPETITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COMPETITION",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "As usual, we didn't have much practice",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As usual, we didn't have much practice",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Grade are good swimmers. They managed",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grade are good swimmers. They managed",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "With a hard struggle, we maintained",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With a hard struggle, we maintained",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Method",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Method",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "trained swimming representatives. More-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "trained swimming representatives. More-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "event_name": "THE Joeracheol Swimming Competi.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "THE Joeracheol Swimming Competi.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "event_name": "However, our school swimming relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "However, our school swimming relay",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "event_name": "Place: Victoria Park Swimming Pool",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Place: Victoria Park Swimming Pool",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_078_full.webp",
+  "extracted_photos": [
+    "1979_page_078_photo_1.webp",
+    "1979_page_078_photo_2.webp"
+  ]
+}

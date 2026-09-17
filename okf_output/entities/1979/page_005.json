@@ -1,0 +1,119 @@
+{
+  "year": "1979",
+  "page": 5,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "TEACHING STAFF 4th Row Fr. Shields, Fr. Cryan, Fr.Brosnan, Mr. K. L. Ma, Mr. M. S. Cheung, Mr. C. K. Chan，",
+  "students": [
+    {
+      "english_name": "TEACHING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEACHING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STAFF",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Mr.P. Y. Chen, Br.J. Chan, Mr. P. Cheung, Mr. K. S. Fung, Mr. S. P. Tam, Mr. P. H.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mr.P. Y. Chen, Br.J. Chan, Mr. P. Cheung, Mr. K. S. Fung, Mr. S. P. Tam, Mr. P. H.",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "Wong,Mr.C. S. Wong,Mr. J. Lam, Mr.Y. C. Ng, Mr. K. Y. Leung, Mr. T. Y. Chan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong,Mr.C. S. Wong,Mr. J. Lam, Mr.Y. C. Ng, Mr. K. Y. Leung, Mr. T. Y. Chan",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Ist Row",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Row",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Mrs. M. Sze.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. M. Sze.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr.K.C. Kwok,Mr.M. G. Lee, Mr. S. K. Lee, Mr. S. C. Koo.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.K.C. Kwok,Mr.M. G. Lee, Mr. S. K. Lee, Mr. S. C. Koo.",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "Mr.F. Yung, Fr. Daly, Fr. Grogan, Mr.F. W.Ip, Mr.A.Lee.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.F. Yung, Fr. Daly, Fr. Grogan, Mr.F. W.Ip, Mr.A.Lee.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_005_full.webp",
+  "extracted_photos": [
+    "1979_page_005_photo_1.webp"
+  ]
+}

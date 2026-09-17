@@ -1,0 +1,92 @@
+{
+  "year": "1972",
+  "page": 197,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Qlith the Compliments KWOK CHEUNG METALWARE MFTY.",
+  "students": [
+    {
+      "english_name": "Qlith",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Qlith",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "KWOK CHEUNG METALWARE MFTY.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KWOK CHEUNG METALWARE MFTY.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Ashtray Kerosene Lamp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ashtray Kerosene Lamp",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Candle Lamp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Candle Lamp",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Condiment Set and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Condiment Set and",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Stainless Steel Table Ware",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stainless Steel Table Ware",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_197_full.webp",
+  "extracted_photos": []
+}

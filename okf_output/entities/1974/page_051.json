@@ -1,0 +1,108 @@
+{
+  "year": "1974",
+  "page": 51,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "GEE! CHARLE BROWN ASKS ME TO MARRY HIM！ Mr.Peter Ng & Miss Winnie So",
+  "students": [
+    {
+      "english_name": "ALOT, NO MORE BALL GAMES,NO MORE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALOT, NO MORE BALL GAMES,NO MORE",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "FREEDOM.-L BETTERTELL LUCY L WILL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FREEDOM.-L BETTERTELL LUCY L WILL",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "NOT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NOT",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "WONDER WHAT CHARLIE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 232,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WONDER WHAT CHARLIE",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "BAOMNY HAG SAID THAT MAKES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BAOMNY HAG SAID THAT MAKES",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr.Peter Ng & Miss Winnie So",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.Peter Ng & Miss Winnie So",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. David Ho Wai-Man",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. David Ho Wai-Man",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_051_full.webp",
+  "extracted_photos": [
+    "1974_page_051_photo_1.webp",
+    "1974_page_051_photo_2.webp",
+    "1974_page_051_photo_3.webp"
+  ]
+}

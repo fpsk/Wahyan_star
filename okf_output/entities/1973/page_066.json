@@ -1,0 +1,185 @@
+{
+  "year": "1973",
+  "page": 66,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "The Board of Officers, 72-73. the members about going to mass. They also had to keep in contact with the mem-",
+  "students": [
+    {
+      "english_name": "In last summer vacation, the constitu-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In last summer vacation, the constitu-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Chief Promoter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chief Promoter",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Vice Chief",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice Chief",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Tames Lam, went abroad so a new one",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tames Lam, went abroad so a new one",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Promoter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Promoter",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "The year passed quietly. Functions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The year passed quietly. Functions",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "A general meeting was called every",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A general meeting was called every",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Every Friday, a ffteen minutes' Bible",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Every Friday, a ffteen minutes' Bible",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Service was held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Service was held",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Catholics were accepted as members ano",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Catholics were accepted as members ano",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "All together we have about ffty mem-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All together we have about ffty mem-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "March. It took up our work officially three",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "March. It took up our work officially three",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "：Rev. Fr. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_066_full.webp",
+  "extracted_photos": [
+    "1973_page_066_photo_1.webp"
+  ]
+}

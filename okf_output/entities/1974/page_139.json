@@ -1,0 +1,144 @@
+{
+  "year": "1974",
+  "page": 139,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments THE BANK OF EAST ASIA LTD. 10, Des Voeux Road, Central，",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "THE BANK OF EAST ASIA LTD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE BANK OF EAST ASIA LTD.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "VINCENT YU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VINCENT YU",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Pacific International Lines",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pacific International Lines",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "GENE WONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GENE WONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "ANTHONY CHOY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ANTHONY CHOY",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_139_full.webp",
+  "extracted_photos": []
+}

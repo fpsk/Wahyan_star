@@ -1,0 +1,135 @@
+{
+  "year": "1972",
+  "page": 64,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Sept. 4 Ignatius Lau Alan May 1972",
+  "students": [
+    {
+      "english_name": "Alan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alan",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Yick Sham and Lucy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yick Sham and Lucy",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Choy Kam Wing and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choy Kam Wing and",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Tsang at St. Joseph's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang at St. Joseph's",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Nancy Ko",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nancy Ko",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Tsan and Vivien Chiu at St. Joseph's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsan and Vivien Chiu at St. Joseph's",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Uedbings",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Uedbings",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "John Tsui and Selina Wong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Tsui and Selina Wong.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Nicholas Tsui and May Yeung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nicholas Tsui and May Yeung",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_064_full.webp",
+  "extracted_photos": [
+    "1972_page_064_photo_1.webp",
+    "1972_page_064_photo_2.webp",
+    "1972_page_064_photo_3.webp"
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "year": "1972",
+  "page": 57,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "News of the Past Au Yeung Jimmy （60） is an official of the in McGill University, Montreal. He",
+  "students": [
+    {
+      "english_name": "News of the Past",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "News of the Past",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "X'mas and met",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "X'mas and met",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Immigration Dept. at Headquarters in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Immigration Dept. at Headquarters in",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "International Building.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "International Building.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "General's Department.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General's Department.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "His small son is now",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His small son is now",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "M.I.T.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M.I.T.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Is a B.S. Econ.of the University ot",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Is a B.S. Econ.of the University ot",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "They keep in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They keep in",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Administration",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Administration",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Business School, Harvard University.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Business School, Harvard University.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Tze",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tze",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Wai now is medical studies in Ber-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai now is medical studies in Ber-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "He is now the principal of a govern-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He is now the principal of a govern-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Kowloon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "ATNEO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ATNEO",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Jesuit",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jesuit",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "MANILA and hopes to graduate this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MANILA and hopes to graduate this",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Kan Yuet Loong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kan Yuet Loong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Star, described ashardworkers' in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Star, described ashardworkers' in",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "U. of Calif. in San Francisco.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U. of Calif. in San Francisco.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "HKU as a B. Soc. Sc.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HKU as a B. Soc. Sc.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mills in Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mills in Hong Kong.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "He is due to graduate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He is due to graduate",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Master Universlty.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Master Universlty.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Dr. Joseph Fung, old Wah Yan P.M.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. Joseph Fung, old Wah Yan P.M.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Pennsylvania and Master in Business",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Pennsylvania and Master in Business",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Dr. Cheung Chi Shat, M.R.C.P.，has open-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. Cheung Chi Shat, M.R.C.P.，has open-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Dr. Kan Yuet Wai， （52） Assistant Profes-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dr. Kan Yuet Wai， （52） Assistant Profes-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "three are sons of the late Mr. Kan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "three are sons of the late Mr. Kan",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_057_full.webp",
+  "extracted_photos": [
+    "1972_page_057_photo_1.webp"
+  ]
+}

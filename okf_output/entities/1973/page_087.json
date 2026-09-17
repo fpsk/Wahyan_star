@@ -1,0 +1,332 @@
+{
+  "year": "1973",
+  "page": 87,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "riprrnivC （crel-STer） slsD Isunn/",
+  "students": [
+    {
+      "english_name": "SWIMMING TEAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING TEAM",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "It is quite a number of years that",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It is quite a number of years that",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Swimming Competition. A new swimming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming Competition. A new swimming",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "M. Free Style",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. Free Style",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Le Chi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Le Chi",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Grades. We are in Division Two and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grades. We are in Division Two and the",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "M. Free Style",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. Free Style",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Sek Kwong 潘錫光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Sek Kwong 潘錫光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ting Kwan Yuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ting Kwan Yuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lastly, we would like to thank our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we would like to thank our",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Zee Kwan Lit",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Zee Kwan Lit",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "M. Free Style",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 50,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. Free Style",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "I do",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I do",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Sek Kwong 潘錫光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "M. Breast Stroke",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M. Breast Stroke",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Ting Kwang Yuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ting Kwang Yuen",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "coach Mr. Chan Chun Nam and our",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "coach Mr. Chan Chun Nam and our",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "sportsmaster Rev. Fr. Corbally, S.J. for",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "sportsmaster Rev. Fr. Corbally, S.J. for",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING TEAM",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING TEAM",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "event_name": "Swimming Competition. A new swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Competition. A new swimming",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "event_name": "4 x 50 M. Free Style Relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "4 x 50 M. Free Style Relay",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "event_name": "hope our school will form the swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "hope our school will form the swimming",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "full_page_photo": "1973_page_087_full.webp",
+  "extracted_photos": [
+    "1973_page_087_photo_1.webp"
+  ]
+}

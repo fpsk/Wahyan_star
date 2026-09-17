@@ -1,0 +1,78 @@
+{
+  "year": "1976",
+  "page": 26,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Obituary Fr. Harry O'Brien, S. J. Fr. Dan Donelly, S. J.",
+  "students": [
+    {
+      "english_name": "Obituary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Obituary",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Harry O'Brien, S. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Harry O'Brien, S. J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Fr. Dan Donelly, S. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Dan Donelly, S. J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Fr. Euguene Ward, S. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Euguene Ward, S. J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mr. Stephen Tse.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Stephen Tse.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_026_full.webp",
+  "extracted_photos": [
+    "1976_page_026_photo_1.webp"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "year": "1971",
+  "page": 164,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "The Youth of Today Walk along any street in any of the",
+  "students": [
+    {
+      "english_name": "The Youth of Today",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Youth of Today",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Walk along any",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Walk along any",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Others who pass such people on the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Others who pass such people on the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "What",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "What",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "At this point, I must admit that many",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At this point, I must admit that many",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Parents seldom realise that children",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Parents seldom realise that children",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "They",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "If not what will the world come to after.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If not what will the world come to after.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "They do not seem to understand that",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They do not seem to understand that",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "What the older generation does not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "What the older generation does not",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Every generation has its own mode of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Every generation has its own mode of",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Although this may not seem a sensible",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Although this may not seem a sensible",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Not many people will agree with my",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Not many people will agree with my",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Hui Wai Kee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Wai Kee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Is my hair up",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Is my hair up",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_164_full.webp",
+  "extracted_photos": [
+    "1971_page_164_photo_1.webp",
+    "1971_page_164_photo_2.webp"
+  ]
+}

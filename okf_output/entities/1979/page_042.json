@@ -1,0 +1,282 @@
+{
+  "year": "1979",
+  "page": 42,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "DRAMA SOCIETY Adviser: Fr. R. McCarthy, S.. Chairman:Patrick Chan",
+  "students": [
+    {
+      "english_name": "DRAMA SOCIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DRAMA SOCIETY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "OUR dlub did not have many activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OUR dlub did not have many activities",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The Intermediate and the Senior",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Intermediate and the Senior",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Sections of the Drama Festival were held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sections of the Drama Festival were held",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The Junior Drama Festival was held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Junior Drama Festival was held",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "SUCCeSS.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUCCeSS.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "At the end of March, the Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the end of March, the Chinese",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Society of St. Paul Convent's School and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society of St. Paul Convent's School and",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The Councillors'Club of Belilios",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Councillors'Club of Belilios",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Public School and our club jointly parti-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Public School and our club jointly parti-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Kowloon in April. A broadcasting drama",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon in April. A broadcasting drama",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Fr. R. McCarthy, S..",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Fr. R. McCarthy, S..",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Fr. McCarthy, S.J. for his invaluable",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. McCarthy, S.J. for his invaluable",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "DRAMA SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "DRAMA SOCIETY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "of our club helped the school to renew",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of our club helped the school to renew",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "Society of St. Paul Convent's School and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society of St. Paul Convent's School and",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "our club jointly put on a play at the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "our club jointly put on a play at the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "The Councillors'Club of Belilios",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Councillors'Club of Belilios",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "club_name": "Public School and our club jointly parti-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Public School and our club jointly parti-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "was produced by the two clubs for the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "was produced by the two clubs for the",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "helped in the activities of our club in this",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "helped in the activities of our club in this",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_042_full.webp",
+  "extracted_photos": [
+    "1979_page_042_photo_1.webp",
+    "1979_page_042_photo_2.webp"
+  ]
+}

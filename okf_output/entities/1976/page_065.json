@@ -1,0 +1,243 @@
+{
+  "year": "1976",
+  "page": 65,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "一 CHESS CLUB一 Adviser ： Mr. Chan Tin Yau",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Friendly match between teachers and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friendly match between teachers and",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Interclass Chinese Chess Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Interclass Chinese Chess Competition.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Chinese Chess Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Chess Competition.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "We joined the Joint School Chess Association, and our chairman was elected the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We joined the Joint School Chess Association, and our chairman was elected the",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "Association, but we had only taken part in one of them. This was because our members",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Association, but we had only taken part in one of them. This was because our members",
+        "start_char": 0,
+        "end_char": 84
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "This year, the Club was quite a success.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, the Club was quite a success.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Art Competition in May. The response in both was very good and the winners were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Art Competition in May. The response in both was very good and the winners were",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Finally, we would like to express our thanks to our adviser, Mrs. Ho, for her valu-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, we would like to express our thanks to our adviser, Mrs. Ho, for her valu-",
+        "start_char": 0,
+        "end_char": 83
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "： Mr. Chan Tin Yau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Mr. Chan Tin Yau",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "一 CHESS CLUB一",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "一 CHESS CLUB一",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "This year, the Club was quite a success.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "This year, the Club was quite a success.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "A social gathering was held on 28th May for the members of the Chinese Club，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "A social gathering was held on 28th May for the members of the Chinese Club，",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "club_name": "the History Club and ours. More than 50 students enjoyed a nice afternoon.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the History Club and ours. More than 50 students enjoyed a nice afternoon.",
+        "start_char": 0,
+        "end_char": 74
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_065_full.webp",
+  "extracted_photos": []
+}

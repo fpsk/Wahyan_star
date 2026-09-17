@@ -1,0 +1,475 @@
+{
+  "year": "1971",
+  "page": 108,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Ouz Voung Cine Cluk chers were also invited. This is the first report of the Cine",
+  "students": [
+    {
+      "english_name": "Ouz Voung Cine Cluk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ouz Voung Cine Cluk",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "This is the first report of the Cine",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This is the first report of the Cine",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "This club was founded during the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This club was founded during the",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Club.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Last year we had four activi-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Last year we had four activi-",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "In the same month",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the same month",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Apes'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Apes'",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Cat Ballou'was shown. The response from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cat Ballou'was shown. The response from",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Club together with the Chinese Soclety",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club together with the Chinese Soclety",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "During the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Guests",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Guests",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Sacred Heart Canossian College and Rai-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sacred Heart Canossian College and Rai-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "William",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "William",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Chan Wing Hung, Cheung Yue Kin, Hui",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wing Hung, Cheung Yue Kin, Hui",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Was",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Luk Kin Ping, Ng Tak Hol and Chan Ain",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luk Kin Ping, Ng Tak Hol and Chan Ain",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Ming have put us all in their debt because",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ming have put us all in their debt because",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Starlet. All",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Starlet. All",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "This year, the club was more active.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, the club was more active.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "With support from the school and the co-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With support from the school and the co-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Our school Hall was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our school Hall was",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Our aim is to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our aim is to",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "We can see",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We can see",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "At about the same time a film about",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At about the same time a film about",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Kennedy was shown during lunch",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kennedy was shown during lunch",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. John",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. John",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "students. All Rev. fathers and school tea-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "students. All Rev. fathers and school tea-",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "This club was founded during the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "This club was founded during the",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "club_name": "Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "club_name": "Club together with the Chinese Soclety",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club together with the Chinese Soclety",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "Both clubs’",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Both clubs’",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "club_name": "they started and ran this club very success-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "they started and ran this club very success-",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "This year, the club was more active.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "This year, the club was more active.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "sented by the energetic Cine Club on the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "sented by the energetic Cine Club on the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "sustained this young club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "sustained this young club.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "club_name": "of Da Vinci Club and the Cine Club held a",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of Da Vinci Club and the Cine Club held a",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_108_full.webp",
+  "extracted_photos": [
+    "1971_page_108_photo_1.webp"
+  ]
+}

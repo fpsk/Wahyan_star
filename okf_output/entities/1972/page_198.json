@@ -1,0 +1,27 @@
+{
+  "year": "1972",
+  "page": 198,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Olih the Compliments TUNG FONG HAT FACTORY （HK） LTD.",
+  "students": [
+    {
+      "english_name": "Olih",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Olih",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_198_full.webp",
+  "extracted_photos": []
+}

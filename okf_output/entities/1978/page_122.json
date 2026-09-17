@@ -1,0 +1,123 @@
+{
+  "year": "1978",
+  "page": 122,
+  "section_type": "Class Roster",
+  "class_designation": "Upper Six Arts",
+  "summary": "Upper Six Arts From Left to Right： （翟創志）",
+  "students": [
+    {
+      "english_name": "Liu Hing Hung",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liu Hing Hung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "So Ming Chi, Paul",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Ming Chi, Paul",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Hui Tung Choi",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Tung Choi",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Poon Chung Ho, David",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Chung Ho, David",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lam Chi Kwong",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Chi Kwong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ng Mun Sing",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Mun Sing",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lai Mun Cheung",
+      "chinese_name": "",
+      "class_designation": "Upper Six Arts",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Mun Cheung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. S. H. Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S. H. Chau",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_122_full.webp",
+  "extracted_photos": [
+    "1978_page_122_photo_1.webp",
+    "1978_page_122_photo_2.webp",
+    "1978_page_122_photo_3.webp",
+    "1978_page_122_photo_4.webp"
+  ]
+}

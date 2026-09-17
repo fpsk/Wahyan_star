@@ -1,0 +1,81 @@
+{
+  "year": "1979",
+  "page": 59,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "CE1。 Jointy oreanized by the Student Couneil and the Music Society of our school, the Concert was",
+  "students": [
+    {
+      "english_name": "Jointy oreanized by the Student Couneil and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jointy oreanized by the Student Couneil and the",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Music Society of our school, the Concert was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Society of our school, the Concert was",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Appropriately enough, the name",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Appropriately enough, the name",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Music Society of our school, the Concert was",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Music Society of our school, the Concert was",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_059_full.webp",
+  "extracted_photos": [
+    "1979_page_059_photo_1.webp"
+  ]
+}

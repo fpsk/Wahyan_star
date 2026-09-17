@@ -1,0 +1,209 @@
+{
+  "year": "1973",
+  "page": 132,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "司公裝服芳瑞 SUI FONG TAILOR CO. 仔灣港香",
+  "students": [
+    {
+      "english_name": "SUI FONG TAILOR CO.",
+      "chinese_name": "仔灣港香",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUI FONG TAILOR CO. 仔灣港香",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "WANCHAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WANCHAI",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "TAILOR CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TAILOR CO.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Specialized in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Specialized in",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "St. Paul's Convent College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's Convent College",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Rosaryhill School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Rosaryhill School",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "St. Joseph's College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Joseph's College",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "St. Mary's Canossian College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Mary's Canossian College",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Cognito College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cognito College",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "New Method College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "New Method College",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "St. Margaret's College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Margaret's College",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Sacred Heart Canossian College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sacred Heart Canossian College",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "The Progressive English College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Progressive English College",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "St. Luke's Co-Educational College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Luke's Co-Educational College",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "St. Francis Canossian College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Francis Canossian College",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_132_full.webp",
+  "extracted_photos": []
+}

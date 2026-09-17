@@ -1,0 +1,172 @@
+{
+  "year": "1976",
+  "page": 104,
+  "section_type": "Class Roster",
+  "class_designation": "UPPER SIX SCIENCE",
+  "summary": "UPPER SIX SCIENCE ©｛ Form-master:Mh.S. K. Lee",
+  "students": [
+    {
+      "english_name": "Andrew",
+      "chinese_name": "方長發",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Andrew 方長發",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist TOW",
+      "chinese_name": "余敏奇",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist TOW 余敏奇",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Fong Cheug Fat",
+      "chinese_name": "唐恰淸",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Cheug Fat 唐恰淸",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yu Mun Kee, Roy",
+      "chinese_name": "袁銘輝",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Mun Kee, Roy 袁銘輝",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Tong Yee Ching",
+      "chinese_name": "王志光",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Yee Ching 王志光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yuen Ning Fai",
+      "chinese_name": "方敏豪",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Ning Fai 方敏豪",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fong Mun Ho",
+      "chinese_name": "花國雄",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Mun Ho 花國雄",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Chi Kwong, Lionel",
+      "chinese_name": "洪日平",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chi Kwong, Lionel 洪日平",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Fa Kwok Hung",
+      "chinese_name": "黃湛順",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fa Kwok Hung 黃湛順",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Hung Yat Ping",
+      "chinese_name": "何嘉敏",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Yat Ping 何嘉敏",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Cham Shun",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Cham Shun",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ho Ka Man",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX SCIENCE",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Ka Man",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_104_full.webp",
+  "extracted_photos": [
+    "1976_page_104_photo_1.webp"
+  ]
+}

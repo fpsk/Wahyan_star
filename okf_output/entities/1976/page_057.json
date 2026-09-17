@@ -1,0 +1,460 @@
+{
+  "year": "1976",
+  "page": 57,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Social Getioities Club Adviser Rev. Fr. McGaley, S.J.",
+  "students": [
+    {
+      "english_name": "Social Getioities Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Getioities Club",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Christmas Celebration for the aged",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christmas Celebration for the aged",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Group of St. Paul's Convent School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Group of St. Paul's Convent School",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Youth Scheme to carry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Youth Scheme to carry",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Depart-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Depart-",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Visit to Precious Blood Orplanage",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit to Precious Blood Orplanage",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Deedls Award for the Youth' by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Deedls Award for the Youth' by the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Service",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Service",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Lions Club of Happy Valley.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lions Club of Happy Valley.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Group of St. Paul's Convent School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Group of St. Paul's Convent School.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Nembers from our club were invited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nembers from our club were invited",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Joint Schools Walk For A Million",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint Schools Walk For A Million",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Work in Hong Kong'organized by",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Work in Hong Kong'organized by",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Ganossian College, Maryknoll Sis-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ganossian College, Maryknoll Sis-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "The Social Service Group of Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Social Service Group of Hong",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Kong Shue Yan College had invited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Shue Yan College had invited",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Flag Days",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Flag Days",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Lastly, we would like to express our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we would like to express our",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "S.J. for his advice to help us to carry out",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S.J. for his advice to help us to carry out",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Rev. Fr. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "thanks to our adviser, Rev. Fr. McGaley，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "thanks to our adviser, Rev. Fr. McGaley，",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Social Getioities Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Social Getioities Club",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "club_name": "financially supported by the Lions Club of Happy Valley and the Jockey Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "financially supported by the Lions Club of Happy Valley and the Jockey Club",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "club_name": "Our club was awarded the‘Good",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Our club was awarded the‘Good",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "club_name": "Lions Club of Happy Valley.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Lions Club of Happy Valley.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "club_name": "Nembers from our club were invited",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Nembers from our club were invited",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "club_name": "Nov.， 1975.Students of our club took",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Nov.， 1975.Students of our club took",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "-initiated by the Sacred Heart Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "-initiated by the Sacred Heart Club",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "and our club to discern the needs",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "and our club to discern the needs",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "club_name": "of society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of society",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "club_name": "-arranged by the Social Work Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "-arranged by the Social Work Club",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "club_name": "clubD.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "clubD.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_057_full.webp",
+  "extracted_photos": [
+    "1976_page_057_photo_1.webp",
+    "1976_page_057_photo_2.webp"
+  ]
+}

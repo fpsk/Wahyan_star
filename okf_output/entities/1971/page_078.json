@@ -1,0 +1,296 @@
+{
+  "year": "1971",
+  "page": 78,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "DEBATING SOCIETY Members of Debating Society",
+  "students": [
+    {
+      "english_name": "DEBATING SOCIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DEBATING SOCIETY",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Members of Debating",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members of Debating",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Society",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "During the first Council Meeting of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the first Council Meeting of the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Debating Society at the beginning of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Debating Society at the beginning of the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The results of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The results of",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "The executive committee was made",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The executive committee was made",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Winson Tang Wing Son",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winson Tang Wing Son",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Joseph Poon Chung Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joseph Poon Chung Yin",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Alan Choi Chun Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alan Choi Chun Lam",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lawrence Ng Pak Liong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lawrence Ng Pak Liong",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mui Kwong Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mui Kwong Chiu",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Louis Huang Hsing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Louis Huang Hsing",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "The activities organized by the Society",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The activities organized by the Society",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Fr. Francis McGaley was invited",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Francis McGaley was invited",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "DEBATING SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "DEBATING SOCIETY",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "club_name": "Members of Debating",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Members of Debating",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "club_name": "Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "club_name": "Debating Society at the beginning of the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Debating Society at the beginning of the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "to act as the adviser of the Debating So-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "to act as the adviser of the Debating So-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "The activities organized by the Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The activities organized by the Society",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "an inter-class debating com-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "an inter-class debating com-",
+        "start_char": 0,
+        "end_char": 28
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_078_full.webp",
+  "extracted_photos": [
+    "1971_page_078_photo_1.webp"
+  ]
+}

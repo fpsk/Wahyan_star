@@ -1,0 +1,242 @@
+{
+  "year": "1979",
+  "page": 86,
+  "section_type": "Class Roster",
+  "class_designation": "Cheung Koon Fai 1Al",
+  "summary": "Cheung Koon Fai 1Al Lai Yun Wah 1Al （Yeung Kam Tong 2B）",
+  "students": [
+    {
+      "english_name": "Chan Cheuk Lun",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Cheuk Lun",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Badminton Doubles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton Doubles",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Tennis Doubles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis Doubles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Badminton Singles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton Singles",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Table-Tennis Singles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-Tennis Singles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Tennis Singles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis Singles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Track and Field",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Track and Field",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "EVENT",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Table-Tennis Doubles",
+      "chinese_name": "",
+      "class_designation": "Cheung Koon Fai 1Al",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-Tennis Doubles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "INTRAMURAL CHAMPIONS AND RUNNERS-UP （1978-79）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "INTRAMURAL CHAMPIONS AND RUNNERS-UP （1978-79）",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "event_name": "Tennis Doubles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Tennis Doubles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "Table-Tennis Singles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-Tennis Singles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "Tennis Singles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Tennis Singles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "Table-Tennis Doubles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-Tennis Doubles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_086_full.webp",
+  "extracted_photos": []
+}

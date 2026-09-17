@@ -1,0 +1,68 @@
+{
+  "year": "1971",
+  "page": 184,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "A * Wherever your",
+  "students": [
+    {
+      "english_name": "Wherever your",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wherever your",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "FIRST NATIONAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FIRST NATIONAL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CITY BANK is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CITY BANK is",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "First National City Bank",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First National City Bank",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_184_full.webp",
+  "extracted_photos": [
+    "1971_page_184_photo_1.webp"
+  ]
+}

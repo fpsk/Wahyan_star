@@ -1,0 +1,370 @@
+{
+  "year": "1979",
+  "page": 21,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "1T209A LIFE GUARD CLUB 2UR3",
+  "students": [
+    {
+      "english_name": "LIFE GUARD CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LIFE GUARD CLUB",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "There was a canoe camp in Tai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There was a canoe camp in Tai",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "IN July we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IN July we",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mong Chai during Christmas.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mong Chai during Christmas.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Aflm",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Aflm",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "August, followed by a reunion in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "August, followed by a reunion in",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Club.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Because of the weather, we could not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Because of the weather, we could not",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "September.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "September.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "At the beginning of the term, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the beginning of the term, we",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Lastly, we would like to thank our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we would like to thank our",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "We were the lifeguards in the Swim-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were the lifeguards in the Swim-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Pacific Life Saving Conference was held.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pacific Life Saving Conference was held.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "We were invited to the demonstration",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were invited to the demonstration",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Meanwhile, a B.M. and I.A. course were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meanwhile, a B.M. and I.A. course were",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "November but their lack of enthusiasm",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "November but their lack of enthusiasm",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Fr. Corbally, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Fr. Corbally, S.J.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "adviser, Fr. Corbally, S.j. for his advice",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "adviser, Fr. Corbally, S.j. for his advice",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "ques. Thanks to our coach Mr.Ng！",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ques. Thanks to our coach Mr.Ng！",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "LIFE GUARD CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "LIFE GUARD CLUB",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "club_name": "Swimming Club for F.l boys. All 27",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Swimming Club for F.l boys. All 27",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Swimming branch of Red Cross unit 1",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming branch of Red Cross unit 1",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "event_name": "show on swimming and life saving was",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "show on swimming and life saving was",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "event_name": "also held - again with the Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "also held - again with the Swimming",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "event_name": "Swimming Club for F.l boys. All 27",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Club for F.l boys. All 27",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "event_name": "held in Victoria Park Swimming Pool.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "held in Victoria Park Swimming Pool.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_021_full.webp",
+  "extracted_photos": [
+    "1979_page_021_photo_1.webp",
+    "1979_page_021_photo_2.webp"
+  ]
+}

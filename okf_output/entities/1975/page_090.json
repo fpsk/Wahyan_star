@@ -1,0 +1,129 @@
+{
+  "year": "1975",
+  "page": 90,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Inter-school Swimming Team Re- sults：一 ‘B'50m. Back stroke",
+  "students": [
+    {
+      "english_name": "Inter-school Swimming Team Re-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-school Swimming Team Re-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Poon Sek Kwong",
+      "chinese_name": "潘錫光",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Sek Kwong 潘錫光",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Inter School Swimming Team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter School Swimming Team",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Leung Kit Fung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kit Fung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Inter-school Swimming Team Re-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Inter-school Swimming Team Re-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "event_name": "‘B' 100m Back stroke",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "‘B' 100m Back stroke",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "event_name": "Inter School Swimming Team",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Inter School Swimming Team",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "event_name": "‘C' 100m Breast stroke",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "‘C' 100m Breast stroke",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_090_full.webp",
+  "extracted_photos": [
+    "1975_page_090_photo_1.webp",
+    "1975_page_090_photo_2.webp",
+    "1975_page_090_photo_3.webp",
+    "1975_page_090_photo_4.webp",
+    "1975_page_090_photo_5.webp"
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "year": "1974",
+  "page": 66,
+  "section_type": "Class Roster",
+  "class_designation": "Chairman: Lee Win Chiat （L6A）",
+  "summary": "Advisers: Rev. Fr. McGaley, S.J. Mrs. Helen Lee Chairman: Lee Win Chiat （L6A）",
+  "students": [
+    {
+      "english_name": "Mrs. Helen Lee",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Helen Lee",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Hfistoty Club",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hfistoty Club",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "A trip to Tung Chung to visit an old temple and a castle built in the Ching Dynasty.",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A trip to Tung Chung to visit an old temple and a castle built in the Ching Dynasty.",
+        "start_char": 0,
+        "end_char": 84
+      }
+    },
+    {
+      "english_name": "Museum.",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Museum.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "An inter-class general quiz co-organized by Chinese Society, Geography Society and",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An inter-class general quiz co-organized by Chinese Society, Geography Society and",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "We participated in the Interschool History Quiz organized by the H.K. History",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We participated in the Interschool History Quiz organized by the H.K. History",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "Society. Unfortunately, we were knocked out in the frst round.",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society. Unfortunately, we were knocked out in the frst round.",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "Swinming Elub",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swinming Elub",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "April to June.",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "April to June.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "SCGS and Caine College. It was quite successful. We would like to thank all",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCGS and Caine College. It was quite successful. We would like to thank all",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "We had a bright and successful year.",
+      "chinese_name": "",
+      "class_designation": "Chairman: Lee Win Chiat （L6A）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had a bright and successful year.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers: Rev. Fr. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers: Rev. Fr. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Hfistoty Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Hfistoty Club",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "4. An inter-class general quiz co-organized by Chinese Society, Geography Society and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "4. An inter-class general quiz co-organized by Chinese Society, Geography Society and",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "club_name": "our club was held during the frst term.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "our club was held during the frst term.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Society. Unfortunately, we were knocked out in the frst round.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society. Unfortunately, we were knocked out in the frst round.",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "club_name": "hall. This marked the highlights of the club's activities of the whole year.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "hall. This marked the highlights of the club's activities of the whole year.",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "club_name": "We had made our new club-badge which was $2.5 each.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "We had made our new club-badge which was $2.5 each.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "The Ist Annual Joint-schools Swimming Gala was held on the 10th, March， '74 in",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The Ist Annual Joint-schools Swimming Gala was held on the 10th, March， '74 in",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "event_name": "Morrison Hill Swimming Pool. There were 35 events and with about 120 delegates",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Morrison Hill Swimming Pool. There were 35 events and with about 120 delegates",
+        "start_char": 0,
+        "end_char": 78
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_066_full.webp",
+  "extracted_photos": []
+}

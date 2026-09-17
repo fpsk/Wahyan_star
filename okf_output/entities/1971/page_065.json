@@ -1,0 +1,56 @@
+{
+  "year": "1971",
+  "page": 65,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Esther Lo Anthony Wong and Alfred Li Sze-Hau and Kitty at their Wedding",
+  "students": [
+    {
+      "english_name": "Esther Lo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Esther Lo",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Anthony Wong and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Wong and",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Alfred Li Sze-Hau and Kitty at their Wedding",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alfred Li Sze-Hau and Kitty at their Wedding",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_065_full.webp",
+  "extracted_photos": [
+    "1971_page_065_photo_1.webp",
+    "1971_page_065_photo_2.webp"
+  ]
+}

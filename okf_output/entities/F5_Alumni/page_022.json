@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 22,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Lau Chiu Kit (劉超傑) • Lam Sai Ming, Stephen (林世明) • Lam Wai Nang (林偉能) • Lau Kin On (劉建安)",
+  "students": [
+    {
+      "english_name": "Lau Chiu Kit",
+      "chinese_name": "劉超傑",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lam Sai Ming, Stephen",
+      "chinese_name": "林世明",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lam Wai Nang",
+      "chinese_name": "林偉能",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lau Kin On",
+      "chinese_name": "劉建安",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_022_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 22,
+      "english_name": "Lau Chiu Kit",
+      "chinese_name": "劉超傑",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 22,
+      "english_name": "Lam Sai Ming, Stephen",
+      "chinese_name": "林世明",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 22,
+      "english_name": "Lam Wai Nang",
+      "chinese_name": "林偉能",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 22,
+      "english_name": "Lau Kin On",
+      "chinese_name": "劉建安",
+      "class": "Form 5A1"
+    }
+  ]
+}

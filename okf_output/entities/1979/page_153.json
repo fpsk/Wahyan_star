@@ -1,0 +1,66 @@
+{
+  "year": "1979",
+  "page": 153,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "ODith the Compliments Qlles Cheamshit Compang, Qid. 14TH FLOOR: NEW HENRY HOUSE，",
+  "students": [
+    {
+      "english_name": "ODith the Compliments",
+      "chinese_name": "致意",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ODith the Compliments 致意",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Qlles Cheamshit Compang, Qid.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Qlles Cheamshit Compang, Qid.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_153_full.webp",
+  "extracted_photos": []
+}

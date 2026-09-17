@@ -1,0 +1,23 @@
+# Wah Yan Star 1978 - Page 117
+
+
+## Page Text Content
+
+```text
+COBITUARY
+UARY
+OBITUARV
+Op、
+UARY
+01C
+OBITUARY
+3IT
+TUA
+ARY
+UAR
+TUA
+JAR
+RY
+UARY
+ORTTTIA
+```

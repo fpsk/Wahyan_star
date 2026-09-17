@@ -1,0 +1,364 @@
+{
+  "year": "1972",
+  "page": 102,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "（2）. A Visit to Vitasoy On the same day, the committee or- ganized a visit to Vitasoy for Ming Lung",
+  "students": [
+    {
+      "english_name": "On the same day, the committee or-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On the same day, the committee or-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Filty students participated. They all en-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Filty students participated. They all en-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "July",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "July",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Summer Camp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Summer Camp",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "A holiday camp has been organized",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A holiday camp has been organized",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Out-door activities will occupy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Out-door activities will occupy",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Other functions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Other functions",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Ten members volunteered to teach in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ten members volunteered to teach in",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "It was Or-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was Or-",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Heart Canossian College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Heart Canossian College.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The centers were in Shumshuipo and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The centers were in Shumshuipo and",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Wong Tai Sin. They taught once a week.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Tai Sin. They taught once a week.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The Walk was somewhat like the Mil-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Walk was somewhat like the Mil-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Members were sent to set and check",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members were sent to set and check",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "May",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "May",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Fifty-fve students volunteered to help",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fifty-fve students volunteered to help",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "It was this year that we got two boards",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was this year that we got two boards",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Finally, the Club would like to ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, the Club would like to ex-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "School and Social Service Group of Saint",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School and Social Service Group of Saint",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Francis Canossian College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Canossian College.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Lai Kwok Wing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Kwok Wing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "5 Fathers, 9 teachers and 200 boys",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "5 Fathers, 9 teachers and 200 boys",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "press a word ot thanks to our advisor, Rev.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "press a word ot thanks to our advisor, Rev.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Father McGaley. Acknowledgements were",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father McGaley. Acknowledgements were",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Finally, the Club would like to ex-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Finally, the Club would like to ex-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "also due to the Chinese Dramatic Club of",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "also due to the Chinese Dramatic Club of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "our school, Sacred Heart Club of S.H.C.G.，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "our school, Sacred Heart Club of S.H.C.G.，",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_102_full.webp",
+  "extracted_photos": [
+    "1972_page_102_photo_1.webp",
+    "1972_page_102_photo_2.webp"
+  ]
+}

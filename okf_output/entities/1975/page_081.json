@@ -1,0 +1,94 @@
+{
+  "year": "1975",
+  "page": 81,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Our Bishop, Msgr. Lei died on the 23, July, 1974. We had lost not only a Bishop, but a dear friend to all Christian, still more, a true friend of us - the young Christians.",
+  "students": [
+    {
+      "english_name": "Bishop, but a dear friend to all Christian, still more, a true friend of us - the young",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bishop, but a dear friend to all Christian, still more, a true friend of us - the young",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "english_name": "Christians.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christians.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Bishop Lei was of the old generation, brought up and educated in the traditions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bishop Lei was of the old generation, brought up and educated in the traditions",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Though he has left us, he still remains present through his example. We had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though he has left us, he still remains present through his example. We had",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Christ.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christ.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Bishop will share His everlasting happiness.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bishop will share His everlasting happiness.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_081_full.webp",
+  "extracted_photos": [
+    "1975_page_081_photo_1.webp"
+  ]
+}

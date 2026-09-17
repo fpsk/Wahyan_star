@@ -1,0 +1,44 @@
+{
+  "year": "1972",
+  "page": 63,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "December 30 - Francis Chung Ka Hang and Pauline at St. Margaret's September 25 - Kenneth Ng Chun Ho",
+  "students": [
+    {
+      "english_name": "Shirley at St. Stephen's Church",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shirley at St. Stephen's Church",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Stephen Hui and Vivien Suen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stephen Hui and Vivien Suen",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_063_full.webp",
+  "extracted_photos": [
+    "1972_page_063_photo_1.webp",
+    "1972_page_063_photo_2.webp",
+    "1972_page_063_photo_3.webp"
+  ]
+}

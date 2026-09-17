@@ -1,0 +1,30 @@
+{
+  "year": "1975",
+  "page": 126,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "美力士表•百媚千嬌 瑞士美力士表，窈窕清麗，纖 巧精細，線條優雅，款式趨時，佩",
+  "students": [
+    {
+      "english_name": "MILUS",
+      "chinese_name": "美力士表",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MILUS 美力士表",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_126_full.webp",
+  "extracted_photos": [
+    "1975_page_126_photo_1.webp",
+    "1975_page_126_photo_2.webp"
+  ]
+}

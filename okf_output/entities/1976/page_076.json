@@ -1,0 +1,434 @@
+{
+  "year": "1976",
+  "page": 76,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Our Past Students' Association HON.PRESIDENT HON. LEGAL ADVISOR",
+  "students": [
+    {
+      "english_name": "Our Past Students' Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Past Students' Association",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "HON.PRESIDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HON.PRESIDENT",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "HON. LEGAL ADVISOR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HON. LEGAL ADVISOR",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "William C.Y.Kwan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "William C.Y.Kwan",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Peter Hall Kam Ping",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Hall Kam Ping",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "CHAIRMAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAIRMAN",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "PRESIDENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRESIDENT",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Patrick Wu Po Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patrick Wu Po Kong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Peter Ho Wing Ko",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Ho Wing Ko",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "VICE CHAIRMAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VICE CHAIRMAN",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "VICE PRESIDENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VICE PRESIDENTS",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Dereck Y. L. Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dereck Y. L. Kong",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Jeffrey Sun Hon Kuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jeffrey Sun Hon Kuen",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "HON. SECRETARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HON. SECRETARY",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Roderick B. Woo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Roderick B. Woo",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "HON. AUDITOR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HON. AUDITOR",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "HON. TREASURER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HON. TREASURER",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Kwan Man Wai, M.B.E.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwan Man Wai, M.B.E.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Wong Fat Yen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Fat Yen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "The Association has made some signifcant achievements during the year ended",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Association has made some signifcant achievements during the year ended",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Our Swimming Shed at South Bay was completely renovated, with further improve-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Swimming Shed at South Bay was completely renovated, with further improve-",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "All these have made a welcome change in the Shed, which is so popular",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All these have made a welcome change in the Shed, which is so popular",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "The Reunion Dinner Party at Franho Restaurant, Wanchai, held prior to the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Reunion Dinner Party at Franho Restaurant, Wanchai, held prior to the",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "english_name": "Chats, and in majong and other games.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chats, and in majong and other games.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "A Launch Picnic to Chikpik near Clear Water Bay was well attended and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Launch Picnic to Chikpik near Clear Water Bay was well attended and",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "Lively music and songs were provided throughout, plus an exciting Lucky-draw",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lively music and songs were provided throughout, plus an exciting Lucky-draw",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "Wal Yan HONGKONG and KOWLOON, Ricci Hall and the two Past Students'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wal Yan HONGKONG and KOWLOON, Ricci Hall and the two Past Students'",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "KONG came througl with fying colours to win the Championship, while the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KONG came througl with fying colours to win the Championship, while the",
+        "start_char": 0,
+        "end_char": 71
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Fr. C. J. Barrett S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. C. J. Barrett S.J.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "2. Our Swimming Shed at South Bay was completely renovated, with further improve-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "2. Our Swimming Shed at South Bay was completely renovated, with further improve-",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "event_name": "1975 at Wah Yan,Kowloon, Champions of the preceding year. Contestants in-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "1975 at Wah Yan,Kowloon, Champions of the preceding year. Contestants in-",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "KONG came througl with fying colours to win the Championship, while the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "KONG came througl with fying colours to win the Championship, while the",
+        "start_char": 0,
+        "end_char": 71
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_076_full.webp",
+  "extracted_photos": []
+}

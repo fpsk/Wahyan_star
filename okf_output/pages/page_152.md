@@ -1,0 +1,59 @@
+# Wah Yan Star 1976 - Page 152
+
+
+## Page Text Content
+
+```text
+齡記
+香港德輔道中127號
+書店
+九龍彌敦道678號
+LING KEE BOOK STORE
+127 - 131 DES VOEUX ROAD, C.，HONG KONG.
+678 NATHAN ROAD, MONGKOK, KOWLOON.
+TELS.451490,451540, 943486, 941800
+齡記課本
+•真善美廉！
+齢
+¥記
+LING KEE PUBLISHING CO.
+ZUNG FU INDUSTRIAL BUILDING, i067 KING'S ROAD.
+QUARRY BAY, HONG KONG.
+Tels. 5~616151-2 （all depts.）
+Great Stories in Easy English
+FIRST SERIES
+SECOND SERIES
+（Recommended for use in Forms 1 & 2）
+（Recommended for use in Forms 2 & 3）
+ROUND THE WORLD IN EIGHTY DAYS
+TREASURE ISLAND
+THE ADVENTURES OF TOM SAWYER
+THE THREE MUSKETEERS
+TALES FROM THE ARABIAN NIGHTS
+JANE EYRE
+THE PRISONER OF ZENDA
+A TALE OF TWO CITIES
+MONTE CRISTO
+KIDNAPPED
+LITTLE WOMEN
+GREAT EXPECTATIONS
+DAVID COPPERFIELD
+IVANHOE
+OLIVER TWIST
+PRIDE AND PREJUDICE
+SILAS MARNER
+EMMA
+SWISS FAMILY ROBINSON
+WUTHERING HEIGHTS
+THE CORAL ISLAND
+TALES FROM SHAKESPEARE
+HUCKLEBERRY FINN
+MORE TALES FROM SHAKESPEARE
+“THE MOST POPULAR SERIES OF SUPPLEMENTARY READERS IN HONG KONG”'
+STRUCTURE CONTROL • GRADED VOCABULARY
+All the books are simplified in easy but natural English, making full use of the sentence patterns
+and tenses prescribed for primary schools by the Education Department.
+This unique feature
+not only ensures a smooth transition from primary to secondary English, but also strengthens
+the student's command of English through enjoyable reading.
+```

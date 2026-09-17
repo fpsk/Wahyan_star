@@ -1,0 +1,45 @@
+# Wah Yan Star 1976 - Page 157
+
+
+## Page Text Content
+
+```text
+𪇵天恩公司
+HENINa coINc. TRAVEL
+196. CANAL STREET. NEW
+YORK. N.Y.. 10013
+AREA CODE （212） TEL: 233-7333 962-3499
+森天恩公司
+HENIN & co. （CAL） LTD. TRAVEL
+811,CLAY STREET. SAN FRANCISCO, CALIF. 94108
+AREA CODE （415） TEL:781-1638
+蔡天恩棗公司
+（旅行社）
+HENIN & co. （H.k） LTD. TRAVEL
+RM. 501 ON LOK YUEN BLDG. 25. DES VOEUX ROAD. C.
+TEL. 5-224663 5-224658.5-238348
+香港德輔道中廿五號安集園大厦六樓五〇一室
+KOWLOON BRANCH：
+SHOP 12. FAR EAST MANSION 5-6 MIDDLE ROAD. KOWLOON
+TEL.3-660125.3-667668
+分行：九龍失沙咀中間道遠東大廈地下十二號室
+Cable Address：“HENINTOURS”'all office
+TAI WAH HONG TRAVEL SERVICE, LTD.
+泰華行旅運有限公司
+一代
+IMMIGRANTS & STUDENTS
+TRAVEL DOCUMENTS
+TRAVEL ITINERARY & TOURS
+辦，
+移民及學生留學手續
+旅行簽證
+旅行計劃及旅行團禮
+總經理：黃國華
+JOHN WONG
+香港德輔道中二十五號 安樂園大厦五〇四一五〇五室
+Rm. 504-505 On Lok Yuea Building，
+25, Des Voeux Road, Central, Hong Kong
+Tel. 5-223401 5-248826
+5-236757
+5-233588
+```

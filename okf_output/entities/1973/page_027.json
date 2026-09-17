@@ -1,0 +1,30 @@
+{
+  "year": "1973",
+  "page": 27,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "•Drama Festival- The Man Who Thought For Himself .•.well written, well acted and interpreted and with plenty",
+  "students": [
+    {
+      "english_name": "The Man Who Thought For Himself",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Man Who Thought For Himself",
+        "start_char": 0,
+        "end_char": 31
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_027_full.webp",
+  "extracted_photos": [
+    "1973_page_027_photo_1.webp",
+    "1973_page_027_photo_2.webp"
+  ]
+}

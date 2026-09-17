@@ -1,0 +1,98 @@
+{
+  "year": "1978",
+  "page": 70,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "for 3 Our schoolentered projects: 1 individual project",
+  "students": [
+    {
+      "english_name": "Our schoolentered",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our schoolentered",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Exhibition was held from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition was held from",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Its preparation had started in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Its preparation had started in",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Lehose at the opening cere-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lehose at the opening cere-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Lee for their kind assistance",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee for their kind assistance",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "thank Fr. Cryan and Mr. S. K.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "thank Fr. Cryan and Mr. S. K.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_070_full.webp",
+  "extracted_photos": [
+    "1978_page_070_photo_1.webp",
+    "1978_page_070_photo_2.webp",
+    "1978_page_070_photo_3.webp",
+    "1978_page_070_photo_4.webp",
+    "1978_page_070_photo_5.webp"
+  ]
+}

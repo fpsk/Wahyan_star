@@ -1,0 +1,367 @@
+{
+  "year": "1971",
+  "page": 144,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 5 B",
+  "summary": "13 Fr.M. Brosnan FORM 5 B （1970-71）",
+  "students": [
+    {
+      "english_name": "Leung Wing Leung, Patrick",
+      "chinese_name": "陳永",
+      "class_designation": "FORM 5 B",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Leung Wing Leung, Patrick 陳永",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Lo Pak Shiu",
+      "chinese_name": "陳永强",
+      "class_designation": "FORM 5 B",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lo Pak Shiu 陳永强",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mak Wai Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Mak Wai Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ng Seung On, John",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ng Seung On, John",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ng Wai Ki",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ng Wai Ki",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Poon Kwok Sun",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Poon Kwok Sun",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "San Bing Tao, Robert",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "San Bing Tao, Robert",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Siu Yee Cheung, Stephen",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Siu Yee Cheung, Stephen",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Chei",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chei",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Tam Ming Wai",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Tam Ming Wai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chit",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chit",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Tang Siu Ki",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Tang Siu Ki",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chu",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chu",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Tse Kwok Sing",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Tse Kwok Sing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lam",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lam",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Wong Hou Yan",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wong Hou Yan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Law Wing Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Law Wing Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wu Ka Lun",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wu Ka Lun",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Lee Chun Chiu, Joseph",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lee Chun Chiu, Joseph",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Yan Chi Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yan Chi Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lee Yuk Kee",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lee Yuk Kee",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yeung Kwok Kau",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yeung Kwok Kau",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Leung Kwong Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Leung Kwong Chung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Yu Chi Ming, Stephen",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yu Chi Ming, Stephen",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Leung Wai Hung",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Leung Wai Hung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Yuen Chee Shing",
+      "chinese_name": "",
+      "class_designation": "FORM 5 B",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yuen Chee Shing",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "13 Fr.M. Brosnan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "13 Fr.M. Brosnan",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_144_full.webp",
+  "extracted_photos": [
+    "1971_page_144_photo_1.webp"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "year": "1971",
+  "page": 3,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "THE STAR ANNUAL SCHOOL MAGAZINE OF WAH YAN COLLEGE H.K. JULY 1971",
+  "students": [
+    {
+      "english_name": "THE STAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE STAR",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "CONTENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CONTENTS",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "EDITORIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STAFF",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "MEMORIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MEMORIAL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "SCHOOL EVENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL EVENTS",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "NEWS OF THE PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS OF THE PAST",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "STUDENT ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT ACTIVITIES",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "SPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "SCHOOL ROLL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL ROLL",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "ARTICLES FROM STUDENTS ....",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ARTICLES FROM STUDENTS ....",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "CHINESE SECTION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHINESE SECTION",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_003_full.webp",
+  "extracted_photos": []
+}

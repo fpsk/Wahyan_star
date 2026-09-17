@@ -1,0 +1,352 @@
+{
+  "year": "1979",
+  "page": 93,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "WAH YAN PAST STUDENTS' ASSOCIATION MEMBERSHIP Membership sub-committee has up-dated the membership records. It is encouraging",
+  "students": [
+    {
+      "english_name": "MEMBERSHIP",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MEMBERSHIP",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Membership sub-committee has up-dated the membership records. It is encouraging",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Membership sub-committee has up-dated the membership records. It is encouraging",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "The council is planning to publish a directory of Life members later this year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The council is planning to publish a directory of Life members later this year.",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "GRADUATION DINNER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GRADUATION DINNER",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "GARDEN PARTY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GARDEN PARTY",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Garden Party",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Garden Party",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ion hosted a garden party tor all past students",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ion hosted a garden party tor all past students",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "The students council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The students council",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Basketball and football matches",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basketball and football matches",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "SWIMMING SHED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWIMMING SHED",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "The association's swimming shed at South",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The association's swimming shed at South",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Bay has been renovated this year in April. It",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bay has been renovated this year in April. It",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "CAREER TALKS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CAREER TALKS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "HONOURS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONOURS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Given in honour of Council Member Mr. Stephen M. S. Yow for his being elected",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Given in honour of Council Member Mr. Stephen M. S. Yow for his being elected",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "- Mr. Philip Ching",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "- Mr. Philip Ching",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Anthony S. W. Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Anthony S. W. Cheung",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mr. Robert S. K. Wong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Robert S. K. Wong",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "- Dr. Ip Cheuk Kin",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "- Dr. Ip Cheuk Kin",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "- Mr. K. K. Young",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "- Mr. K. K. Young",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "“Architecture” - Mr. David T. W. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "“Architecture” - Mr. David T. W. Lee",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Given in honour of Hon. President Mr. Paul Lim for his as M.B.E.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Given in honour of Hon. President Mr. Paul Lim for his as M.B.E.",
+        "start_char": 0,
+        "end_char": 64
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "12th February 1979 at World Trade Centre Club -",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "12th February 1979 at World Trade Centre Club -",
+        "start_char": 0,
+        "end_char": 47
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Membership sub-committee has up-dated the membership records. It is encouraging",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Membership sub-committee has up-dated the membership records. It is encouraging",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "event_name": "SWIMMING SHED",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING SHED",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "event_name": "The association's swimming shed at South",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The association's swimming shed at South",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_093_full.webp",
+  "extracted_photos": [
+    "1979_page_093_photo_1.webp"
+  ]
+}

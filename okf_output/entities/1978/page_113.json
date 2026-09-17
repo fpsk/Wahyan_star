@@ -1,0 +1,83 @@
+{
+  "year": "1978",
+  "page": 113,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "TEA9 EHT Chin Yuen Wing at Los Angeles College, U.S.A.",
+  "students": [
+    {
+      "english_name": "Chin Yuen Wing at Los Angeles",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chin Yuen Wing at Los Angeles",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "College, U.S.A.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College, U.S.A.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "London, England.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "London, England.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Spencer Ma Wai Bong at",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Spencer Ma Wai Bong at",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "St. Kevin's College, Australia",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Kevin's College, Australia",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_113_full.webp",
+  "extracted_photos": [
+    "1978_page_113_photo_1.webp",
+    "1978_page_113_photo_2.webp",
+    "1978_page_113_photo_3.webp"
+  ]
+}

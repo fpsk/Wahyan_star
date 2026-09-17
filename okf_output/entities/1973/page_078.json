@@ -1,0 +1,370 @@
+{
+  "year": "1973",
+  "page": 78,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "MUSK 7） In March, the 'Student Night I' was",
+  "students": [
+    {
+      "english_name": "MUSK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MUSK",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "In March, the 'Student Night I' was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In March, the 'Student Night I' was",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The Let's Get Together Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Let's Get Together Club",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Festival held by the Student Council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Festival held by the Student Council",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "We also took part in a fund-raising",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We also took part in a fund-raising",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Sisters' School in July.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sisters' School in July.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Intermediate and Senior. The en-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Intermediate and Senior. The en-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "On behalf of the Let's Together Club, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On behalf of the Let's Together Club, we",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Festival.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Festival.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Club provided an item.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club provided an item.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "The Psalite' organized by the King's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Psalite' organized by the King's",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "College took place in December.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College took place in December.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Winners of the Talent Time were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winners of the Talent Time were",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "In February, the Club recieved",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In February, the Club recieved",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "St. Paul's Secondery School to attend",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's Secondery School to attend",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Toner, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Toner, S.J.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. David Lee was the tutor.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. David Lee was the tutor.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "The Let's Get Together Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Let's Get Together Club",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "club_name": "（The Music Society）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "（The Music Society）",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "club_name": "the co-operation of the Disc Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the co-operation of the Disc Club.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "club_name": "On behalf of the Let's Together Club, we",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "On behalf of the Let's Together Club, we",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "of the Club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of the Club.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "club_name": "Club provided an item.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club provided an item.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "club_name": "In February, the Club recieved",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "In February, the Club recieved",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "club_name": "invitation from the Tri-M Society of",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "invitation from the Tri-M Society of",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_078_full.webp",
+  "extracted_photos": [
+    "1973_page_078_photo_1.webp"
+  ]
+}

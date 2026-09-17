@@ -1,0 +1,110 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 35,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Tam Laying (譚乃英) • Tang Hee Wah (鄧喜華) • Tan Chuen Yan, Paul (譚傳仁) • Tang Kwong Leung (鄧光亮)",
+  "students": [
+    {
+      "english_name": "Tam Laying",
+      "chinese_name": "譚乃英",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Tang Hee Wah",
+      "chinese_name": "鄧喜華",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Tan Chuen Yan, Paul",
+      "chinese_name": "譚傳仁",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "T'an Chuen Yan, Paul"
+      ],
+      "aliases_zh": [
+        "陳傳仁"
+      ]
+    },
+    {
+      "english_name": "Tang Kwong Leung",
+      "chinese_name": "鄧光亮",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "鄧廣亮"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_035_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tam Laying",
+      "chinese_name": "譚乃英",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tang Hee Wah",
+      "chinese_name": "鄧喜華",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tan Chuen Yan, Paul",
+      "chinese_name": "譚傳仁",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "T'an Chuen Yan, Paul",
+      "chinese_name": "譚傳仁",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tan Chuen Yan, Paul",
+      "chinese_name": "陳傳仁",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tang Kwong Leung",
+      "chinese_name": "鄧光亮",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 35,
+      "english_name": "Tang Kwong Leung",
+      "chinese_name": "鄧廣亮",
+      "class": "Form 5A"
+    }
+  ]
+}

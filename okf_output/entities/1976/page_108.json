@@ -1,0 +1,536 @@
+{
+  "year": "1976",
+  "page": 108,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 5A（1975-76）",
+  "summary": "Fr. O'Rourke FORM 5A（1975-76） 20. Lam Kee Chok",
+  "students": [
+    {
+      "english_name": "Lam Kee Chok",
+      "chinese_name": "林其作",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lam Kee Chok 林其作",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Au Kin Tung",
+      "chinese_name": "劉達賢",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Au Kin Tung 劉達賢",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Kwong Kuen",
+      "chinese_name": "羅紹佳",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chan Kwong Kuen 羅紹佳",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lau Tat Yin",
+      "chinese_name": "陸志",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lau Tat Yin 陸志",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chau So Wah",
+      "chinese_name": "吳敏誠",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chau So Wah 吳敏誠",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Law Shiu Kai",
+      "chinese_name": "杜德",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Law Shiu Kai 杜德",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chau Yik Ng",
+      "chinese_name": "杜永泰",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chau Yik Ng 杜永泰",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Man Kam",
+      "chinese_name": "黃克强",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Leung Man Kam 黃克强",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Cheung Wai Man",
+      "chinese_name": "吳港生",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Cheung Wai Man 吳港生",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Luk Chi Lok",
+      "chinese_name": "胡錦富",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Luk Chi Lok 胡錦富",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheung Wang Yuen",
+      "chinese_name": "游兆麟",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Cheung Wang Yuen 游兆麟",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Ng Kai Ming",
+      "chinese_name": "業景洋",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ng Kai Ming 業景洋",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kam Yueng",
+      "chinese_name": "楊炳强",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Kam Yueng 楊炳强",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Chiong",
+      "chinese_name": "阮满成",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chiong 阮满成",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ng Mun Sing",
+      "chinese_name": "阮偉祺",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ng Mun Sing 阮偉祺",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cho Chung Kwai",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Cho Chung Kwai",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "To Tak Shun",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "To Tak Shun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Choi Kam Piu",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Choi Kam Piu",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "To Wing Tai, Peter",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "To Wing Tai, Peter",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Choi Lung Chin",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Choi Lung Chin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wong Huck Keung",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wong Huck Keung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chow Tak Cheong",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chow Tak Cheong",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Wong Tak Kin",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wong Tak Kin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chow Wai Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Chow Wai Chung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wong Wai Hon",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wong Wai Hon",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Hau Tat Kwonig, Andrew",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Hau Tat Kwonig, Andrew",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Woo Kong Sang, John",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Woo Kong Sang, John",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Ho Shiu Wei",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ho Shiu Wei",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wu Kam Fu",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Wu Kam Fu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Yau Siu Lun",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yau Siu Lun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ho Tai Cheong",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ho Tai Cheong",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Hui Chi Sang",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Hui Chi Sang",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yeh King Yeung",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yeh King Yeung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ip Kin Fung",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Ip Kin Fung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yeung Ping Keung",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yeung Ping Keung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Kwan Wai Kin",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Kwan Wai Kin",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Yuen Moon Sing",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yuen Moon Sing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lai King Shing, James",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Lai King Shing, James",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Yuen Wai Kei",
+      "chinese_name": "",
+      "class_designation": "FORM 5A（1975-76）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": true,
+      "evidence": {
+        "text": "Yuen Wai Kei",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. O'Rourke",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. O'Rourke",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_108_full.webp",
+  "extracted_photos": [
+    "1976_page_108_photo_1.webp"
+  ]
+}

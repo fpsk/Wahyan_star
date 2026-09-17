@@ -1,0 +1,53 @@
+{
+  "year": "1971",
+  "page": 183,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "國祥金屬製品廠有限公司 KWOK CHEUNG METALWARE MFTY. ASHTRAY KEROSENE LAMP CANDLE LAMP",
+  "students": [
+    {
+      "english_name": "KWOK CHEUNG METALWARE MFTY.",
+      "chinese_name": "程廣",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KWOK CHEUNG METALWARE MFTY. 程廣",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "ASHTRAY KEROSENE LAMP CANDLE LAMP",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ASHTRAY KEROSENE LAMP CANDLE LAMP",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "CHING KWONG CHEUNG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHING KWONG CHEUNG",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_183_full.webp",
+  "extracted_photos": []
+}

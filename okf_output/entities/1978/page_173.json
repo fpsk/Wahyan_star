@@ -1,0 +1,66 @@
+{
+  "year": "1978",
+  "page": 173,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "威明隱形眼鏡 由英國註册光學師戴翰平主理 為閣下精配歐美名廠軟硬性隱形鏡片，新款眼鏡及太陽鏡",
+  "students": [
+    {
+      "english_name": "Ray Opticians",
+      "chinese_name": "中國語",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ray Opticians 中國語",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Refraction and Contact Lens Clinic",
+      "chinese_name": "中國歷史",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Refraction and Contact Lens Clinic 中國歷史",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Hing Wai Building",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 104,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hing Wai Building",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Queen's Road Central Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen's Road Central Hong Kong",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_173_full.webp",
+  "extracted_photos": []
+}

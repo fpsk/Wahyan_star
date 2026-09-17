@@ -1,0 +1,43 @@
+{
+  "year": "1971",
+  "page": 21,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "'We treat our classroom as our home！”\"Hay! Look at the poster. A debate between friendly",
+  "students": [
+    {
+      "english_name": "TAHS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TAHS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "the Fathers and the students is going to",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the Fathers and the students is going to",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_021_full.webp",
+  "extracted_photos": [
+    "1971_page_021_photo_1.webp",
+    "1971_page_021_photo_2.webp"
+  ]
+}

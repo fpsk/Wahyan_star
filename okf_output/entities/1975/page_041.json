@@ -1,0 +1,56 @@
+{
+  "year": "1975",
+  "page": 41,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "organised. More than 350 of our stu- my leg recovered on the following day. （Thanks to the frst aid provided by our.",
+  "students": [
+    {
+      "english_name": "So, we should have every best wish",
+      "chinese_name": "港谷益金",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So, we should have every best wish 港谷益金",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Million' and thanks to the organisers of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Million' and thanks to the organisers of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "As a whole, the Ball was quite successful and it was an enjoyable evening. We",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As a whole, the Ball was quite successful and it was an enjoyable evening. We",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_041_full.webp",
+  "extracted_photos": [
+    "1975_page_041_photo_1.webp",
+    "1975_page_041_photo_2.webp"
+  ]
+}

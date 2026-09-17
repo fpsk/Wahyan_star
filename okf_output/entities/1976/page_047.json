@@ -1,0 +1,161 @@
+{
+  "year": "1976",
+  "page": 47,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "［U〇 Life Guard Club Patron",
+  "students": [
+    {
+      "english_name": "Life Guard Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Life Guard Club",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Patron",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patron",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "In September, as usual, the service in the Swimming Gala was handled and a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In September, as usual, the service in the Swimming Gala was handled and a",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Earlier than usual, a new committee was elected in October to co-ordinate the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Earlier than usual, a new committee was elected in October to co-ordinate the",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "In the summer vacation, duties are to be handled in swimming pools and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the summer vacation, duties are to be handled in swimming pools and",
+        "start_char": 0,
+        "end_char": 70
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "：Rev. Fr. Corbally S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. Corbally S.J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Life Guard Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Life Guard Club",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "activities of the Royal Life Saving Society, Hong Kong Branch. On the same month，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "activities of the Royal Life Saving Society, Hong Kong Branch. On the same month，",
+        "start_char": 0,
+        "end_char": 81
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "In September, as usual, the service in the Swimming Gala was handled and a",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "In September, as usual, the service in the Swimming Gala was handled and a",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "event_name": "In the summer vacation, duties are to be handled in swimming pools and",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "In the summer vacation, duties are to be handled in swimming pools and",
+        "start_char": 0,
+        "end_char": 70
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_047_full.webp",
+  "extracted_photos": [
+    "1976_page_047_photo_1.webp"
+  ]
+}

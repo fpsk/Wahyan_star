@@ -1,0 +1,170 @@
+{
+  "year": "1978",
+  "page": 117,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "COBITUARY UARY OBITUARV",
+  "students": [
+    {
+      "english_name": "COBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COBITUARY",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "UARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UARY",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "OBITUARV",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARV",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "UARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UARY",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "TUA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TUA",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ARY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "UAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UAR",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "TUA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TUA",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "JAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JAR",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "UARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UARY",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ORTTTIA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ORTTTIA",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_117_full.webp",
+  "extracted_photos": []
+}

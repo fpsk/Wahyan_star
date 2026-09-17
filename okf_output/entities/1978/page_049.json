@@ -1,0 +1,264 @@
+{
+  "year": "1978",
+  "page": 49,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOI ACTIVITIES SCHOOUU",
+  "students": [
+    {
+      "english_name": "SCHOOI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOI",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVITIES",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SCHOOUU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOUU",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "ACIIVILLES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACIIVILLES",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVITIES",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SCHOOL ACTIVITIRS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL ACTIVITIRS",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "SeTVITESSRAEoy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SeTVITESSRAEoy",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CTIV",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CTIV",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ACTIV",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIV",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "GOD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GOD",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "HOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HOOL",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ACTI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTI",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ACIr",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACIr",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "ACTIVI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVI",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "SCHOOT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOT",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "ACTIVITIEL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVITIEL",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "OOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OOL",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "IOOL ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IOOL ACTIVITIES",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_049_full.webp",
+  "extracted_photos": [
+    "1978_page_049_photo_1.webp",
+    "1978_page_049_photo_2.webp"
+  ]
+}

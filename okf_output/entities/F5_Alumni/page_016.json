@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 16,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chung Heung Wing, Lawrence (鍾向榮) • Fong Man Hong (方文康) • Fan Man Kwong (范文廣) • Fung Kit Man (馮傑民)",
+  "students": [
+    {
+      "english_name": "Chung Heung Wing, Lawrence",
+      "chinese_name": "鍾向榮",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Fong Man Hong",
+      "chinese_name": "方文康",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Fan Man Kwong",
+      "chinese_name": "范文廣",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Fung Kit Man",
+      "chinese_name": "馮傑民",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_016_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 16,
+      "english_name": "Chung Heung Wing, Lawrence",
+      "chinese_name": "鍾向榮",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 16,
+      "english_name": "Fong Man Hong",
+      "chinese_name": "方文康",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 16,
+      "english_name": "Fan Man Kwong",
+      "chinese_name": "范文廣",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 16,
+      "english_name": "Fung Kit Man",
+      "chinese_name": "馮傑民",
+      "class": "Form 5A1"
+    }
+  ]
+}

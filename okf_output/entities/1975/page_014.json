@@ -1,0 +1,45 @@
+{
+  "year": "1975",
+  "page": 14,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Asking Forgiveness Hard Working Kids Hurry up！",
+  "students": [
+    {
+      "english_name": "Asking Forgiveness",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Asking Forgiveness",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Hard Working Kids",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hard Working Kids",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_014_full.webp",
+  "extracted_photos": [
+    "1975_page_014_photo_1.webp",
+    "1975_page_014_photo_2.webp",
+    "1975_page_014_photo_3.webp",
+    "1975_page_014_photo_4.webp"
+  ]
+}

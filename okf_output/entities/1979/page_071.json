@@ -1,0 +1,162 @@
+{
+  "year": "1979",
+  "page": 71,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "STUDENT FESTIVAL '79 SiENO ICES",
+  "students": [
+    {
+      "english_name": "SiENO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SiENO",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "ICES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ICES",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "AAN COLLEGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AAN COLLEGE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "This year was the seventh time we held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year was the seventh time we held",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "english_name": "Debate with St. Paul's Secondary School and our school, a Book Exhibition, an Orienteering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Debate with St. Paul's Secondary School and our school, a Book Exhibition, an Orienteering",
+        "start_char": 0,
+        "end_char": 90
+      }
+    },
+    {
+      "english_name": "VISitS, lunch time concerts, and film shows were held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VISitS, lunch time concerts, and film shows were held",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "Lastly, we wish to express our warmest thanks to those who have helped to make",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we wish to express our warmest thanks to those who have helped to make",
+        "start_char": 0,
+        "end_char": 78
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+        "start_char": 0,
+        "end_char": 87
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Social Service Society, Chinese Society, Music Society, Cine Club, and Tennis Club. The",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "event_name": "named Operation 324, a Joint School Social Exhibition, an Invitation tennis Tournament",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "named Operation 324, a Joint School Social Exhibition, an Invitation tennis Tournament",
+        "start_char": 0,
+        "end_char": 86
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_071_full.webp",
+  "extracted_photos": [
+    "1979_page_071_photo_1.webp"
+  ]
+}

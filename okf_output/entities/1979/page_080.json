@@ -1,0 +1,174 @@
+{
+  "year": "1979",
+  "page": 80,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "FOOTBALL A GRADE WE were in Division L this year",
+  "students": [
+    {
+      "english_name": "FOOTBALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOTBALL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "WE were in Division L this year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WE were in Division L this year",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "This was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Most of our team-mates were inex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Most of our team-mates were inex-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "B GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "We had quite a strong team this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had quite a strong team this",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "C GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Our players were quite experienced",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our players were quite experienced",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "We won most of our matches and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We won most of our matches and",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Runners Up in the League. Unfor-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Runners Up in the League. Unfor-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "In the knock-out competition, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the knock-out competition, we",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_080_full.webp",
+  "extracted_photos": [
+    "1979_page_080_photo_1.webp",
+    "1979_page_080_photo_2.webp",
+    "1979_page_080_photo_3.webp"
+  ]
+}

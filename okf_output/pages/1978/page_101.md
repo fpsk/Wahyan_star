@@ -1,0 +1,103 @@
+# Wah Yan Star 1978 - Page 101
+
+## Extracted Photos & Figures
+
+![1978 Page 101 Photo](../photos/1978_page_101_photo_1.webp)
+
+## Page Text Content
+
+```text
+INTER-HOUSE COMPETITION TOTAL POINTS （1977-78）
+HOUSE
+FORM HOUSE-MASTER HOUSE-CAPTAIN
+POINTS
+BROWN （REGIS）
+5B1
+Mak Shu Yiu
+2015
+Mr.K. P. Lee
+3B1
+1B2
+U6S
+WHIITE （LOYOLA）
+Mr. S. K. Lee
+1925½
+Ip Kin Fung
+4A
+2B1
+Shum Sze Ho
+5A
+BLACK （BERCHMANS）
+Fr.P.O'Rourke
+1905½
+4B
+2B
+L6S
+BLUE （KOSTKA）
+1714½
+Ip Moon Chi
+Fr. F.McGaley
+3A
+1A
+U6A
+YELLOW （GONZAGA）
+Mr. S. H.Chau
+Lo Chit Ki
+1595½
+4B1
+2A1
+1A1
+5B
+GREEN （CANISIUS）
+Fr.M.Brosnan
+1584
+Chan Kai Keung
+4A1
+2A
+5A1
+PURPLE （XAVIER）
+1456
+Mr. P. H.Cheng
+Leung Kit Fung
+3A1
+1B
+L6A
+RED （BOBOLA）
+Fr. A. Fariren
+1437
+Wong Yu Chiu
+3B
+1B1
+INTER-CLASS CHAMPIONS AND RUNNERS-UP （1977-78）
+SECTION
+EVENT
+CHAMPIONS
+RUNNERS-UP
+Senior
+5B
+L6S
+BASKETBALL K.O.
+Intermediate
+3B
+4B
+2B
+Junior
+2A
+Senior
+CHINESE CHESS
+4B
+4A
+U6S
+Senior
+FOOTBALL K.O.
+5A1
+Intermediate
+3B
+4A
+2A1
+1B1
+Junior
+3B
+3B1
+TABLE-TENNIS K.O. Open Grade
+```

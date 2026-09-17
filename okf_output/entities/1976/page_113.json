@@ -1,0 +1,575 @@
+{
+  "year": "1976",
+  "page": 113,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 4A1 （1975-76）",
+  "summary": "Fr. Farren FORM 4A1 （1975-76） 梁柏賢",
+  "students": [
+    {
+      "english_name": "Leung Pak Yin",
+      "chinese_name": "梁柏賢",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Pak Yin 梁柏賢",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Au Hing Cheung",
+      "chinese_name": "區慶祥",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Au Hing Cheung 區慶祥",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Leung Wai Yuen",
+      "chinese_name": "梁偉源",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wai Yuen 梁偉源",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Chi Kin",
+      "chinese_name": "梁榮華",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chi Kin 梁榮華",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Kin Wah",
+      "chinese_name": "李嘉信",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Wah 李嘉信",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Wing Wah",
+      "chinese_name": "廖志豪",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wing Wah 廖志豪",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Li Carlson",
+      "chinese_name": "陳偉權",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Carlson 陳偉權",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Tak Him",
+      "chinese_name": "廖炳堂",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tak Him 廖炳堂",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Liu Chi Ho",
+      "chinese_name": "蔡耀權",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liu Chi Ho 蔡耀權",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Wai Kuen",
+      "chinese_name": "盧超羣",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Kuen 盧超羣",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Liu Ping Tong",
+      "chinese_name": "莊裕安",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liu Ping Tong 莊裕安",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Choi Yiu Kuen",
+      "chinese_name": "呂榮照",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choi Yiu Kuen 呂榮照",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lo Chiu Kwan",
+      "chinese_name": "方榮",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Chiu Kwan 方榮",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chong Yu On",
+      "chinese_name": "馮志榮",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chong Yu On 馮志榮",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lui Wing Chiu",
+      "chinese_name": "馮敬德",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lui Wing Chiu 馮敬德",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fong Wing Sum",
+      "chinese_name": "吳嘉源",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Wing Sum 吳嘉源",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lun Caesar",
+      "chinese_name": "潘應麟",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lun Caesar 潘應麟",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Fung Chi Wing",
+      "chinese_name": "許權德",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Chi Wing 許權德",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mok Kam Tim",
+      "chinese_name": "蘇永良",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mok Kam Tim 蘇永良",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "King Tak",
+      "chinese_name": "滿枝",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King Tak 滿枝",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Fung",
+      "chinese_name": "蘇英麟",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung 蘇英麟",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ng Ka Yuen",
+      "chinese_name": "錦倫",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Ka Yuen 錦倫",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Fung Wah",
+      "chinese_name": "譚立勤",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Wah 譚立勤",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Poon Ying Lun",
+      "chinese_name": "黎昌華",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Ying Lun 黎昌華",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Hui",
+      "chinese_name": "鄧志成",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui 鄧志成",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Kuen Tak",
+      "chinese_name": "偉強",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kuen Tak 偉強",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "So Wing Leung",
+      "chinese_name": "謝百成",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Wing Leung 謝百成",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Ip Moon Chi",
+      "chinese_name": "志明",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ip Moon Chi 志明",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "So Ying Lun",
+      "chinese_name": "韋業勳",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Ying Lun 韋業勳",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Keung Kam Lun",
+      "chinese_name": "黃智豪",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Keung Kam Lun 黃智豪",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tam Lap Kun",
+      "chinese_name": "黃啓南",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Lap Kun 黃啓南",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lai Cheung Wah",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Cheung Wah",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tang Chi Sing",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Chi Sing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lau Wai Keung",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Wai Keung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tse Pak Shing",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Pak Shing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lee Chi Ming",
+      "chinese_name": "李智",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Chi Ming 李智",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wai Yip Fan,Frederic",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai Yip Fan,Frederic",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lee Kon Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Kon Chung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Chi Ho,Joseph",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chi Ho,Joseph",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Leung Kun Yu, Vitus",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kun Yu, Vitus",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Wong Kai Nam",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kai Nam",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Kwok Lun",
+      "chinese_name": "",
+      "class_designation": "FORM 4A1 （1975-76）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kwok Lun",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Farren",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Farren",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_113_full.webp",
+  "extracted_photos": [
+    "1976_page_113_photo_1.webp"
+  ]
+}

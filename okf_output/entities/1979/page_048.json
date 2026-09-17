@@ -1,0 +1,118 @@
+{
+  "year": "1979",
+  "page": 48,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "PHOTOGRAPHY CLUB TN October after the first general meeting, we",
+  "students": [
+    {
+      "english_name": "CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CLUB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "TN October after the first general meeting, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TN October after the first general meeting, we",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "In November, we took pass port",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In November, we took pass port",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Although the standard was more or less the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Although the standard was more or less the",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "As for joint school",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As for joint school",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "We would like to take this opportunity to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We would like to take this opportunity to",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "CLUB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1979_page_048_full.webp",
+  "extracted_photos": []
+}

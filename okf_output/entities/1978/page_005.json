@@ -1,0 +1,274 @@
+{
+  "year": "1978",
+  "page": 5,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Page EDIT ORIAL BOARD COLLECE STAFF",
+  "students": [
+    {
+      "english_name": "EDIT ORIAL BOARD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDIT ORIAL BOARD",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "COLLECE STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COLLECE STAFF",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "PRINCIPAL MESSAGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRINCIPAL MESSAGE",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "SCHOOL ORGANIZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL ORGANIZATIONS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "ORGANIZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ORGANIZATIONS",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "CATHOLIC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "STUDENT ORGANIZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT ORGANIZATIONS",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "SCHOOLACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOLACTIVITIES",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "JOINT SCHOOL ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT SCHOOL ACTIVITIES",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "SCHOOL LIFE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL LIFE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "SPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "WEDDINGS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WEDDINGS",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "NEWS OF THE PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS OF THE PAST",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "STAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STAR",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "ACKNOWLEDGEMENTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACKNOWLEDGEMENTS",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "AULD LANG SYNE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULD LANG SYNE",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "LAZINE OF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAZINE OF",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "WAH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WAH",
+        "start_char": 0,
+        "end_char": 3
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_005_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,484 @@
+{
+  "year": "1979",
+  "page": 103,
+  "section_type": "Class Roster",
+  "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+  "summary": "9 Fr. McGaley LOWER FORM 6 ARTS（1978-79） 19.",
+  "students": [
+    {
+      "english_name": "Chan Hing Wa",
+      "chinese_name": "陳慶華",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Hing Wa 陳慶華",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Kit Fung",
+      "chinese_name": "陳金國",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Kit Fung 陳金國",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Kam Kwok",
+      "chinese_name": "陳樹榮",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kam Kwok 陳樹榮",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Li Wai Hung, Anastatius",
+      "chinese_name": "陳穩剛",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Wai Hung, Anastatius 陳穩剛",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Ng Po Wing",
+      "chinese_name": "周百恩",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Po Wing 周百恩",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Shu Wing",
+      "chinese_name": "鄭相德",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Shu Wing 鄭相德",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Wan Kong, Peter",
+      "chinese_name": "張碩輝",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wan Kong, Peter 張碩輝",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Shek Ming Tung",
+      "chinese_name": "蔣寳華",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shek Ming Tung 蔣寳華",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "So Kuen Fai",
+      "chinese_name": "馮啓源",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Kuen Fai 馮啓源",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Yuk Choi",
+      "chinese_name": "何志偉",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yuk Choi 何志偉",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chau Pak Yan",
+      "chinese_name": "黎創紀",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chau Pak Yan 黎創紀",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "So Wing Kei",
+      "chinese_name": "黎以德",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Wing Kei 黎以德",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheng Sheung Tak",
+      "chinese_name": "林奮强",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Sheung Tak 林奮强",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Sung Kin Chiu",
+      "chinese_name": "林子才",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sung Kin Chiu 林子才",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tang Kwok Hong",
+      "chinese_name": "林子明",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Kwok Hong 林子明",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cheung Shek Fai, Raymond",
+      "chinese_name": "林賢思",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Shek Fai, Raymond 林賢思",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Tong Chi Keung",
+      "chinese_name": "李小平",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Chi Keung 李小平",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chiang Po Wa, Silvester",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiang Po Wa, Silvester",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Tse Chi Man",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Chi Man",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fung Kai. Yuen",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Kai. Yuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tsui Pui Wang, Ephraem",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Pui Wang, Ephraem",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Ho Chi Wai,Joseph",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Chi Wai,Joseph",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Lai Chong Kee, Solomon",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Chong Kee, Solomon",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Wong Kwok Fan",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kwok Fan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lai Yee Tak",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Yee Tak",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Kwok Wai",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kwok Wai",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Sing Charn, Philip",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sing Charn, Philip",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Lam Fan Keung",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Fan Keung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lam Tze Choi",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Tze Choi",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Wu Wai Kwok",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Wai Kwok",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yeung Fu Yiu",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Fu Yiu",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lam Tsz Ming, Alfred",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Tsz Ming, Alfred",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Yu Po Man",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Po Man",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Lam Yin Sze,Ignatius",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Yin Sze,Ignatius",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lee Siu Ping",
+      "chinese_name": "",
+      "class_designation": "LOWER FORM 6 ARTS（1978-79）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Siu Ping",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "9 Fr. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "9 Fr. McGaley",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_103_full.webp",
+  "extracted_photos": [
+    "1979_page_103_photo_1.webp"
+  ]
+}

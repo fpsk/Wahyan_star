@@ -1,0 +1,45 @@
+{
+  "year": "1973",
+  "page": 39,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "FRIENDLY BASKETBALL MATCH WYHK Vs WYK",
+  "students": [
+    {
+      "english_name": "FRIENDLY BASKETBALL MATCH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FRIENDLY BASKETBALL MATCH",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "WYHK Vs WYK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WYHK Vs WYK",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_039_full.webp",
+  "extracted_photos": [
+    "1973_page_039_photo_1.webp",
+    "1973_page_039_photo_2.webp",
+    "1973_page_039_photo_3.webp",
+    "1973_page_039_photo_4.webp"
+  ]
+}

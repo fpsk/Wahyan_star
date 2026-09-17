@@ -1,0 +1,31 @@
+{
+  "year": "1972",
+  "page": 17,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "Speech Day",
+  "students": [
+    {
+      "english_name": "Speech Day",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Speech Day",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_017_full.webp",
+  "extracted_photos": [
+    "1972_page_017_photo_1.webp",
+    "1972_page_017_photo_2.webp",
+    "1972_page_017_photo_3.webp"
+  ]
+}

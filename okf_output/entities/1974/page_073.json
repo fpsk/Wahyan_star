@@ -1,0 +1,247 @@
+{
+  "year": "1974",
+  "page": 73,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "PHOTOGRAPHY CLUB Adviser ： Rev. Fr. P. Toner S.J.",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ireasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ireasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Classes covering the essentials of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Classes covering the essentials of",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Chuen, Chan Kwok Kwong and Lo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chuen, Chan Kwok Kwong and Lo",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Wing Shing very kindly acted as",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wing Shing very kindly acted as",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "To stimulate social ties, we joined in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To stimulate social ties, we joined in",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "During the Student Festival, an",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the Student Festival, an",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Kowloon, to Tai Po and Yuen Long.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon, to Tai Po and Yuen Long.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "During the Hong Kong Festival, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the Hong Kong Festival, we",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Clubs of St. Paul's Sec. School and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Clubs of St. Paul's Sec. School and",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "King's College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King's College.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "： Rev. Fr. P. Toner S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Rev. Fr. P. Toner S.J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "PHOTOGRAPHY CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "PHOTOGRAPHY CLUB",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "club_name": "photography club of Wah Yan，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "photography club of Wah Yan，",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "club_name": "Clubs of St. Paul's Sec. School and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Clubs of St. Paul's Sec. School and",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_073_full.webp",
+  "extracted_photos": [
+    "1974_page_073_photo_1.webp"
+  ]
+}

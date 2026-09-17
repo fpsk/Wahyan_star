@@ -1,0 +1,84 @@
+{
+  "year": "1975",
+  "page": 84,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Sports Revieu of Year 74-75 This year various interclass and interhouse games were organized as usual and they were well carried out. The students were very enthusiastic. Many participated，",
+  "students": [
+    {
+      "english_name": "This year various interclass and interhouse games were organized as usual and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year various interclass and interhouse games were organized as usual and",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "In the field of interschool sports, the results were not satisfactory. There was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the field of interschool sports, the results were not satisfactory. There was",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "This could be seen from the attendence records. Their common excuses were- I had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This could be seen from the attendence records. Their common excuses were- I had",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Despite the excellent coaches that we have, deteat was inevitable if we show no",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Despite the excellent coaches that we have, deteat was inevitable if we show no",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "This could be seen from the attendence records. Their common excuses were- I had",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "This could be seen from the attendence records. Their common excuses were- I had",
+        "start_char": 0,
+        "end_char": 80
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_084_full.webp",
+  "extracted_photos": [
+    "1975_page_084_photo_1.webp",
+    "1975_page_084_photo_2.webp"
+  ]
+}

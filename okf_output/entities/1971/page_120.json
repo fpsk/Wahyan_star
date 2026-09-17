@@ -1,0 +1,209 @@
+{
+  "year": "1971",
+  "page": 120,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "⑦ W3WVa9 2T909Z Swimming Gala",
+  "students": [
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Gala",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gala",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "The A, B, C grade individual championship titles were captured by Cheung Shun Wo, Leo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The A, B, C grade individual championship titles were captured by Cheung Shun Wo, Leo",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "english_name": "What",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "What",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Winners of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winners of the",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Swimming Gala.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming Gala.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "This year, our annual Swimming Gala was successfully held on 30th September, 1970",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "This year, our annual Swimming Gala was successfully held on 30th September, 1970",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "event_name": "at Victoria Swimming Pool. The attendance was more satisfactory than last year. The day，",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "at Victoria Swimming Pool. The attendance was more satisfactory than last year. The day，",
+        "start_char": 0,
+        "end_char": 88
+      }
+    },
+    {
+      "event_name": "events were held within four hours in the morning. Two records were broken, C grade 50",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "events were held within four hours in the morning. Two records were broken, C grade 50",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "event_name": "The A, B, C grade individual championship titles were captured by Cheung Shun Wo, Leo",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "The A, B, C grade individual championship titles were captured by Cheung Shun Wo, Leo",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "event_name": "Wan and Cheung Kam Kwong respectively. The Champion House was Ricci （Purple",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Wan and Cheung Kam Kwong respectively. The Champion House was Ricci （Purple",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "event_name": "record？",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "record？",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "event_name": "Swimming Gala.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Gala.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_120_full.webp",
+  "extracted_photos": [
+    "1971_page_120_photo_1.webp",
+    "1971_page_120_photo_2.webp",
+    "1971_page_120_photo_3.webp"
+  ]
+}

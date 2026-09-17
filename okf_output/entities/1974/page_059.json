@@ -1,0 +1,184 @@
+{
+  "year": "1974",
+  "page": 59,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "The Troop gained 3 Advanced Scout Standards, 15 Scouts Standards and 62 Prolciency badges during the year. A",
+  "students": [
+    {
+      "english_name": "Prolciency badges during the year. A",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 62,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prolciency badges during the year. A",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "TUD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TUD.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "The Cub Scout Troop",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Cub Scout Troop",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Members of the Troop were all",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members of the Troop were all",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "School and weekly meetings were held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School and weekly meetings were held",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "With Our Friends",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With Our Friends",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "School Library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Library",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Classification System.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Classification System.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lastly, we would like to thank Rev. Fr. Foley for his advice and all the librarians",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we would like to thank Rev. Fr. Foley for his advice and all the librarians",
+        "start_char": 0,
+        "end_char": 83
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "in memory of Mr. Ma Ying",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "in memory of Mr. Ma Ying",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "- Bro. Lee took Leave, Rev. Fr. Foley now in charge of it",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "- Bro. Lee took Leave, Rev. Fr. Foley now in charge of it",
+        "start_char": 0,
+        "end_char": 57
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Scout Standards, 15 Scouts Standards and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Standards, 15 Scouts Standards and",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "The Cub Scout Troop",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Cub Scout Troop",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_059_full.webp",
+  "extracted_photos": [
+    "1974_page_059_photo_1.webp",
+    "1974_page_059_photo_2.webp"
+  ]
+}

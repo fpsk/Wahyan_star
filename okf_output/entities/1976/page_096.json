@@ -1,0 +1,113 @@
+{
+  "year": "1976",
+  "page": 96,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SPORTS OAY The Annual Auletic Meet was held on February 19 （9.00 a.m. - 5.00 p.m.） and",
+  "students": [
+    {
+      "english_name": "SPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "OAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "There were three special happenings",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There were three special happenings",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Mark Sheets at the Stadium and tie pre-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mark Sheets at the Stadium and tie pre-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Neet. All this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Neet. All this",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "5 records were broken: 3 in A ggrade, l in B grade and 1 in D grade.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "5 records were broken: 3 in A ggrade, l in B grade and 1 in D grade.",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "event_name": "A new iten, the 4 x 400 m. relay was held. The frst Champions in the 3 grades",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "A new iten, the 4 x 400 m. relay was held. The frst Champions in the 3 grades",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_096_full.webp",
+  "extracted_photos": [
+    "1976_page_096_photo_1.webp",
+    "1976_page_096_photo_2.webp",
+    "1976_page_096_photo_3.webp",
+    "1976_page_096_photo_4.webp"
+  ]
+}

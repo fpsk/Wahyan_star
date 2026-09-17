@@ -1,0 +1,510 @@
+{
+  "year": "1972",
+  "page": 154,
+  "section_type": "Class Roster",
+  "class_designation": "LOWER 6 ARTS （1971-72）",
+  "summary": "Fr. Tcner LOWER 6 ARTS （1971-72） Lo Po Kwan",
+  "students": [
+    {
+      "english_name": "Lo Po Kwan",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Po Kwan",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Chi Kwan",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chi Kwan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mak Wah Hung",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak Wah Hung",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Hing Yuen",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Hing Yuen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mok Yun Chuen",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mok Yun Chuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Wah Shing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wah Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ng Kam Hoi",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Kam Hoi",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Chan Wing Cheong",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wing Cheong",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Ng Seung On",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Seung On",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Wing Hing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wing Hing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ng Tak Hoi",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Tak Hoi",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Cheung Chung Kwong",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chung Kwong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Poon Kwok Shun",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Kwok Shun",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chu Kwok Ching",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Kwok Ching",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Shuen Pak Chin",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shuen Pak Chin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chu Kurtz",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chu Kurtz",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Siu Yue Cheung",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Yue Cheung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Hui Tung Wah",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui Tung Wah",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "So Yu Shing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Yu Shing",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ho Shu Fun",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Shu Fun",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Tang Siu Ki",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Siu Ki",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Huang Hsing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Huang Hsing",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tsui Pui Si",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Pui Si",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Kwok Bit Tsit",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwok Bit Tsit",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wong Chee Ming",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chee Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Kwong Chi Keung",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong Chi Keung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Wong Chun Keung",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Chun Keung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Lai Kwok Wing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Kwok Wing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wu Ka Lun",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Ka Lun",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Lai Ying Pun",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Ying Pun",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Woo Siu Lun",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Woo Siu Lun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Leung Wang To",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wang To",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yan Chi Ming",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan Chi Ming",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Wing Leung",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wing Leung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Yuen Chi Shing",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Chi Shing",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lee Wing Ho",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Wing Ho",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lo Pak Shiu",
+      "chinese_name": "",
+      "class_designation": "LOWER 6 ARTS （1971-72）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Pak Shiu",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Tcner",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Tcner",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_154_full.webp",
+  "extracted_photos": [
+    "1972_page_154_photo_1.webp"
+  ]
+}

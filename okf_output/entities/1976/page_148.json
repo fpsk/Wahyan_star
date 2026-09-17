@@ -1,0 +1,211 @@
+{
+  "year": "1976",
+  "page": 148,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "OVER 60 SUBSIDIARY & ASSOCIATE Tais Tarn",
+  "students": [
+    {
+      "english_name": "Tais Tarn",
+      "chinese_name": "大地旅運社",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tais Tarn 大地旅運社",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "GRBUP",
+      "chinese_name": "日本九洲團",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GRBUP 日本九洲團",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "COMPANIES",
+      "chinese_name": "谷地",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COMPANIES 谷地",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "SUPERMARKETS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUPERMARKETS",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "DAIRY PRODUCTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAIRY PRODUCTS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "With Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With Compliments",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "AIRCRAFT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AIRCRAFT",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "WHOLESALE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WHOLESALE",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "CATERING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATERING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "STORAGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STORAGE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "VICTUALLING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VICTUALLING",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "SNACK BARS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SNACK BARS",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "INDUSTRIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INDUSTRIAL",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "CATERING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATERING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "GOOD EARTH TRAVEL SERVICE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GOOD EARTH TRAVEL SERVICE",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_148_full.webp",
+  "extracted_photos": [
+    "1976_page_148_photo_1.webp"
+  ]
+}

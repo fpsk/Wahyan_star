@@ -1,0 +1,21 @@
+# Raw source scans (4.7 GB)
+Files/
+
+# Secrets & Environment variables
+.env
+.env.*
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Scratch scripts & temporary logs
+scratch/
+*.log
+
+# Duplicate index (okf_search_data.json is the active master index)
+okf_search_data_v2.json

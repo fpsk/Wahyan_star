@@ -1,0 +1,219 @@
+{
+  "year": "1973",
+  "page": 82,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "REPORT OF BADMINTON This year the Badminton players of Wah Yan witnessed an era in the",
+  "students": [
+    {
+      "english_name": "REPORT OF BADMINTON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "REPORT OF BADMINTON",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "This year the Badminton players",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year the Badminton players",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Hung, a most renowned and skilful",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung, a most renowned and skilful",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "The A' Team had a good run this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The A' Team had a good run this",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "League and beating all the others. We",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "League and beating all the others. We",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "In the Knock-out Competition, as",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the Knock-out Competition, as",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "They secured the Runners-up in the B",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They secured the Runners-up in the B",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "League.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "League.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "And definitely, as in many other games",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "And definitely, as in many other games",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Looking forward to yet another in-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Looking forward to yet another in-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "The Sportsmaster, Fr. Corbaly decided",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "The Sportsmaster, Fr. Corbaly decided",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Mr. Wong Fai",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Wong Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. Corbally for his attention and en-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Corbally for his attention and en-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "couragement, Mr. Wong Fai Hung for",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "couragement, Mr. Wong Fai Hung for",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "his coaching, and Mr. Tsang, Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "his coaching, and Mr. Tsang, Mr.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Cheung, and Mr. Lee for being team",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Cheung, and Mr. Lee for being team",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_082_full.webp",
+  "extracted_photos": [
+    "1973_page_082_photo_1.webp"
+  ]
+}

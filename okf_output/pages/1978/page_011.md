@@ -1,0 +1,29 @@
+# Wah Yan Star 1978 - Page 11
+
+
+## Page Text Content
+
+```text
+DAY
+ASFARCH PA
+$1©%
+ECL
+DA
+\.
+HJHJ
+AY
+SPEP
+SPEECH DAY
+RRCH
+CA
+AY
+SA
+TVd
+DA！
+FECH DAY
+CF
+SPERCR
+DAY
+DAY
+XNSPEECR
+```

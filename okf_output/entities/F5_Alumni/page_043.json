@@ -1,0 +1,110 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 43,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Yip Yau Jim (葉佑沾) • Yip Tak Chun (葉德俊) • Yu Chi Chak (余志澤) • Yiu Hi Cheong (姚喜昌)",
+  "students": [
+    {
+      "english_name": "Yip Yau Jim",
+      "chinese_name": "葉佑沾",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Yip Yuu Jim"
+      ]
+    },
+    {
+      "english_name": "Yip Tak Chun",
+      "chinese_name": "葉德俊",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yu Chi Chak",
+      "chinese_name": "余志澤",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "喻志澤"
+      ]
+    },
+    {
+      "english_name": "Yiu Hi Cheong",
+      "chinese_name": "姚喜昌",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "姚起昌"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_043_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yip Yau Jim",
+      "chinese_name": "葉佑沾",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yip Yuu Jim",
+      "chinese_name": "葉佑沾",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yip Tak Chun",
+      "chinese_name": "葉德俊",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yu Chi Chak",
+      "chinese_name": "余志澤",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yu Chi Chak",
+      "chinese_name": "喻志澤",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yiu Hi Cheong",
+      "chinese_name": "姚喜昌",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 43,
+      "english_name": "Yiu Hi Cheong",
+      "chinese_name": "姚起昌",
+      "class": "Form 5B"
+    }
+  ]
+}

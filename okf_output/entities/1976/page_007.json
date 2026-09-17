@@ -1,0 +1,600 @@
+{
+  "year": "1976",
+  "page": 7,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "COLLEGE STAFF AND ROLL Fifty Seventh Academic Year 1975-1976 V. Rev. F. Cronin, S.J. Rector",
+  "students": [
+    {
+      "english_name": "COLLEGE STAFF AND ROLL",
+      "chinese_name": "鮑善能神父",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "COLLEGE STAFF AND ROLL 鮑善能神父",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Mrs. H. Lee",
+      "chinese_name": "李銓漢先生",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. H. Lee 李銓漢先生",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Miss Margaret Ng",
+      "chinese_name": "陳其相先生",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Margaret Ng 陳其相先生",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mrs. M. Sze",
+      "chinese_name": "李茂枝先生",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. M. Sze 李茂枝先生",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mrs.Agnes Tam",
+      "chinese_name": "陳天佑先生",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs.Agnes Tam 陳天佑先生",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Miss Lily Tong",
+      "chinese_name": "李世權先生",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Lily Tong 李世權先生",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miss Maria Lam",
+      "chinese_name": "陳右蓀先生",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Maria Lam 陳右蓀先生",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miss Eliza Tsang, Clerk",
+      "chinese_name": "李國培先生",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Eliza Tsang, Clerk 李國培先生",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mrs Marie Lin, Asst.Clerk",
+      "chinese_name": "陳達安先生",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs Marie Lin, Asst.Clerk 陳達安先生",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "V. Rev. F. Cronin, S.J. Rector",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "V. Rev. F. Cronin, S.J. Rector",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Fr. C. J. Barrett, S. J. Principal",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. C. J. Barrett, S. J. Principal",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Mr. Raymond P. L. Yu, Asistant Principal",
+      "chinese_name": "余本良",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Raymond P. L. Yu, Asistant Principal",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Mr. Chau Sui Hay, Deputy Assistant Principal",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chau Sui Hay, Deputy Assistant Principal",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Fr.M.C. Corbally,S.J. Minister",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.M.C. Corbally,S.J. Minister",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Fr. A. Farren, S.J. Student Counsellor",
+      "chinese_name": "",
+      "title_or_role": "Student Counsellor",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. A. Farren, S.J. Student Counsellor",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Mr. A. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. A. Lee",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Fr. M. Brosnan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. M. Brosnan, S.J.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. K. S. Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. S. Chan",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mr. M. C. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M. C. Lee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr.T. Y.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.T. Y.Chan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. S.K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.K. Lee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. S.S.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.S.Chan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. K. P. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. P. Lee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr.T.O.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.T.O.Chan",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mr. K. Y. Leung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. Y. Leung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr.P.Y. Chen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.P.Y. Chen",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr.K.L.Ma",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.K.L.Ma",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Mr. P. H. Cheng",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. P. H. Cheng",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Fr. R. McCarthy, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. R. McCarthy, S.J.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mr. M. S. Cheung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M. S. Cheung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Fr. F. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. F. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Fr.M. Cryan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.M. Cryan, S.J.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Fr. C. Daly, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. C. Daly, S.J.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Fr. O. Cearbhallain, S.J. 嘉理陵神父",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. O. Cearbhallain, S.J. 嘉理陵神父",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Fr. J. Foley, S.j.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. J. Foley, S.j.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Fr. P. O'Rourke, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. O'Rourke, S.J.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Mr. K. S. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K. S. Fung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Fr. P. Grogan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P. Grogan, S.J.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Mr. F. W. Ip",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. F. W. Ip",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. S.P. Tam",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.P. Tam",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Mr. S.C.Koo",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S.C.Koo",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fr. P.Toner,S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. P.Toner,S.J.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mr.K.C.Kwok",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.K.C.Kwok",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mr.C.T. Wong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.C.T. Wong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. D. Lawler, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. D. Lawler, S.J.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Mr.W.T. Yeung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.W.T. Yeung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr.M.K.Yung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.M.K.Yung",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Mr. Joseph Lo, Secretary",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Joseph Lo, Secretary",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_007_full.webp",
+  "extracted_photos": []
+}

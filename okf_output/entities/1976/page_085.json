@@ -1,0 +1,642 @@
+{
+  "year": "1976",
+  "page": 85,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "Message From The Sports-Master WYe have come to the end of a very satistactory year, both in the Inter-School",
+  "students": [
+    {
+      "english_name": "WYe have come to the end of a very satistactory",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WYe have come to the end of a very satistactory",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "In the Inter-School Competitions Wal Yan teams",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the Inter-School Competitions Wal Yan teams",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Competitions and within the school.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Competitions and within the school.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "A Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Basket-ball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basket-ball",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Champions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Badminton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Runners-up",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Runners-up",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Track and Field",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Track and Field",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Promoted to First Division",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Promoted to First Division",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Hand-ball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hand-ball",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Champions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "B Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Football",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Football",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Third",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Third",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "C Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C Grade",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Table-tennis",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Champions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Badminton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Kunners-up",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kunners-up",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Tlird",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tlird",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Life-savingq",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Life-savingq",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Our A Grade Handball team, having been runners-up in the Hong Kong area",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our A Grade Handball team, having been runners-up in the Hong Kong area",
+        "start_char": 0,
+        "end_char": 71
+      }
+    },
+    {
+      "english_name": "Our Lnvitation Kelay eam members deserve the niglest praise, not just for theu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our Lnvitation Kelay eam members deserve the niglest praise, not just for theu",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "Within the school we had Inter-class and Inter-house competitions as well as the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Within the school we had Inter-class and Inter-house competitions as well as the",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Neet was held at the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Neet was held at the",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Athletic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Athletic",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Government Stadium during the month of February. A total of five records were bro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Government Stadium during the month of February. A total of five records were bro-",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "The Swimming Gala was held at the Morrison Hill Pool during September and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Swimming Gala was held at the Morrison Hill Pool during September and",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "english_name": "Keen and spirited sportsmanship marked these competi-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Keen and spirited sportsmanship marked these competi-",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Our C Grade footballers and basketballers could be keener and more co-operative",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our C Grade footballers and basketballers could be keener and more co-operative",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Congratulations to all on a most successful and stimulating year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Congratulations to all on a most successful and stimulating year.",
+        "start_char": 0,
+        "end_char": 65
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Message From The Sports-Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Message From The Sports-Master",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Table-tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "event_name": "Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Champions",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "ol the Inter-School Competition, went on to win the overall championship.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "ol the Inter-School Competition, went on to win the overall championship.",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "achleveients in winning six out of ten relay races but especially for their spirit and",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "achleveients in winning six out of ten relay races but especially for their spirit and",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "event_name": "annual Athletic Neet and the Swimming Gala. The",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "annual Athletic Neet and the Swimming Gala. The",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "event_name": "Government Stadium during the month of February. A total of five records were bro-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Government Stadium during the month of February. A total of five records were bro-",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "event_name": "The Swimming Gala was held at the Morrison Hill Pool during September and",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The Swimming Gala was held at the Morrison Hill Pool during September and",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "ten new records were set up.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "ten new records were set up.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "event_name": "In the Inter-house Competition Blue House （L6S, 4Al, 2B） won the champion-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "In the Inter-house Competition Blue House （L6S, 4Al, 2B） won the champion-",
+        "start_char": 0,
+        "end_char": 74
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_085_full.webp",
+  "extracted_photos": [
+    "1976_page_085_photo_1.webp",
+    "1976_page_085_photo_2.webp",
+    "1976_page_085_photo_3.webp"
+  ]
+}

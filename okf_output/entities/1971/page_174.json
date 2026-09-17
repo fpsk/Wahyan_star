@@ -1,0 +1,79 @@
+{
+  "year": "1971",
+  "page": 174,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Wid the Complinvents SINN CONSTRUCTION CO. BUILDING CONTRACTORS",
+  "students": [
+    {
+      "english_name": "Wid the Complinvents",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wid the Complinvents",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "SINN CONSTRUCTION CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SINN CONSTRUCTION CO.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "BUILDING CONTRACTORS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BUILDING CONTRACTORS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "AND",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AND",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "SHIP AND HOUSE PAINTERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHIP AND HOUSE PAINTERS",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_174_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,33 @@
+{
+  "year": "1973",
+  "page": 42,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "2M8BOAZI HE COMMUNTY CH 香",
+  "students": [
+    {
+      "english_name": "HE COMMUNTY CH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HE COMMUNTY CH",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_042_full.webp",
+  "extracted_photos": [
+    "1973_page_042_photo_1.webp",
+    "1973_page_042_photo_2.webp",
+    "1973_page_042_photo_3.webp",
+    "1973_page_042_photo_4.webp",
+    "1973_page_042_photo_5.webp"
+  ]
+}

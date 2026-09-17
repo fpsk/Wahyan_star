@@ -1,0 +1,248 @@
+{
+  "year": "1978",
+  "page": 121,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "ULD NX？ V",
+  "students": [
+    {
+      "english_name": "ULD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ULD",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "AULD LANS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULD LANS",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Hn LAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hn LAN",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "AULD LANUPUU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULD LANUPUU",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "JNXS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JNXS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "AULD LANG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULD LANG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "AULDLAo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULDLAo",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "SYNA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SYNA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "AUT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AUT",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ULD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ULD",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "NOT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NOT",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "AULD IANG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AULD IANG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "SY.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SY.",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "WALK ALONE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WALK ALONE",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "LANG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LANG",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "LAULD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAULD",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "AUL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AUL",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "SYNE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SYNE",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_121_full.webp",
+  "extracted_photos": []
+}

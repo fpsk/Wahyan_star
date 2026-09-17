@@ -1,0 +1,15 @@
+# Wah Yan Star 1975 - Page 122
+
+
+## Page Text Content
+
+```text
+With the Compliments
+CAPITAL ARTISTS LIMITED
+LEE THEATRE
+27 PERCIVAL STREET
+HONG KONG
+5-793923
+TELS: 5-793924
+5-793925
+```

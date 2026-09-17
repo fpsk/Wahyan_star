@@ -1,0 +1,30 @@
+{
+  "year": "1976",
+  "page": 134,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SOOKS RETURN HERE 舅父給我一本新書，封耶得很美躍，書的 內容有故事、神話、歌謠和笑話等。我最得歡的還",
+  "students": [
+    {
+      "english_name": "SOOKS RETURN HERE",
+      "chinese_name": "井井有條",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOOKS RETURN HERE 井井有條",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_134_full.webp",
+  "extracted_photos": [
+    "1976_page_134_photo_1.webp",
+    "1976_page_134_photo_2.webp"
+  ]
+}

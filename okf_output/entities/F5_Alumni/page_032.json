@@ -1,0 +1,82 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 32,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Ngan Sau Fung (顏秀峯) • Pang Chi Yan, Peter (彭志仁) • Pang Che Hong, Tony (彭賜康) • Poon Fat Tik (潘發迪)",
+  "students": [
+    {
+      "english_name": "Ngan Sau Fung",
+      "chinese_name": "顏秀峯",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Pang Chi Yan, Peter",
+      "chinese_name": "彭志仁",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Pang Che Hong, Tony",
+      "chinese_name": "彭賜康",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Poon Fat Tik",
+      "chinese_name": "潘發迪",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_032_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_032_photo_1.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 32,
+      "english_name": "Ngan Sau Fung",
+      "chinese_name": "顏秀峯",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 32,
+      "english_name": "Pang Chi Yan, Peter",
+      "chinese_name": "彭志仁",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 32,
+      "english_name": "Pang Che Hong, Tony",
+      "chinese_name": "彭賜康",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 32,
+      "english_name": "Poon Fat Tik",
+      "chinese_name": "潘發迪",
+      "class": "Form 5B1"
+    }
+  ]
+}

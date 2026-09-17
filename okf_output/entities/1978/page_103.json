@@ -1,0 +1,231 @@
+{
+  "year": "1978",
+  "page": 103,
+  "section_type": "Class Roster",
+  "class_designation": "Leung Fu Kuen 1A",
+  "summary": "Leung Fu Kuen 1A Leung Fu Kuen 1A Fung Chi Wai 2B1",
+  "students": [
+    {
+      "english_name": "Badminton singles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton singles",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "EVENT",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Badminton doubles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton doubles",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Chinese chess",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese chess",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Tennis doubles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis doubles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Track and field",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Track and field",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Table-tennis doubles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-tennis doubles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Tennis singles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis singles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Table-tennis singles",
+      "chinese_name": "",
+      "class_designation": "Leung Fu Kuen 1A",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-tennis singles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "INTRAMURAL CHAMPIONS AND RUNNERS （1977-78）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "INTRAMURAL CHAMPIONS AND RUNNERS （1977-78）",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "Tennis doubles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Tennis doubles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "Table-tennis doubles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-tennis doubles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "event_name": "Tennis singles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Tennis singles",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "Table-tennis singles",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-tennis singles",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_103_full.webp",
+  "extracted_photos": [
+    "1978_page_103_photo_1.webp"
+  ]
+}

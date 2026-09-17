@@ -1,0 +1,24 @@
+# Wah Yan Star 1972 - Page 6
+
+## Extracted Photos & Figures
+
+![1972 Page 6 Photo](../photos/1972_page_006_photo_1.webp)
+
+## Page Text Content
+
+```text
+FR. MCGALEY, FR. FARREN
+MR. JOHNSON LIAO,MR.K. T. TSANG, FR.CRYAN,MR.M.S. CHEUNG，
+MR.Y. C.CHOW,MR.M. K.YUNG,MR. S.S.CHAN,MR. K. C.FUNG，
+TEACHING STAFF
+CHOY, MR.
+CHEN, MR. S. T. WONG，
+MR.C. T. WONG, MR.HONG CHOY,FR. MCCARTHY
+野O的ER KNSPUARE HAPONRHNSR HUARPMROK
+PBRGUFNE RR. ROBERT CHUNG
+MR. ADRIAN LEE, MR. P. K. HO, FR. LAWLER, MR. L. W.NG, MR. HENRY YUEN, FR. DALY, MR. W. T. YEUNG，
+Last Row：
+Front Row
+2nd Row：
+3rd Row：
+```

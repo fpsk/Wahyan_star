@@ -1,0 +1,636 @@
+{
+  "year": "1971",
+  "page": 62,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "“will not forget my happy experiences in Lo Hau Yee, Henry （66） of Henry Street, Toronto was elected President of",
+  "students": [
+    {
+      "english_name": "Street, Toronto was elected President of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Street, Toronto was elected President of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Chiu Sin Sing, Simon is in Carroll",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Sin Sing, Simon is in Carroll",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Biochemistry, lecturer in Sydney University.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Biochemistry, lecturer in Sydney University.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Ngan, Matthew, B.Sc. of the Aus-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngan, Matthew, B.Sc. of the Aus-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Ngan Man Chiu, Matthew's brother, is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngan Man Chiu, Matthew's brother, is",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Chan, Arthur is Ph.D. in Chemistry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan, Arthur is Ph.D. in Chemistry",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Degree. He is now in the Hong Kong U",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Degree. He is now in the Hong Kong U",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "U.of Wisconsin.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.of Wisconsin.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Law Library.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Law Library.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "University, Chicago. He met Joseph Lung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University, Chicago. He met Joseph Lung",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Shuk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shuk",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Murray Bldg. Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Murray Bldg. Hong Kong.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Brendan Leung who is studying Sociology.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Brendan Leung who is studying Sociology.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Engineering Freshman students.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 170,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Engineering Freshman students.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Chicago and showed him round the city.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chicago and showed him round the city.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Cheung Chi Wai is now working for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chi Wai is now working for",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "MD and Ph.D. in UCLA.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MD and Ph.D. in UCLA.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Patrick Liang and David Kong Tat",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patrick Liang and David Kong Tat",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Passenger Sales representative with T.W.A.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Passenger Sales representative with T.W.A.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Shell House, Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shell House, Hong Kong.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "University of Hawaii.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University of Hawaii.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Hung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Montreal.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Montreal.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Montreal before enrolling in the medical",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Montreal before enrolling in the medical",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "An old friend",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An old friend",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Joseph's bro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joseph's bro-",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Engineer in San Francisco.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Engineer in San Francisco.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "He is specializing in Cardiology.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He is specializing in Cardiology.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Mak lecturer in Chemistry in the Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mak lecturer in Chemistry in the Chinese",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "University of Hong Kong. Thomas is",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University of Hong Kong. Thomas is",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Ph.D. of the University of British Colum-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ph.D. of the University of British Colum-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Centre U. of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Centre U. of",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "He was awarded a fellowship",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was awarded a fellowship",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Honolulu.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Honolulu.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Canada, NASA Research Associate in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Canada, NASA Research Associate in the",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Crystallographic Laboratory go the U.of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Crystallographic Laboratory go the U.of",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Centre",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Centre",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Pittsburgh. Later he was Assistant Profes-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pittsburgh. Later he was Assistant Profes-",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Chemistry in the U. of Western",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chemistry in the U. of Western",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "King",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "King",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ontario.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ontario.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Canada and doing well.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Canada and doing well.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lo Chi Man and Aloysius Mok Ka",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Chi Man and Aloysius Mok Ka",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "They got work in the University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They got work in the University",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "McGill, Montreal studying geology.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "McGill, Montreal studying geology.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Father Joseph Foley S.J.， former",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father Joseph Foley S.J.， former",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Mario Yu met Fr. Foley at the airport in",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mario Yu met Fr. Foley at the airport in",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Mak Chung Wai （57） or Dr.C.W.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mak Chung Wai （57） or Dr.C.W.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_062_full.webp",
+  "extracted_photos": []
+}

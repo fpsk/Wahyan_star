@@ -1,0 +1,107 @@
+{
+  "year": "1972",
+  "page": 16,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "SCHOOL EVENTS：- SPEECH DAY AND EXAM RESULTS DRAMA FESTIVAL",
+  "students": [
+    {
+      "english_name": "SPEECH DAY AND EXAM RESULTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY AND EXAM RESULTS",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "DRAMA FESTIVAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DRAMA FESTIVAL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "MUSICAL FESTIVAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MUSICAL FESTIVAL",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "TEACHER'S DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEACHER'S DAY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "TALENT TIME",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TALENT TIME",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "GENERAL QUIZ",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GENERAL QUIZ",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "EVENING SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EVENING SCHOOL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_016_full.webp",
+  "extracted_photos": [
+    "1972_page_016_photo_1.webp"
+  ]
+}

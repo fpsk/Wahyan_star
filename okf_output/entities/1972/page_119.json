@@ -1,0 +1,149 @@
+{
+  "year": "1972",
+  "page": 119,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "SWIMMING GALA： What are you waiting for？ This was held on Sept. 29 at Victoria",
+  "students": [
+    {
+      "english_name": "Pool which had been specially reserved.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pool which had been specially reserved.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "During the intermission the Life",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the intermission the Life",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Guard Club members gave a demonstration",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Guard Club members gave a demonstration",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The day ended with a competition be-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The day ended with a competition be-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Douglas Van",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Douglas Van",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "ers and Fathers acted as adjudicators.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ers and Fathers acted as adjudicators.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "water was cold. The Lite Guard Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "water was cold. The Lite Guard Club",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "Guard Club members gave a demonstration",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Guard Club members gave a demonstration",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING GALA：",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING GALA：",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "event_name": "tween teachers and students. One record",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "tween teachers and students. One record",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_119_full.webp",
+  "extracted_photos": [
+    "1972_page_119_photo_1.webp",
+    "1972_page_119_photo_2.webp"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "year": "1972",
+  "page": 6,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "FR. MCGALEY, FR. FARREN MR. JOHNSON LIAO,MR.K. T. TSANG, FR.CRYAN,MR.M.S. CHEUNG， MR.Y. C.CHOW,MR.M. K.YUNG,MR. S.S.CHAN,MR. K. C.FUNG，",
+  "students": [
+    {
+      "english_name": "FR. MCGALEY, FR. FARREN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FR. MCGALEY, FR. FARREN",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "TEACHING STAFF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEACHING STAFF",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CHOY, MR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHOY, MR.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "MR.C. T. WONG, MR.HONG CHOY,FR. MCCARTHY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR.C. T. WONG, MR.HONG CHOY,FR. MCCARTHY",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "PBRGUFNE RR. ROBERT CHUNG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PBRGUFNE RR. ROBERT CHUNG",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Front Row",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Front Row",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_006_full.webp",
+  "extracted_photos": [
+    "1972_page_006_photo_1.webp"
+  ]
+}

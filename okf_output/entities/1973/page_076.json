@@ -1,0 +1,133 @@
+{
+  "year": "1973",
+  "page": 76,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL PREFECTS different events, there were sure to be Many students, even some of the pre-",
+  "students": [
+    {
+      "english_name": "SCHOOL PREFECTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL PREFECTS",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Many students, even some of the pre-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Many students, even some of the pre-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "This year there were twenty-five pre-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year there were twenty-five pre-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "There was a friendly foot-ball match",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There was a friendly foot-ball match",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Siu Kai Fat as the assistant head prefect.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Kai Fat as the assistant head prefect.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Yeung Chung Kin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Chung Kin",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Head Prefect",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Prefect",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Day and the Parents' Day, in all these",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Day and the Parents' Day, in all these",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "cipal, Mr. Chau, was our adviser and Alan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "cipal, Mr. Chau, was our adviser and Alan",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_076_full.webp",
+  "extracted_photos": [
+    "1973_page_076_photo_1.webp"
+  ]
+}

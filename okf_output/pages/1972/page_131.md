@@ -1,0 +1,111 @@
+# Wah Yan Star 1972 - Page 131
+
+
+## Page Text Content
+
+```text
+Inter - House Competion Total Points （1971-1972）
+Points
+Form
+House Master
+House
+House Captain
+0.6A
+897½2
+Mr.S.H.Chau
+Gonzaga （Blue）
+Chiu Chi Ling
+F.4B1
+F.2A
+F.2B1
+F.5AL
+Chau Wing Cheung
+Xavier （Yellow）
+Mr. M. Cheng
+F.4A
+F.3A
+F.2B
+L.6S
+849½2
+Tsui Yat Kwong
+Fr. F.McGaley
+Ricci （Purple）
+F.5B
+F.4B
+F.IA
+Woo Siu Lun
+L.6A
+Fr.P. Toner
+782½
+De Goes （Brown）
+F.4A1
+F.3A1
+F.IBl
+Ma Chun Lam
+F.5A
+Fr.R. McCarthy
+Kotska （Red）
+F.3B
+F.2A1
+F.IB
+U.6S
+Chung Ka Leung
+Fr. P. O'Rourke
+689½
+Loyola （Green）
+F.5B1
+F.3B1
+F.1A1
+Special Sports Champions and Runners-Up（1971-1972）
+POINTS
+CHAMPIONS
+RUNNERS-UP
+POINTS
+BLUE
+ATHLETIC
+BROWN
+221½2
+YELLOW
+BASKETBALL
+PURPLE
+RED
+BADMINTON
+YELLOW
+RED
+BRIDGE
+BKOWN
+RED
+PURPLE
+CHINESE CHESS
+RED
+DEBATE
+YELLOW
+FOOTBALL
+PURPLE
+BROWN
+RED
+HEADING TENNIS
+BLUE
+BROWN
+YELLOW
+PLAYS
+RED
+GREEN
+SWIMMING
+YELLOW
+TABLE-TENNIS
+BLUE
+BLUE
+GREEN
+TENNIS
+RED
+YELLOW
+TALENT TIME
+BLUE
+GREEN
+RED
+VOLLEYBALL
+YELLOW
+MUSIG AND FESTIVAL
+BROWN
+```

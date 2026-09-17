@@ -1,0 +1,105 @@
+{
+  "year": "1979",
+  "page": 151,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments THE BANK OF EAST ASIA LTD. 10, Des Vocux Road, Central，",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "THE BANK OF EAST ASIA LTD.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE BANK OF EAST ASIA LTD.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "New Oxford Illustrated Dictionary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "New Oxford Illustrated Dictionary",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "This dictionary combines the function of an clementary encyclopacdia and a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This dictionary combines the function of an clementary encyclopacdia and a",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "This two volume set makes an ideal family reference set, is suitable for general",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This two volume set makes an ideal family reference set, is suitable for general",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Oxford University Press",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oxford University Press",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_151_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,107 @@
+{
+  "year": "1972",
+  "page": 176,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments Bank of East Asia Limited ONE IMPERIAL PINT",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Bank of East Asia Limited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bank of East Asia Limited",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "ONE IMPERIAL PINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ONE IMPERIAL PINT",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mobiol",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mobiol",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "The oil with the sparkling pick up of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The oil with the sparkling pick up of",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The oil Mobil made to satisfy the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The oil Mobil made to satisfy the",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Mobil Oil Hong Kong Limited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mobil Oil Hong Kong Limited",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_176_full.webp",
+  "extracted_photos": [
+    "1972_page_176_photo_1.webp"
+  ]
+}

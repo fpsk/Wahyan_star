@@ -1,0 +1,53 @@
+{
+  "year": "1975",
+  "page": 132,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "司公裝服芳瑞 SUI FONG TAILOR CO. 家之服校",
+  "students": [
+    {
+      "english_name": "SUI FONG TAILOR CO.",
+      "chinese_name": "家之服校",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUI FONG TAILOR CO. 家之服校",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "至時十午上",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG 至時十午上",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "CLOSED ON ALL MONDAYS",
+      "chinese_name": "時七午下",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CLOSED ON ALL MONDAYS 時七午下",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_132_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,43 @@
+{
+  "year": "1978",
+  "page": 124,
+  "section_type": "Class Roster",
+  "class_designation": "Upper Six Scicnce",
+  "summary": "Upper Six Scicnce From Left to Right： * Hau Tat Kwong, Andrew",
+  "students": [
+    {
+      "english_name": "Woo Kong Sang,John",
+      "chinese_name": "",
+      "class_designation": "Upper Six Scicnce",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Woo Kong Sang,John",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "*Mr.S.K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "*Mr.S.K. Lee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_124_full.webp",
+  "extracted_photos": [
+    "1978_page_124_photo_1.webp",
+    "1978_page_124_photo_2.webp"
+  ]
+}

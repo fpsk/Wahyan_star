@@ -1,0 +1,157 @@
+{
+  "year": "1975",
+  "page": 78,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Earlier Past Clement Leung Kin Cho （69） - has done MS at MIT.",
+  "students": [
+    {
+      "english_name": "Earlier Past",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Earlier Past",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "George Williams University in Montreal.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "George Williams University in Montreal.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Architecture in the University of Toronto",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Architecture in the University of Toronto",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Kong Group. He is married with two",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Group. He is married with two",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "His wife is the sister of Chan Wai Churk",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His wife is the sister of Chan Wai Churk",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Wah Sham and is much appreciated by",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah Sham and is much appreciated by",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The children speak Chinese at home.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The children speak Chinese at home.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Education Department in Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Education Department in Hong Kong.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Manhatten Bank.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Manhatten Bank.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "the Principal for his dedication and co-",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the Principal for his dedication and co-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "as Group Scout Leader of 15th Hong",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "as Group Scout Leader of 15th Hong",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_078_full.webp",
+  "extracted_photos": []
+}

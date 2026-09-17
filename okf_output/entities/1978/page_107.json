@@ -1,0 +1,248 @@
+{
+  "year": "1978",
+  "page": 107,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "OF THL THE NEWS",
+  "students": [
+    {
+      "english_name": "OF THL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OF THL",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "NEWS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAST",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "NEWS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "NEWS OF THF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS OF THF",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAST",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "THL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THL",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "XST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "XST",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "THE PA.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE PA.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAST",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "NEW",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEW",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "PAST OF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAST OF",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "NEWS OF",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEWS OF",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "PAST",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAST",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "NEV'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEV'",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "CTHE PAS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CTHE PAS",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_107_full.webp",
+  "extracted_photos": []
+}

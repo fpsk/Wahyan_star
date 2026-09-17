@@ -1,0 +1,520 @@
+{
+  "year": "1972",
+  "page": 200,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "She likes to chase insects and birds. Our Headmaster I know I am lucky to be a member of",
+  "students": [
+    {
+      "english_name": "She likes to chase insects and birds.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "She likes to chase insects and birds.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "I know I am lucky to be a member of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I know I am lucky to be a member of",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "I am a student of Pun U Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I am a student of Pun U Association",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "MY SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MY SCHOOL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Pun U stands",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pun U stands",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Primary School. While",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Primary School. While",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lor the Jesuit Society. It is a three-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lor the Jesuit Society. It is a three-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Khoe and Yung, and I are the only three",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Khoe and Yung, and I are the only three",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Arithmetic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Arithmetic",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "As our Mathematics teacher has to spend",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As our Mathematics teacher has to spend",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "If we succeed in the SSEE, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If we succeed in the SSEE, we",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "He teaches, takes care of his pupils dur-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He teaches, takes care of his pupils dur-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Most of our teachers are young and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Most of our teachers are young and",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Yet, busy as he",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yet, busy as he",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Pupils in our school are more bro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pupils in our school are more bro-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "I trust, respect and love my Head-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I trust, respect and love my Head-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Sooner or later, we shall all leave this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sooner or later, we shall all leave this",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "My Family",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "My Family",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Primary School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Primary School.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "I have a very happy family.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I have a very happy family.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "An Impossible Story",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An Impossible Story",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "My parents go out to work",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "My parents go out to work",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "One night he did not feel well, so he",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "One night he did not feel well, so he",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Primary School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Primary School",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "My sister likes music and she can",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "My sister likes music and she can",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "To his surprise there were many",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To his surprise there were many",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Dasketball. would not say she is a good",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dasketball. would not say she is a good",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "My younger brother likes small ani-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "My younger brother likes small ani-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "When the doctor came, David asked",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "When the doctor came, David asked",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "We keep an aquarium at home.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We keep an aquarium at home.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "I have a fat, little cat as my pet and I",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I have a fat, little cat as my pet and I",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Sixty years.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sixty years.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Our Headmaster",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Our Headmaster",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "ter is Rev. Father J. Mallin.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ter is Rev. Father J. Mallin.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Mallin spends no less than five",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Mallin spends no less than five",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Mallin has so much to do that",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Mallin has so much to do that",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Lor the Jesuit Society. It is a three-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Lor the Jesuit Society. It is a three-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "table-tennis and badminton. I speno",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "table-tennis and badminton. I speno",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_200_full.webp",
+  "extracted_photos": []
+}

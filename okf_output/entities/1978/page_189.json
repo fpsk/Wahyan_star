@@ -1,0 +1,68 @@
+{
+  "year": "1978",
+  "page": 189,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL SONG This Is the dear school where we learn how to treasure And keep for a lifetime all that's noble and true，",
+  "students": [
+    {
+      "english_name": "SCHOOL SONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL SONG",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "This Is the dear school where we learn how to treasure",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This Is the dear school where we learn how to treasure",
+        "start_char": 0,
+        "end_char": 54
+      }
+    },
+    {
+      "english_name": "Come praise or come blame we can hold our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Come praise or come blame we can hold our",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "S-ugn",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S-ugn",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_189_full.webp",
+  "extracted_photos": [
+    "1978_page_189_photo_1.webp"
+  ]
+}

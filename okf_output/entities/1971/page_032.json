@@ -1,0 +1,172 @@
+{
+  "year": "1971",
+  "page": 32,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Hlong Kong Mniversity TMatriculation Cxamination Reoulto 1970. PM AM PH CH",
+  "students": [
+    {
+      "english_name": "Hlong Kong Mniversity",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hlong Kong Mniversity",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "PM AM PH CH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PM AM PH CH",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "So Choong Yeong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Choong Yeong",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Tang Siu Yee, William",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Siu Yee, William",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Tse Hin Sing, Anthony",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Hin Sing, Anthony",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Tsui Kwan Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsui Kwan Cheung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Wan Kin Po, Wilfred",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wan Kin Po, Wilfred",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Wong Sui Wai, Joseph",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Sui Wai, Joseph",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "UE PH CH BI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "UE PH CH BI",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Ying Tak",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Ying Tak",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Yuen Yuk Bor, Anthony",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Yuk Bor, Anthony",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Passes with distinction",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Passes with distinction",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_032_full.webp",
+  "extracted_photos": [
+    "1971_page_032_photo_1.webp"
+  ]
+}

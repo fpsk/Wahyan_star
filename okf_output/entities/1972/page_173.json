@@ -1,0 +1,404 @@
+{
+  "year": "1972",
+  "page": 173,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "NAMES OF ADVERTISERS ARROW TRAVEL AGENCY BANK OF EAST ASIA LIMITED",
+  "students": [
+    {
+      "english_name": "NAMES OF ADVERTISERS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NAMES OF ADVERTISERS",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "ARROW TRAVEL AGENCY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ARROW TRAVEL AGENCY",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "BANK OF EAST ASIA LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BANK OF EAST ASIA LIMITED",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "BANQUE BELGE POUR LETRANGER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BANQUE BELGE POUR LETRANGER",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "CATHOLIG CENTRE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIG CENTRE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "FIRST NATIONAL CITY BANK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FIRST NATIONAL CITY BANK",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "HANG SENG BANK LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HANG SENG BANK LIMITED",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "HONG KONG BOTTLERS LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG BOTTLERS LIMITED",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "HOWAH LAMPS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HOWAH LAMPS",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "JAPAN AIR LINES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JAPAN AIR LINES",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "INTERNATIONAL TOURIST SERVICE, LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERNATIONAL TOURIST SERVICE, LIMITED",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "KWOK GHEUNG COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KWOK GHEUNG COMPANY",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "LING KEE BOOK STORE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LING KEE BOOK STORE",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "MILLING TAILOR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MILLING TAILOR",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "MOBIL OIL HONG KONG LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MOBIL OIL HONG KONG LIMITED",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "MODERN EDUCATIONAL RESEARCH SOCIETY, LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MODERN EDUCATIONAL RESEARCH SOCIETY, LIMITED",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "MR. S. Y. TING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. S. Y. TING",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "NEW UNIVERSAL JEWELLERY COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NEW UNIVERSAL JEWELLERY COMPANY",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "OXFORD UNIVERSITY PRESS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OXFORD UNIVERSITY PRESS",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "PAK SHIU COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAK SHIU COMPANY",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "RUBY RESTAURANT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RUBY RESTAURANT",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "SHATIN FLOATING RESTAURANT LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SHATIN FLOATING RESTAURANT LIMITED",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "SINN CONSTRUGTION COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SINN CONSTRUGTION COMPANY",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "SUI FONG TAILOR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUI FONG TAILOR",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "SWINDON BOOK COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWINDON BOOK COMPANY",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "THE CHARTERED BANK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE CHARTERED BANK",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "THE KOWLOON DAIRY LIMTTED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE KOWLOON DAIRY LIMTTED",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "FAITHFUL TRADING CO. LID.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FAITHFUL TRADING CO. LID.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "MR. VICTOR WU ARROW TRAVEL AGENGY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. VICTOR WU ARROW TRAVEL AGENGY",
+        "start_char": 0,
+        "end_char": 33
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "MODERN EDUCATIONAL RESEARCH SOCIETY, LIMITED",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "MODERN EDUCATIONAL RESEARCH SOCIETY, LIMITED",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_173_full.webp",
+  "extracted_photos": []
+}

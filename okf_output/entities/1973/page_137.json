@@ -1,0 +1,30 @@
+{
+  "year": "1973",
+  "page": 137,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Spectrum T ACHO 監速馬達 D OLBY 杜比嗓聲抑減系統",
+  "students": [
+    {
+      "english_name": "Spectrum",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Spectrum",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_137_full.webp",
+  "extracted_photos": [
+    "1973_page_137_photo_1.webp",
+    "1973_page_137_photo_2.webp"
+  ]
+}

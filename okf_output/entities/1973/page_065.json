@@ -1,0 +1,195 @@
+{
+  "year": "1973",
+  "page": 65,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "「耶穌善牧者，求爾賜我以永生 Christian Eife Eommunity CAltar Soyo' Society",
+  "students": [
+    {
+      "english_name": "Christian Eife Eommunity",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christian Eife Eommunity",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "CAltar Soyo' Society",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CAltar Soyo' Society",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Prefect",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prefect",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Vice-Prefect",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Prefect",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Their beautiful chapel made us green",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Their beautiful chapel made us green",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Carolling - we went",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Carolling - we went",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "During the year, we had regular spiri-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the year, we had regular spiri-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "An enclosed retreat - all our mem-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An enclosed retreat - all our mem-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Cheung Chau under the direction of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chau under the direction of",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Director: Br. James Tong",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Director: Br. James Tong",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Spiritual Director : Rev. Fr. A. Farren, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Spiritual Director : Rev. Fr. A. Farren, S.J.",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Fr.Sze.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.Sze.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "CAltar Soyo' Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "CAltar Soyo' Society",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "club_name": "Altar Society of Wah Yan, Kowloon.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Altar Society of Wah Yan, Kowloon.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_065_full.webp",
+  "extracted_photos": [
+    "1973_page_065_photo_1.webp"
+  ]
+}

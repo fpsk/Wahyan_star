@@ -1,0 +1,121 @@
+{
+  "year": "1979",
+  "page": 64,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "JOINT SCHOOL SCIENCE EXHIBITION TEE Ilth Joint School Science Exhibition",
+  "students": [
+    {
+      "english_name": "EXHIBITION",
+      "chinese_name": "冢庭寶",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EXHIBITION 冢庭寶",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Our school participated in two projects.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our school participated in two projects.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Control'and the joint project'The Mass",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Control'and the joint project'The Mass",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "For every part, two models were made to help",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "For every part, two models were made to help",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Each model was well planned and carefully",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Each model was well planned and carefully",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Words of greetings were also heard from it.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Words of greetings were also heard from it.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "The joint project was run with three other",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The joint project was run with three other",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "In order to raise the stan-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In order to raise the stan-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_064_full.webp",
+  "extracted_photos": [
+    "1979_page_064_photo_1.webp",
+    "1979_page_064_photo_2.webp"
+  ]
+}

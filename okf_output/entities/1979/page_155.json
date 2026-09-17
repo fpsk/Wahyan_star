@@ -1,0 +1,69 @@
+{
+  "year": "1979",
+  "page": 155,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Suth Chine Mortleo Soath Chins Morrine/e Good news",
+  "students": [
+    {
+      "english_name": "Suth Chine Mortleo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Suth Chine Mortleo",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Good news",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Good news",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "The South China Morning Post offers special",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The South China Morning Post offers special",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "South China Morning Post",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "South China Morning Post",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_155_full.webp",
+  "extracted_photos": [
+    "1979_page_155_photo_1.webp",
+    "1979_page_155_photo_2.webp"
+  ]
+}

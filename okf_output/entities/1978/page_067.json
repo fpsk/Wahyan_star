@@ -1,0 +1,147 @@
+{
+  "year": "1978",
+  "page": 67,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "TEACHERS' DAY T he Teachers Day' was one of the pro.",
+  "students": [
+    {
+      "english_name": "TEACHERS'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEACHERS'",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "T he Teachers Day' was one of the pro.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "T he Teachers Day' was one of the pro.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Music Room, the Variety Show started. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Music Room, the Variety Show started. The",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Instead of inviting the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Instead of inviting the",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "The style of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The style of the",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "In the afternoon, a basketball match was held between the teachers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the afternoon, a basketball match was held between the teachers",
+        "start_char": 0,
+        "end_char": 66
+      }
+    },
+    {
+      "english_name": "After that, the final round of the Intercubs Death",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After that, the final round of the Intercubs Death",
+        "start_char": 0,
+        "end_char": 50
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "in the school hall. Our teachers, Fr. Brosnan and Miss M. Lau were",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "in the school hall. Our teachers, Fr. Brosnan and Miss M. Lau were",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "on the debating team. The Teachers' Day ended at about 6:30 p.m.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "on the debating team. The Teachers' Day ended at about 6:30 p.m.",
+        "start_char": 0,
+        "end_char": 64
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_067_full.webp",
+  "extracted_photos": [
+    "1978_page_067_photo_1.webp",
+    "1978_page_067_photo_2.webp"
+  ]
+}

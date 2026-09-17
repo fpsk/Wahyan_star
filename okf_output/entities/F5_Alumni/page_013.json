@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 13,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chiu Schumann, Paul (趙舒文) • Chin Po Wah (錢寶華) • Chiu Kwong Wai (趙光偉) • Chiu Tso Mei (邱松綿)",
+  "students": [
+    {
+      "english_name": "Chiu Schumann, Paul",
+      "chinese_name": "趙舒文",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chin Po Wah",
+      "chinese_name": "錢寶華",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chiu Kwong Wai",
+      "chinese_name": "趙光偉",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chiu Tso Mei",
+      "chinese_name": "邱松綿",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_013_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 13,
+      "english_name": "Chiu Schumann, Paul",
+      "chinese_name": "趙舒文",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 13,
+      "english_name": "Chin Po Wah",
+      "chinese_name": "錢寶華",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 13,
+      "english_name": "Chiu Kwong Wai",
+      "chinese_name": "趙光偉",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 13,
+      "english_name": "Chiu Tso Mei",
+      "chinese_name": "邱松綿",
+      "class": "Form 5A"
+    }
+  ]
+}

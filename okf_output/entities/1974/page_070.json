@@ -1,0 +1,220 @@
+{
+  "year": "1974",
+  "page": 70,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "THE LET'S GET TOGETHER CLUB （MUSIC SOCIETY） Advisers",
+  "students": [
+    {
+      "english_name": "THE LET'S GET TOGETHER CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE LET'S GET TOGETHER CLUB",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "In October, an English Verse-speaking compet-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In October, an English Verse-speaking compet-",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "It was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Inter-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "A guitar Class was organized for our members from Oct. to April. Thomas Yeung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A guitar Class was organized for our members from Oct. to April. Thomas Yeung",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "College, St. Paul's College, Hong Kong Tang King Po College and St. Paul's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College, St. Paul's College, Hong Kong Tang King Po College and St. Paul's",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Secondary School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secondary School.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "An open air concert, co-organized with the student council, will be held during the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An open air concert, co-organized with the student council, will be held during the",
+        "start_char": 0,
+        "end_char": 83
+      }
+    },
+    {
+      "english_name": "We would like to thank all those who have",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We would like to thank all those who have",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "： Rev. Fr. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Rev. Fr. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Rev. Fr. Toner, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Toner, S.J.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "THE LET'S GET TOGETHER CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "THE LET'S GET TOGETHER CLUB",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "club_name": "（MUSIC SOCIETY）",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "（MUSIC SOCIETY）",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "club. Lastly, hope that you will come and sing",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "club. Lastly, hope that you will come and sing",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_070_full.webp",
+  "extracted_photos": [
+    "1974_page_070_photo_1.webp"
+  ]
+}

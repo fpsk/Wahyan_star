@@ -1,0 +1,390 @@
+{
+  "year": "1971",
+  "page": 117,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "allowed to become a member if he attends The Altar Section representative to",
+  "students": [
+    {
+      "english_name": "The Altar Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Altar Section",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ofhicers.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ofhicers.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Important Events and Activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Important Events and Activities",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Every member should lead a Christian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Every member should lead a Christian",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Shortly after our establishment, we had",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shortly after our establishment, we had",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Every member should attend all meet-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Every member should attend all meet-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "We had a joint discussion with Good",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had a joint discussion with Good",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "J.C.L.C. or the Federation of C.L.C.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "J.C.L.C. or the Federation of C.L.C.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Hope Girl's School. The title of the dis-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hope Girl's School. The title of the dis-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Members of the J.C.L.C. are divided",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Members of the J.C.L.C. are divided",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "On Christmas Eve, we went carolling.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On Christmas Eve, we went carolling.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Internal Affairs Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Internal Affairs Section",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Ore aim was to spread the joy of Christmas",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ore aim was to spread the joy of Christmas",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "External Affairs Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "External Affairs Section",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Altar Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Altar Section",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "The Altar Section is an independent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Altar Section is an independent",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "This was organized by the Federation.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was organized by the Federation.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Heart Canossian College, we put on a short",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Heart Canossian College, we put on a short",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "President",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "President",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "On that day we invited all the member of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On that day we invited all the member of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Internal Afairs",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Internal Afairs",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "We celebrated the great",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We celebrated the great",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Section Head",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Section Head",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "External Affairs",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "External Affairs",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "This was our great day.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was our great day.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "We had first of all a talk by Fr. Brosnan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We had first of all a talk by Fr. Brosnan",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Spiritual Director : Fr. Brosnan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Spiritual Director : Fr. Brosnan, S.J.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_117_full.webp",
+  "extracted_photos": []
+}

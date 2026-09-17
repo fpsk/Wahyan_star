@@ -1,0 +1,775 @@
+{
+  "year": "1972",
+  "page": 116,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "“C”Grade Ist 100 Metres",
+  "students": [
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lam Shu Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Shu Shing",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 200,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Lam Shu Shing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Lam Shu Shing",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 400,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Poon Fat Tik",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Poon Fat Tik",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 800,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Paul Tan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Paul Tan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Metres L. Hurdles",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 80,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres L. Hurdles",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "F.IAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IAI",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Yeung Siu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Siu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "F.IA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ist Brown House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Brown House",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 58,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 59,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "F.IA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Long Jump",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Tong Yuen Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tong Yuen Ming",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Andrew Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Andrew Chung",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Shot Put",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shot Put",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Ist Leung Siu Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Leung Siu Tong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Cricketball Throw",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricketball Throw",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ist Anthony Tsui",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Anthony Tsui",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Lnd Leung Siu Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lnd Leung Siu Tong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Lai Wai Chung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Lai Wai Chung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "F.IA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "F.IB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Ist Ip Moon Chi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Moon Chi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Ip Moon Chi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Moon Chi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "F.IBI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IBI",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "F.IB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Ist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Red House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Red House",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Secs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 69,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secs.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Long Jump",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Ip Moon Chi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Moon Chi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "F.IAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IAI",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "F.IAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IAI",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Ist Liu Hing Hung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Liu Hing Hung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "F.IB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Cricketball Throw",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 50,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricketball Throw",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ist Ching Kwok Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 51,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ching Kwok Leung",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "F.IB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 52,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.IB",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Relay （4 x 100）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Relay （4 x 100）",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "event_name": "Long Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "200Metres",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "200Metres",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Long Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_116_full.webp",
+  "extracted_photos": []
+}

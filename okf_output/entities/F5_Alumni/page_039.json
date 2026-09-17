@@ -1,0 +1,90 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 39,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Wong Lap Chun (黃立俊) • Wong Wai Ming (黃偉明) • Wong Tak Yee (黃德輿) • Wong Wai Yeung (黃偉楊)",
+  "students": [
+    {
+      "english_name": "Wong Lap Chun",
+      "chinese_name": "黃立俊",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Wong Wai Ming",
+      "chinese_name": "黃偉明",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Wong Tak Yee",
+      "chinese_name": "黃德輿",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "王德義"
+      ]
+    },
+    {
+      "english_name": "Wong Wai Yeung",
+      "chinese_name": "黃偉楊",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_039_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 39,
+      "english_name": "Wong Lap Chun",
+      "chinese_name": "黃立俊",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 39,
+      "english_name": "Wong Wai Ming",
+      "chinese_name": "黃偉明",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 39,
+      "english_name": "Wong Tak Yee",
+      "chinese_name": "黃德輿",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 39,
+      "english_name": "Wong Tak Yee",
+      "chinese_name": "王德義",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 39,
+      "english_name": "Wong Wai Yeung",
+      "chinese_name": "黃偉楊",
+      "class": "Form 5A1"
+    }
+  ]
+}

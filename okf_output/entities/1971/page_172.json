@@ -1,0 +1,183 @@
+{
+  "year": "1971",
+  "page": 172,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments With the Compliments THE OFFICE APPLIANCE CO.",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "THE OFFICE APPLIANCE CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE OFFICE APPLIANCE CO.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "ALEXANDRA HOUSE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALEXANDRA HOUSE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "CHATER ROAD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHATER ROAD",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "TEL.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TEL.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "PETER K.P. HALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PETER K.P. HALL",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Gen. Manager",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gen. Manager",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "PAK SHIU COMPANY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAK SHIU COMPANY",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Chinese Freight Agents for",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Freight Agents for",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "N.Y.K. Line Hong Kong Ltd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "N.Y.K. Line Hong Kong Ltd.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_172_full.webp",
+  "extracted_photos": []
+}

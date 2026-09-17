@@ -1,0 +1,202 @@
+{
+  "year": "1978",
+  "page": 91,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "lor swimming. One of the best swimmers The ft da awd ie fual du of the Anmual Swimming Gala were held on",
+  "students": [
+    {
+      "english_name": "The ft da awd ie fual du of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The ft da awd ie fual du of the",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Anmual Swimming Gala were held on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anmual Swimming Gala were held on",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Ihe place for the occasion was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ihe place for the occasion was",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Consequently. there was hardly any excite.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Consequently. there was hardly any excite.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "This is seldom seen. Many new swimmers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This is seldom seen. Many new swimmers",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The wies got their medals lrom",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The wies got their medals lrom",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "wi: Fomm 2 boy （Master Lee） who will",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "wi: Fomm 2 boy （Master Lee） who will",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "the hands ol Fr. Bamett. Mi. Raymond Yu",
+      "chinese_name": "余本良",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the hands ol Fr. Bamett. Mi. Raymond Yu",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "ind Fr. Corbally. We do hope for better",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ind Fr. Corbally. We do hope for better",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "lor swimming. One of the best swimmers",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "lor swimming. One of the best swimmers",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "event_name": "Anmual Swimming Gala were held on",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Anmual Swimming Gala were held on",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "event_name": "the Monison Hill Swimming Pool. This",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "the Monison Hill Swimming Pool. This",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "event_name": "tial in swimming. The A grade swimmers",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "tial in swimming. The A grade swimmers",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "event_name": "were exlemely good. several new records",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "were exlemely good. several new records",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_091_full.webp",
+  "extracted_photos": [
+    "1978_page_091_photo_1.webp"
+  ]
+}

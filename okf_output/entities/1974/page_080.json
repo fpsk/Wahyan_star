@@ -1,0 +1,120 @@
+{
+  "year": "1974",
+  "page": 80,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "A. O. P. & C.B.S. Chairman ： Paul Yu",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "A.O.P",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A.O.P",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Spiritual Director : Fr. MacGaly, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Spiritual Director : Fr. MacGaly, S.J.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Spiritual Director : Rev. Fr. J. Foley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Spiritual Director : Rev. Fr. J. Foley, S.J.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "lltat Boys' Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "lltat Boys' Society",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_080_full.webp",
+  "extracted_photos": [
+    "1974_page_080_photo_1.webp",
+    "1974_page_080_photo_2.webp"
+  ]
+}

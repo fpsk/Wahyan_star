@@ -1,0 +1,30 @@
+{
+  "year": "1973",
+  "page": 8,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "壇球譽享® Wah Yan Studying in",
+  "students": [
+    {
+      "english_name": "Studying in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Studying in",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_008_full.webp",
+  "extracted_photos": [
+    "1973_page_008_photo_1.webp",
+    "1973_page_008_photo_2.webp"
+  ]
+}

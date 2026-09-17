@@ -1,0 +1,303 @@
+{
+  "year": "1972",
+  "page": 15,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "OBITUARY David joined Wah Yan College in 1948 and passed his School Leaving Cer-",
+  "students": [
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "London",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "London",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "University Matriculation Examinations in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "University Matriculation Examinations in",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The latter hobby may account",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The latter hobby may account",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Very fond of pigeons, he raised a flock on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Very fond of pigeons, he raised a flock on",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Kong School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong School",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Certifcate Examination. His teachers re-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Certifcate Examination. His teachers re-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "His triend, Kam Pak Ho, who remembers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His triend, Kam Pak Ho, who remembers",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Yat Chih's many acts of kindness to him",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yat Chih's many acts of kindness to him",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Group that he made continued valuable",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Group that he made continued valuable",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "David as Managing Director of RIL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David as Managing Director of RIL",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Air was starting what wanted certainly",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Air was starting what wanted certainly",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "He was happily married, the father of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was happily married, the father of",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "With",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "All who knew him mourn his passing and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All who knew him mourn his passing and",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "David Ma - School and University Life",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David Ma - School and University Life",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "belongd to the Music Society and also to",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "belongd to the Music Society and also to",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "the Debating Society. He took part in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Debating Society. He took part in",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "University Economics Society. It was，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "University Economics Society. It was，",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "School on the Swimming Team in 1961.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "School on the Swimming Team in 1961.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_015_full.webp",
+  "extracted_photos": [
+    "1972_page_015_photo_1.webp",
+    "1972_page_015_photo_2.webp"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "year": "1976",
+  "page": 30,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Fifth Foimess'Graduation Dinnes & Graduation Ball The F.5 （74-75） dinner",
+  "students": [
+    {
+      "english_name": "Sheraton Hotel on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sheraton Hotel on",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "MAN YAM COLLECE HONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MAN YAM COLLECE HONG",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "GRADUATICRE DINNER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GRADUATICRE DINNER",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "School and Maryknoll Sisters' School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School and Maryknoll Sisters' School.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fathers, teachers and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fathers, teachers and",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_030_full.webp",
+  "extracted_photos": [
+    "1976_page_030_photo_1.webp",
+    "1976_page_030_photo_2.webp",
+    "1976_page_030_photo_3.webp",
+    "1976_page_030_photo_4.webp",
+    "1976_page_030_photo_5.webp",
+    "1976_page_030_photo_6.webp",
+    "1976_page_030_photo_7.webp"
+  ]
+}

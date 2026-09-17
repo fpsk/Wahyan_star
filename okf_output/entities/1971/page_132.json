@@ -1,0 +1,56 @@
+{
+  "year": "1971",
+  "page": 132,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "“A” Grade Football Team（1970-71） B.L. Mr.Wan Wai Yin, C.K. Chau, H.T. Tang, K.C. Chau, W.Y. Hui, C.M. In, K.S. Ln, P. Tsoi， Rev. Gary Lam, S.J.",
+  "students": [
+    {
+      "english_name": "B.L. S.P. Yiu,Y.L. Yiu, W.C. Chau, H.W.Cheung, K.K. Wong, H.C. Kwok Rev. Gary Lam, S.J.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B.L. S.P. Yiu,Y.L. Yiu, W.C. Chau, H.W.Cheung, K.K. Wong, H.C. Kwok Rev. Gary Lam, S.J.",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "english_name": "F.L. K.Y. Wong, Y.F.Wong, C.P.Chan, C.w. Wong, M.C.Kwok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "F.L. K.Y. Wong, Y.F.Wong, C.P.Chan, C.w. Wong, M.C.Kwok",
+        "start_char": 0,
+        "end_char": 55
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Gary Lam, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Gary Lam, S.J.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_132_full.webp",
+  "extracted_photos": [
+    "1971_page_132_photo_1.webp",
+    "1971_page_132_photo_2.webp"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "year": "1978",
+  "page": 12,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "ANNUAL SPEECH DAY DAY",
+  "students": [
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Speech Day.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Speech Day.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Frank C. Y. Cheng, Mrs. Cheng, Mr. Leung from the Education Department",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Frank C. Y. Cheng, Mrs. Cheng, Mr. Leung from the Education Department",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "The next event was the presentation of certificates and prizes by Mrs.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The next event was the presentation of certificates and prizes by Mrs.",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "Cheng. Subsequently Dr. Cheng, our Honourable Guest, who now teaches in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng. Subsequently Dr. Cheng, our Honourable Guest, who now teaches in",
+        "start_char": 0,
+        "end_char": 71
+      }
+    },
+    {
+      "english_name": "Following the vote of thanks given by the Head Prefect was the per-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Following the vote of thanks given by the Head Prefect was the per-",
+        "start_char": 0,
+        "end_char": 67
+      }
+    },
+    {
+      "english_name": "School Song, the whole ceremony was completed. All graduates were invited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Song, the whole ceremony was completed. All graduates were invited",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "english_name": "KKKKKKKXKXXX",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KKKKKKKXKXXX",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Yu,the Assistant Principal, welcomed the Honourable Guest, Dr.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Yu,the Assistant Principal, welcomed the Honourable Guest, Dr.",
+        "start_char": 0,
+        "end_char": 66
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "formance of our School Orchestra and Choir. Then, with the singing of the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "formance of our School Orchestra and Choir. Then, with the singing of the",
+        "start_char": 0,
+        "end_char": 73
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_012_full.webp",
+  "extracted_photos": [
+    "1978_page_012_photo_1.webp"
+  ]
+}

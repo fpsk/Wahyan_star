@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 25,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Lee Ka Kit, Tony (李家傑) • Lee Yok Shiu, Frederick (李煜紹) • Lee Man Yan (李文恩) • Lee Tung Hoi (李東海)",
+  "students": [
+    {
+      "english_name": "Lee Ka Kit, Tony",
+      "chinese_name": "李家傑",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lee Yok Shiu, Frederick",
+      "chinese_name": "李煜紹",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lee Man Yan",
+      "chinese_name": "李文恩",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lee Tung Hoi",
+      "chinese_name": "李東海",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_025_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 25,
+      "english_name": "Lee Ka Kit, Tony",
+      "chinese_name": "李家傑",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 25,
+      "english_name": "Lee Yok Shiu, Frederick",
+      "chinese_name": "李煜紹",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 25,
+      "english_name": "Lee Man Yan",
+      "chinese_name": "李文恩",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 25,
+      "english_name": "Lee Tung Hoi",
+      "chinese_name": "李東海",
+      "class": "Form 5B"
+    }
+  ]
+}

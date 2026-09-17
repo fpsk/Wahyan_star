@@ -1,0 +1,638 @@
+{
+  "year": "1971",
+  "page": 36,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "THOSE WHO GOT DISTINCTIONS IN HONG KONG ENGLISH SCHOOL CERTIFICATE EXAMINATION, 1970. SUBJECT",
+  "students": [
+    {
+      "english_name": "THOSE WHO GOT DISTINCTIONS IN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THOSE WHO GOT DISTINCTIONS IN",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "SUBJECT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUBJECT",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "NAME OF CANDIDATE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NAME OF CANDIDATE",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "TSUI PUI YAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TSUI PUI YAN",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LAI JAK YIU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAI JAK YIU",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHU SHOW PING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHU SHOW PING",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "TANG WING SON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TANG WING SON",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "CHAN YUEN FU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUEN FU",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LAI JAK YIU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAI JAK YIU",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHAN YIU WOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YIU WOON",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "CHAN YUEN FU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUEN FU",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CHAN HUEN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN HUEN",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "YEUNG CHIU FAT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG CHIU FAT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "MA CHI HUNG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MA CHI HUNG",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "LAM MING FAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAM MING FAI",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CHAN YIU WOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YIU WOON",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "WAN PAK TAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WAN PAK TAI",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "TSUI PUI YAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TSUI PUI YAN",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CURRIM ABDULLAH MOHD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CURRIM ABDULLAH MOHD",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "YEUNG CHIU FAT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG CHIU FAT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "LAI JAK YIU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAI JAK YIU",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHAN YUK NG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUK NG",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHAN SUI YUM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN SUI YUM",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "YEUNG KIN GAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG KIN GAY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "PANG KIN HING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PANG KIN HING",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "HO KING WAH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HO KING WAH",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "YEUNG CHIU FAT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG CHIU FAT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "KWAN PAK CHUNG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KWAN PAK CHUNG",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "LEUNG MAN WAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEUNG MAN WAI",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "CHAN YUK NG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUK NG",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHOI CHUN LAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHOI CHUN LAM",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "HO KING WAH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HO KING WAH",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "YEUNG CHIU FAT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG CHIU FAT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "LAM MING FAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAM MING FAI",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CHAN YIU WOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YIU WOON",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "CHAN YUEN FU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUEN FU",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CHAN YUK NG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN YUK NG",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CHAN SUI YAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN SUI YAM",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LAM MING FAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAM MING FAI",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "CHAN SUI YUM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN SUI YUM",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "LEUNG YIU HANG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEUNG YIU HANG",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CHONG CHI LEUNG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHONG CHI LEUNG",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "YEUNG KIN GAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG KIN GAY",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "HO KING WAH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HO KING WAH",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "YEUNG YIU MING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YEUNG YIU MING",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "LEUNG MAN WAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEUNG MAN WAI",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "MA CHI MIN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MA CHI MIN",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "LAM MING FAI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LAM MING FAI",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_036_full.webp",
+  "extracted_photos": []
+}

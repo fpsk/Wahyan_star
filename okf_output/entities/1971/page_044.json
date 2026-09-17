@@ -1,0 +1,505 @@
+{
+  "year": "1971",
+  "page": 44,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "per scene was good — the disappearance This is a play from the life of Robin of the bottle from the table was well exe-",
+  "students": [
+    {
+      "english_name": "This is a play from the life of Robin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This is a play from the life of Robin",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The scene is laid in the kitchen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The scene is laid in the kitchen",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "It has plenty",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It has plenty",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "It begins with a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It begins with a",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "It should have sound-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It should have sound-",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Little John",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Little John",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "A lot of the speaking was too soft",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A lot of the speaking was too soft",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Friar Tuck hadn't much to say but",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friar Tuck hadn't much to say but",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "The very obvious Cokes were a re-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The very obvious Cokes were a re-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "A TRAGEDY OF THE MODERN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A TRAGEDY OF THE MODERN",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "A GOOD DINNER",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GOOD DINNER",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "WORLD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WORLD",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Directors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Directors",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Directors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Directors",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Winson",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winson",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Cheung Tai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Tai",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Cast",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cast",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Cast",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cast",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Dick",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dick",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "A Waiter",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Waiter",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Tibet",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tibet",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "An Old Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An Old Man",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "A Lady",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Lady",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "The scene is a very familiar one to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The scene is a very familiar one to",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The theme is the neglect of school",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The theme is the neglect of school",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The next scene shows young",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The next scene shows young",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Coster ridicules this and offers to give away",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Coster ridicules this and offers to give away",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Tibet coming to a different home with a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tibet coming to a different home with a",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Edwin Law as Upton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edwin Law as Upton",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Alas, his father is abroad",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alas, his father is abroad",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Tibet waits in vain",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tibet waits in vain",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "They console each",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They console each",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "I am sure that this little play",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I am sure that this little play",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Some of the dia-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Some of the dia-",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Coster",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Coster",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Mr. Upton",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Upton",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Dick's Father",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Dick's Father",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Mr. Coster （Sammy Chan） and Mr. Upton",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Coster （Sammy Chan） and Mr. Upton",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_044_full.webp",
+  "extracted_photos": []
+}

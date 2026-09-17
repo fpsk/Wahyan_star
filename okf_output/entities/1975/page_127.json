@@ -1,0 +1,66 @@
+{
+  "year": "1975",
+  "page": 127,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Dar Ihe Cooy foeoke CALTEX OIL HONG KONG LIMITED Tth Floor, Edinburgh House",
+  "students": [
+    {
+      "english_name": "Dar Ihe Cooy foeoke",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dar Ihe Cooy foeoke",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "CALTEX OIL HONG KONG LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CALTEX OIL HONG KONG LIMITED",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Tth Floor, Edinburgh House",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tth Floor, Edinburgh House",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "CALTEX",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CALTEX",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_127_full.webp",
+  "extracted_photos": []
+}

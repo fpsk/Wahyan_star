@@ -1,0 +1,430 @@
+{
+  "year": "1971",
+  "page": 10,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "<Acknowledgemento we wish to thank the editors of the following magazines for sending us copies of their publication in 1970-71.",
+  "students": [
+    {
+      "english_name": "Baptist College, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Baptist College, Kowloon",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Chimes,St. Stephen's College,H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chimes,St. Stephen's College,H.K.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Excelsior, HKUSU Catholic Society, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Excelsior, HKUSU Catholic Society, H.K.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Heep Yunn School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Heep Yunn School",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mateo Ricci School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mateo Ricci School",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Ming Yuen Middle School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ming Yuen Middle School",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Northcote College of Education",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Northcote College of Education",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Bulletin,H.K",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bulletin,H.K",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Queen Elizabeth School, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen Elizabeth School, Kowloon",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Queen's College, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen's College, H.K.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Rosaryhill School,H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Rosaryhill School,H.K.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Salesian School, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Salesian School, H.K.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Shung Tak School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shung Tak School",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "St. Clare's School, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Clare's School, H.K.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "St. Francis Xavier's, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Francis Xavier's, Kowloon",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "St. Joseph's Anglo-Chinese School, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Joseph's Anglo-Chinese School, Kowloon",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "St. Margaret's College, H.K",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Margaret's College, H.K",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "St. Mary's Canossian College, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Mary's Canossian College, Kowloon",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "St. Paul's Secondary School, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's Secondary School, H.K.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "The Belvederian, Ireland",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Belvederian, Ireland",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The Clongonwian, Ireland",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Clongonwian, Ireland",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The Lasallite, La Salle College, Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Lasallite, La Salle College, Kowloon",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The Louisian, Claremont, W. Australia",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Louisian, Claremont, W. Australia",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The Paulinian, St. Paul's Convent, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Paulinian, St. Paul's Convent, H.K.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The Raimondian, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Raimondian, H.K.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "The Wheel, Kowloon Technical School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Wheel, Kowloon Technical School",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The Winged Lion, St. Mark's School, H.K",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Winged Lion, St. Mark's School, H.K",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The Xaverian, Melbourne",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Xaverian, Melbourne",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Wayfarer, St. Paul's College, H.K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wayfarer, St. Paul's College, H.K.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Yuet Wah College, Macau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuet Wah College, Macau",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Excelsior, HKUSU Catholic Society, H.K.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Excelsior, HKUSU Catholic Society, H.K.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_010_full.webp",
+  "extracted_photos": []
+}

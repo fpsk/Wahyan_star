@@ -1,0 +1,250 @@
+{
+  "year": "1976",
+  "page": 103,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Max Kiu Derick Li below：",
+  "students": [
+    {
+      "english_name": "Max Kiu",
+      "chinese_name": "李金鑏",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Max Kiu 李金鑏",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Derick Li",
+      "chinese_name": "喬孝忠",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Derick Li 喬孝忠",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Raymond Tam",
+      "chinese_name": "吳啓民",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Raymond Tam 吳啓民",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Cheung Chun Fai",
+      "chinese_name": "楊北鎭",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chun Fai 楊北鎭",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Luke Ng",
+      "chinese_name": "譚幹材",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luke Ng 譚幹材",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Yeung Pak Chung",
+      "chinese_name": "張振輝",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung Pak Chung 張振輝",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Leug Kwai Chor",
+      "chinese_name": "張秉喜",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leug Kwai Chor 張秉喜",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Alan Cheung",
+      "chinese_name": "梁貴初",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alan Cheung 梁貴初",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Kin",
+      "chinese_name": "張國通",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin 張國通",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Lawrence Cheung",
+      "chinese_name": "吳維榕",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lawrence Cheung 吳維榕",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chiu Kan Yan",
+      "chinese_name": "招鏡炘",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chiu Kan Yan 招鏡炘",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ng Wai Yung",
+      "chinese_name": "李學正",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Wai Yung 李學正",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ivan Li",
+      "chinese_name": "將錦成",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ivan Li 將錦成",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Bernard Chiang",
+      "chinese_name": "麥志明",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bernard Chiang 麥志明",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Richard Mak",
+      "chinese_name": "鄧勇智",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Richard Mak 鄧勇智",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lewis Tsao",
+      "chinese_name": "賴栢生",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lewis Tsao 賴栢生",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lai Pak Sang",
+      "chinese_name": "李國賢",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Pak Sang 李國賢",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Li Kwok Yin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Kwok Yin",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_103_full.webp",
+  "extracted_photos": [
+    "1976_page_103_photo_1.webp"
+  ]
+}

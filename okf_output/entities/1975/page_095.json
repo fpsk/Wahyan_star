@@ -1,0 +1,27 @@
+{
+  "year": "1975",
+  "page": 95,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MY FRIENDS",
+  "students": [
+    {
+      "english_name": "MY FRIENDS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MY FRIENDS",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_095_full.webp",
+  "extracted_photos": []
+}

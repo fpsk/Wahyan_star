@@ -1,0 +1,40 @@
+{
+  "year": "1978",
+  "page": 176,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mhik Me Cogi focnt P.S. Li & CO.， LTD. 701-703 & 708 GAMMON HOUSE，",
+  "students": [
+    {
+      "english_name": "Mhik Me Cogi focnt",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mhik Me Cogi focnt",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "HONG KONG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_176_full.webp",
+  "extracted_photos": []
+}

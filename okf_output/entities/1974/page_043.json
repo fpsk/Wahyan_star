@@ -1,0 +1,27 @@
+{
+  "year": "1974",
+  "page": 43,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Neus of the Past Old Boys of Wah Yan cherish fond recollections",
+  "students": [
+    {
+      "english_name": "Neus of the Past",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Neus of the Past",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_043_full.webp",
+  "extracted_photos": []
+}

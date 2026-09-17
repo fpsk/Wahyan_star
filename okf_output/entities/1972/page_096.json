@@ -1,0 +1,612 @@
+{
+  "year": "1972",
+  "page": 96,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "SCOUTING THE 15th HONG KONG GROUP This year is another remarkable year",
+  "students": [
+    {
+      "english_name": "SCOUTING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCOUTING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "This year is another remarkable year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year is another remarkable year",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Anniversary, but also the group is now a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anniversary, but also the group is now a",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The Group Council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Group Council",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "The Group Council held the quarter-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Group Council held the quarter-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Phiip Ching, Geoflrey O'Young, Jerome",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Phiip Ching, Geoflrey O'Young, Jerome",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Cheng and Mrs. Mary Tam.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng and Mrs. Mary Tam.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The Scout Leaders",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Scout Leaders",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Miss Elizabeth Kwa",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Elizabeth Kwa",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mrs. Mary Tam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Mary Tam",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Group Strength",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Group Strength",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Cub Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cub Scouts",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scouts",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Venture Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Venture Scouts",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Scout Leaders",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scout Leaders",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lay Members",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lay Members",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Total strength",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Total strength",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "is Rev. Fr. C.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "is Rev. Fr. C.J.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "is Mr. Michael Cheng, members consist of",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "is Mr. Michael Cheng, members consist of",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Mr. Chan Chi Keung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chan Chi Keung",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Chan Wing Keung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chan Wing Keung",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Mr.Philip Ching",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.Philip Ching",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr. Stephen Ching",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Stephen Ching",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Lam Kin Keung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lam Kin Keung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Mak Ngok Kwan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Mak Ngok Kwan",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Chan Hang Po",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chan Hang Po",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mr. Tong Nai Kong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Tong Nai Kong",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr.Cheung Luk Tim",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.Cheung Luk Tim",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Cheng Hiu Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Cheng Hiu Fung",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Chow Keung Kun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chow Keung Kun",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Ng Fook Hoi",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Ng Fook Hoi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr. Anthony Ching",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Anthony Ching",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Mr. Yung Wing Sang",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Yung Wing Sang",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Mr. Geoftrey O'Young",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Geoftrey O'Young",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SCOUTING",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCOUTING",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "club_name": "tion of the Cub Scout Section on 19th",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "tion of the Cub Scout Section on 19th",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "Asst. Venture Scout Leaders：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Asst. Venture Scout Leaders：",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "club_name": "The Scout Leaders",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Scout Leaders",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "Group Scout Leader：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Group Scout Leader：",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "club_name": "Cub Scout Leader：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Cub Scout Leader：",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "Asst. Cub Scout Leaders：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Asst. Cub Scout Leaders：",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "club_name": "Scout Leader：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Leader：",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "Cub Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Cub Scouts",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "club_name": "Asst. Scout Leaders：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Asst. Scout Leaders：",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "club_name": "Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scouts",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "club_name": "Venture Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Venture Scouts",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "club_name": "Scout Leaders",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Leaders",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "Venture Scout Leader：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Venture Scout Leader：",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_096_full.webp",
+  "extracted_photos": [
+    "1972_page_096_photo_1.webp",
+    "1972_page_096_photo_2.webp"
+  ]
+}

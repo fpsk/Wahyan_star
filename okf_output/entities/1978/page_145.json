@@ -1,0 +1,549 @@
+{
+  "year": "1978",
+  "page": 145,
+  "section_type": "Class Roster",
+  "class_designation": "FORM 1A1 （1977-78）",
+  "summary": "Mrs. M. Ho FORM 1A1 （1977-78） 1.",
+  "students": [
+    {
+      "english_name": "Mrs. M. Ho",
+      "chinese_name": "洪嘉煌",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. M. Ho 洪嘉煌",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Ang Alberto",
+      "chinese_name": "李若愚",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ang Alberto 李若愚",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Yeuk Yue",
+      "chinese_name": "陳劍偉",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Yeuk Yue 陳劍偉",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Kim Wai",
+      "chinese_name": "廖仲康",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kim Wai 廖仲康",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Liu Chung Hong",
+      "chinese_name": "陳健全",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liu Chung Hong 陳健全",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chan Kin Chuen, Richard",
+      "chinese_name": "盧國棟",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Chuen, Richard 盧國棟",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Lo Kwok Tung",
+      "chinese_name": "陳文遜",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Kwok Tung 陳文遜",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lu Ow Yang, David",
+      "chinese_name": "歐陽呂漢傑",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lu Ow Yang, David 歐陽呂漢傑",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Chan On Yuen",
+      "chinese_name": "陳安然",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan On Yuen 陳安然",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ng Chi, Alan",
+      "chinese_name": "陳維智",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Chi, Alan 陳維智",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chan Wai Chi",
+      "chinese_name": "陳以聰",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Wai Chi 陳以聰",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Noq Chi Wai",
+      "chinese_name": "潤輝",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Noq Chi Wai 潤輝",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan Yee Chung",
+      "chinese_name": "周家樂",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Yee Chung 周家樂",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ng Man Sang",
+      "chinese_name": "陳一鳴",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Man Sang 陳一鳴",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chan",
+      "chinese_name": "周啓超",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan 周啓超",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Yun Fai",
+      "chinese_name": "蔡榮耀",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yun Fai 蔡榮耀",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Pau Chung Yin",
+      "chinese_name": "馮澍",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pau Chung Yin 馮澍",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chau Ka Lok",
+      "chinese_name": "何肪宇",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chau Ka Lok 何肪宇",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Po Kam Chiu, Dominic",
+      "chinese_name": "許金",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Po Kam Chiu, Dominic 許金",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Cheng Yat Ming, Andrew",
+      "chinese_name": "間維",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng Yat Ming, Andrew 間維",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Sze Ka Yan, Kyran",
+      "chinese_name": "鄺國華",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sze Ka Yan, Kyran 鄺國華",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Cheung Chin Fai",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chin Fai",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Tam Man Chan",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Man Chan",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Chow Kai Chiu",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Kai Chiu",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tan Cheong Yiu",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tan Cheong Yiu",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Choy Wing Yiu",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choy Wing Yiu",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tang Shek Tung, Andrew",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Shek Tung, Andrew",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Fung Shu Ming",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Shu Ming",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tsang See Dark",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang See Dark",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Ho Fung Yu, Philip",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Fung Yu, Philip",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Tse Chi Cheong",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Chi Cheong",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Hsu Chin Nuo",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hsu Chin Nuo",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tse See Ming, Anthony",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse See Ming, Anthony",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Kan Wai Lok",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kan Wai Lok",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Tsoi Tung Hoo",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsoi Tung Hoo",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Kwong Kwok Wah",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong Kwok Wah",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wang Wai Shun, Vincent",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wang Wai Shun, Vincent",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Lee Wai Lam, William",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Wai Lam, William",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Wu Man Tsuen, Alfred",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Man Tsuen, Alfred",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lee Yeung Chung",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Yeung Chung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Yao Ki Fu",
+      "chinese_name": "",
+      "class_designation": "FORM 1A1 （1977-78）",
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yao Ki Fu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_145_full.webp",
+  "extracted_photos": [
+    "1978_page_145_photo_1.webp"
+  ]
+}

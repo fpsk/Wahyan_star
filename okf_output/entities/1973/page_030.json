@@ -1,0 +1,43 @@
+{
+  "year": "1973",
+  "page": 30,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SPORTS DAY",
+  "students": [
+    {
+      "english_name": "SPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPORTS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_030_full.webp",
+  "extracted_photos": [
+    "1973_page_030_photo_1.webp",
+    "1973_page_030_photo_2.webp"
+  ]
+}

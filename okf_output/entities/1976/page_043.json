@@ -1,0 +1,204 @@
+{
+  "year": "1976",
+  "page": 43,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "WINNERS' NIGHT TALENT TIME 75 TALENT TIME 75 TALENT TIME 75 TALENT TIME",
+  "students": [
+    {
+      "english_name": "WINNERS' NIGHT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WINNERS' NIGHT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "TALENT TIME",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TALENT TIME",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Let's Get Together Club. Its aim was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Get Together Club. Its aim was",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Wal Yan and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wal Yan and",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Lots of entries were made for the five",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lots of entries were made for the five",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Vocal solo, Instrumental and Interclass",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vocal solo, Instrumental and Interclass",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "It shows clearly that",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It shows clearly that",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Anthony Tsui, Fung On Kung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Tsui, Fung On Kung",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "WINNERS' NIGHT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WINNERS' NIGHT",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Dec.. lt provided an opportunity for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dec.. lt provided an opportunity for the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "School, St. Paul's Secondary School, St.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School, St. Paul's Secondary School, St.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Stephen's Girls' School and Ying",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stephen's Girls' School and Ying",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Girls School were also invited to par-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Girls School were also invited to par-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Let's Get Together Club. Its aim was",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Let's Get Together Club. Its aim was",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_043_full.webp",
+  "extracted_photos": [
+    "1976_page_043_photo_1.webp",
+    "1976_page_043_photo_2.webp",
+    "1976_page_043_photo_3.webp",
+    "1976_page_043_photo_4.webp",
+    "1976_page_043_photo_5.webp",
+    "1976_page_043_photo_6.webp",
+    "1976_page_043_photo_7.webp"
+  ]
+}

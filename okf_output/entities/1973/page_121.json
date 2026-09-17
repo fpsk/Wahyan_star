@@ -1,0 +1,133 @@
+{
+  "year": "1973",
+  "page": 121,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "九港 Wie Kin Kee WATEH",
+  "students": [
+    {
+      "english_name": "Wie Kin Kee",
+      "chinese_name": "九港",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wie Kin Kee 九港",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "WATEH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WATEH",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "LEAD CFFICE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEAD CFFICE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "NATHAN RO- D KOWLOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 597,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NATHAN RO- D KOWLOON",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "KING S ROAD. NORTH POINT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 801,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KING S ROAD. NORTH POINT",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "HATCH CO.LTD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HATCH CO.LTD",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "MIOE ANSION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MIOE ANSION",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "SONIDS THE AIRE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SONIDS THE AIRE",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_121_full.webp",
+  "extracted_photos": [
+    "1973_page_121_photo_1.webp"
+  ]
+}

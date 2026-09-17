@@ -1,0 +1,100 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 40,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Wu Lai Chi (胡禮墀) • Wu Kwok Kee (胡國基) • Wu Wai Tsuen, Wilson (胡偉全) • Wong Yiu Tan, Michael (黃耀丹)",
+  "students": [
+    {
+      "english_name": "Wu Lai Chi",
+      "chinese_name": "胡禮墀",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Wu Kwok Kee",
+      "chinese_name": "胡國基",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Wu Wai Tsuen, Wilson",
+      "chinese_name": "胡偉全",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "伍威全"
+      ]
+    },
+    {
+      "english_name": "Wong Yiu Tan, Michael",
+      "chinese_name": "黃耀丹",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "黃耀騰"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_040_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wu Lai Chi",
+      "chinese_name": "胡禮墀",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wu Kwok Kee",
+      "chinese_name": "胡國基",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wu Wai Tsuen, Wilson",
+      "chinese_name": "胡偉全",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wu Wai Tsuen, Wilson",
+      "chinese_name": "伍威全",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wong Yiu Tan, Michael",
+      "chinese_name": "黃耀丹",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 40,
+      "english_name": "Wong Yiu Tan, Michael",
+      "chinese_name": "黃耀騰",
+      "class": "Form 5B"
+    }
+  ]
+}

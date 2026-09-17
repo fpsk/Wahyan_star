@@ -1,0 +1,569 @@
+{
+  "year": "1974",
+  "page": 91,
+  "section_type": "Class Roster",
+  "class_designation": "3B",
+  "summary": "3B Distauce: 16 ft. 5½ in. Ist Chow Wai Keung",
+  "students": [
+    {
+      "english_name": "Ist Chow Wai Keung",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Chow Wai Keung",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Long Jump",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Tang Hee Wan",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Tang Hee Wan",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Short Put",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Short Put",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Hau Yuen Shun",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Hau Yuen Shun",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Tang King Yin",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Tang King Yin",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 200,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Ip Moon Chi",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Moon Chi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 400,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Chan Yuen Wing",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Chan Yuen Wing",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 800,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Tang King Yin",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Tang King Yin",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ist To Shu Tak",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist To Shu Tak",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Metres Low Hurdles",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 80,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres Low Hurdles",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Ist White House",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist White House",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Ist Ip Moon Chi",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Ip Moon Chi",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Long Jump",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Chan Yuen Wing",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Chan Yuen Wing",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "High Jump",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ist Lo Chiu Kwan",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Lo Chiu Kwan",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Short Put",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Short Put",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cricket Ball Throw",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricket Ball Throw",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Ist Siu Wah King",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Siu Wah King",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Ist Yu Po Man",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Yu Po Man",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Metres",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Metres",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ist Iu Ming Chung",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Iu Ming Chung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Ist Black House",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Black House",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Ist Chan Tai Cheung",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Chan Tai Cheung",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Long Jump",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cricket Ball Throw",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cricket Ball Throw",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Ist Chan Tai Cheong",
+      "chinese_name": "",
+      "class_designation": "3B",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Chan Tai Cheong",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Long Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "（Record）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "（Record）",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "Relay （4 x 100）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Relay （4 x 100）",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "event_name": "Long Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "High Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "High Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "event_name": "Relay （4 x 100）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Relay （4 x 100）",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "event_name": "Long Jump",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Long Jump",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "full_page_photo": "1974_page_091_full.webp",
+  "extracted_photos": []
+}

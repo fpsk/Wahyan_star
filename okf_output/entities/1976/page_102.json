@@ -1,0 +1,159 @@
+{
+  "year": "1976",
+  "page": 102,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "UPPER SIX ARTS Form-master:Mr.S.H.Chau",
+  "students": [
+    {
+      "english_name": "Raymond Tsang",
+      "chinese_name": "曾慶寧",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Raymond Tsang 曾慶寧",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Johnny Ng",
+      "chinese_name": "吳海泉",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Johnny Ng 吳海泉",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Cheung Yiu Kee",
+      "chinese_name": "張耀基",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Yiu Kee 張耀基",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Raymond Chu",
+      "chinese_name": "朱偉明",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Raymond Chu 朱偉明",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "David Fong",
+      "chinese_name": "方志强",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "David Fong 方志强",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Charles Wong",
+      "chinese_name": "黄進春",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Charles Wong 黄進春",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Lo Sun Keung",
+      "chinese_name": "羅遜强",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Sun Keung 羅遜强",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "James Tsang",
+      "chinese_name": "會郭順",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "James Tsang 會郭順",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "So Chu Keung",
+      "chinese_name": "穌柱强",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Chu Keung 穌柱强",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Tommy Lal",
+      "chinese_name": "黎耀偉",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tommy Lal 黎耀偉",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Form-master:Mr.S.H.Chau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Form-master:Mr.S.H.Chau",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_102_full.webp",
+  "extracted_photos": [
+    "1976_page_102_photo_1.webp"
+  ]
+}

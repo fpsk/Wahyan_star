@@ -1,0 +1,223 @@
+{
+  "year": "1979",
+  "page": 17,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "School Library Teacher Librarian: Mr. K. S. Fung Head Librarian: Chan Hon Ming",
+  "students": [
+    {
+      "english_name": "School Library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Library",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Miscellaneous",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miscellaneous",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "A general introduction of the library was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A general introduction of the library was",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "A survey on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A survey on",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Training Course.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Training Course.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "A training course for the. librarians was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A training course for the. librarians was",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Exhibitions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibitions",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Two exhibitions were held. A new book",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Two exhibitions were held. A new book",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Sneed in Feonuary iogcther with six pub.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sneed in Feonuary iogcther with six pub.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Recreation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Recreation",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "A Christmas tea-party was held with the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Christmas tea-party was held with the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Easter Holidays.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Easter Holidays.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "We are planning to have a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are planning to have a",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Teacher Librarian: Mr. K. S. Fung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Teacher Librarian: Mr. K. S. Fung",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "tion, and Mr. K. S. Fung, our adviser, for his",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "tion, and Mr. K. S. Fung, our adviser, for his",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "A lecture was given by Mr. Lawrence Tam",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "A lecture was given by Mr. Lawrence Tam",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_017_full.webp",
+  "extracted_photos": [
+    "1979_page_017_photo_1.webp",
+    "1979_page_017_photo_2.webp"
+  ]
+}

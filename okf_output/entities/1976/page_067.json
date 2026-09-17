@@ -1,0 +1,566 @@
+{
+  "year": "1976",
+  "page": 67,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "10L Adviser ：Mr. S. K. Lee",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Visit",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visit",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "During",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Easter holidays, members",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Easter holidays, members",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "The other was a joint project'Trans-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The other was a joint project'Trans-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Queen Elizabeth Hospital.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen Elizabeth Hospital.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Exhibition in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition in",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Quizes",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Quizes",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Society, the History Club, the Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society, the History Club, the Chinese",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Society and ours.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society and ours.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "We took",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We took",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Unfortunately, we were klocked",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unfortunately, we were klocked",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Classes",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Classes",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Mathematics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mathematics",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Northcote College of Education.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Northcote College of Education.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Others",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Others",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lectures",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lectures",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "The Senior members took part in a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Senior members took part in a",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Peking New Method Accupuncture",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peking New Method Accupuncture",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Joint-school Field",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint-school Field",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Trip",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Trip",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Chuen studying Fresh water Ecology.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chuen studying Fresh water Ecology.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "A friendly football match buewucu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A friendly football match buewucu",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Paul's College and ours was held in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Paul's College and ours was held in",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "February. We were defeated",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "February. We were defeated",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Maryknoll Sisters'School were also",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maryknoll Sisters'School were also",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "A friendly basketball competition be-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A friendly basketball competition be-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "College, St. Joseph College, Ying Wa",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College, St. Joseph College, Ying Wa",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "College and ours was held in May.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College and ours was held in May.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "We won the competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We won the competition.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "：Mr. S. K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Mr. S. K. Lee",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Liu, Principal of",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Liu, Principal of",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "by Mr. Henry",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "by Mr. Henry",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "nosis were given by Mr. Ng Kok Ping",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "nosis were given by Mr. Ng Kok Ping",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "from our society paid a visit to the Radio-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "from our society paid a visit to the Radio-",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "Society, the History Club, the Chinese",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society, the History Club, the Chinese",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "Society and ours.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society and ours.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "a） Junior members of our Society were",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "a） Junior members of our Society were",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "members of the Science Society of St.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "members of the Science Society of St.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "in May, 1976. Science Society mem-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "in May, 1976. Science Society mem-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_067_full.webp",
+  "extracted_photos": [
+    "1976_page_067_photo_1.webp"
+  ]
+}

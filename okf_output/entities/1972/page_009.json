@@ -1,0 +1,56 @@
+{
+  "year": "1972",
+  "page": 9,
+  "section_type": "Class Roster",
+  "class_designation": "Studies came back this year as form-mistress of 4B.",
+  "summary": "ago for Miss Ho who went away a year Studies came back this year as form-mistress of 4B.",
+  "students": [
+    {
+      "english_name": "Miss Ho who went away a year",
+      "chinese_name": "",
+      "class_designation": "Studies came back this year as form-mistress of 4B.",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Ho who went away a year",
+        "start_char": 0,
+        "end_char": 28
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Lee went away this year",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lee went away this year",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Mr. Lo who has taughtt",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lo who has taughtt",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_009_full.webp",
+  "extracted_photos": [
+    "1972_page_009_photo_1.webp",
+    "1972_page_009_photo_2.webp",
+    "1972_page_009_photo_3.webp"
+  ]
+}

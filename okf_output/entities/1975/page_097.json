@@ -1,0 +1,368 @@
+{
+  "year": "1975",
+  "page": 97,
+  "section_type": "Class Roster",
+  "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+  "summary": "Mr. S. K. Lee （Absent: No. 1 & 23） UPPER FORM 6 SCIENCE （1974-75）",
+  "students": [
+    {
+      "english_name": "Chan Chi Kian",
+      "chinese_name": "陳志堅",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Chi Kian 陳志堅",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Leung Chiu Ming, Aaoron",
+      "chinese_name": "梁超明",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Chiu Ming, Aaoron 梁超明",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Leung Man Pok",
+      "chinese_name": "梁文博",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Man Pok 梁文博",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Kin Ming",
+      "chinese_name": "陳堅明",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kin Ming 陳堅明",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Li Chee Kwong",
+      "chinese_name": "李志剛",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chee Kwong 李志剛",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Ming Fai",
+      "chinese_name": "陳銘輝",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Ming Fai 陳銘輝",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Tai On",
+      "chinese_name": "李志謙",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Tai On 李志謙",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Chi Him",
+      "chinese_name": "陳大安",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chi Him 陳大安",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Cho Chung Tat",
+      "chinese_name": "曹松達",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cho Chung Tat 曹松達",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Luk Kin Leung",
+      "chinese_name": "陸建亮",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luk Kin Leung 陸建亮",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fong Cheung Hoo",
+      "chinese_name": "繆筱緯",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Cheung Hoo 繆筱緯",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mau Siu Wgi",
+      "chinese_name": "方覃豪",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mau Siu Wgi 方覃豪",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Ngai Kong Sang, Lawrance",
+      "chinese_name": "方家駿",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngai Kong Sang, Lawrance 方家駿",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Fong Ka Tsun",
+      "chinese_name": "魏港生",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fong Ka Tsun 魏港生",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fung Kwok Chiu",
+      "chinese_name": "馮國釗",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Kwok Chiu 馮國釗",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Pang Sing Kim, Louis",
+      "chinese_name": "彭城儉",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Sing Kim, Louis 彭城儉",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "So Chun Ho",
+      "chinese_name": "蘇鎭豪",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So Chun Ho 蘇鎭豪",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Hui On Ting, John",
+      "chinese_name": "許安廷",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hui On Ting, John 許安廷",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Hung Orlando Ricardo",
+      "chinese_name": "譚家雄",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Orlando Ricardo 譚家雄",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Tam Ka Hung, Thomas",
+      "chinese_name": "林瑞麟",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Ka Hung, Thomas 林瑞麟",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Teo Man Lung, Peter",
+      "chinese_name": "張文龍",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Teo Man Lung, Peter 張文龍",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Lam Sui Lung, Stephen",
+      "chinese_name": "黃展能",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Sui Lung, Stephen 黃展能",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lee Siu Pak",
+      "chinese_name": "李少白",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Siu Pak 李少白",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Gene",
+      "chinese_name": "喩頴章",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Gene 喩頴章",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Leung Chi Ming, Henry",
+      "chinese_name": "梁志明",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Chi Ming, Henry 梁志明",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Yu Wing Cheung, Vincent",
+      "chinese_name": "",
+      "class_designation": "UPPER FORM 6 SCIENCE （1974-75）",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yu Wing Cheung, Vincent",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. S. K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. S. K. Lee",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_097_full.webp",
+  "extracted_photos": [
+    "1975_page_097_photo_1.webp",
+    "1975_page_097_photo_2.webp"
+  ]
+}

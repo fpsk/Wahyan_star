@@ -1,0 +1,120 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 27,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Li Yuk Ming (李沃明) • Li Ho Ming (李浩明) • Li Man Wah (李文華) • Li Yat Kwong (李日光)",
+  "students": [
+    {
+      "english_name": "Li Yuk Ming",
+      "chinese_name": "李沃明",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Lee Yuk Ming"
+      ]
+    },
+    {
+      "english_name": "Li Ho Ming",
+      "chinese_name": "李浩明",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Lee Ho Ming"
+      ]
+    },
+    {
+      "english_name": "Li Man Wah",
+      "chinese_name": "李文華",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Lee Man Wah"
+      ]
+    },
+    {
+      "english_name": "Li Yat Kwong",
+      "chinese_name": "李日光",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_en": [
+        "Lee Yat Kwong"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_027_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Li Yuk Ming",
+      "chinese_name": "李沃明",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Lee Yuk Ming",
+      "chinese_name": "李沃明",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Li Ho Ming",
+      "chinese_name": "李浩明",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Lee Ho Ming",
+      "chinese_name": "李浩明",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Li Man Wah",
+      "chinese_name": "李文華",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Lee Man Wah",
+      "chinese_name": "李文華",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Li Yat Kwong",
+      "chinese_name": "李日光",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 27,
+      "english_name": "Lee Yat Kwong",
+      "chinese_name": "李日光",
+      "class": "Form 5B1"
+    }
+  ]
+}

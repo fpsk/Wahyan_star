@@ -1,0 +1,848 @@
+{
+  "year": "1973",
+  "page": 59,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "SCOUT THE I5th HONG KONG GROUP GROUP STRENGTH",
+  "students": [
+    {
+      "english_name": "SCOUT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCOUT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "GROUP STRENGTH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GROUP STRENGTH",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CUB SCOUT PACK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CUB SCOUT PACK",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Tne section has normal training in the year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tne section has normal training in the year.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Hong Kong Group.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong Group.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Lay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lay",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "A Pack Holiday was held",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Pack Holiday was held",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Member Leader Member Total",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Member Leader Member Total",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Lay members",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lay members",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "G.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "G.S.L.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "SCOUT TROOP",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCOUT TROOP",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Instructors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Instructors",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Intense training took place for the prepara-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Intense training took place for the prepara-",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Club Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club Scouts",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scouts",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Venture Scouts",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Venture Scouts",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "H.K.I. had been assigned to the section for prac-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "H.K.I. had been assigned to the section for prac-",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "November and December.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "November and December.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "A troop camp was held at Tai Mong Tsai, Sai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A troop camp was held at Tai Mong Tsai, Sai",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Kong for Hawaii and Canada early in the current",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong for Hawaii and Canada early in the current",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Inter-patrol competition was held in mid-April",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-patrol competition was held in mid-April",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "A friendly football match and a joint outing were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A friendly football match and a joint outing were",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "GROUP ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GROUP ACTIVITIES",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "VENTURE SCOUT UNIT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VENTURE SCOUT UNIT",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "The worth mentioning group activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The worth mentioning group activities",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Took part in the Regional Swimming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Took part in the Regional Swimming",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Gala",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Gala",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Participated in the Bishop's Shield",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Participated in the Bishop's Shield",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Girl guides from Maryknoll Sisters' School were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Girl guides from Maryknoll Sisters' School were",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Competition",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Visited the Canadian Battleship 'Terra",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visited the Canadian Battleship 'Terra",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Some venture scouts went camping with the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Some venture scouts went camping with the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Nova'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nova'",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Scout Troop in December. The unit also took",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scout Troop in December. The unit also took",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "We went on duty during many occasions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We went on duty during many occasions",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Sports Finals and in the Solemn Requiem Mass",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Finals and in the Solemn Requiem Mass",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "In March, the unit won the championship of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In March, the unit won the championship of the",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "District Inter-Venture Scout Unit Soccer Matches.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "District Inter-Venture Scout Unit Soccer Matches.",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "THANKS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THANKS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "We wish to take this opnortunity to thank",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We wish to take this opnortunity to thank",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Oueen's Gulde Club and collected manv catties",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oueen's Gulde Club and collected manv catties",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "As the result of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As the result of the",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Plans are being prepared at present and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Plans are being prepared at present and",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "We are sorry that our ACSL, Mr. Jerome",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We are sorry that our ACSL, Mr. Jerome",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Cheung and ASL, Mr. Frederick Yung left Hong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Cheung and ASL, Mr. Frederick Yung left Hong",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Mr. Gordon Wu, an old scout, who gqenerously",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Gordon Wu, an old scout, who gqenerously",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SCOUT",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCOUT",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "club_name": "CUB SCOUT PACK",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "CUB SCOUT PACK",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "club_name": "Village, Y.M.C.A. On June 10, six cub scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Village, Y.M.C.A. On June 10, six cub scouts",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "SCOUT TROOP",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SCOUT TROOP",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "club_name": "Club Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club Scouts",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "club_name": "Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scouts",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "club_name": "Venture Scouts",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Venture Scouts",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "club_name": "VENTURE SCOUT UNIT",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "VENTURE SCOUT UNIT",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "club_name": "Some venture scouts went camping with the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Some venture scouts went camping with the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "Scout Troop in December. The unit also took",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Troop in December. The unit also took",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "part in the District Annual Venture Scout Ball",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "part in the District Annual Venture Scout Ball",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "club_name": "District Inter-Venture Scout Unit Soccer Matches.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "District Inter-Venture Scout Unit Soccer Matches.",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "club_name": "Campaign\"organised by the Queen's Scout &",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Campaign\"organised by the Queen's Scout &",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "Oueen's Gulde Club and collected manv catties",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Oueen's Gulde Club and collected manv catties",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "club_name": "donated HK$50,000.00 for enlarging our scout",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "donated HK$50,000.00 for enlarging our scout",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "modernise scout room next term.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "modernise scout room next term.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "A friendly table-tennis match was held with 40th",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "A friendly table-tennis match was held with 40th",
+        "start_char": 0,
+        "end_char": 48
+      }
+    },
+    {
+      "event_name": "Took part in the Regional Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Took part in the Regional Swimming",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "event_name": "In March, the unit won the championship of the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "In March, the unit won the championship of the",
+        "start_char": 0,
+        "end_char": 46
+      }
+    }
+  ],
+  "full_page_photo": "1973_page_059_full.webp",
+  "extracted_photos": [
+    "1973_page_059_photo_1.webp"
+  ]
+}

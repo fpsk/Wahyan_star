@@ -1,0 +1,170 @@
+{
+  "year": "1971",
+  "page": 178,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "齡記課本 真善美廉 請用齡記課本",
+  "students": [
+    {
+      "english_name": "THE NEW ENGLISH COURSE FOR HONG KONG-PACES",
+      "chinese_name": "齡記課本",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE NEW ENGLISH COURSE FOR HONG KONG-PACES 齡記課本",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Modern Geography for H. K. - Asia",
+      "chinese_name": "真善美廉",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Modern Geography for H. K. - Asia 真善美廉",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Elementary Comprehension for Hong Kong",
+      "chinese_name": "幼稚",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Elementary Comprehension for Hong Kong 幼稚",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Intermediate Comprehension for Hong Kong",
+      "chinese_name": "用書",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Intermediate Comprehension for Hong Kong 用書",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "A Short History for the Far East",
+      "chinese_name": "升中用書",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Short History for the Far East 升中用書",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "A New Certificate Chemistry for Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A New Certificate Chemistry for Hong Kong",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Elementary Map Reading for Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Elementary Map Reading for Hong Kong",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Map Reading for Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Map Reading for Hong Kong",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Great Stories in Easy English",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Great Stories in Easy English",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Weather Chart Reading for Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Weather Chart Reading for Hong Kong",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "LING KEE PUBLISHING CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LING KEE PUBLISHING CO.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Nathan Road, Kowloon.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 678,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nathan Road, Kowloon.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_178_full.webp",
+  "extracted_photos": []
+}

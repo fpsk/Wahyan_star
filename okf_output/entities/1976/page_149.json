@@ -1,0 +1,289 @@
+{
+  "year": "1976",
+  "page": 149,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Complimento of TUNG FONG HAT FACTORY （HK） LTD. Distinguished Hat Manufacturers since 1927",
+  "students": [
+    {
+      "english_name": "Complimento of",
+      "chinese_name": "巧莱蟘腳",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Complimento of 巧莱蟘腳",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Head Office",
+      "chinese_name": "巧華燈飾",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Office 巧華燈飾",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "How Ming Street, Kwun Tong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 121,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "How Ming Street, Kwun Tong",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Main Factory",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Main Factory",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kowloon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kowloon",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Cheung Wah Industrial Building",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Wah Industrial Building",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Shipyard Lane, Quarry Bay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shipyard Lane, Quarry Bay",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Telephone No.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Telephone No.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Telex",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Telex",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "AMPS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AMPS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "MPORTED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MPORTED",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "U.S.A.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "U.S.A.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "WHOSE LIGHTING FIXTURES ARE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WHOSE LIGHTING FIXTURES ARE",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "AND AUSTRALIA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AND AUSTRALIA",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "SOLELY DISTRIBUTED BY US.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOLELY DISTRIBUTED BY US.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "THE LARGEST LIGHTING CENTRE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE LARGEST LIGHTING CENTRE",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "IN SOUTHEAST ASIA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IN SOUTHEAST ASIA",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "AND UNIQUE SIYLES TO SUT EVERY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AND UNIQUE SIYLES TO SUT EVERY",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "PURPOSE FOR LIGHTING AND DECOR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PURPOSE FOR LIGHTING AND DECOR.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_149_full.webp",
+  "extracted_photos": [
+    "1976_page_149_photo_1.webp"
+  ]
+}

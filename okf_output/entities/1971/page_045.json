@@ -1,0 +1,156 @@
+{
+  "year": "1971",
+  "page": 45,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Resulto of Drama Competition December 1970 SENIOR SECTION Winning Plays：",
+  "students": [
+    {
+      "english_name": "SENIOR SECTION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SENIOR SECTION",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Actor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Actor",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Winning",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winning",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "INTERMEDIATE SECTION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERMEDIATE SECTION",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Yuen Kai Chung as Inspector Rowley",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yuen Kai Chung as Inspector Rowley",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "JUNIOR SECTION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JUNIOR SECTION",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Kong Tat Phone as the Murderer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Tat Phone as the Murderer",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Tai Hee as the Dentist",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tai Hee as the Dentist",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Cheng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheng",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Lee Chi Chung as Fr. Higgins - L6 Arts",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Lee Chi Chung as Fr. Higgins - L6 Arts",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Wong Siu Kwan as Mr. Loman - L6 Sci.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Wong Siu Kwan as Mr. Loman - L6 Sci.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_045_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,183 @@
+{
+  "year": "1978",
+  "page": 11,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "DAY ASFARCH PA $1©%",
+  "students": [
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ASFARCH PA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ASFARCH PA",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "ECL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ECL",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "HJHJ",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HJHJ",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SPEP",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEP",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SPEECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPEECH DAY",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "RRCH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RRCH",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "TVd",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TVd",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "FECH DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FECH DAY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "SPERCR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPERCR",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DAY",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "XNSPEECR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "XNSPEECR",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_011_full.webp",
+  "extracted_photos": []
+}

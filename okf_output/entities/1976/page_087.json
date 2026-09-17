@@ -1,0 +1,188 @@
+{
+  "year": "1976",
+  "page": 87,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "BADMINTON a result. At the same time, we always This year is a good year for our Bad-",
+  "students": [
+    {
+      "english_name": "BADMINTON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BADMINTON",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "This year is a good year for our Bad-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year is a good year for our Bad-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "We did quite well this year, winning",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We did quite well this year, winning",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "BGRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BGRADE",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "We were less fortunate this year. Al-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were less fortunate this year. Al-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "This is the result of our not knowing our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This is the result of our not knowing our",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "C GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Our team was really quite strong al-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our team was really quite strong al-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "RIAFRS UI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RIAFRS UI",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "ing coach, Mr. Wong Fai Hung. It was",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ing coach, Mr. Wong Fai Hung. It was",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "under his able guidance with Fr. Corbal-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "under his able guidance with Fr. Corbal-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "to get the championship. However,luck",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "to get the championship. However,luck",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_087_full.webp",
+  "extracted_photos": [
+    "1976_page_087_photo_1.webp",
+    "1976_page_087_photo_2.webp",
+    "1976_page_087_photo_3.webp"
+  ]
+}

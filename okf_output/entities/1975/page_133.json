@@ -1,0 +1,27 @@
+{
+  "year": "1975",
+  "page": 133,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "PUN U WAH YAN PRIMARY SCHOOL",
+  "students": [
+    {
+      "english_name": "PRIMARY SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRIMARY SCHOOL",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_133_full.webp",
+  "extracted_photos": []
+}

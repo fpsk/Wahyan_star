@@ -1,0 +1,133 @@
+{
+  "year": "1976",
+  "page": 71,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Christian Life Community（Senior） Ecclesiastical Assistant : Rev. Fr. Farren, S.J. Prefect",
+  "students": [
+    {
+      "english_name": "Prefect",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prefect",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "We had our general meeting biweek ly on Mondays after school.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had our general meeting biweek ly on Mondays after school.",
+        "start_char": 0,
+        "end_char": 61
+      }
+    },
+    {
+      "english_name": "Six of our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Six of our",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Two of our members attended a seminar organised by the Federation. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Two of our members attended a seminar organised by the Federation. The",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "A retreat would be held in July.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A retreat would be held in July.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Visits to other C.L.Cs would be made in the summer vacation.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Visits to other C.L.Cs would be made in the summer vacation.",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "english_name": "In this summer, the World Assembly would be held in Manila. The theme",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In this summer, the World Assembly would be held in Manila. The theme",
+        "start_char": 0,
+        "end_char": 69
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Ecclesiastical Assistant : Rev. Fr. Farren, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Ecclesiastical Assistant : Rev. Fr. Farren, S.J.",
+        "start_char": 0,
+        "end_char": 48
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "was run by our community with the assistance of the Altar Society and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "was run by our community with the assistance of the Altar Society and",
+        "start_char": 0,
+        "end_char": 69
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_071_full.webp",
+  "extracted_photos": [
+    "1976_page_071_photo_1.webp"
+  ]
+}

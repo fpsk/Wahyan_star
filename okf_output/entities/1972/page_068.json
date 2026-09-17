@@ -1,0 +1,392 @@
+{
+  "year": "1972",
+  "page": 68,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Bowling Club which had won the first prize last year. As in previous years, the Club pro-",
+  "students": [
+    {
+      "english_name": "Bowling Club",
+      "chinese_name": "華仁書院",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bowling Club 華仁書院",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "As in previous years, the Club pro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As in previous years, the Club pro-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "China Bowling Centre at the reduced",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "China Bowling Centre at the reduced",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "We organized an Individual Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We organized an Individual Competition",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Francis Chu as second, and Geoffrey Tsoi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Chu as second, and Geoffrey Tsoi",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "At the beginning of this academic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the beginning of this academic",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Athletic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Athletic",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "China",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "China",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Association saying",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Association saying",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "At the end of April, we organized a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the end of April, we organized a",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "School Bowling Tournament at the end of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Bowling Tournament at the end of",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The Cub is hoping to win the first",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Cub is hoping to win the first",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Atter a Glub meet-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Atter a Glub meet-",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Tournament Next year, and therefore we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tournament Next year, and therefore we",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "So it you are interested in Joining us, you",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So it you are interested in Joining us, you",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Etienne Ting and Herbert Wong, with",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Etienne Ting and Herbert Wong, with",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Etienne Ting as the team captain, and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Etienne Ting as the team captain, and",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Galin Choy, Francis Chu, and Geoftrey",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Galin Choy, Francis Chu, and Geoftrey",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tsoi in the other team with Francis Chu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsoi in the other team with Francis Chu",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Prize because many schools entered this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prize because many schools entered this",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Tournament.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tournament.",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "We arrived at the Bowling Center",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We arrived at the Bowling Center",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Bowling Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Bowling Club",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "club_name": "As in previous years, the Club pro-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "As in previous years, the Club pro-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "nay contact any member of the Club and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "nay contact any member of the Club and",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_068_full.webp",
+  "extracted_photos": [
+    "1972_page_068_photo_1.webp",
+    "1972_page_068_photo_2.webp"
+  ]
+}

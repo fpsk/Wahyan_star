@@ -1,0 +1,56 @@
+{
+  "year": "1971",
+  "page": 19,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With Fun and Joy PLAY AND WORN “When you play, I work；",
+  "students": [
+    {
+      "english_name": "With Fun and Joy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With Fun and Joy",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "PLAY AND WORN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PLAY AND WORN",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "When you",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "When you",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_019_full.webp",
+  "extracted_photos": [
+    "1971_page_019_photo_1.webp",
+    "1971_page_019_photo_2.webp"
+  ]
+}

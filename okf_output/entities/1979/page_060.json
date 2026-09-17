@@ -1,0 +1,42 @@
+{
+  "year": "1979",
+  "page": 60,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Sian Donlol 無趟 躍",
+  "students": [
+    {
+      "english_name": "Sian Donlol",
+      "chinese_name": "無趟",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sian Donlol 無趟",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Bargaining",
+      "chinese_name": "下棋樂",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bargaining 下棋樂",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_060_full.webp",
+  "extracted_photos": [
+    "1979_page_060_photo_1.webp"
+  ]
+}

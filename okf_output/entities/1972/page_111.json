@@ -1,0 +1,173 @@
+{
+  "year": "1972",
+  "page": 111,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Sports Review of the Year The 1971-72 academic year has come we shall try to have te teams Pro-",
+  "students": [
+    {
+      "english_name": "Sports Review of the Year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Review of the Year",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "In interschool matches the general",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In interschool matches the general",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Except for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Except for the",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "C grade Basketballers who won the In-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C grade Basketballers who won the In-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The basketball and foot-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The basketball and foot-",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Dall teams had some practices, but they",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dall teams had some practices, but they",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Though success is what we aim at in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though success is what we aim at in",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "A word of appreciation to all sporting",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A word of appreciation to all sporting",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Since Fr. Corbally resumed the post",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Since Fr. Corbally resumed the post",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "back and proved quite popular. Fr. Cor-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "back and proved quite popular. Fr. Cor-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Sportsmaster, Fr. Corbally, put it in an",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Sportsmaster, Fr. Corbally, put it in an",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "tennis teams. So the outcome was what",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "tennis teams. So the outcome was what",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_111_full.webp",
+  "extracted_photos": [
+    "1972_page_111_photo_1.webp",
+    "1972_page_111_photo_2.webp"
+  ]
+}

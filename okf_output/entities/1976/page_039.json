@@ -1,0 +1,148 @@
+{
+  "year": "1976",
+  "page": 39,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "LEADERSHIP TRAINING CLASS The relatinshit •f wluntary ongagt Secedy et larg-",
+  "students": [
+    {
+      "english_name": "LEADERSHIP TRAINING CLASS",
+      "chinese_name": "暑署長",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEADERSHIP TRAINING CLASS 暑署長",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Secedy et larg-",
+      "chinese_name": "徐全先生",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secedy et larg- 徐全先生",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "A Leadership Training Class was jointly organized by the Student Council and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Leadership Training Class was jointly organized by the Student Council and the",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Students from Sacred Heart Canossian College and Maryknoll",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Students from Sacred Heart Canossian College and Maryknoll",
+        "start_char": 0,
+        "end_char": 58
+      }
+    },
+    {
+      "english_name": "Sister's School were invited to join the seminar. A camp and a hike were included",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sister's School were invited to join the seminar. A camp and a hike were included",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "The concert organised by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The concert organised by the",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Club took",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club took",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Let's Get Together",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Get Together",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "October at our school hall. Per-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "October at our school hall. Per-",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Club took",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club took",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_039_full.webp",
+  "extracted_photos": [
+    "1976_page_039_photo_1.webp",
+    "1976_page_039_photo_2.webp",
+    "1976_page_039_photo_3.webp"
+  ]
+}

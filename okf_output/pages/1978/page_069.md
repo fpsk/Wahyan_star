@@ -1,0 +1,24 @@
+# Wah Yan Star 1978 - Page 69
+
+
+## Page Text Content
+
+```text
+JOINT
+<SCHOOL ACTIVITIES
+ACTIVITIFS
+SCHOnI
+JOINT
+ACTI
+NT
+JOIN
+ACTIY
+NT SCHXOY
+SCHOOL
+JOINT
+PIN込
+ILO
+cnoorvior
+LA
+SCHOOL ACTIVITES
+```

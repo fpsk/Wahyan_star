@@ -1,0 +1,79 @@
+{
+  "year": "1975",
+  "page": 122,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments CAPITAL ARTISTS LIMITED LEE THEATRE",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "CAPITAL ARTISTS LIMITED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CAPITAL ARTISTS LIMITED",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "LEE THEATRE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LEE THEATRE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "PERCIVAL STREET",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PERCIVAL STREET",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_122_full.webp",
+  "extracted_photos": []
+}

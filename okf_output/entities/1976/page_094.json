@@ -1,0 +1,114 @@
+{
+  "year": "1976",
+  "page": 94,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "and 25， The Swimming Gala was held on September 23 1975, at the Morrison Hill Swimming Pool. As there were many",
+  "students": [
+    {
+      "english_name": "It was generally complained that the Gala was held much",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was generally complained that the Gala was held much",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "Despite the fact that the participants tried their hardest",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Despite the fact that the participants tried their hardest",
+        "start_char": 0,
+        "end_char": 58
+      }
+    },
+    {
+      "english_name": "The atmosphere was quiet and the swimmers seemed loneiy.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The atmosphere was quiet and the swimmers seemed loneiy.",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "english_name": "So, it was suggested that mark sheets should be put up at uhe",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "So, it was suggested that mark sheets should be put up at uhe",
+        "start_char": 0,
+        "end_char": 61
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "The Swimming Gala was held on September 23",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "The Swimming Gala was held on September 23",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "1975, at the Morrison Hill Swimming Pool. As there were many",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "1975, at the Morrison Hill Swimming Pool. As there were many",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "event_name": "the Gala were brilliant as expected. 9 new records were set and",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "the Gala were brilliant as expected. 9 new records were set and",
+        "start_char": 0,
+        "end_char": 63
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_094_full.webp",
+  "extracted_photos": [
+    "1976_page_094_photo_1.webp",
+    "1976_page_094_photo_2.webp",
+    "1976_page_094_photo_3.webp",
+    "1976_page_094_photo_4.webp"
+  ]
+}

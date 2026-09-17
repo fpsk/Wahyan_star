@@ -1,0 +1,534 @@
+{
+  "year": "1972",
+  "page": 91,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "The Red Cross Divisional Cadet Unit 34 who generously offered their valuable With Rev. Fr. Barrett, S.J. as our Pat-",
+  "students": [
+    {
+      "english_name": "TRAINING REPORTS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRAINING REPORTS",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "No.of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "No.of",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Course",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Course",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Pre-enrolment Course",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pre-enrolment Course",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "PERSONNEL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PERSONNEL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Basic Drill Exam.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basic Drill Exam.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Junior First Aid",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Junior First Aid",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Chairman H.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman H.S.L.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Junior First Aid Proficiency",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Junior First Aid Proficiency",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Garison Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Garison Leung",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Administration S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Administration S.L.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "General",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Advance Arti. Resp. Asst.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Advance Arti. Resp. Asst.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Instructor Course",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Instructor Course",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Unit Service Representative S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Unit Service Representative S.L.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Training A.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Training A.S.L.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Section Leader Training Camp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Section Leader Training Camp",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Dennis Mak LOA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Dennis Mak LOA",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "ACTIVITIES",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ACTIVITIES",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "P.I.L.F.U.S. A.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "P.I.L.F.U.S. A.S.L.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "All the enrolled members of our unit",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "All the enrolled members of our unit",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "LOA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LOA",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Jonn Ng",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jonn Ng",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Establishment A.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Establishment A.S.L.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "S.C.A.A. Stadium.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S.C.A.A. Stadium.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Miscellaneous Group-Leader A.S.L.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miscellaneous Group-Leader A.S.L.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "In the stall of the Hong Kong Festi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the stall of the Hong Kong Festi",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Stephen Wong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stephen Wong",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "At our frst general meeting, we were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At our frst general meeting, we were",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Around",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Around",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Christmas, with the aim",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christmas, with the aim",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Six a total of forty-eight.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Six a total of forty-eight.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "We are fortunate to have as our Cadet",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are fortunate to have as our Cadet",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Red Cross members in Hong Kong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Red Cross members in Hong Kong.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "In the Talent Night held in City",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the Talent Night held in City",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Hall, a pop band of ours put on a pro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hall, a pop band of ours put on a pro-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Divisional Oficer. He took up the post as",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Divisional Oficer. He took up the post as",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "With Rev. Fr. Barrett, S.J. as our Pat-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "With Rev. Fr. Barrett, S.J. as our Pat-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "ron, Mr. Adrian Lee as our Cadet Offcer",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ron, Mr. Adrian Lee as our Cadet Offcer",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Oflcer - Mr. Adrian Lee, who IS. a V1g0-",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Oflcer - Mr. Adrian Lee, who IS. a V1g0-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_091_full.webp",
+  "extracted_photos": [
+    "1972_page_091_photo_1.webp"
+  ]
+}

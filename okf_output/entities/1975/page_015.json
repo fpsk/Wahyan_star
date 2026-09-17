@@ -1,0 +1,84 @@
+{
+  "year": "1975",
+  "page": 15,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Be Quick YOu Now, listen. I tell",
+  "students": [
+    {
+      "english_name": "Be Quick",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Be Quick",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "YOu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YOu",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Now, listen. I tell",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Now, listen. I tell",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Believe it or not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Believe it or not",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Kung Fu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kung Fu",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_015_full.webp",
+  "extracted_photos": [
+    "1975_page_015_photo_1.webp",
+    "1975_page_015_photo_2.webp",
+    "1975_page_015_photo_3.webp",
+    "1975_page_015_photo_4.webp"
+  ]
+}

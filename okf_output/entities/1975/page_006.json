@@ -1,0 +1,146 @@
+{
+  "year": "1975",
+  "page": 6,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "FROM THE PRINCIPAL Fr. C. J. Barrett, S.J. Our new Rector, Fr. Fergus Cronin, S.J.， O.B.E.， J.P. was appointed on August Ist",
+  "students": [
+    {
+      "english_name": "FROM THE PRINCIPAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FROM THE PRINCIPAL",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "But for-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But for-",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "P.U.W.Y. Primary School. Classes began with the threat of water rationing.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "P.U.W.Y. Primary School. Classes began with the threat of water rationing.",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Wong, a P.E. graduate from Taiwan is taking Mr. Chung's place. Beginning this year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong, a P.E. graduate from Taiwan is taking Mr. Chung's place. Beginning this year",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "Lam Cheuk Wai.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Cheuk Wai.",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Day and distributed the certificates.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Day and distributed the certificates.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "We thank them very heartily.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We thank them very heartily.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "The number of Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The number of Kong",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Tak Yan Bursaries awarded during the year increased to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tak Yan Bursaries awarded during the year increased to",
+        "start_char": 0,
+        "end_char": 54
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. C. J. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. C. J. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_006_full.webp",
+  "extracted_photos": [
+    "1975_page_006_photo_1.webp"
+  ]
+}

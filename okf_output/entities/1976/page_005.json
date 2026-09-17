@@ -1,0 +1,158 @@
+{
+  "year": "1976",
+  "page": 5,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Editorial in which we all share whatever there is to Wah Yan is a miniature community",
+  "students": [
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Durig the past few years, the values of the Star to our fellow schoolmates have",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Durig the past few years, the values of the Star to our fellow schoolmates have",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Sometimes, burdened by academic work and examination pressure, many schoolmates",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sometimes, burdened by academic work and examination pressure, many schoolmates",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "In addition, many schoolmates may not cherish fond recollection while they are",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In addition, many schoolmates may not cherish fond recollection while they are",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "Finally, I would like to record my heartfelt appreciation for the many opportuni-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Finally, I would like to record my heartfelt appreciation for the many opportuni-",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "Grogan and Mr. M. s. Cheung. Thanks are also due to those who generously gave",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grogan and Mr. M. s. Cheung. Thanks are also due to those who generously gave",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "Jot Yau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jot Yau",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Chief Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chief Editor",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "ing with the present, clubs sharing",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "ing with the present, clubs sharing",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "with clubs, etc. - and it is this spirit of sharing that",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "with clubs, etc. - and it is this spirit of sharing that",
+        "start_char": 0,
+        "end_char": 56
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Finally, I would like to record my heartfelt appreciation for the many opportuni-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Finally, I would like to record my heartfelt appreciation for the many opportuni-",
+        "start_char": 0,
+        "end_char": 81
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_005_full.webp",
+  "extracted_photos": []
+}

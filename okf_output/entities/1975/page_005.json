@@ -1,0 +1,28 @@
+{
+  "year": "1975",
+  "page": 5,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Our Rector _Fr. Cronin S.J.",
+  "students": [],
+  "staff": [
+    {
+      "english_name": "Our Rector _Fr. Cronin S.J.",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Our Rector _Fr. Cronin S.J.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_005_full.webp",
+  "extracted_photos": [
+    "1975_page_005_photo_1.webp"
+  ]
+}

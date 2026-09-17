@@ -1,0 +1,112 @@
+{
+  "year": "1975",
+  "page": 43,
+  "section_type": "Class Roster",
+  "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+  "summary": "The Talent Night was the final of the Talent Time. It was held on the 14th of December in the school hall. Fr. MacCarthy and Miss Tong were judges of the final. Besides the performance of the winners, we had invited St. Paul's Secondary School and",
+  "students": [
+    {
+      "english_name": "December in the school hall. Fr. MacCarthy and Miss Tong were judges of the final.",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "December in the school hall. Fr. MacCarthy and Miss Tong were judges of the final.",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "Chistmas Celebation",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chistmas Celebation",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "CHRISTMAS",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHRISTMAS",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "SANTA COURSE",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SANTA COURSE",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "SUPERSTAR OF",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SUPERSTAR OF",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "WHAT A FUNNY PAIR",
+      "chinese_name": "",
+      "class_designation": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WHAT A FUNNY PAIR",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "from F.5B was the Overall Champion, Ko Man Leung, Michael Tsang, both from 3Al，",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_043_full.webp",
+  "extracted_photos": [
+    "1975_page_043_photo_1.webp",
+    "1975_page_043_photo_2.webp",
+    "1975_page_043_photo_3.webp",
+    "1975_page_043_photo_4.webp"
+  ]
+}

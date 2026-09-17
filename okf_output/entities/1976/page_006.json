@@ -1,0 +1,103 @@
+{
+  "year": "1976",
+  "page": 6,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Joiio3ibS Teaching Staff Back row :Fr. Farren,Mr. S.K. Lee, Mr. K.L. Kwok, Mr. S.P. Tam, Mr. K.S. Fung，",
+  "students": [
+    {
+      "english_name": "Teaching Staff",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Teaching Staff",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Mrs. A. Tam, Mrs. M. Sze, Mrs. H. Lee, Miss M. Lam, Miss M. Ng.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. A. Tam, Mrs. M. Sze, Mrs. H. Lee, Miss M. Lam, Miss M. Ng.",
+        "start_char": 0,
+        "end_char": 63
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. P.Y. Chen, Fr. Brosnan, Mr. W.T. Yeung, Fr. O Cearbhallain，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. P.Y. Chen, Fr. Brosnan, Mr. W.T. Yeung, Fr. O Cearbhallain，",
+        "start_char": 0,
+        "end_char": 63
+      }
+    },
+    {
+      "english_name": "Mr. K.Y. Leung, Mr. T.O. Chan.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K.Y. Leung, Mr. T.O. Chan.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Mr. M.S. Cheung, Fr. O'Rourke, Mr. P.H. Cheng, Mr. M.K. Yung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. M.S. Cheung, Fr. O'Rourke, Mr. P.H. Cheng, Mr. M.K. Yung",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "english_name": "Mr. K.S. Chan, Mr. K.L. Ma.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. K.S. Chan, Mr. K.L. Ma.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Mr.S.C. Koo, Mr.F.W. Ip,Fr. Foley.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr.S.C. Koo, Mr.F.W. Ip,Fr. Foley.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_006_full.webp",
+  "extracted_photos": [
+    "1976_page_006_photo_1.webp"
+  ]
+}

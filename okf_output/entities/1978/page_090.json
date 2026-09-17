@@ -1,0 +1,57 @@
+{
+  "year": "1978",
+  "page": 90,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SwimminG SALA",
+  "students": [
+    {
+      "english_name": "SwimminG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SwimminG",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "SALA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SALA",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SwimminG",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SwimminG",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_090_full.webp",
+  "extracted_photos": [
+    "1978_page_090_photo_1.webp"
+  ]
+}

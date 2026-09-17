@@ -1,0 +1,100 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 42,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Yim Pak Keung (嚴栢强) • Yeung Chun Kwok (楊俊國) • Yim Ping Chuen, Anthony (嚴炳泉) • Yeung Tsi Yan (楊子仁)",
+  "students": [
+    {
+      "english_name": "Yim Pak Keung",
+      "chinese_name": "嚴栢强",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "嚴栢強"
+      ]
+    },
+    {
+      "english_name": "Yeung Chun Kwok",
+      "chinese_name": "楊俊國",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Yim Ping Chuen, Anthony",
+      "chinese_name": "嚴炳泉",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "嚴秉泉"
+      ]
+    },
+    {
+      "english_name": "Yeung Tsi Yan",
+      "chinese_name": "楊子仁",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_042_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yim Pak Keung",
+      "chinese_name": "嚴栢强",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yim Pak Keung",
+      "chinese_name": "嚴栢強",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yeung Chun Kwok",
+      "chinese_name": "楊俊國",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yim Ping Chuen, Anthony",
+      "chinese_name": "嚴炳泉",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yim Ping Chuen, Anthony",
+      "chinese_name": "嚴秉泉",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 42,
+      "english_name": "Yeung Tsi Yan",
+      "chinese_name": "楊子仁",
+      "class": "Form 5A1"
+    }
+  ]
+}

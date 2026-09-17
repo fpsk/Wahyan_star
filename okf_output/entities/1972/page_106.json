@@ -1,0 +1,473 @@
+{
+  "year": "1972",
+  "page": 106,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "The Student Association With the ever-enthusiastic support ：Chu Jurtz, Alfred",
+  "students": [
+    {
+      "english_name": "The Student Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Student Association",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "With the ever-enthusiastic support",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the ever-enthusiastic support",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Secretary of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary of",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "General Affair",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General Affair",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Social",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Altogether",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Altogether",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Correspondent",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Correspondent",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "The Council continued the task",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Council continued the task",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "These were in general satisfactorily if not",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "These were in general satisfactorily if not",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "The Student Council consists of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Student Council consists of the",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Head Prefect, one class representative trom",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Head Prefect, one class representative trom",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Hitials of Wan Ya, were orderede The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hitials of Wan Ya, were orderede The",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "About one hundred and sixty were sold.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "About one hundred and sixty were sold.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "January",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "January",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "The Inter-class General Quiz was or-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Inter-class General Quiz was or-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Danized and commenced in early Novem-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Danized and commenced in early Novem-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Officials of the executive commiteee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Officials of the executive commiteee",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "First General Meeting. The office bearers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First General Meeting. The office bearers",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "With the help of the Social Activities",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the help of the Social Activities",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "President",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "President",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Vice-President",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-President",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Council was carried out by means of a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Council was carried out by means of a",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "The results were tabulated",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The results were tabulated",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Recording-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Recording-",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Through this investiga-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Through this investiga-",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "These were for-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "These were for-",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Programme-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Programme-",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "the various clubs and organisations mak-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the various clubs and organisations mak-",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "ber. The champion in the senior Section",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "ber. The champion in the senior Section",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "event_name": "Recording-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Recording-",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_106_full.webp",
+  "extracted_photos": [
+    "1972_page_106_photo_1.webp"
+  ]
+}

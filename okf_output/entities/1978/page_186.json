@@ -1,0 +1,30 @@
+{
+  "year": "1978",
+  "page": 186,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "新文际 摒棄舊傳統，學界創新風！ 三合一革新圓規",
+  "students": [
+    {
+      "english_name": "TRIMAN",
+      "chinese_name": "新文际",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRIMAN 新文际",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_186_full.webp",
+  "extracted_photos": [
+    "1978_page_186_photo_1.webp",
+    "1978_page_186_photo_2.webp"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "year": "1975",
+  "page": 18,
+  "section_type": "Principal Speech",
+  "class_designation": null,
+  "summary": "THE SPEECHI DAY Our Speech Day was held on the 22nd November, 1974. Tea was provided for the guests and the ceremony began shortly",
+  "students": [
+    {
+      "english_name": "THE SPEECHI DAY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE SPEECHI DAY",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Tea was provided for the guests and the ceremony began shortly",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tea was provided for the guests and the ceremony began shortly",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "Vicar Capitular of the Diocese of Hong Kong then, to address",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vicar Capitular of the Diocese of Hong Kong then, to address",
+        "start_char": 0,
+        "end_char": 60
+      }
+    },
+    {
+      "english_name": "Yan College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan College.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Fr. Lam then delivered his speech. He first expressed that he was pleased to be invited",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fr. Lam then delivered his speech. He first expressed that he was pleased to be invited",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "english_name": "Such virtues are often found in a humble man.In-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Such virtues are often found in a humble man.In-",
+        "start_char": 0,
+        "end_char": 48
+      }
+    },
+    {
+      "english_name": "Yan has given me and also the many ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan has given me and also the many ex-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "The head prefect proposed a vote",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The head prefect proposed a vote",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Choir and Orchestra. After the cere-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choir and Orchestra. After the cere-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "afterwards. The school was fortunate to have Fr. Gabriel Lam，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "afterwards. The school was fortunate to have Fr. Gabriel Lam，",
+        "start_char": 0,
+        "end_char": 61
+      }
+    },
+    {
+      "english_name": "Fr. Gabriel Lam",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Gabriel Lam",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Fr. Barrett gave a speech before the presentation of the certificates",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": "Annual Report",
+      "evidence": {
+        "text": "Fr. Barrett gave a speech before the presentation of the certificates",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "of the graduates, Fr. Lam said， \"Those entering into",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "of the graduates, Fr. Lam said， \"Those entering into",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "of thanks to Fr. Lam and the audience",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "of thanks to Fr. Lam and the audience",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "society after graduation will soon realise that to",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "society after graduation will soon realise that to",
+        "start_char": 0,
+        "end_char": 50
+      }
+    },
+    {
+      "club_name": "Choir and Orchestra. After the cere-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Choir and Orchestra. After the cere-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1975_page_018_full.webp",
+  "extracted_photos": [
+    "1975_page_018_photo_1.webp",
+    "1975_page_018_photo_2.webp"
+  ]
+}

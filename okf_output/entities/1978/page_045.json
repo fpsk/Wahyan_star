@@ -1,0 +1,478 @@
+{
+  "year": "1978",
+  "page": 45,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "SCIENCE Advisers : Mr. S. K. Lee Mr. T. Y.Chan",
+  "students": [
+    {
+      "english_name": "SOCIETY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOCIETY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "A total ot seven classes, two slide shows",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A total ot seven classes, two slide shows",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "An observation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An observation",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "New Year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "New Year",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Holidays at Ho Fook Tong in Tun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Holidays at Ho Fook Tong in Tun",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Mun.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mun.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Electronic Class",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electronic Class",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "A total of sixteen lessons were given.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A total of sixteen lessons were given.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Interest Class",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Interest Class",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Atotal of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Atotal of",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Many interesting projects like the micro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Many interesting projects like the micro-",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Eighteen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eighteen",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "A total of four visits were organized this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A total of four visits were organized this",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "San Miguel Brewery Company and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "San Miguel Brewery Company and the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Koyal Observatory.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Koyal Observatory.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Animal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Animal",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Coordination",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Coordination",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "We have joined in the Joint School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We have joined in the Joint School",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "The eleventhJoint",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The eleventhJoint",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Astronomical Society this year. Besides",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Astronomical Society this year. Besides",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Amateur",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Amateur",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Astronomical Society on As-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Astronomical Society on As-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "History Club, Geography Society and our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "History Club, Geography Society and our",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "This activity was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This activity was",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Shows",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shows",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers : Mr. S. K. Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers : Mr. S. K. Lee",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mr. T. Y.Chan",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. T. Y.Chan",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Fr.M. Cryan, S..",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr.M. Cryan, S..",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Included a Lecture given by Fr. McCarthy",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Included a Lecture given by Fr. McCarthy",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "SOCIETY",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "SOCIETY",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "club_name": "Astronomical Society this year. Besides",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Astronomical Society this year. Besides",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Astronomical Society on As-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Astronomical Society on As-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "club_name": "jointclub activity involving, the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "jointclub activity involving, the",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "club_name": "History Club, Geography Society and our",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "History Club, Geography Society and our",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "society was planned.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "society was planned.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_045_full.webp",
+  "extracted_photos": [
+    "1978_page_045_photo_1.webp",
+    "1978_page_045_photo_2.webp",
+    "1978_page_045_photo_3.webp"
+  ]
+}

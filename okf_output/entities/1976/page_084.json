@@ -1,0 +1,85 @@
+{
+  "year": "1976",
+  "page": 84,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SPORTS REVIEW OF THE YEAR （1925-26） I have a feeling that Wah Yan boys are indifterent in everything. In the splere of sports, there is no exception.",
+  "students": [
+    {
+      "english_name": "SPECTATORS ARE OUR LIFE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SPECTATORS ARE OUR LIFE",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "TRANSITIONAL STAGE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRANSITIONAL STAGE",
+        "start_char": 0,
+        "end_char": 18
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "uS. Really, how discouraging it was. We got the championship, but only a few in the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "uS. Really, how discouraging it was. We got the championship, but only a few in the",
+        "start_char": 0,
+        "end_char": 83
+      }
+    },
+    {
+      "event_name": "ing well, capturing interschool championship in basketball, football and handball. But",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "ing well, capturing interschool championship in basketball, football and handball. But",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "event_name": "in table tennis, badminton as well as swimming？",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "in table tennis, badminton as well as swimming？",
+        "start_char": 0,
+        "end_char": 47
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_084_full.webp",
+  "extracted_photos": [
+    "1976_page_084_photo_1.webp"
+  ]
+}

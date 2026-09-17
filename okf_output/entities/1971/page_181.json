@@ -1,0 +1,107 @@
+{
+  "year": "1971",
+  "page": 181,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments Carrier INTERNATIONAL ENGINEERING CO.",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "倫敦",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 倫敦",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Carrier",
+      "chinese_name": "雪糕",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Carrier 雪糕",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "INTERNATIONAL ENGINEERING CO.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERNATIONAL ENGINEERING CO.",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "EAST ARCADE,ALEXANDRA HOUSE, HONG KONG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EAST ARCADE,ALEXANDRA HOUSE, HONG KONG.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "With the Compliments of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments of",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "ICE CREAM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ICE CREAM",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "PENNING STREET. HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PENNING STREET. HONG KONG",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_181_full.webp",
+  "extracted_photos": [
+    "1971_page_181_photo_1.webp"
+  ]
+}

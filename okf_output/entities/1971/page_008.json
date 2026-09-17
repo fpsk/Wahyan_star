@@ -1,0 +1,69 @@
+{
+  "year": "1971",
+  "page": 8,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Meu Ceachers Brother Gary Lam S.J.",
+  "students": [
+    {
+      "english_name": "Meu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meu",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ceachers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ceachers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Miss Y. Y. Tan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Y. Y. Tan",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Brother Gary Lam S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Brother Gary Lam S.J.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_008_full.webp",
+  "extracted_photos": [
+    "1971_page_008_photo_1.webp",
+    "1971_page_008_photo_2.webp"
+  ]
+}

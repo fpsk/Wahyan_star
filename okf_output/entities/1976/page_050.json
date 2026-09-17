@@ -1,0 +1,217 @@
+{
+  "year": "1976",
+  "page": 50,
+  "section_type": "Class Roster",
+  "class_designation": "：Richard Lam Cheung Shing （F. 4B1）",
+  "summary": "Junior Red Cross Cadet Unut 34 Patron",
+  "students": [
+    {
+      "english_name": "Junior Red Cross",
+      "chinese_name": "",
+      "class_designation": "：Richard Lam Cheung Shing （F. 4B1）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Junior Red Cross",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Patron",
+      "chinese_name": "",
+      "class_designation": "：Richard Lam Cheung Shing （F. 4B1）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Patron",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Cadet Officer",
+      "chinese_name": "",
+      "class_designation": "：Richard Lam Cheung Shing （F. 4B1）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cadet Officer",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": "：Richard Lam Cheung Shing （F. 4B1）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Fr. Barrett, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. Barrett, S.J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Mr. Adrian Lee",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Adrian Lee",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Asst. Cadet Officer: Mr. Jot Yau",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Asst. Cadet Officer: Mr. Jot Yau",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Tth Dec.， '75, Annual parade at HK Football Club Stadium.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Tth Dec.， '75, Annual parade at HK Football Club Stadium.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "beating C.U. 54, 59, 7 & 43, we came out as the Champions.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "beating C.U. 54, 59, 7 & 43, we came out as the Champions.",
+        "start_char": 0,
+        "end_char": 58
+      }
+    },
+    {
+      "event_name": "3） I2th Oct.， '75, Red Cross Swimming Gala",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "3） I2th Oct.， '75, Red Cross Swimming Gala",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "event_name": "- Our unit was the Overall Boys' Champion",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "- Our unit was the Overall Boys' Champion",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "event_name": "- A,B, C grade individual championships were won by Lam Hang Fung, So Man",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "- A,B, C grade individual championships were won by Lam Hang Fung, So Man",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "- inter-unit relay Ist place",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "- inter-unit relay Ist place",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "event_name": "_ Ist in 4 x 100 relay",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "_ Ist in 4 x 100 relay",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "event_name": "6） Talent Quest & Table tennis had also gone into the fnal round.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "6） Talent Quest & Table tennis had also gone into the fnal round.",
+        "start_char": 0,
+        "end_char": 65
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_050_full.webp",
+  "extracted_photos": [
+    "1976_page_050_photo_1.webp"
+  ]
+}

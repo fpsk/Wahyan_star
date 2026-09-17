@@ -1,0 +1,95 @@
+{
+  "year": "1972",
+  "page": 181,
+  "section_type": "Class Roster",
+  "class_designation": "Ref. 5. 2551",
+  "summary": "Ref. 5. 2551 Rel. 10.258 stay in fashion",
+  "students": [
+    {
+      "english_name": "Young",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Young",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "To choose the right watch is as important",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "To choose the right watch is as important",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Milus helps you stay in fashion.",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Milus helps you stay in fashion.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "MILUS",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MILUS",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "SWISS PRIDE",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SWISS PRIDE",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Obtainable at all authorized dealers.",
+      "chinese_name": "",
+      "class_designation": "Ref. 5. 2551",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Obtainable at all authorized dealers.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_181_full.webp",
+  "extracted_photos": [
+    "1972_page_181_photo_1.webp",
+    "1972_page_181_photo_2.webp"
+  ]
+}

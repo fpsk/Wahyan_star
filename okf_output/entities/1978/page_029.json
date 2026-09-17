@@ -1,0 +1,146 @@
+{
+  "year": "1978",
+  "page": 29,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "JC CORGANIZATIONS CATHOLIC",
+  "students": [
+    {
+      "english_name": "CORGANIZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CORGANIZATIONS",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "CATHOLIC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "IOHI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IOHI",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "V SATHOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "V SATHOL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "SOANZNION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SOANZNION",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "CATHOLIC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "NIZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NIZATIONS",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "JIIOHLVO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JIIOHLVO",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "CATHOLIC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "CATHO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHO",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_029_full.webp",
+  "extracted_photos": [
+    "1978_page_029_photo_1.webp"
+  ]
+}

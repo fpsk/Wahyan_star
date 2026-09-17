@@ -1,0 +1,90 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 17,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Fung Kwok Kin (馮國堅) • Ho Siu Leung (何紹良) • Hui Ying Tat (許英達) • Hau Yuen Shun (侯元信)",
+  "students": [
+    {
+      "english_name": "Fung Kwok Kin",
+      "chinese_name": "馮國堅",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Ho Siu Leung",
+      "chinese_name": "何紹良",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "何紹長"
+      ]
+    },
+    {
+      "english_name": "Hui Ying Tat",
+      "chinese_name": "許英達",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Hau Yuen Shun",
+      "chinese_name": "侯元信",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_017_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 17,
+      "english_name": "Fung Kwok Kin",
+      "chinese_name": "馮國堅",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 17,
+      "english_name": "Ho Siu Leung",
+      "chinese_name": "何紹良",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 17,
+      "english_name": "Ho Siu Leung",
+      "chinese_name": "何紹長",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 17,
+      "english_name": "Hui Ying Tat",
+      "chinese_name": "許英達",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 17,
+      "english_name": "Hau Yuen Shun",
+      "chinese_name": "侯元信",
+      "class": "Form 5B1"
+    }
+  ]
+}

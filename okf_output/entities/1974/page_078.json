@@ -1,0 +1,68 @@
+{
+  "year": "1974",
+  "page": 78,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "CHRISTIAN LIFE COMMUNITY （Senior） Spiritual Director ： Rev. Fr. A. Farren, S.J.",
+  "students": [
+    {
+      "english_name": "Spiritual Director",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Spiritual Director",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Pretect",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pretect",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "General meetings were held bi-weekly.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "General meetings were held bi-weekly.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "： Rev. Fr. A. Farren, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "： Rev. Fr. A. Farren, S.J.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_078_full.webp",
+  "extracted_photos": [
+    "1974_page_078_photo_1.webp"
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "year": "1972",
+  "page": 55,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "News of the Past AT",
+  "students": [
+    {
+      "english_name": "News",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "News",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "HONG KONG UNIVERSITY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG UNIVERSITY",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Wing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wing",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Chan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Bing Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bing Leung",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Society,HKU Editor-in-chief of THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society,HKU Editor-in-chief of THE",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "VOICE Ofhicial Publication of Social",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "VOICE Ofhicial Publication of Social",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Peter Yew Ko Hung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Yew Ko Hung",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Leung Lap Chi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Lap Chi",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Chan Kwok Yung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kwok Yung",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Publication Secretary, Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Publication Secretary, Engineering",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Lawrence Tse Kam Ming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lawrence Tse Kam Ming",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Society, HKU.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Society, HKU.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Francis Kwok Leung Hung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Kwok Leung Hung",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "HKU.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HKU.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Barbecue in Stanley",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Barbecue in Stanley",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Lications Member, Ricci Hall Students'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lications Member, Ricci Hall Students'",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Reunion Dinner held in Canton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Reunion Dinner held in Canton",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "Restaurant, Wanchai.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Restaurant, Wanchai.",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Also, quite many of them live in hall.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Also, quite many of them live in hall.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Club was the donation of The Alliance",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club was the donation of The Alliance",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "IS a great number indeed when compared",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "IS a great number indeed when compared",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Trophy to the school and the holding of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Trophy to the school and the holding of",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Francis Kwok",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Kwok",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Leung Hung, have been",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Hung, have been",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "The present offce-bearers of the Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The present offce-bearers of the Club",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Anthony Cheung Bing Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Cheung Bing Leung",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Student Representatives in the University",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Representatives in the University",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Senate Student Welfare Committee.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Senate Student Welfare Committee.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Anthony Kwok Hok Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Kwok Hok Leung",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Regarding",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Regarding",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Progressive",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Progressive",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Peter Ching Hei Tong.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Peter Ching Hei Tong.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "residence in Ricci Hall and are with Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "residence in Ricci Hall and are with Fr.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Deignan, former Principal of Wah Yan",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Deignan, former Principal of Wah Yan",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "formal presentation of the trophy to Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "formal presentation of the trophy to Fr.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Principal. The Alliance Trophy is to be",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Principal. The Alliance Trophy is to be",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "ask Fr. Barrett）.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ask Fr. Barrett）.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "present ofice-bearers of the Club are as",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "present ofice-bearers of the Club are as",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "man of Social Sciences Society, HKU.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "man of Social Sciences Society, HKU.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "Society,HKU Editor-in-chief of THE",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society,HKU Editor-in-chief of THE",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "club_name": "Sciences Society.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Sciences Society.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "Society, HKU.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Society, HKU.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "Some of the activities of the Club：",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Some of the activities of the Club：",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "Committee Member, Catholic Society，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Committee Member, Catholic Society，",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "tual Affairs Secretary, Catholic Society，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "tual Affairs Secretary, Catholic Society，",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "and formed the Alliance Club. Their ma-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "and formed the Alliance Club. Their ma-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Club was the donation of The Alliance",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club was the donation of The Alliance",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "The present offce-bearers of the Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The present offce-bearers of the Club",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "club_name": "（Form Club, 68-69） As far as I know, the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "（Form Club, 68-69） As far as I know, the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_055_full.webp",
+  "extracted_photos": []
+}

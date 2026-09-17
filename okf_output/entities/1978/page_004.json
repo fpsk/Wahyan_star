@@ -1,0 +1,27 @@
+{
+  "year": "1978",
+  "page": 4,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "TABLE OF CONTENT",
+  "students": [
+    {
+      "english_name": "TABLE OF CONTENT",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TABLE OF CONTENT",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_004_full.webp",
+  "extracted_photos": []
+}

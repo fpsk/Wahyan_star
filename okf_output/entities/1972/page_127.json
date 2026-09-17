@@ -1,0 +1,82 @@
+{
+  "year": "1972",
+  "page": 127,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "“B”Grade Football Team Football -'CI Grade The‘C' Grade football result of this",
+  "students": [
+    {
+      "english_name": "Football -'CI Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Football -'CI Grade",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Our results were not satisfactory, be-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our results were not satisfactory, be-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "We beat Wellington College, Shauki-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We beat Wellington College, Shauki-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Technical School, King's College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Technical School, King's College.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Moreover, we lost the most important",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Moreover, we lost the most important",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_127_full.webp",
+  "extracted_photos": [
+    "1972_page_127_photo_1.webp",
+    "1972_page_127_photo_2.webp"
+  ]
+}

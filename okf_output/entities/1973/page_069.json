@@ -1,0 +1,200 @@
+{
+  "year": "1973",
+  "page": 69,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "BRIDGE CLUI Adviser taking part was a big record. With",
+  "students": [
+    {
+      "english_name": "BRIDGE CLUI",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BRIDGE CLUI",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "We nad our meetings every",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We nad our meetings every",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Friday",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friday",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lectures for the beginners",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lectures for the beginners",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Ngq",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ngq",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Tue Inter-School Team-of-Four Tour-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tue Inter-School Team-of-Four Tour-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Shop.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shop.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Also, we took part in many tourna-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Also, we took part in many tourna-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Lastly, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lastly, we",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "the participation of the bridge clubs",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the participation of the bridge clubs",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "for the first time in our club, we acquired",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "for the first time in our club, we acquired",
+        "start_char": 0,
+        "end_char": 43
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "taking part was a big record. With",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "taking part was a big record. With",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "full_page_photo": "1973_page_069_full.webp",
+  "extracted_photos": [
+    "1973_page_069_photo_1.webp",
+    "1973_page_069_photo_2.webp"
+  ]
+}

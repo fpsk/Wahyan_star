@@ -1,0 +1,144 @@
+{
+  "year": "1972",
+  "page": 178,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Olith Compliments MR. VICTOR WU",
+  "students": [
+    {
+      "english_name": "Olith",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Olith",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Compliments",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "MR. VICTOR WU",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. VICTOR WU",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "ARROW TRAVEL AGENCY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ARROW TRAVEL AGENCY",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "ALEXANDRA HOUSE, GROUND FLOOR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ALEXANDRA HOUSE, GROUND FLOOR",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "DES VOEUX ROAD GENTRAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DES VOEUX ROAD GENTRAL",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ofod Poec",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ofod Poec",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Oxknu Pogcae",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oxknu Pogcae",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Eamomik",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Eamomik",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_178_full.webp",
+  "extracted_photos": []
+}

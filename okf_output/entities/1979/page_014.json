@@ -1,0 +1,135 @@
+{
+  "year": "1979",
+  "page": 14,
+  "section_type": "Class Roster",
+  "class_designation": "（L6A）",
+  "summary": "STUDENT COUNCIL （L6A） President Wong Sing Charn",
+  "students": [
+    {
+      "english_name": "STUDENT COUNCIL",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT COUNCIL",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "President Wong Sing Charn",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "President Wong Sing Charn",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Application of half-fare tram tickets for the students.",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Application of half-fare tram tickets for the students.",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "Setting up of the Printing Team.",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Setting up of the Printing Team.",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Production of the Student Identity Cards.",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Production of the Student Identity Cards.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "The Services on Checking of Complaints was esta-",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Services on Checking of Complaints was esta-",
+        "start_char": 0,
+        "end_char": 48
+      }
+    },
+    {
+      "english_name": "Initiation of the Go Observe and Learn Program.",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Initiation of the Go Observe and Learn Program.",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Ying Wa Girls' School",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ying Wa Girls' School",
+        "start_char": 0,
+        "end_char": 21
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Recording Secretary: Lai Yee Tak",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Recording Secretary: Lai Yee Tak",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_014_full.webp",
+  "extracted_photos": [
+    "1979_page_014_photo_1.webp"
+  ]
+}

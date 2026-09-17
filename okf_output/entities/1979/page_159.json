@@ -1,0 +1,40 @@
+{
+  "year": "1979",
+  "page": 159,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Maie Me Comy foncnt P.S. Li & CO.， LTD. 701-703 & 708 GAMMON HOUSE，",
+  "students": [
+    {
+      "english_name": "Maie Me Comy foncnt",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Maie Me Comy foncnt",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "HONG KONG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_159_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,73 @@
+{
+  "year": "1979",
+  "page": 74,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "ANNUAL SWIMMING,GALA （78-79） TEE Swimming Gala, 1978/1979 was held on I5th September 1978 in the Morrison 豆il",
+  "students": [],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "SWIMMING,GALA （78-79）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "SWIMMING,GALA （78-79）",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "event_name": "TEE Swimming Gala, 1978/1979 was held on I5th September 1978 in the Morrison 豆il",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "TEE Swimming Gala, 1978/1979 was held on I5th September 1978 in the Morrison 豆il",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "event_name": "Swimming Pool. The final day was held on 20th September.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Pool. The final day was held on 20th September.",
+        "start_char": 0,
+        "end_char": 56
+      }
+    },
+    {
+      "event_name": "was unexpectedly good. Three new records （all in A Grade） were made and they were as",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "was unexpectedly good. Three new records （all in A Grade） were made and they were as",
+        "start_char": 0,
+        "end_char": 84
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_074_full.webp",
+  "extracted_photos": [
+    "1979_page_074_photo_1.webp",
+    "1979_page_074_photo_2.webp"
+  ]
+}

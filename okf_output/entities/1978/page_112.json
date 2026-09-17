@@ -1,0 +1,240 @@
+{
+  "year": "1978",
+  "page": 112,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "and Lam Frederic Wai Hang",
+  "students": [
+    {
+      "english_name": "Frederic Wai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Frederic Wai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Hang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hang",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Fung at University of Pennsyl-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung at University of Pennsyl-",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Li Chik Chuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Chik Chuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Wu Shu Key, Lee Wang Fai, Hai Woo, Ng Hon",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wu Shu Key, Lee Wang Fai, Hai Woo, Ng Hon",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Kwong at Niagara Falls.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong at Niagara Falls.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Past Students",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Past Students",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Association",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Association",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Edmond",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edmond",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tsang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tsang",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Michael",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Michael",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Canada.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Canada.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Past Students",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Past Students",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Australia.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Australia.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Robert Chung.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Robert Chung.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "March， '77, chaired by Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "March， '77, chaired by Mr.",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Mr. Chung and our friends at",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chung and our friends at",
+        "start_char": 0,
+        "end_char": 28
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_112_full.webp",
+  "extracted_photos": [
+    "1978_page_112_photo_1.webp",
+    "1978_page_112_photo_2.webp",
+    "1978_page_112_photo_3.webp",
+    "1978_page_112_photo_4.webp",
+    "1978_page_112_photo_5.webp"
+  ]
+}

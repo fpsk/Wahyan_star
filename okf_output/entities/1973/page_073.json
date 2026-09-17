@@ -1,0 +1,170 @@
+{
+  "year": "1973",
+  "page": 73,
+  "section_type": "Class Roster",
+  "class_designation": "（L6A）",
+  "summary": "Da Vinci （clit） elub Advisers ：Rev. Fr. C.J. Barrett, S.J",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Viec-Chairman",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Viec-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "At the art",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the art",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Joint School Art Exhibition held on",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint School Art Exhibition held on",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "School, Maryknoll Sisters'School, St.",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School, Maryknoll Sisters'School, St.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "School, Diocesan Boys' School. The",
+      "chinese_name": "",
+      "class_designation": "（L6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School, Diocesan Boys' School. The",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. C.J. Barrett, S.J",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. C.J. Barrett, S.J",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Mr. Raymond P. L. Yu",
+      "chinese_name": "余本良",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Raymond P. L. Yu",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mr. Yeung",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Yeung",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "was presented by our club along with",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "was presented by our club along with",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "the Art Clubs of Maryknoll Convent",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Art Clubs of Maryknoll Convent",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_073_full.webp",
+  "extracted_photos": [
+    "1973_page_073_photo_1.webp",
+    "1973_page_073_photo_2.webp",
+    "1973_page_073_photo_3.webp"
+  ]
+}

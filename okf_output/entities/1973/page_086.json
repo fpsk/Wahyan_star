@@ -1,0 +1,150 @@
+{
+  "year": "1973",
+  "page": 86,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "Football Report Before the league matches started our A-Grade team was encouraged by defeat-",
+  "students": [
+    {
+      "english_name": "Football Report",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Football Report",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Before the league matches started our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Before the league matches started our",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "A-Grade team was encouraged by defeat-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A-Grade team was encouraged by defeat-",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Iy match. In the league St. Louis defeated",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Iy match. In the league St. Louis defeated",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Our league competition ended by two",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our league competition ended by two",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "St. Paul's Boys' College. Since the players",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's Boys' College. Since the players",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "It was a good season. Our players though",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was a good season. Our players though",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Our B-Graders got a high position in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our B-Graders got a high position in",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "master and to our coach, Mr. S. M. Tsang",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "master and to our coach, Mr. S. M. Tsang",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "league champion, beat us by 5-0. Not the",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "league champion, beat us by 5-0. Not the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "full_page_photo": "1973_page_086_full.webp",
+  "extracted_photos": [
+    "1973_page_086_photo_1.webp",
+    "1973_page_086_photo_2.webp",
+    "1973_page_086_photo_3.webp"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "year": "1978",
+  "page": 71,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "GEOGRAPHY The Joint Sehool Geo Exhibition",
+  "students": [
+    {
+      "english_name": "GEOGRAPHY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "GEOGRAPHY",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "The Joint Sehool Geo",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Joint Sehool Geo",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "There",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "September by the Joint",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "September by the Joint",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "AS-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "AS-",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "School Geograpay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Geograpay",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "There were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There were",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "On the whole, the Ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "On the whole, the Ex-",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "WaS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WaS",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Cheung Chuk Shan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheung Chuk Shan",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Secondary School, Cog-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secondary School, Cog-",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_071_full.webp",
+  "extracted_photos": [
+    "1978_page_071_photo_1.webp",
+    "1978_page_071_photo_2.webp",
+    "1978_page_071_photo_3.webp",
+    "1978_page_071_photo_4.webp"
+  ]
+}

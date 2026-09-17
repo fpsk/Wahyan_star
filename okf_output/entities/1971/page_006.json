@@ -1,0 +1,120 @@
+{
+  "year": "1971",
+  "page": 6,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "RAYMOND YU, FR. BARRETT, FR. FR.GROGAN, MRS. CISSY LAU, MISS HELEN HO, MISS MARIE MAN, MR. CHOW,MR. ADRIAN LEE, MR. FRANCIS WONG, BRO. THOO, FR. BROSNAN.",
+  "students": [
+    {
+      "english_name": "RAYMOND YU, FR. BARRETT, FR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "RAYMOND YU, FR. BARRETT, FR.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "FR.GROGAN, MRS. CISSY LAU, MISS HELEN HO, MISS MARIE MAN, MR.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FR.GROGAN, MRS. CISSY LAU, MISS HELEN HO, MISS MARIE MAN, MR.",
+        "start_char": 0,
+        "end_char": 61
+      }
+    },
+    {
+      "english_name": "CHOW,MR. ADRIAN LEE, MR. FRANCIS WONG, BRO. THOO, FR. BROSNAN.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHOW,MR. ADRIAN LEE, MR. FRANCIS WONG, BRO. THOO, FR. BROSNAN.",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "CHAN MR. M. C. LEE, MR. JOSEPH LO, MR. W. T. YEUNG, FR. TONER.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHAN MR. M. C. LEE, MR. JOSEPH LO, MR. W. T. YEUNG, FR. TONER.",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "YUNG,MR. S. T. WONG, FR. MC CARTHY, MR. ROBERT CHUNG.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "YUNG,MR. S. T. WONG, FR. MC CARTHY, MR. ROBERT CHUNG.",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "english_name": "MR.VINCENT LEE,MR. S. S.CHAN, FR.MC GALEY, MR. K. M. CHAN, FR.CRYAN,MR. L. W. NG, MR.M. K.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR.VINCENT LEE,MR. S. S.CHAN, FR.MC GALEY, MR. K. M. CHAN, FR.CRYAN,MR. L. W. NG, MR.M. K.",
+        "start_char": 0,
+        "end_char": 90
+      }
+    },
+    {
+      "english_name": "FR.FARREN, MR. HONG CHOY, MR. P. K. HO, MR. M. S. CHEUNG, MR. K. T. TSANG, MR. K. S. FUNG, MR. P. Y.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FR.FARREN, MR. HONG CHOY, MR. P. K. HO, MR. M. S. CHEUNG, MR. K. T. TSANG, MR. K. S. FUNG, MR. P. Y.",
+        "start_char": 0,
+        "end_char": 100
+      }
+    },
+    {
+      "english_name": "MR. K. C. FUNG, FR. DALY, MR. K.Y. LO, FR. O'ROURKE, MR. MICHAEL CHENG, MR. HENRY YUEN, MR. Y. C.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MR. K. C. FUNG, FR. DALY, MR. K.Y. LO, FR. O'ROURKE, MR. MICHAEL CHENG, MR. HENRY YUEN, MR. Y. C.",
+        "start_char": 0,
+        "end_char": 97
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_006_full.webp",
+  "extracted_photos": [
+    "1971_page_006_photo_1.webp"
+  ]
+}

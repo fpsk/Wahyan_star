@@ -1,0 +1,1918 @@
+{
+  "year": "1976",
+  "page": 4,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Board Editorial Board Editorial Board Editorial Board",
+  "students": [
+    {
+      "english_name": "Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "BoarQ",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BoarQ",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 39,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Rrard Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 40,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Rrard Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 41,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 42,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial Roardl Fditorisl Romwl FAlimminl",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 43,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Roardl Fditorisl Romwl FAlimminl",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 44,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 45,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 46,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 47,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 48,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 49,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Edlitorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 50,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edlitorial",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 51,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 52,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 53,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Elitorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 54,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Elitorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 55,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 56,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 57,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 58,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Fdy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 59,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fdy",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 60,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Ed",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 61,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Ed",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 62,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 63,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 64,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 65,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "BoarC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 66,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BoarC",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 67,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 68,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorlal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 69,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorlal",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 70,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 71,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 72,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 73,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 74,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Editorlal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 75,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorlal",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 76,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 77,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 78,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 79,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 80,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Boird",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 81,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boird",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 82,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 83,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 84,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 85,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 86,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 87,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 88,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 89,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Edlitorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 90,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edlitorial",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 91,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 92,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 93,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 94,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 95,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 96,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 97,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ECli",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 98,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ECli",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Edi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 99,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Edi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 100,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Boi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 101,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Boi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 102,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Boi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 103,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Boi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 104,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Boi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 105,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boi",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ELILOI Ial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 106,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ELILOI Ial",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "EQLLOIlal",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 107,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EQLLOIlal",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Boald",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 108,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boald",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 109,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "The Editors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 110,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Editors",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 111,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editoral",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 112,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editoral",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 113,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 114,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Elitorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 115,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Elitorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Edirorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 116,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Edirorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 117,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 118,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Board Editorial Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 119,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 120,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 121,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 122,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 123,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 124,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 125,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 126,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "BoarC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 127,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BoarC",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 128,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board'",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 129,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board'",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Boarc",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 130,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boarc",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Boarc",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 131,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boarc",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 132,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 133,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 134,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "The Reporters",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 135,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Reporters",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 136,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Boardi",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 137,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Boardi",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 138,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 139,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 140,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 141,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 142,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board Editorial Board Editorial Board Editorial",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 143,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board Editorial Board Editorial Board Editorial",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 144,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Board",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 145,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Board",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "the Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "the Advisers",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_004_full.webp",
+  "extracted_photos": [
+    "1976_page_004_photo_1.webp",
+    "1976_page_004_photo_2.webp",
+    "1976_page_004_photo_3.webp",
+    "1976_page_004_photo_4.webp",
+    "1976_page_004_photo_5.webp"
+  ]
+}

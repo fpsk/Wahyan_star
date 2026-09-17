@@ -1,0 +1,172 @@
+{
+  "year": "1972",
+  "page": 161,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "I set foot upon the football-pitch. I due to luck that I pass the examination：？ Is it because of ill-luck that I catch a cold",
+  "students": [
+    {
+      "english_name": "I set foot upon the football-pitch. I",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I set foot upon the football-pitch. I",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Is it because of ill-luck that I catch a cold",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Is it because of ill-luck that I catch a cold",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "A shuttlecock seems to fly across the room.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A shuttlecock seems to fly across the room.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Yes, the joy of getting for the first time a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yes, the joy of getting for the first time a",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Luck or no luck is just a convenient label",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Luck or no luck is just a convenient label",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "If I had the chance of going through",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "If I had the chance of going through",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Though certain extraordinary hap-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Though certain extraordinary hap-",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "LUCK",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "LUCK",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Many people believe in luck. They",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Many people believe in luck. They",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Moreover, they",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Moreover, they",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "But luck does not operate in every",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But luck does not operate in every",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "trates into every stratum of society.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "trates into every stratum of society.",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1972_page_161_full.webp",
+  "extracted_photos": [
+    "1972_page_161_photo_1.webp"
+  ]
+}

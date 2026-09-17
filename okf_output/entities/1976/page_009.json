@@ -1,0 +1,81 @@
+{
+  "year": "1976",
+  "page": 9,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Sehool Life Inside the Classroom",
+  "students": [
+    {
+      "english_name": "Sehool",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sehool",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Life",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Life",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Inside the Classroom",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inside the Classroom",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Outside the Classroom",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Outside the Classroom",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Enjoy yourself.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Enjoy yourself.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_009_full.webp",
+  "extracted_photos": [
+    "1976_page_009_photo_1.webp"
+  ]
+}

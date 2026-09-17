@@ -1,0 +1,495 @@
+{
+  "year": "1972",
+  "page": 53,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "I was really hot but what else I could do back I find the experience un- looking",
+  "students": [
+    {
+      "english_name": "I was really hot but what else I could do",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I was really hot but what else I could do",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "We never",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We never",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "America for nothing",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "America for nothing",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "I have really learnt and ex-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I have really learnt and ex-",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Yesterday, I tried my luck again at a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yesterday, I tried my luck again at a",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "It was a rather high-class' casino and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was a rather high-class' casino and the",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Customers were wea.thy people, and tips",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Customers were wea.thy people, and tips",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "During the few job-hunting days, I",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the few job-hunting days, I",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Francis.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis.",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Onternational Student Council",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Onternational Student Council",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "M.I.T.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "M.I.T.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Civil Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Civil Engineering",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Physics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Physics",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Ho Kam Yiu,Dominic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kam Yiu,Dominic",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "China",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "China",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Ghana",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ghana",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Greece",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Greece",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Japan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Japan",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Pakistan",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pakistan",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Thailand",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thailand",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Korea",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Korea",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Malaysia",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Malaysia",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Electrical Engineering",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Electrical Engineering",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hong Kong",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_053_full.webp",
+  "extracted_photos": []
+}

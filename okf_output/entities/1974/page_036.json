@@ -1,0 +1,94 @@
+{
+  "year": "1974",
+  "page": 36,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "joint school Jistocp Cxhbition",
+  "students": [
+    {
+      "english_name": "Jistocp",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jistocp",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Cxhbition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cxhbition",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "EOSN-UUAR",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EOSN-UUAR",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Diyeroemann",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Diyeroemann",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "HK.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HK.",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Yan College Kowloon. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan College Kowloon. The",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_036_full.webp",
+  "extracted_photos": [
+    "1974_page_036_photo_1.webp"
+  ]
+}

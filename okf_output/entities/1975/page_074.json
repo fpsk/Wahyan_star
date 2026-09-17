@@ -1,0 +1,268 @@
+{
+  "year": "1975",
+  "page": 74,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Mr. Michael Hong Man Hoi and Miss Annie Ng Ying Yue Weddings：",
+  "students": [
+    {
+      "english_name": "Miss Annie Ng Ying Yue",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Annie Ng Ying Yue",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Miss Sonia Tang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Sonia Tang",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Miss Cecilia Lo Sau Shan.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Cecilia Lo Sau Shan.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Miriam.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miriam.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Miss Man Kam To, Marie.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Man Kam To, Marie.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Ng Ying Yue.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ng Ying Yue.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Miss Vivian Loh.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Miss Vivian Loh.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Mary W. Chan.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mary W. Chan.",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Linda W.C. Chim.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Linda W.C. Chim.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Trina Lau Yuk Ling.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Trina Lau Yuk Ling.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Michael Hong Man Hoi and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Michael Hong Man Hoi and",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. Samuel Wan Wai Yin &",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Samuel Wan Wai Yin &",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mr. Lee Chun Ying, Frankie &",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lee Chun Ying, Frankie &",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. Yeung Wang Kay & Miss",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Yeung Wang Kay & Miss",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Mr. Lin Keung, Johnson and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Lin Keung, Johnson and",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Mr. Anthony C. W. Ching &",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Anthony C. W. Ching &",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Mr. Peter T.M. Kong & Miss",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Peter T.M. Kong & Miss",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Mr. William C.C. Li & Miss",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. William C.C. Li & Miss",
+        "start_char": 0,
+        "end_char": 26
+      }
+    },
+    {
+      "english_name": "Mr. Eric Li Wing Hang & Miss",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Eric Li Wing Hang & Miss",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Mr. Samuel Wan Wai Yin & Miss Sonia Tong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Samuel Wan Wai Yin & Miss Sonia Tong",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_074_full.webp",
+  "extracted_photos": [
+    "1975_page_074_photo_1.webp",
+    "1975_page_074_photo_2.webp"
+  ]
+}

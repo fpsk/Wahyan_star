@@ -1,0 +1,44 @@
+{
+  "year": "1971",
+  "page": 59,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "HAPPY THOUGH MARRIED Nothing eise in life is better like this",
+  "students": [
+    {
+      "english_name": "HAPPY THOUGH MARRIED",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HAPPY THOUGH MARRIED",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Nothing eise in life is better",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nothing eise in life is better",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_059_full.webp",
+  "extracted_photos": [
+    "1971_page_059_photo_1.webp",
+    "1971_page_059_photo_2.webp",
+    "1971_page_059_photo_3.webp"
+  ]
+}

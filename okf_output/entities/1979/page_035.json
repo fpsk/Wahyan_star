@@ -1,0 +1,123 @@
+{
+  "year": "1979",
+  "page": 35,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "1960 Our basket and football teams made a trip to Taiwan. 1964",
+  "students": [
+    {
+      "english_name": "Our basket and football teams made a trip to Taiwan.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our basket and football teams made a trip to Taiwan.",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "Introduction of monthly assembly.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Introduction of monthly assembly.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Opening of the Ma Ying Library.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Opening of the Ma Ying Library.",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "The students grasped the championship of the Inter-school Chinese Debate Contest.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The students grasped the championship of the Inter-school Chinese Debate Contest.",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "The best overall results of the H.K.C.E. of the college",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The best overall results of the H.K.C.E. of the college",
+        "start_char": 0,
+        "end_char": 55
+      }
+    },
+    {
+      "english_name": "Jah Yes Colloge and Catholie Cathedral",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jah Yes Colloge and Catholie Cathedral",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Chon Chi Yu set the record of 9 distinctions and 1 credit in the H.K.C.E.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Chon Chi Yu set the record of 9 distinctions and 1 credit in the H.K.C.E.",
+        "start_char": 0,
+        "end_char": 73
+      }
+    },
+    {
+      "event_name": "The students grasped the championship of the Inter-school Chinese Debate Contest.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "The students grasped the championship of the Inter-school Chinese Debate Contest.",
+        "start_char": 0,
+        "end_char": 81
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_035_full.webp",
+  "extracted_photos": [
+    "1979_page_035_photo_1.webp"
+  ]
+}

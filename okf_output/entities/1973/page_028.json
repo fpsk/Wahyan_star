@@ -1,0 +1,105 @@
+{
+  "year": "1973",
+  "page": 28,
+  "section_type": "Class Roster",
+  "class_designation": "： L6A Scuttleboom's Treasure",
+  "summary": "Drama Festival Report Senior Section",
+  "students": [
+    {
+      "english_name": "Drama Festival",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Drama Festival",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Report",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Report",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Senior Section",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Senior Section",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "This section took place in December.",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This section took place in December.",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Intermediate Section",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Intermediate Section",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Mine",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mine",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Junior Scction",
+      "chinese_name": "",
+      "class_designation": "： L6A Scuttleboom's Treasure",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Junior Scction",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_028_full.webp",
+  "extracted_photos": []
+}

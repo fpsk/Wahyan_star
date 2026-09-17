@@ -1,0 +1,526 @@
+{
+  "year": "1972",
+  "page": 97,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Cub Scout Section A souvenir banner was presented to the section by the Hon. Wilson T.S. Wang",
+  "students": [
+    {
+      "english_name": "Cub Scout Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cub Scout Section",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "A souvenir banner was presented to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A souvenir banner was presented to",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Won championship in the Bishop's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Won championship in the Bishop's",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Shield Competition, organised by Catholic",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shield Competition, organised by Catholic",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Region's Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Region's Competition.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "A Patrol Leaders' Training Course",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Patrol Leaders' Training Course",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Took part in the Eastern District's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Took part in the Eastern District's",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Tse Wai Leung and Mak Wing Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tse Wai Leung and Mak Wing Hong",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Went to visit scout and venture scout",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Went to visit scout and venture scout",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Badge. Lai Sai Hung qualifed for both",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badge. Lai Sai Hung qualifed for both",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Section camp was held in Tai Tam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Section camp was held in Tai Tam",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Venture Scout Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Venture Scout Section",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Won the Championship in the Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Won the Championship in the Hong",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Kong Lsland",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Lsland",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Scout Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Scout Section",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tweve members qualihed for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tweve members qualihed for the",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Took part in the Colony's Carlton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Took part in the Colony's Carlton",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Charge Certificate",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Charge Certificate",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Shield Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Shield Competition.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Venture Scout Ball organised jointly by",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Venture Scout Ball organised jointly by",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Inter-patrol's Old Scout Shield com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Inter-patrol's Old Scout Shield com-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "District.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "District.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Bishop's Shield Winners",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bishop's Shield Winners",
+        "start_char": 0,
+        "end_char": 23
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Cub Scout Section",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Cub Scout Section",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "club_name": "Scout Guide, on 5th December, 1971.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Guide, on 5th December, 1971.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "club_name": "jualihed tor the Aavance Scout Stanaarc",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "jualihed tor the Aavance Scout Stanaarc",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Went to visit scout and venture scout",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Went to visit scout and venture scout",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "club_name": "the Advance Scout Standard Badge and",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Advance Scout Standard Badge and",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "the Chiet Scout Award.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Chiet Scout Award.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "club_name": "13 cub scouts are working for Silver",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "13 cub scouts are working for Silver",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "club_name": "Arrow Badge and 23 cub scouts are work-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Arrow Badge and 23 cub scouts are work-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Venture Scout Section",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Venture Scout Section",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "club_name": "Scouts Sports Day on 31st",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scouts Sports Day on 31st",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "club_name": "Scout Section",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scout Section",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "club_name": "Scouts was held on Ist January, 1972 in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Scouts was held on Ist January, 1972 in",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "the Music Room. Our Venture Scouts also",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "the Music Room. Our Venture Scouts also",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Venture Scout Ball organised jointly by",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Venture Scout Ball organised jointly by",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "club_name": "Inter-patrol's Old Scout Shield com-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Inter-patrol's Old Scout Shield com-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Won championship in the Bishop's",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Won championship in the Bishop's",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "event_name": "Won the Championship in the Hong",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Won the Championship in the Hong",
+        "start_char": 0,
+        "end_char": 32
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_097_full.webp",
+  "extracted_photos": [
+    "1972_page_097_photo_1.webp",
+    "1972_page_097_photo_2.webp"
+  ]
+}

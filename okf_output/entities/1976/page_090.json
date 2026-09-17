@@ -1,0 +1,176 @@
+{
+  "year": "1976",
+  "page": 90,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "FOOTBALL Can a team display good performances without training' Can a team get satisfactory results without practising? Of course, it is im possible. But, unfortunately, or we should say",
+  "students": [
+    {
+      "english_name": "FOOTBALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOTBALL",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "As most of the best footballers in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As most of the best footballers in",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "But, strange enouga, in the finals, we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But, strange enouga, in the finals, we",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "BGRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BGRADE",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "This year, half of our team was com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, half of our team was com-",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "But we tried",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But we tried",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "But then, our team was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But then, our team was",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "We did badly",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We did badly",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "C GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C GRADE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "We were not brilliant in skill and we did",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We were not brilliant in skill and we did",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "the championship, as there was not even",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "the championship, as there was not even",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_090_full.webp",
+  "extracted_photos": [
+    "1976_page_090_photo_1.webp",
+    "1976_page_090_photo_2.webp",
+    "1976_page_090_photo_3.webp"
+  ]
+}

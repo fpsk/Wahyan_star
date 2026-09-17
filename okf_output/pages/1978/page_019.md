@@ -1,0 +1,26 @@
+# Wah Yan Star 1978 - Page 19
+
+
+## Page Text Content
+
+```text
+CHO
+H007
+SCHOOL
+•GAI
+CHOC
+NIZ
+URGAN
+SONS
+TOOI ORGANA
+SL
+CANIZATIO
+ATIO
+OR0
+DRGAN
+GAN］
+OL
+URGANS
+NS
+ZATIONS
+```

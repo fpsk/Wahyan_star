@@ -1,0 +1,158 @@
+{
+  "year": "1973",
+  "page": 77,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Advisers Chairman Cine Club",
+  "students": [
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Cine Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cine Club",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "During the school year, we invited people in the film industry",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the school year, we invited people in the film industry",
+        "start_char": 0,
+        "end_char": 62
+      }
+    },
+    {
+      "english_name": "We had film shows during lunch time once every two weeks.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We had film shows during lunch time once every two weeks.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    },
+    {
+      "english_name": "In mid March, we had a Ten Big Films election.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In mid March, we had a Ten Big Films election.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Festival.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Festival.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Meanwhile, we made some documentary films of the Student",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meanwhile, we made some documentary films of the Student",
+        "start_char": 0,
+        "end_char": 56
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Advisers",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Advisers",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "：Rev. Fr. NIcCarthy, Br. Tong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. NIcCarthy, Br. Tong",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "During the Student Festival, we invited Mr. Lung Kwong to",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "During the Student Festival, we invited Mr. Lung Kwong to",
+        "start_char": 0,
+        "end_char": 57
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Cine Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Cine Club",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_077_full.webp",
+  "extracted_photos": [
+    "1973_page_077_photo_1.webp",
+    "1973_page_077_photo_2.webp"
+  ]
+}

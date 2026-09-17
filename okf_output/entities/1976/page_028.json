@@ -1,0 +1,103 @@
+{
+  "year": "1976",
+  "page": 28,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Fr. Eugene Ward was no more than three years in Wah Yan but he made many friends among his pupils and will not be quickly for-",
+  "students": [
+    {
+      "english_name": "His work at the Observatory included aviation",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His work at the Observatory included aviation",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "english_name": "Prediction. He developed a technique for the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Prediction. He developed a technique for the",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "East Asia.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "East Asia.",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "He leaves behind his Cecilia and four",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He leaves behind his Cecilia and four",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Fr. Eugene Ward was no more than three",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Eugene Ward was no more than three",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Fr. Eugene Ward",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Eugene Ward",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Mr. Stephen Tse",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Stephen Tse",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_028_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,208 @@
+{
+  "year": "1974",
+  "page": 61,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "5. The Annual Ball was held on 8th December， '73. Ladies from St. Paul's Convent School and St. Paul's Secondary School were invited. 6. The Christmas Celebration was held on 20th,December， '73. A variety show was",
+  "students": [
+    {
+      "english_name": "School and St. Paul's Secondary School were invited.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School and St. Paul's Secondary School were invited.",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "Our school together with Ying Wa Girl's School and Salesian School organised the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our school together with Ying Wa Girl's School and Salesian School organised the",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "english_name": "Morrison House.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Morrison House.",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "The Student Council produced a 'Student Association Bag' which was for private",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Student Council produced a 'Student Association Bag' which was for private",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "A Work Camp'will be jointly-organised in the summer holidays by the Social",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Work Camp'will be jointly-organised in the summer holidays by the Social",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Activities Club and the Student Council.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Activities Club and the Student Council.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "The Student Night, a concert for all students, will be staged soon after the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Student Night, a concert for all students, will be staged soon after the",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "During the Second Term, a Printing Team was organized and the printing affairs",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the Second Term, a Printing Team was organized and the printing affairs",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "THE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "ST ARLET",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ST ARLET",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "We planned to publish six issues this",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We planned to publish six issues this",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Our last issue was a joint issue with",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our last issue was a joint issue with",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "We have to thank Rev. Fr. McGaley",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We have to thank Rev. Fr. McGaley",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "and Mr. Cheung as our advisers. For the",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. Cheung as our advisers. For the",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Activities Club and the Student Council.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Activities Club and the Student Council.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_061_full.webp",
+  "extracted_photos": []
+}

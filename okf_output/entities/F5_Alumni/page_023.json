@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 23,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Law Kai Man (羅啟文) • Lau Sik Tim (劉識添) • Law Sin Kin, Edwin (羅先建) • Law Pui Lung (羅培龍)",
+  "students": [
+    {
+      "english_name": "Law Kai Man",
+      "chinese_name": "羅啟文",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Lau Sik Tim",
+      "chinese_name": "劉識添",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Law Sin Kin, Edwin",
+      "chinese_name": "羅先建",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Law Pui Lung",
+      "chinese_name": "羅培龍",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_023_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 23,
+      "english_name": "Law Kai Man",
+      "chinese_name": "羅啟文",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 23,
+      "english_name": "Lau Sik Tim",
+      "chinese_name": "劉識添",
+      "class": "Form 5A1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 23,
+      "english_name": "Law Sin Kin, Edwin",
+      "chinese_name": "羅先建",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 23,
+      "english_name": "Law Pui Lung",
+      "chinese_name": "羅培龍",
+      "class": "Form 5B"
+    }
+  ]
+}

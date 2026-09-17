@@ -1,0 +1,314 @@
+{
+  "year": "1971",
+  "page": 125,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "KA” “A” Grade",
+  "students": [
+    {
+      "english_name": "Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grade",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "K.C. Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "K.C. Lam",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "B.C.Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "B.C.Cheung",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Grade",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Grade",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Table-Tennis Doubles Champions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-Tennis Doubles Champions",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "C.L. Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "C.L. Chiu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "S.C. Wat",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S.C. Wat",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Table-Tennis",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table-Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Singles Champions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Singles Champions",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Tennis",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tennis",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Singles Champion",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Singles Champion",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "K.K. Leung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "K.K. Leung",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "H.K. Lam",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "H.K. Lam",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "S.M. Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S.M. Chiu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "S.M. Chiu",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "S.M. Chiu",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Table-Tennis Doubles Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Table-Tennis Doubles Champions",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "event_name": "Table-Tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table-Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "event_name": "Singles Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Singles Champions",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "event_name": "Tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Tennis",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "event_name": "Singles Champion",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Singles Champion",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "event_name": "“B” Grade Table-Tennis Doubles Champions",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "“B” Grade Table-Tennis Doubles Champions",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "event_name": "“B” Grade Tabie-Tennis Team （1970-71）",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "“B” Grade Tabie-Tennis Team （1970-71）",
+        "start_char": 0,
+        "end_char": 37
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_125_full.webp",
+  "extracted_photos": [
+    "1971_page_125_photo_1.webp",
+    "1971_page_125_photo_2.webp",
+    "1971_page_125_photo_3.webp",
+    "1971_page_125_photo_4.webp",
+    "1971_page_125_photo_5.webp"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "year": "1972",
+  "page": 38,
+  "section_type": "Class Roster",
+  "class_designation": "the senior boys, from Form 4 to Form 6.",
+  "summary": "SCHOOL ANNUAL BALL '71 \"This was one of the main activities or- anised by the Student Council in the",
+  "students": [
+    {
+      "english_name": "Committee decided to invite girls from two",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Committee decided to invite girls from two",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "It had been raining all day long on",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It had been raining all day long on",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The Ball started at",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Ball started at",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "They distributed the refreshments",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They distributed the refreshments",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Share afterwards. There was not even the",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Share afterwards. There was not even the",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "After the refreshments, there was a",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After the refreshments, there was a",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Hoi. The Ball continued after this until",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hoi. The Ball continued after this until",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Our president presenting the price",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our president presenting the price",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "HO SHU FUN,PHILLIP.",
+      "chinese_name": "",
+      "class_designation": "the senior boys, from Form 4 to Form 6.",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HO SHU FUN,PHILLIP.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "eight o'clock with the presence of Mr. Yu，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "eight o'clock with the presence of Mr. Yu，",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "our Assistant Principal, and his wife to",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "our Assistant Principal, and his wife to",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Student Council Chairman, Mr. Ng Tak",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Student Council Chairman, Mr. Ng Tak",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "ther Principal, Mr. Yu and to those boys",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ther Principal, Mr. Yu and to those boys",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_038_full.webp",
+  "extracted_photos": [
+    "1972_page_038_photo_1.webp",
+    "1972_page_038_photo_2.webp"
+  ]
+}

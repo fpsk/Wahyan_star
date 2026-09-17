@@ -1,0 +1,158 @@
+{
+  "year": "1978",
+  "page": 108,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "PAST STUDENTS’ ASSOCIATION uring the year ended 3Ist May 1978, the Assoclation had successfully held the following D functions：",
+  "students": [
+    {
+      "english_name": "Lung Bank Penthouse, in honour of their brilliant achievements in the community - both",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lung Bank Penthouse, in honour of their brilliant achievements in the community - both",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "english_name": "Farewell Party at Lingnam-Club premises for our long-term valuable Council Member Mr. So",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Farewell Party at Lingnam-Club premises for our long-term valuable Council Member Mr. So",
+        "start_char": 0,
+        "end_char": 88
+      }
+    },
+    {
+      "english_name": "Hall,well-attended by graduates, past students and Jesuit Fathers, with nice entertainment",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hall,well-attended by graduates, past students and Jesuit Fathers, with nice entertainment",
+        "start_char": 0,
+        "end_char": 90
+      }
+    },
+    {
+      "english_name": "Opening Ceremony of South Bay Swimming Shed, with traditional flagphoisting by President",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Opening Ceremony of South Bay Swimming Shed, with traditional flagphoisting by President",
+        "start_char": 0,
+        "end_char": 88
+      }
+    },
+    {
+      "english_name": "Kong in conjunction with prominent Councillor Mr.Ho Hau-tong, departing from Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong in conjunction with prominent Councillor Mr.Ho Hau-tong, departing from Hong",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "It may be mentioned that our Association contributed towards the financial upkeep of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It may be mentioned that our Association contributed towards the financial upkeep of the",
+        "start_char": 0,
+        "end_char": 88
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "4. Farewell Party at Lingnam-Club premises for our long-term valuable Council Member Mr. So",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "4. Farewell Party at Lingnam-Club premises for our long-term valuable Council Member Mr. So",
+        "start_char": 0,
+        "end_char": 91
+      }
+    },
+    {
+      "club_name": "in Australia and Canada, and also our own Club-house in close liasion with the College authorities.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "in Australia and Canada, and also our own Club-house in close liasion with the College authorities.",
+        "start_char": 0,
+        "end_char": 99
+      }
+    },
+    {
+      "club_name": "with new blood-taking over from the old-timers and making our Club-house Dream a reality in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "with new blood-taking over from the old-timers and making our Club-house Dream a reality in",
+        "start_char": 0,
+        "end_char": 91
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "Kowloon; surprisingly the Kowloon Past Students emerging as Champions, closely followed",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Kowloon; surprisingly the Kowloon Past Students emerging as Champions, closely followed",
+        "start_char": 0,
+        "end_char": 87
+      }
+    },
+    {
+      "event_name": "9. Opening Ceremony of South Bay Swimming Shed, with traditional flagphoisting by President",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "9. Opening Ceremony of South Bay Swimming Shed, with traditional flagphoisting by President",
+        "start_char": 0,
+        "end_char": 91
+      }
+    }
+  ],
+  "full_page_photo": "1978_page_108_full.webp",
+  "extracted_photos": []
+}

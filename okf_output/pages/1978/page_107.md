@@ -1,0 +1,34 @@
+# Wah Yan Star 1978 - Page 107
+
+
+## Page Text Content
+
+```text
+OF THL
+THE
+NEWS
+PAST
+OF
+NEWS
+NEWS OF THF
+PAST
+NFT~
+EWS OF THE PAST :S7
+THL
+XST
+THE PA.
+PAST
+ND
+NEW
+PAST OF
+NEWS OF
+PAST
+THE
+NA
+STiWS25
+Or
+，YHE PAST
+NEV'
+CTHE PAS
+OF
+```

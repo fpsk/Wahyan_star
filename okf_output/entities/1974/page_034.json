@@ -1,0 +1,182 @@
+{
+  "year": "1974",
+  "page": 34,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "The Sith H.K. Secondasy Date： 28th to 30th Jan.， 74.",
+  "students": [
+    {
+      "english_name": "The Sith H.K. Secondasy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Sith H.K. Secondasy",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "After months of preparation, on",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "After months of preparation, on",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "The theme for this year's",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The theme for this year's",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "School Students in Hong Kong.' The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Students in Hong Kong.' The",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "This",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "This year the organising committee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year the organising committee",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "School, Ying Wa Girls' School and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School, Ying Wa Girls' School and",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wah",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Yan College H.K. Seventy-six",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan College H.K. Seventy-six",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Seminar, was present at the opening",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Seminar, was present at the opening",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Among others present were the advisers",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Among others present were the advisers",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Seminar. Mr. J. Canning, the Director",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Seminar. Mr. J. Canning, the Director",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "of the Seminar （including Fr. C. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "of the Seminar （including Fr. C. J.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_034_full.webp",
+  "extracted_photos": []
+}

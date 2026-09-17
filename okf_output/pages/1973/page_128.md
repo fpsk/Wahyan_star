@@ -1,0 +1,37 @@
+# Wah Yan Star 1973 - Page 128
+
+
+## Page Text Content
+
+```text
+Q1'ith the Compliments
+Carrier
+INTBRNATIONAL ENGINEERING LTD.
+3, East Arcade
+Tel. Office H-231007 （5 Lines）
+H-709124
+Alexandra House
+H.K. Service
+H-713123
+Hong Kong
+KIn. Service
+K-920011
+With the Compliments
+With the Compliments
+Lawrence O'Hoy
+THE OFFICE APPLIANCE CO.
+（C. M. LUl）
+（1955） LIMITED
+PASSENGER MANAGER
+AMERICAN PRESIDENT LINES
+ALEXANDRA HOUSE
+PHONE 220171
+TELEPHONE：
+18 CHATER ROAD
+PRINCE'S BUILDING
+218，
+225161 （6 LINES）
+HONG KONG
+HONG KONG
+- 126 -
+```

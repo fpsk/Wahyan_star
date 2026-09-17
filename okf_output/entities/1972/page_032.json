@@ -1,0 +1,547 @@
+{
+  "year": "1972",
+  "page": 32,
+  "section_type": "Class Roster",
+  "class_designation": "（1） 2B1 Refund",
+  "summary": "THE STOLEN PRINGE JUNIOR DRAMA COMPETITION Date",
+  "students": [
+    {
+      "english_name": "THE STOLEN PRINGE",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE STOLEN PRINGE",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "JUNIOR DRAMA COMPETITION",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JUNIOR DRAMA COMPETITION",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Date",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Date",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Long Tin, young son of the palace",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Tin, young son of the palace",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Name of The Play",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Name of The Play",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "He is",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He is",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "This play is not a children's play and",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This play is not a children's play and",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Seller",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Seller",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "THE STOLEN PRINGE",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE STOLEN PRINGE",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Justice For The Roast-Meat Seller",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Justice For The Roast-Meat Seller",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Acted by",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Acted by",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Acted By",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Acted By",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Baker",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Baker",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Wong Kam Fai",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Kam Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "The Chorus",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chorus",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Porter",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Porter",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tang Hee Wah",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang Hee Wah",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "First Citizen",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "First Citizen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Long Tin",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Long Tin",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Second Citizen",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Second Citizen",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "WingLee",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WingLee",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Third Citizen",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Third Citizen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "The Royal Nurse",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Royal Nurse",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Ah Wong",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ah Wong",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Tak Chung",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tak Chung",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Seiny John",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Seiny John",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Executioner",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Executioner",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Wong Tak Yee",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 28,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong Tak Yee",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kwok Hung",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 29,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwok Hung",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Jey",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 30,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jey",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ho Shu Fun, Philip",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 31,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Shu Fun, Philip",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Lee Mee",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lee Mee",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Ist Soldier",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 33,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ist Soldier",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "This was a very pleasant story in an",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 34,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was a very pleasant story in an",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Oriental setting. A poor porter who has",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 35,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Oriental setting. A poor porter who has",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Kwong Chi Keung",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 36,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kwong Chi Keung",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Meat Seller's goose. The meat vender",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 37,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meat Seller's goose. The meat vender",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "The Stolen Prince",
+      "chinese_name": "",
+      "class_designation": "（1） 2B1 Refund",
+      "seat_number": 38,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Stolen Prince",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Form Master: Mr. Yuen",
+      "chinese_name": "",
+      "title_or_role": "Form Master",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Form Master: Mr. Yuen",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Form Master: Mr. Adrian Lee",
+      "chinese_name": "",
+      "title_or_role": "Form Master",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Form Master: Mr. Adrian Lee",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Producer:Mr.Yuen",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Producer:Mr.Yuen",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_032_full.webp",
+  "extracted_photos": [
+    "1972_page_032_photo_1.webp"
+  ]
+}

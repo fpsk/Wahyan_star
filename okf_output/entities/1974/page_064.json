@@ -1,0 +1,208 @@
+{
+  "year": "1974",
+  "page": 64,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Social Activities Club Hon. Adviser Rev. Fr. McGaley, S.J.",
+  "students": [
+    {
+      "english_name": "Social Activities Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Activities Club",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Vice-Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice-Chairman",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Social Convenor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Convenor",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Secretary",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Ireasurer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ireasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Tang King Po College and the Diocesan Girls' School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang King Po College and the Diocesan Girls' School.",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "TRE DUCHESS OF KENT CHILDREN'S ORTHOPAEDIC BOSPITAL AND CONVAILESCBNT HOME",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TRE DUCHESS OF KENT CHILDREN'S ORTHOPAEDIC BOSPITAL AND CONVAILESCBNT HOME",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Orthpaedic Hospital and Convalescent Home. Besides, we visited the Wah Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Orthpaedic Hospital and Convalescent Home. Besides, we visited the Wah Hong",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "english_name": "Home for the Aged with girls from Sacred Heart Canossian College. A joint visit",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Home for the Aged with girls from Sacred Heart Canossian College. A joint visit",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Hon. Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Hon. Adviser",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Rev. Fr. McGaley, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. McGaley, S.J.",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Social Activities Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Social Activities Club",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "club_name": "We had 100 members and our club was run successtully.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "We had 100 members and our club was run successtully.",
+        "start_char": 0,
+        "end_char": 53
+      }
+    },
+    {
+      "club_name": "of our club and the Social Service Group visited the Duchess of Kent Children's",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of our club and the Social Service Group visited the Duchess of Kent Children's",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1974_page_064_full.webp",
+  "extracted_photos": [
+    "1974_page_064_photo_1.webp"
+  ]
+}

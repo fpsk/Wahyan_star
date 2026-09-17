@@ -1,0 +1,157 @@
+{
+  "year": "1972",
+  "page": 188,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "TAILOB MILLING 110, Wellington Street, 2nd Floor，",
+  "students": [
+    {
+      "english_name": "TAILOB",
+      "chinese_name": "洋玲美",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TAILOB 洋玲美",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "MILLING",
+      "chinese_name": "址地",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MILLING 址地",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "樓三號",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG 樓三號",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Do You Wish",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Do You Wish",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Have Yow Travel",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Have Yow Travel",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Let's Solee Them For Yow",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Let's Solee Them For Yow",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Mrs. Agnes Ng International Tourist Service, Ltd.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mrs. Agnes Ng International Tourist Service, Ltd.",
+        "start_char": 0,
+        "end_char": 49
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "PRINCE'S BUILDING",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 110,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PRINCE'S BUILDING",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "KOWLOON",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KOWLOON",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "HONG KONG HOTEL ARCADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 117,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG HOTEL ARCADE",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_188_full.webp",
+  "extracted_photos": []
+}

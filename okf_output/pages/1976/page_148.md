@@ -1,0 +1,65 @@
+# Wah Yan Star 1976 - Page 148
+
+## Extracted Photos & Figures
+
+![1976 Page 148 Photo](../photos/1976_page_148_photo_1.webp)
+
+## Page Text Content
+
+```text
+OVER 60
+SUBSIDIARY & ASSOCIATE
+Tais Tarn
+GRBUP
+COMPANIES
+IN 11 COUNTRIES
+Established 1886
+SUPERMARKETS
+DAIRY PRODUCTS
+With Compliments
+AIRCRAFT
+WHOLESALE
+CATERING
+小
+ICE & COLD
+WINES & SPIRITS
+*
+STORAGE
+RESTAURANTS &
+VICTUALLING
+SNACK BARS
+HEAD OFFICE：
+PRIVATE &
+A.S. Watson & Co. LTD.
+WINDSOR HOUSE，
+INDUSTRIAL
+DES VOEUX RD.，C.
+CATERING
+TEL:5-232111
+大地旅運社
+GOOD EARTH TRAVEL SERVICE
+24年歷史——信譽昭著
+台
+泰
+馬
+日本九洲團
+服
+心
+策
+谷地
+代
+價
+廉
+型
+大
+業
+專
+運
+輸
+宜
+地址：
+厦
+二樓120-124室
+—233260•
+-233257•5-253776• 5—227871
+```

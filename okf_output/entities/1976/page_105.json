@@ -1,0 +1,263 @@
+{
+  "year": "1976",
+  "page": 105,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Ieft： Right Hung Kaw Yung, Edward",
+  "students": [
+    {
+      "english_name": "Right",
+      "chinese_name": "洪玖瑩",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Right 洪玖瑩",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "Hung Kaw Yung, Edward",
+      "chinese_name": "李保羅",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hung Kaw Yung, Edward 李保羅",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Paul Lee",
+      "chinese_name": "何志明",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Paul Lee 何志明",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Mun",
+      "chinese_name": "李盈滿",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Mun 李盈滿",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Ho Chi Ning",
+      "chinese_name": "劉永成",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Chi Ning 劉永成",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Li Yig",
+      "chinese_name": "廖志瓜",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Li Yig 廖志瓜",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Lau Wing Shing, Denis",
+      "chinese_name": "何榮棠",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lau Wing Shing, Denis 何榮棠",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Liu Chi Shing",
+      "chinese_name": "盧昭信",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Liu Chi Shing 盧昭信",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Lo Chiu Shun",
+      "chinese_name": "盧釗純",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Chiu Shun 盧釗純",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Ho Wing Tong",
+      "chinese_name": "黃兆雄",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Wing Tong 黃兆雄",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Kuen Kwok",
+      "chinese_name": "蘇權國",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kuen Kwok 蘇權國",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Chan Kwok Fan",
+      "chinese_name": "陳國藩",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chan Kwok Fan 陳國藩",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Siu Hug",
+      "chinese_name": "謝燜輝",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Siu Hug 謝燜輝",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Wong",
+      "chinese_name": "朱長江",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wong 朱長江",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Jacky Pang",
+      "chinese_name": "馮冠游",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Jacky Pang 馮冠游",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Ise Ping Fai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ise Ping Fai",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Cheong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cheong",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Fung Koon Yau",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung Koon Yau",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong",
+        "start_char": 0,
+        "end_char": 4
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1976_page_105_full.webp",
+  "extracted_photos": [
+    "1976_page_105_photo_1.webp"
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "year": "1979",
+  "page": 43,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "TENNIS CLUB Adviser: Mr. F.W. Ip Chairman: Kwan Ping Yiu",
+  "students": [
+    {
+      "english_name": "TENNIS CLUB",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TENNIS CLUB",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "We won the Division",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We won the Division",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "O NCE again a bright year for the Tennis Chub.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "O NCE again a bright year for the Tennis Chub.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Championship in the Interschool League with an unbeaten record. More-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Championship in the Interschool League with an unbeaten record. More-",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "english_name": "As usual, two tournaments were organized and both were open to all Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As usual, two tournaments were organized and both were open to all Wah",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "Yan boys. Prizes were provided by our school and our club. A flmshow",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan boys. Prizes were provided by our school and our club. A flmshow",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "english_name": "Moreover, a Student-Teacher",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Moreover, a Student-Teacher",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Friendly Tournament was held in March as an item in the programme of the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Friendly Tournament was held in March as an item in the programme of the",
+        "start_char": 0,
+        "end_char": 72
+      }
+    },
+    {
+      "english_name": "Student Festival. We played well but the teachers are all skilful players of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Festival. We played well but the teachers are all skilful players of",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "english_name": "Certain dicisions",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Certain dicisions",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "We are looking forward to having another successful year.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We are looking forward to having another successful year.",
+        "start_char": 0,
+        "end_char": 57
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser: Mr. F.W. Ip",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser: Mr. F.W. Ip",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Instead of Fr. Farren, we have Mr. Anthony Ip as our Adviser and here",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Instead of Fr. Farren, we have Mr. Anthony Ip as our Adviser and here",
+        "start_char": 0,
+        "end_char": 69
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "TENNIS CLUB",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "TENNIS CLUB",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "club_name": "students and especially for our club members.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "students and especially for our club members.",
+        "start_char": 0,
+        "end_char": 45
+      }
+    },
+    {
+      "club_name": "Yan boys. Prizes were provided by our school and our club. A flmshow",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Yan boys. Prizes were provided by our school and our club. A flmshow",
+        "start_char": 0,
+        "end_char": 68
+      }
+    },
+    {
+      "club_name": "club.",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "club.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "TENNIS CLUB",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "TENNIS CLUB",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "event_name": "O NCE again a bright year for the Tennis Chub.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "O NCE again a bright year for the Tennis Chub.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "event_name": "Championship in the Interschool League with an unbeaten record. More-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Championship in the Interschool League with an unbeaten record. More-",
+        "start_char": 0,
+        "end_char": 69
+      }
+    },
+    {
+      "event_name": "ment,they seemed to have little interest in them. A Tennis Training Course",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "ment,they seemed to have little interest in them. A Tennis Training Course",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "event_name": "to acquire basic skill in tennis and to foster students' interest in tennis.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "to acquire basic skill in tennis and to foster students' interest in tennis.",
+        "start_char": 0,
+        "end_char": 76
+      }
+    },
+    {
+      "event_name": "and to foster students'interest in tennis.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "and to foster students'interest in tennis.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    }
+  ],
+  "full_page_photo": "1979_page_043_full.webp",
+  "extracted_photos": [
+    "1979_page_043_photo_1.webp",
+    "1979_page_043_photo_2.webp",
+    "1979_page_043_photo_3.webp"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 18,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Ko Pui Yung (高培容) • Hung Chi Ling, Samuel (洪志凌) • Kong Chi Hsien, Eugene (江志賢) • Keung Shui Cheung (姜瑞昌)",
+  "students": [
+    {
+      "english_name": "Ko Pui Yung",
+      "chinese_name": "高培容",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Hung Chi Ling, Samuel",
+      "chinese_name": "洪志凌",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Kong Chi Hsien, Eugene",
+      "chinese_name": "江志賢",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Keung Shui Cheung",
+      "chinese_name": "姜瑞昌",
+      "class_designation": "Form 5A1 (1974-75)",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_018_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 18,
+      "english_name": "Ko Pui Yung",
+      "chinese_name": "高培容",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 18,
+      "english_name": "Hung Chi Ling, Samuel",
+      "chinese_name": "洪志凌",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 18,
+      "english_name": "Kong Chi Hsien, Eugene",
+      "chinese_name": "江志賢",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 18,
+      "english_name": "Keung Shui Cheung",
+      "chinese_name": "姜瑞昌",
+      "class": "Form 5A1"
+    }
+  ]
+}

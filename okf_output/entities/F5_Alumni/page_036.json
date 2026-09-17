@@ -1,0 +1,90 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 36,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Tong Ping Fai, Vincent (唐炳輝) • Tse Yue Kit (謝以潔) • Tsang Chung Nin, Tony (曾松年) • Tsui Gar Tak (崔家德)",
+  "students": [
+    {
+      "english_name": "Tong Ping Fai, Vincent",
+      "chinese_name": "唐炳輝",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 25,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Tse Yue Kit",
+      "chinese_name": "謝以潔",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 27,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Tsang Chung Nin, Tony",
+      "chinese_name": "曾松年",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 26,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Tsui Gar Tak",
+      "chinese_name": "崔家德",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 32,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "徐嘉德"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_036_full.webp",
+  "extracted_photos": [],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 36,
+      "english_name": "Tong Ping Fai, Vincent",
+      "chinese_name": "唐炳輝",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 36,
+      "english_name": "Tse Yue Kit",
+      "chinese_name": "謝以潔",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 36,
+      "english_name": "Tsang Chung Nin, Tony",
+      "chinese_name": "曾松年",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 36,
+      "english_name": "Tsui Gar Tak",
+      "chinese_name": "崔家德",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 36,
+      "english_name": "Tsui Gar Tak",
+      "chinese_name": "徐嘉德",
+      "class": "Form 5B1"
+    }
+  ]
+}

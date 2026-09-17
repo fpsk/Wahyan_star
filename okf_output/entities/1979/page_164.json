@@ -1,0 +1,29 @@
+{
+  "year": "1979",
+  "page": 164,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "System SPA東亞牌 集會音响器材",
+  "students": [
+    {
+      "english_name": "System",
+      "chinese_name": "干濕電均備",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "System 干濕電均備",
+        "start_char": 0,
+        "end_char": 6
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_164_full.webp",
+  "extracted_photos": [
+    "1979_page_164_photo_1.webp"
+  ]
+}

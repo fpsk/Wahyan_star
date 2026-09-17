@@ -1,0 +1,170 @@
+{
+  "year": "1971",
+  "page": 2,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "EDITORIAL BOARD Chairman ：Henry Yeung Chiu Fat",
+  "students": [
+    {
+      "english_name": "EDITORIAL BOARD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL BOARD",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "English Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "English Editor",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Chinese Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Editor",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Asst. Editors",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Asst. Editors",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Francis Lo Chi Wai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Lo Chi Wai",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Ho Kin Wai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ho Kin Wai",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Lai Jak Fun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Jak Fun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Sports Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Editor",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Thomas Tong Nai Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Thomas Tong Nai Kong",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Stephen Lam Sui Lun",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Stephen Lam Sui Lun",
+        "start_char": 0,
+        "end_char": 19
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "：Rev. Fr. P. Grogan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "：Rev. Fr. P. Grogan, S.J.",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_002_full.webp",
+  "extracted_photos": []
+}

@@ -1,0 +1,144 @@
+{
+  "year": "1973",
+  "page": 50,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "- 48 — PTO Jathma neus: He walacke t lkht",
+  "students": [
+    {
+      "english_name": "PTO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PTO",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "PowkT.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PowkT.",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Nationad Lalr",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Nationad Lalr",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Aeenfack from aNscasch pligamtnc",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Aeenfack from aNscasch pligamtnc",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Kalamayco Caalige Hya-cs geniw, Nes gut",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kalamayco Caalige Hya-cs geniw, Nes gut",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Uelagt,Toting aend a tolay.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Uelagt,Toting aend a tolay.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "FrantiL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FrantiL",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "Deas",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Deas",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Pleare",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pleare",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Ediko d Sla",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ediko d Sla",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1973_page_050_full.webp",
+  "extracted_photos": []
+}

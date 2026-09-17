@@ -1,0 +1,286 @@
+{
+  "year": "1974",
+  "page": 2,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "THE EDITORIAL BOARD Chief Editor ：Garison A. Leung Chung Chu",
+  "students": [
+    {
+      "english_name": "THE EDITORIAL BOARD",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE EDITORIAL BOARD",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Chief Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chief Editor",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Executive Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Executive Editor",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "English Editorial Supervisor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "English Editorial Supervisor",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Chinese Editorial Supervisor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Editorial Supervisor",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "English Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "English Editor",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Orlando Ricardo Hung Chi Hay",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Orlando Ricardo Hung Chi Hay",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Chinese Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Editor",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Assistant Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Assistant Editor",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Francis Chu Siu Chuen",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis Chu Siu Chuen",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "John Hui On Ting",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "John Hui On Ting",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "Roy Yu Mun Kee",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Roy Yu Mun Kee",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Wan Shiu Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wan Shiu Man",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Sports Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Editor",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Assistant Sports Editor",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Assistant Sports Editor",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Vincent Yu Wing Cheung",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vincent Yu Wing Cheung",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Geoffrey Tsoi Chiu Sang",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Geoffrey Tsoi Chiu Sang",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Johnson Leung Pik Fai",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Johnson Leung Pik Fai",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Art Designer",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Art Designer",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Fr. P.Grogan, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr. P.Grogan, S.J.",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Mr. Sixtus Cheung Man Sun",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Sixtus Cheung Man Sun",
+        "start_char": 0,
+        "end_char": 25
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_002_full.webp",
+  "extracted_photos": []
+}

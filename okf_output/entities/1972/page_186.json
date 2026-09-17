@@ -1,0 +1,40 @@
+{
+  "year": "1972",
+  "page": 186,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "With the Compliments CATHOLIC CENTRE 華比銀行",
+  "students": [
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "華比銀行",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments 華比銀行",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "CATHOLIC CENTRE",
+      "chinese_name": "香港分行",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CATHOLIC CENTRE 香港分行",
+        "start_char": 0,
+        "end_char": 15
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_186_full.webp",
+  "extracted_photos": []
+}

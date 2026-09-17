@@ -1,0 +1,42 @@
+{
+  "year": "1974",
+  "page": 16,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "Mr. FRANCIS NG LUT WAI Francis Ng had almost reached 60 when he died in August 1973. As a boy he was at school in St. Joseph's College and later in La Salle. He did teacher training and",
+  "students": [
+    {
+      "english_name": "Francis has left his family and all of us the example of a good life which is more",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Francis has left his family and all of us the example of a good life which is more",
+        "start_char": 0,
+        "end_char": 82
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. FRANCIS NG LUT WAI",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. FRANCIS NG LUT WAI",
+        "start_char": 0,
+        "end_char": 22
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_016_full.webp",
+  "extracted_photos": [
+    "1974_page_016_photo_1.webp"
+  ]
+}

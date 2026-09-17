@@ -1,0 +1,486 @@
+{
+  "year": "1971",
+  "page": 98,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Chinese Society Chinese Debate with MSS turned up. The participants were judged",
+  "students": [
+    {
+      "english_name": "Chinese Society",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Society",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Chinese Debate with MSS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Debate with MSS",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "The Chinese Society, although only six",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chinese Society, although only six",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "A great varlety of activities were organised",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A great varlety of activities were organised",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "In the middle of November, the Cine",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the middle of November, the Cine",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Club with the Chinese Society organised a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Club with the Chinese Society organised a",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "At the very beginning of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "At the very beginning of",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Guests from Sacred Heart Canossian",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Guests from Sacred Heart Canossian",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Verse Speaking Competition.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Verse Speaking Competition.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "College and Raimondi College were invited.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College and Raimondi College were invited.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "The atmosphere was extremely friendly.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The atmosphere was extremely friendly.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "A comic joke competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A comic joke competition",
+        "start_char": 0,
+        "end_char": 24
+      }
+    },
+    {
+      "english_name": "Winson",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Winson",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Tang, Poon Kin",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tang, Poon Kin",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Sum, Chow Wing Yat, Chan Hung Chi, Ho",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sum, Chow Wing Yat, Chan Hung Chi, Ho",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Chi Wai, Lam Ching Fung and Kan Man",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chi Wai, Lam Ching Fung and Kan Man",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Wai were the winners.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Wai were the winners.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Many people want to make the Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Many people want to make the Chinese",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "We helped in this cam-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We helped in this cam-",
+        "start_char": 0,
+        "end_char": 22
+      }
+    },
+    {
+      "english_name": "Immediately after the previous com-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 20,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Immediately after the previous com-",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "This was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 21,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This was",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 22,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "The results were satisfactory.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 23,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The results were satisfactory.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "Hundreds of badges and signatures were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 24,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Hundreds of badges and signatures were",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "by Mr. P. L. Yu, our Assistant Principal，",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "by Mr. P. L. Yu, our Assistant Principal，",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "and Mr. S. S. Chan. Gary Mak, Francis Lo",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. S. S. Chan. Gary Mak, Francis Lo",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "junior, intermediate and senior, Mr. P. L.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "junior, intermediate and senior, Mr. P. L.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Yu, our Assistant Principal, Mr. P. K. Ho",
+      "chinese_name": "",
+      "title_or_role": "Principal / Headmaster",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Yu, our Assistant Principal, Mr. P. K. Ho",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "and Mr. M. S. Cheung had kindly agreed",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "and Mr. M. S. Cheung had kindly agreed",
+        "start_char": 0,
+        "end_char": 38
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Chinese Society",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Chinese Society",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "club_name": "The Chinese Society, although only six",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "The Chinese Society, although only six",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "ful year. The Society had an executive com-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "ful year. The Society had an executive com-",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "by the Chinese Society; they were, quite in-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "by the Chinese Society; they were, quite in-",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "club_name": "Club with the Chinese Society organised a",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Club with the Chinese Society organised a",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "year, the Chinese Society organised a Chi-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "year, the Chinese Society organised a Chi-",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "club_name": "together with the Chinese Society. No one",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "together with the Chinese Society. No one",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "petition,the society proudly presented an",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "petition,the society proudly presented an",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_098_full.webp",
+  "extracted_photos": [
+    "1971_page_098_photo_1.webp"
+  ]
+}

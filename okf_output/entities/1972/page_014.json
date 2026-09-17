@@ -1,0 +1,42 @@
+{
+  "year": "1972",
+  "page": 14,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "OBITUARY Rev. Fr.John Turner,S.J. Father Turner died at Wah Yan College on Dec. 2Ist 1971, aged 62. He had been on",
+  "students": [
+    {
+      "english_name": "OBITUARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "OBITUARY",
+        "start_char": 0,
+        "end_char": 8
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Rev. Fr.John Turner,S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Rev. Fr.John Turner,S.J.",
+        "start_char": 0,
+        "end_char": 24
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1972_page_014_full.webp",
+  "extracted_photos": [
+    "1972_page_014_photo_1.webp"
+  ]
+}

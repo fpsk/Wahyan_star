@@ -1,0 +1,467 @@
+{
+  "year": "1971",
+  "page": 15,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "During the war he was in Ireland The Unfortunate Beauty： He came back to Wah Yan",
+  "students": [
+    {
+      "english_name": "During the war he was in Ireland",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "During the war he was in Ireland",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "The Ugly Beauty",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Ugly Beauty",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "Sheridan and the change over to calling",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sheridan and the change over to calling",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Chinese Operas in English. As soon as the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese Operas in English. As soon as the",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "Happy Though Married.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Happy Though Married.",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Took and other publications, a judge in the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Took and other publications, a judge in the",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Asian Film Festivals, director of the Hong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Asian Film Festivals, director of the Hong",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Kong Stage Club dramas, director of Gilbert",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong Stage Club dramas, director of Gilbert",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "He was a joy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was a joy",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "It delighted both foreign and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It delighted both foreign and",
+        "start_char": 0,
+        "end_char": 29
+      }
+    },
+    {
+      "english_name": "The foreigners liked it",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The foreigners liked it",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "Chinese audiences.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chinese audiences.",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "We miss him a",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We miss him a",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "The Chinese",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Chinese",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "It now at any tmeShould think of him,T",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It now at any tmeShould think of him,T",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "WONG CHIN WAH",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "WONG CHIN WAH",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Operas",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Operas",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Yan Dramatic Society has presented two",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yan Dramatic Society has presented two",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Secondary School.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 19,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secondary School.",
+        "start_char": 0,
+        "end_char": 17
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "after the war as \"Father”Sheridan.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "after the war as \"Father”Sheridan.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "him Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "him Mr.",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "him Father Sheridan was, for some time，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "him Father Sheridan was, for some time，",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Fr. Sheridan was always an ardent",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Sheridan was always an ardent",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "Fr. Sheridan thought，",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Fr. Sheridan thought，",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "As a person, Fr. Sheridan was a friend",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "As a person, Fr. Sheridan was a friend",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "could be considered dull with Fr. Sheridan.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "could be considered dull with Fr. Sheridan.",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "english_name": "Yan Dramatic Society with Fr. Sheridan as",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Yan Dramatic Society with Fr. Sheridan as",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "ten, all by Fr. Sheridan, of course; songs",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "ten, all by Fr. Sheridan, of course; songs",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "In memory of Fr. Sheridan, the Wah",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "In memory of Fr. Sheridan, the Wah",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Kong Stage Club dramas, director of Gilbert",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Kong Stage Club dramas, director of Gilbert",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "formally founded a society called the Wah",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "formally founded a society called the Wah",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "club_name": "when the society has",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "when the society has",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "club_name": "this period the society has been performing",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "this period the society has been performing",
+        "start_char": 0,
+        "end_char": 43
+      }
+    },
+    {
+      "club_name": "Yan Dramatic Society has presented two",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Yan Dramatic Society has presented two",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "club_name": "of Commerce; the Lions Club; the Kowloon",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of Commerce; the Lions Club; the Kowloon",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "club_name": "Rotary Club hospitals; etc. etc. The operas，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Rotary Club hospitals; etc. etc. The operas，",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1971_page_015_full.webp",
+  "extracted_photos": []
+}

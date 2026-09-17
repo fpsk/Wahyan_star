@@ -1,0 +1,120 @@
+{
+  "year": "1973",
+  "page": 35,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "JOINT SCHOOL HISTORY EXIIBITION Sunday morning, 1lth March by Mr. The Joint School History Exhibition",
+  "students": [
+    {
+      "english_name": "JOINT SCHOOL HISTORY EXIIBITION",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "JOINT SCHOOL HISTORY EXIIBITION",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "The Joint School History Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Joint School History Exhibition",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "Parry, Assistant Director of the Education",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Parry, Assistant Director of the Education",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "Department. The Exhibition attracted over",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Department. The Exhibition attracted over",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "It was organised by the History",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1973,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was organised by the History",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Sacred Heart Canossian College, Ying Wah",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sacred Heart Canossian College, Ying Wah",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Sunday morning, 1lth March by Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Sunday morning, 1lth March by Mr.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Clubs of St. Francis Canossian College，",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Clubs of St. Francis Canossian College，",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1973_page_035_full.webp",
+  "extracted_photos": [
+    "1973_page_035_photo_1.webp"
+  ]
+}

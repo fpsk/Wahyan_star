@@ -1,0 +1,71 @@
+{
+  "year": "1975",
+  "page": 91,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "Bowling Team Our team consisted of 4 members. We were among the eight that represented South China bowling team to meet the Philippine Youth team that visited Hong Kong",
+  "students": [
+    {
+      "english_name": "Bowling Team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bowling Team",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "South China bowling team to meet the Philippine Youth team that visited Hong Kong",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "South China bowling team to meet the Philippine Youth team that visited Hong Kong",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "english_name": "It was a gloomy year for the ping pong Players. The",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was a gloomy year for the ping pong Players. The",
+        "start_char": 0,
+        "end_char": 51
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "could win the championship if one of the players had been careful enough. We had",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "could win the championship if one of the players had been careful enough. We had",
+        "start_char": 0,
+        "end_char": 80
+      }
+    }
+  ],
+  "full_page_photo": "1975_page_091_full.webp",
+  "extracted_photos": [
+    "1975_page_091_photo_1.webp",
+    "1975_page_091_photo_2.webp"
+  ]
+}

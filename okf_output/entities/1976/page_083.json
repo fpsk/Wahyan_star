@@ -1,0 +1,228 @@
+{
+  "year": "1976",
+  "page": 83,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "Sports Sports Review of the Year Interschool：",
+  "students": [
+    {
+      "english_name": "Sports",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Sports Review of the Year",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Review of the Year",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Athletics",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Athletics",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Badminton",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Basketball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Basketball",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Football",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Football",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Handball",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Handball",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Swimming",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Table Tennis",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Table Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Sports Day",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Day",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "Swimming Gala",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Swimming Gala",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Results",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Results",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Message from the Sports Master",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Message from the Sports Master",
+        "start_char": 0,
+        "end_char": 30
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "Swimming",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "event_name": "Table Tennis",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Table Tennis",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "event_name": "Swimming Gala",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "Swimming Gala",
+        "start_char": 0,
+        "end_char": 13
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_083_full.webp",
+  "extracted_photos": [
+    "1976_page_083_photo_1.webp"
+  ]
+}

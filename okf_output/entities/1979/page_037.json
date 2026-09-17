@@ -1,0 +1,55 @@
+{
+  "year": "1979",
+  "page": 37,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "。 KONG INTERSE",
+  "students": [
+    {
+      "english_name": "KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "KONG",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "INTERSE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "INTERSE",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "CHACPIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHACPIONS",
+        "start_char": 0,
+        "end_char": 9
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_037_full.webp",
+  "extracted_photos": [
+    "1979_page_037_photo_1.webp"
+  ]
+}

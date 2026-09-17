@@ -1,0 +1,148 @@
+{
+  "year": "1976",
+  "page": 66,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Bridge Club ： S.P. Tam Adviser",
+  "students": [
+    {
+      "english_name": "Bridge Club",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bridge Club",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Chairman",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chairman",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Its aim was to provide training in bridge playing.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Its aim was to provide training in bridge playing.",
+        "start_char": 0,
+        "end_char": 50
+      }
+    },
+    {
+      "english_name": "It was held from March to May once every week, and prizes were distri-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was held from March to May once every week, and prizes were distri-",
+        "start_char": 0,
+        "end_char": 70
+      }
+    },
+    {
+      "english_name": "Student Fete Tournament",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Fete Tournament",
+        "start_char": 0,
+        "end_char": 23
+      }
+    },
+    {
+      "english_name": "It provided a parctice for the members and the non-members.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It provided a parctice for the members and the non-members.",
+        "start_char": 0,
+        "end_char": 59
+      }
+    },
+    {
+      "english_name": "Its aim was to encourage the members to participate in open tourna-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Its aim was to encourage the members to participate in open tourna-",
+        "start_char": 0,
+        "end_char": 67
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Adviser",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Adviser",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "activities": [
+    {
+      "club_name": "Bridge Club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Bridge Club",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "given to the champion pair.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "given to the champion pair.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_066_full.webp",
+  "extracted_photos": [
+    "1976_page_066_photo_1.webp"
+  ]
+}

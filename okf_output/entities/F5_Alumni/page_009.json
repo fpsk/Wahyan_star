@@ -1,0 +1,92 @@
+{
+  "year": "1975_F5_Alumni",
+  "page": 9,
+  "section_type": "Graduation Roster / Alumni Profile",
+  "class_designation": null,
+  "summary": "Form 5 Alumni Profiles: Chan Man Shun (陳文信) • Au Kin Kwok (區建國) • Chan Chi Ho (陳志豪) • Chan Pak Chuen (陳伯傳)",
+  "students": [
+    {
+      "english_name": "Chan Man Shun",
+      "chinese_name": "陳文信",
+      "class_designation": "Form 5A (1974-75)",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Au Kin Kwok",
+      "chinese_name": "區建國",
+      "class_designation": "Form 5B (1974-75)",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chan Chi Ho",
+      "chinese_name": "陳志豪",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null
+    },
+    {
+      "english_name": "Chan Pak Chuen",
+      "chinese_name": "陳伯傳",
+      "class_designation": "Form 5B1 (1974-75)",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": true,
+      "role": null,
+      "aliases_zh": [
+        "陳伯傅"
+      ]
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "F5_Alumni_page_009_full.webp",
+  "extracted_photos": [
+    "F5_Alumni_page_009_photo_1.webp"
+  ],
+  "verified_names": [
+    {
+      "year": "1975_F5_Alumni",
+      "page": 9,
+      "english_name": "Chan Man Shun",
+      "chinese_name": "陳文信",
+      "class": "Form 5A"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 9,
+      "english_name": "Au Kin Kwok",
+      "chinese_name": "區建國",
+      "class": "Form 5B"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 9,
+      "english_name": "Chan Chi Ho",
+      "chinese_name": "陳志豪",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 9,
+      "english_name": "Chan Pak Chuen",
+      "chinese_name": "陳伯傳",
+      "class": "Form 5B1"
+    },
+    {
+      "year": "1975_F5_Alumni",
+      "page": 9,
+      "english_name": "Chan Pak Chuen",
+      "chinese_name": "陳伯傅",
+      "class": "Form 5B1"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "year": "1971",
+  "page": 13,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Reverend Father Rory Maguire, S. J. WAHYA）： $2",
+  "students": [
+    {
+      "english_name": "Rory Magure, S.J. came as a great shock",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Rory Magure, S.J. came as a great shock",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "In a very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In a very",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "He was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Cork.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Cork.",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "He was much liked by teachers and pupils",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "He was much liked by teachers and pupils",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Kong shortly after the second world war",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kong shortly after the second world war",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "There he",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "There he",
+        "start_char": 0,
+        "end_char": 8
+      }
+    },
+    {
+      "english_name": "Studies for a number of years.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Studies for a number of years.",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "His years",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "His years",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Sports Association.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Sports Association.",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "We missed him greatly and now we",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We missed him greatly and now we",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Anthony Tai.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Anthony Tai.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Reverend Father Rory Maguire, S. J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Reverend Father Rory Maguire, S. J.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "The news of the death of Rev. Fr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "The news of the death of Rev. Fr.",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "autumn of 1949 and Father Maguire, S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "autumn of 1949 and Father Maguire, S.J.",
+        "start_char": 0,
+        "end_char": 39
+      }
+    },
+    {
+      "english_name": "Father Maguire, S.J. came to Hong",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father Maguire, S.J. came to Hong",
+        "start_char": 0,
+        "end_char": 33
+      }
+    },
+    {
+      "english_name": "When the Jesuit Fathers decided to",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "When the Jesuit Fathers decided to",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_013_full.webp",
+  "extracted_photos": [
+    "1971_page_013_photo_1.webp"
+  ]
+}

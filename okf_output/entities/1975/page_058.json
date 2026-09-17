@@ -1,0 +1,172 @@
+{
+  "year": "1975",
+  "page": 58,
+  "section_type": "Class Roster",
+  "class_designation": "： Douglas Kong Tat Phone （L6A）",
+  "summary": "STUDENT COUNCIL 2.19 President",
+  "students": [
+    {
+      "english_name": "STUDENT COUNCIL",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "STUDENT COUNCIL",
+        "start_char": 0,
+        "end_char": 15
+      }
+    },
+    {
+      "english_name": "President",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "President",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Vice President",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Vice President",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Social Correspondent",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Social Correspondent",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Programme Secretary",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Programme Secretary",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Kecording Secretary",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kecording Secretary",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Secretary of General Affairs",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Secretary of General Affairs",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "Treasurer",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Treasurer",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "Number of Councillors",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Number of Councillors",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "November.",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "November.",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "November while the Junior Section was held in April.",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "November while the Junior Section was held in April.",
+        "start_char": 0,
+        "end_char": 52
+      }
+    },
+    {
+      "english_name": "Student Council of Ying Wa Girls' College, Maryknoll Sisters' School, Sacred Heart",
+      "chinese_name": "",
+      "class_designation": "： Douglas Kong Tat Phone （L6A）",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Council of Ying Wa Girls' College, Maryknoll Sisters' School, Sacred Heart",
+        "start_char": 0,
+        "end_char": 82
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_058_full.webp",
+  "extracted_photos": [
+    "1975_page_058_photo_1.webp"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "year": "1974",
+  "page": 79,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "CHRISTIAN LIFE COMMUNITY（Junior） Ecclesiastical Assistant: Rev. Fr. Brosnan S.J. Prefect: Paulus Lau （4A）",
+  "students": [
+    {
+      "english_name": "Meetings were held weekly in which an instruction course was conducted by the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Meetings were held weekly in which an instruction course was conducted by the",
+        "start_char": 0,
+        "end_char": 77
+      }
+    },
+    {
+      "english_name": "Christmas carolling, chapel choir, lunch time concerts, holy hours, visit to hospital",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Christmas carolling, chapel choir, lunch time concerts, holy hours, visit to hospital",
+        "start_char": 0,
+        "end_char": 85
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Ecclesiastical Assistant: Rev. Fr. Brosnan S.J.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Ecclesiastical Assistant: Rev. Fr. Brosnan S.J.",
+        "start_char": 0,
+        "end_char": 47
+      }
+    },
+    {
+      "english_name": "given by Rev. Fr. Luke Tsui.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "given by Rev. Fr. Luke Tsui.",
+        "start_char": 0,
+        "end_char": 28
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1974_page_079_full.webp",
+  "extracted_photos": [
+    "1974_page_079_photo_1.webp"
+  ]
+}

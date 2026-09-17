@@ -1,0 +1,187 @@
+{
+  "year": "1979",
+  "page": 100,
+  "section_type": "Class Roster",
+  "class_designation": "UPPER SIX ARTS",
+  "summary": "UPPER SIX ARTS L to R: To Shu Tak, Alfred Pang Yan Yan, Edward",
+  "students": [
+    {
+      "english_name": "Pang Yan Yan, Edward",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Pang Yan Yan, Edward",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Chow Sau Yan, Stephen",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Chow Sau Yan, Stephen",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lai Sau Cheong,Simon",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Sau Cheong,Simon",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Lam Ngok Sum, Antiony",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lam Ngok Sum, Antiony",
+        "start_char": 0,
+        "end_char": 21
+      }
+    },
+    {
+      "english_name": "Lai Tze Ciuen",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lai Tze Ciuen",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Choi Kin Fai, Edward",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Choi Kin Fai, Edward",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "Fung King Tak",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fung King Tak",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Tam Lap Kun",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tam Lap Kun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Poon Ying Lun",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Poon Ying Lun",
+        "start_char": 0,
+        "end_char": 13
+      }
+    },
+    {
+      "english_name": "Leung Wing Wah",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leung Wing Wah",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Lo Wing Sun",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Lo Wing Sun",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Yeung King Wai",
+      "chinese_name": "",
+      "class_designation": "UPPER SIX ARTS",
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Yeung King Wai",
+        "start_char": 0,
+        "end_char": 14
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "Mr. Chau Sui Hei",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Mr. Chau Sui Hei",
+        "start_char": 0,
+        "end_char": 16
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1979_page_100_full.webp",
+  "extracted_photos": [
+    "1979_page_100_photo_1.webp",
+    "1979_page_100_photo_2.webp",
+    "1979_page_100_photo_3.webp"
+  ]
+}

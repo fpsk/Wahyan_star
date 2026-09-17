@@ -1,0 +1,212 @@
+{
+  "year": "1978",
+  "page": 21,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "1977, December， 1. The Annual Ball was held. The girls'schools invited were M.S.S. and S.P.C.S. 2.",
+  "students": [
+    {
+      "english_name": "A Christmas Classroom Decoration Compelition was launched.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A Christmas Classroom Decoration Compelition was launched.",
+        "start_char": 0,
+        "end_char": 58
+      }
+    },
+    {
+      "english_name": "The Christmas Celebration was held.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Christmas Celebration was held.",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "School Diaries were made for the students.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "School Diaries were made for the students.",
+        "start_char": 0,
+        "end_char": 42
+      }
+    },
+    {
+      "english_name": "A visit was paid to a meeting of the Urban Council.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A visit was paid to a meeting of the Urban Council.",
+        "start_char": 0,
+        "end_char": 51
+      }
+    },
+    {
+      "english_name": "The Student Festival was launched. Book marks were distributed. The pro-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Student Festival was launched. Book marks were distributed. The pro-",
+        "start_char": 0,
+        "end_char": 72
+      }
+    },
+    {
+      "english_name": "Games Competition, an Interclubs Death Penalty Competition, an Interclass Trea-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Games Competition, an Interclubs Death Penalty Competition, an Interclass Trea-",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Exhibition, a Walk for Million and a flm show about social work.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Exhibition, a Walk for Million and a flm show about social work.",
+        "start_char": 0,
+        "end_char": 64
+      }
+    },
+    {
+      "english_name": "The Teachers' Day was held.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The Teachers' Day was held.",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Files and pencil cases were made for the students.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Files and pencil cases were made for the students.",
+        "start_char": 0,
+        "end_char": 50
+      }
+    },
+    {
+      "english_name": "Service on checking of complaints was started.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Service on checking of complaints was started.",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "An Open-air Concert will be jointly organized by the Music Society and the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "An Open-air Concert will be jointly organized by the Music Society and the",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Student Council.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Council.",
+        "start_char": 0,
+        "end_char": 16
+      }
+    },
+    {
+      "english_name": "A re-union of Councillors will be organized.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "A re-union of Councillors will be organized.",
+        "start_char": 0,
+        "end_char": 44
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Games Competition, an Interclubs Death Penalty Competition, an Interclass Trea-",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Games Competition, an Interclubs Death Penalty Competition, an Interclass Trea-",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "club_name": "2. An Open-air Concert will be jointly organized by the Music Society and the",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "2. An Open-air Concert will be jointly organized by the Music Society and the",
+        "start_char": 0,
+        "end_char": 77
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1978_page_021_full.webp",
+  "extracted_photos": [
+    "1978_page_021_photo_1.webp",
+    "1978_page_021_photo_2.webp",
+    "1978_page_021_photo_3.webp"
+  ]
+}

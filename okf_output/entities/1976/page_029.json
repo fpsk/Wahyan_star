@@ -1,0 +1,172 @@
+{
+  "year": "1976",
+  "page": 29,
+  "section_type": "Clubs & Societies",
+  "class_designation": null,
+  "summary": "Student Cctioities Annual Ball Bazaar",
+  "students": [
+    {
+      "english_name": "Student Cctioities",
+      "chinese_name": "戲劇晚會",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Student Cctioities 戲劇晚會",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "Bazaar",
+      "chinese_name": "樂韻琴聲",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Bazaar 樂韻琴聲",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "Drama Festival",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Drama Festival",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Fall Rhythm",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fall Rhythm",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Fantasy",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Fantasy",
+        "start_char": 0,
+        "end_char": 7
+      }
+    },
+    {
+      "english_name": "History Model Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "History Model Competition",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Joint Schools Debating Competition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint Schools Debating Competition",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Joint Schools History Exhibition",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint Schools History Exhibition",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Joint Schools Walk For A Million",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Joint Schools Walk For A Million",
+        "start_char": 0,
+        "end_char": 32
+      }
+    },
+    {
+      "english_name": "Leadership Training Class",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Leadership Training Class",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Talent Time",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Talent Time",
+        "start_char": 0,
+        "end_char": 11
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Joint Schools Debating Competition",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Joint Schools Debating Competition",
+        "start_char": 0,
+        "end_char": 34
+      }
+    }
+  ],
+  "sports_records": [],
+  "full_page_photo": "1976_page_029_full.webp",
+  "extracted_photos": [
+    "1976_page_029_photo_1.webp"
+  ]
+}

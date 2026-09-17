@@ -1,0 +1,173 @@
+{
+  "year": "1972",
+  "page": 125,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "¥872 “C”Grade Basketball Team FOOTBALL - A GRADE",
+  "students": [
+    {
+      "english_name": "FOOTBALL - A GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "FOOTBALL - A GRADE",
+        "start_char": 0,
+        "end_char": 18
+      }
+    },
+    {
+      "english_name": "BASKETBALL- C GRADE",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BASKETBALL- C GRADE",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "Our football team was chosen, as in",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our football team was chosen, as in",
+        "start_char": 0,
+        "end_char": 35
+      }
+    },
+    {
+      "english_name": "In the league, we beat Victoria Tech-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the league, we beat Victoria Tech-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "New",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "New",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Method College, so we entered the final.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Method College, so we entered the final.",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "In the final, we beat Wellington College",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the final, we beat Wellington College",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "Queen's College, Lingnan Middle School",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Queen's College, Lingnan Middle School",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "St. Paul's College and secured the League",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "St. Paul's College and secured the League",
+        "start_char": 0,
+        "end_char": 41
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "We would like to thank Mr.Fung and",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "We would like to thank Mr.Fung and",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "I would like to thank Mr. Ip Fuk Wah, a",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "I would like to thank Mr. Ip Fuk Wah, a",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "championship. In the knock-out competi-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "championship. In the knock-out competi-",
+        "start_char": 0,
+        "end_char": 39
+      }
+    }
+  ],
+  "full_page_photo": "1972_page_125_full.webp",
+  "extracted_photos": [
+    "1972_page_125_photo_1.webp"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "year": "1971",
+  "page": 189,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "MILLING TAILOR IIO, Wellington Street 2nd Floor. Uith the Compliments",
+  "students": [
+    {
+      "english_name": "MILLING TAILOR",
+      "chinese_name": "服洋玲美",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "MILLING TAILOR 服洋玲美",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "Uith the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Uith the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    },
+    {
+      "english_name": "HONG KONG",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "HONG KONG",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "PAUL H. P. LIM",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "PAUL H. P. LIM",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "With the Compliments",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "With the Compliments",
+        "start_char": 0,
+        "end_char": 20
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1971_page_189_full.webp",
+  "extracted_photos": []
+}

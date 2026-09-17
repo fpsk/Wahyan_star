@@ -1,0 +1,299 @@
+{
+  "year": "1975",
+  "page": 56,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "SCHOOL LIBRARY the head-librarian or teacher-librarian. Our school library, a centre of study，",
+  "students": [
+    {
+      "english_name": "SCHOOL LIBRARY",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL LIBRARY",
+        "start_char": 0,
+        "end_char": 14
+      }
+    },
+    {
+      "english_name": "As in the previous two years, our li-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "As in the previous two years, our li-",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "Classification as a tool to classify all the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Classification as a tool to classify all the",
+        "start_char": 0,
+        "end_char": 44
+      }
+    },
+    {
+      "english_name": "Ing.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ing.",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "The student librarians mainly came",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The student librarians mainly came",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "This year, different from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, different from",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "They worked",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "They worked",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "TThe",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TThe",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "SeC-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SeC-",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "Saturday morning to",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Saturday morning to",
+        "start_char": 0,
+        "end_char": 19
+      }
+    },
+    {
+      "english_name": "The library",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The library",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "Each was under a small sub-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Each was under a small sub-",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "This year, we set up two book sec-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 13,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "This year, we set up two book sec-",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "We turned",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 14,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "We turned",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "One was the New Book Section",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 15,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "One was the New Book Section",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "The students were",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 16,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The students were",
+        "start_char": 0,
+        "end_char": 17
+      }
+    },
+    {
+      "english_name": "Last of all, I would like to thank",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 17,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Last of all, I would like to thank",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "However, the remaining re-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 18,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "However, the remaining re-",
+        "start_char": 0,
+        "end_char": 26
+      }
+    }
+  ],
+  "staff": [
+    {
+      "english_name": "our librarians. This year, we invited Mr.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "our librarians. This year, we invited Mr.",
+        "start_char": 0,
+        "end_char": 41
+      }
+    },
+    {
+      "english_name": "一 Fr. Foley.",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "一 Fr. Foley.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "would like to thank Mr. John Lam for",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "would like to thank Mr. John Lam for",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Father Foley for his guidance throughout",
+      "chinese_name": "",
+      "title_or_role": "Faculty / Staff",
+      "department_or_subject": "",
+      "speech_or_report_title": null,
+      "evidence": {
+        "text": "Father Foley for his guidance throughout",
+        "start_char": 0,
+        "end_char": 40
+      }
+    }
+  ],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_056_full.webp",
+  "extracted_photos": [
+    "1975_page_056_photo_1.webp"
+  ]
+}

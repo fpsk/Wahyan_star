@@ -1,0 +1,147 @@
+{
+  "year": "1975",
+  "page": 34,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "Our 55th otnnioersary The sky was very cloudy and it was these few years, many Wah Yan boys did",
+  "students": [
+    {
+      "english_name": "The sky was very cloudy and it was",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "The sky was very cloudy and it was",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "I had just come back from",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I had just come back from",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Our work began in December and",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Our work began in December and",
+        "start_char": 0,
+        "end_char": 30
+      }
+    },
+    {
+      "english_name": "I remembered that we organised the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "I remembered that we organised the",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "Open Day because we found that during",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Open Day because we found that during",
+        "start_char": 0,
+        "end_char": 37
+      }
+    },
+    {
+      "english_name": "In order to introduce more about our",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In order to introduce more about our",
+        "start_char": 0,
+        "end_char": 36
+      }
+    },
+    {
+      "english_name": "Milus Watch.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Milus Watch.",
+        "start_char": 0,
+        "end_char": 12
+      }
+    },
+    {
+      "english_name": "Owing to the bad weather, there",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Owing to the bad weather, there",
+        "start_char": 0,
+        "end_char": 31
+      }
+    },
+    {
+      "english_name": "Everybody seemed to be very",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Everybody seemed to be very",
+        "start_char": 0,
+        "end_char": 27
+      }
+    },
+    {
+      "english_name": "Smile",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Smile",
+        "start_char": 0,
+        "end_char": 5
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1975_page_034_full.webp",
+  "extracted_photos": [
+    "1975_page_034_photo_1.webp",
+    "1975_page_034_photo_2.webp"
+  ]
+}

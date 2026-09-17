@@ -1,0 +1,170 @@
+{
+  "year": "1978",
+  "page": 19,
+  "section_type": "General",
+  "class_designation": null,
+  "summary": "CHO H007 SCHOOL",
+  "students": [
+    {
+      "english_name": "CHO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHO",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "SCHOOL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SCHOOL",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "CHOC",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CHOC",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "NIZ",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "NIZ",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "URGAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "URGAN",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "SONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "SONS",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "TOOI ORGANA",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "TOOI ORGANA",
+        "start_char": 0,
+        "end_char": 11
+      }
+    },
+    {
+      "english_name": "CANIZATIO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "CANIZATIO",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "ATIO",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ATIO",
+        "start_char": 0,
+        "end_char": 4
+      }
+    },
+    {
+      "english_name": "DRGAN",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "DRGAN",
+        "start_char": 0,
+        "end_char": 5
+      }
+    },
+    {
+      "english_name": "URGANS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "URGANS",
+        "start_char": 0,
+        "end_char": 6
+      }
+    },
+    {
+      "english_name": "ZATIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 12,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "ZATIONS",
+        "start_char": 0,
+        "end_char": 7
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [],
+  "full_page_photo": "1978_page_019_full.webp",
+  "extracted_photos": []
+}

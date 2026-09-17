@@ -1,0 +1,216 @@
+{
+  "year": "1976",
+  "page": 88,
+  "section_type": "Sports & Athletics",
+  "class_designation": null,
+  "summary": "BASKETBALL A GRADE— THE INTERSCHOOL CHAMPIONS",
+  "students": [
+    {
+      "english_name": "BASKETBALL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "BASKETBALL",
+        "start_char": 0,
+        "end_char": 10
+      }
+    },
+    {
+      "english_name": "THE INTERSCHOOL CHAMPIONS",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "THE INTERSCHOOL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "english_name": "Alchough we could not play with our full",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Alchough we could not play with our full",
+        "start_char": 0,
+        "end_char": 40
+      }
+    },
+    {
+      "english_name": "It was really a lucky year for us.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "It was really a lucky year for us.",
+        "start_char": 0,
+        "end_char": 34
+      }
+    },
+    {
+      "english_name": "In the first round, our team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the first round, our team",
+        "start_char": 0,
+        "end_char": 28
+      }
+    },
+    {
+      "english_name": "College. As we were already qualified to the finals, we did not want to challenge them",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "College. As we were already qualified to the finals, we did not want to challenge them",
+        "start_char": 0,
+        "end_char": 86
+      }
+    },
+    {
+      "english_name": "In the final round, we first encountered Pui Kiu Niddle School, a team full of",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 7,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "In the final round, we first encountered Pui Kiu Niddle School, a team full of",
+        "start_char": 0,
+        "end_char": 78
+      }
+    },
+    {
+      "english_name": "But",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 8,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "But",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "Kosaryhill School and Queen's College.",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 9,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Kosaryhill School and Queen's College.",
+        "start_char": 0,
+        "end_char": 38
+      }
+    },
+    {
+      "english_name": "Tey",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 10,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Tey",
+        "start_char": 0,
+        "end_char": 3
+      }
+    },
+    {
+      "english_name": "That means, we lost no match in the fnals, and automati-",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 11,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "That means, we lost no match in the fnals, and automati-",
+        "start_char": 0,
+        "end_char": 56
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [],
+  "sports_records": [
+    {
+      "event_name": "THE INTERSCHOOL CHAMPIONS",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "THE INTERSCHOOL CHAMPIONS",
+        "start_char": 0,
+        "end_char": 25
+      }
+    },
+    {
+      "event_name": "in even one single match, we managed to get the championship.",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "in even one single match, we managed to get the championship.",
+        "start_char": 0,
+        "end_char": 61
+      }
+    },
+    {
+      "event_name": "were needed to determine the champion team. But at that time, it was found that In-",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "were needed to determine the champion team. But at that time, it was found that In-",
+        "start_char": 0,
+        "end_char": 83
+      }
+    },
+    {
+      "event_name": "cally, we got the championship - a victory that had eluded Wah Yan for 15 years, since",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "cally, we got the championship - a victory that had eluded Wah Yan for 15 years, since",
+        "start_char": 0,
+        "end_char": 86
+      }
+    }
+  ],
+  "full_page_photo": "1976_page_088_full.webp",
+  "extracted_photos": [
+    "1976_page_088_photo_1.webp"
+  ]
+}

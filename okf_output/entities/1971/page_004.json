@@ -1,0 +1,208 @@
+{
+  "year": "1971",
+  "page": 4,
+  "section_type": "Staff Directory",
+  "class_designation": null,
+  "summary": "EDITORIAL When school opened in September it was found that a new Principal had been appointed — Fr. Cyril Barrett, S.J. He was not new to Wah Yan as the had been",
+  "students": [
+    {
+      "english_name": "EDITORIAL",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 1,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "EDITORIAL",
+        "start_char": 0,
+        "end_char": 9
+      }
+    },
+    {
+      "english_name": "When school opened in September it was found that a new Principal had been",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 2,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "When school opened in September it was found that a new Principal had been",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "english_name": "Several hundred of our boys were at the Stadium. We too felt the tension as the",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 3,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Several hundred of our boys were at the Stadium. We too felt the tension as the",
+        "start_char": 0,
+        "end_char": 79
+      }
+    },
+    {
+      "english_name": "Beginning with the Altar Society the list goes",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 4,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Beginning with the Altar Society the list goes",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "english_name": "Ming Lun Primary School in Taipo with the welccme help of the Social Service Group",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 5,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Ming Lun Primary School in Taipo with the welccme help of the Social Service Group",
+        "start_char": 0,
+        "end_char": 82
+      }
+    },
+    {
+      "english_name": "Badminton won the Championship Cup while our C grade - a completely new team",
+      "chinese_name": "",
+      "class_designation": null,
+      "seat_number": 6,
+      "is_prefect": false,
+      "is_graduate": false,
+      "evidence": {
+        "text": "Badminton won the Championship Cup while our C grade - a completely new team",
+        "start_char": 0,
+        "end_char": 76
+      }
+    }
+  ],
+  "staff": [],
+  "activities": [
+    {
+      "club_name": "Beginning with the Altar Society the list goes",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Beginning with the Altar Society the list goes",
+        "start_char": 0,
+        "end_char": 46
+      }
+    },
+    {
+      "club_name": "on to the Bowling Club, Bridge Club, Boxing Club. The list is too long to give in",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "on to the Bowling Club, Bridge Club, Boxing Club. The list is too long to give in",
+        "start_char": 0,
+        "end_char": 81
+      }
+    },
+    {
+      "club_name": "full, but readers will find in the pages of the Star a report from each society. Each",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "full, but readers will find in the pages of the Star a report from each society. Each",
+        "start_char": 0,
+        "end_char": 85
+      }
+    },
+    {
+      "club_name": "club and each form from Form 2 to Form Upper Six inclusive sends representatives",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "club and each form from Form 2 to Form Upper Six inclusive sends representatives",
+        "start_char": 0,
+        "end_char": 80
+      }
+    },
+    {
+      "club_name": "Our Social Activities Club helped run a week long summer camp for 200 poor",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "Our Social Activities Club helped run a week long summer camp for 200 poor",
+        "start_char": 0,
+        "end_char": 74
+      }
+    },
+    {
+      "club_name": "of St. Francis Canossian College; and during Chinese New Year holidays the club",
+      "event_or_activity": "Annual Activities",
+      "participant_name_en": "",
+      "participant_name_zh": "",
+      "role": "Member",
+      "evidence": {
+        "text": "of St. Francis Canossian College; and during Chinese New Year holidays the club",
+        "start_char": 0,
+        "end_char": 79
+      }
+    }
+  ],
+  "sports_records": [
+    {
+      "event_name": "had dared to hope for. New records were made in the A grade Shot Put, the C",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": true,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "had dared to hope for. New records were made in the A grade Shot Put, the C",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "event_name": "grade 80m. Low Hurdles, the C grade High Jump and the C grade Shot Put. The",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": null,
+      "evidence": {
+        "text": "grade 80m. Low Hurdles, the C grade High Jump and the C grade Shot Put. The",
+        "start_char": 0,
+        "end_char": 75
+      }
+    },
+    {
+      "event_name": "Badminton won the Championship Cup while our C grade - a completely new team",
+      "category_or_grade": "Open",
+      "athlete_name_en": "",
+      "athlete_name_zh": "",
+      "record_or_time": "",
+      "is_school_record": false,
+      "rank_or_place": 1,
+      "evidence": {
+        "text": "Badminton won the Championship Cup while our C grade - a completely new team",
+        "start_char": 0,
+        "end_char": 76
+      }
+    }
+  ],
+  "full_page_photo": "1971_page_004_full.webp",
+  "extracted_photos": []
+}
