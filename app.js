@@ -18,10 +18,9 @@ let bilingualDict = { en_to_zh: {}, zh_to_en: {} };
 
 const ASSET_VERSION = '20260917_1545';
 
-// Optional Cloudflare R2 Public CDN URL (e.g. 'https://pub-xxxxxxxx.r2.dev')
-// When set, photos load at gigabit edge speed directly from Cloudflare R2.
-// When empty, photos load from local Render storage.
-const R2_PUBLIC_URL = '';
+// Cloudflare R2 Public CDN URL (serves photos at gigabit edge speed)
+const R2_PUBLIC_URL = 'https://pub-363483551a3a4e7e9c3596046307f77b.r2.dev';
+
 
 function getPhotoUrl(filename) {
   if (!filename) return '';
