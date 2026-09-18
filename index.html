@@ -123,15 +123,6 @@
         <button type="button" onclick="resetLightboxZoom()" style="background: rgba(255,255,255,0.08); color: #e2e8f0; border: 1px solid rgba(255,255,255,0.2); padding: 7px 14px; border-radius: 20px; font-weight: 700; font-size: 0.85rem; cursor: pointer;" title="Reset Zoom & Rotation (Shortcut: 0)">
           ↺ Reset
         </button>
-
-        <!-- Live Text Selection & Copy Buttons -->
-        <button type="button" id="tbSelectTextBtn" onclick="toggleTextSelectMode()" class="tb-action-btn select-mode-btn active" title="Toggle Live Text Selection Mode (Shortcut: T)">
-          🔤 Select: ON
-        </button>
-
-        <button type="button" id="tbCopyTextBtn" onclick="copyCurrentPageText()" class="tb-action-btn copy-text-btn" title="Copy entire page text to clipboard (Shortcut: C)">
-          📋 Copy Text
-        </button>
       </div>
 
       <!-- Floating Navigation Chevron Buttons on Left & Right -->
@@ -149,14 +140,12 @@
         </div>
         <div id="modalImageWrapper" class="modal-image-wrapper">
           <img id="modalImage" src="" alt="Photo Preview" class="modal-image" onerror="handleImageError(this)" onclick="handleImageClickZoom()" title="Click image to zoom in / toggle zoom">
-          <div id="ocrTextLayer" class="ocr-text-layer"></div>
         </div>
-        <div id="copyToast" class="copy-toast"></div>
       </div>
     </div>
   </div>
 
-  <script src="app.js?v=20260918_1120"></script>
+  <script src="app.js?v=20260917_1545"></script>
 
 </body>
 </html>
