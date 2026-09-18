@@ -148,17 +148,15 @@
           <p style="color: #94a3b8; font-size: 0.85rem; margin-top: 10px; font-weight: 600;">Loading high-resolution page...</p>
         </div>
         <div id="modalImageWrapper" class="modal-image-wrapper">
-          <div id="imageStage" class="image-stage">
-            <img id="modalImage" src="" alt="Photo Preview" class="modal-image" onerror="handleImageError(this)">
-            <div id="ocrTextLayer" class="ocr-text-layer"></div>
-          </div>
+          <img id="modalImage" src="" alt="Photo Preview" class="modal-image" onerror="handleImageError(this)" onclick="handleImageClickZoom()" title="Click image to zoom in / toggle zoom">
+          <div id="ocrTextLayer" class="ocr-text-layer"></div>
         </div>
         <div id="copyToast" class="copy-toast"></div>
       </div>
     </div>
   </div>
 
-  <script src="app.js?v=20260918_1110"></script>
+  <script src="app.js?v=20260918_1120"></script>
 
 </body>
 </html>

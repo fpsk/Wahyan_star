@@ -457,17 +457,7 @@ button.page-badge:hover {
   box-sizing: border-box;
   min-width: min-content;
   min-height: min-content;
-}
-
-.image-stage {
   position: relative;
-  display: inline-block;
-  box-sizing: border-box;
-  transform-origin: center center;
-  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  vertical-align: middle;
-  border-radius: 8px;
-  overflow: visible;
 }
 
 .modal-image {
@@ -478,7 +468,9 @@ button.page-badge:hover {
   display: block;
   border-radius: 8px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-  transition: width 0.2s ease;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), width 0.2s ease;
+  transform-origin: center center;
+  cursor: zoom-in;
   user-select: none;
   -webkit-user-select: none;
   pointer-events: auto;
@@ -487,29 +479,23 @@ button.page-badge:hover {
 /* Interactive OCR Live Text Layer */
 .ocr-text-layer {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: auto;
+  pointer-events: none;
   overflow: hidden;
   z-index: 10;
   user-select: text;
   -webkit-user-select: text;
+  box-sizing: border-box;
+  transform-origin: center center;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), width 0.2s ease, height 0.2s ease;
 }
 
 .ocr-text-layer.select-disabled {
-  pointer-events: none;
-}
-
-.ocr-text-layer.select-disabled .ocr-text-line {
-  user-select: none;
-  -webkit-user-select: none;
-  cursor: default;
+  display: none;
 }
 
 .ocr-text-line {
   position: absolute;
+  pointer-events: auto;
   color: transparent;
   cursor: text;
   white-space: nowrap;

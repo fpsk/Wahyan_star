@@ -252,6 +252,35 @@ function setupEventListeners() {
       modalBody.style.cursor = '';
     });
 
+    // Delegate click-to-zoom when clicking on the OCR text layer
+    const ocrLayerEl = document.getElementById('ocrTextLayer');
+    let ocrClickStartX = 0, ocrClickStartY = 0, ocrClickStartTime = 0;
+    if (ocrLayerEl) {
+      ocrLayerEl.addEventListener('mousedown', (e) => {
+        if (e.button !== 0) return;
+        ocrClickStartX = e.clientX;
+        ocrClickStartY = e.clientY;
+        ocrClickStartTime = Date.now();
+      });
+
+      ocrLayerEl.addEventListener('mouseup', (e) => {
+        if (e.button !== 0) return;
+        const dx = Math.abs(e.clientX - ocrClickStartX);
+        const dy = Math.abs(e.clientY - ocrClickStartY);
+        const dt = Date.now() - ocrClickStartTime;
+        const sel = window.getSelection() ? window.getSelection().toString().trim() : '';
+
+        // If user clicked cleanly without dragging and without selecting text, toggle zoom
+        if (dx < 6 && dy < 6 && dt < 400 && sel.length === 0) {
+          handleImageClickZoom();
+        }
+      });
+    }
+
+    window.addEventListener('resize', () => {
+      if (typeof syncOcrTextLayerBounds === 'function') syncOcrTextLayerBounds();
+    });
+
     modalBody.addEventListener('mousemove', (e) => {
       if (!isDragging) return;
       e.preventDefault();
@@ -1169,6 +1198,7 @@ function renderOcrTextLayer(lines) {
 
   layer.appendChild(fragment);
   layer.classList.toggle('select-disabled', !isTextSelectMode);
+  syncOcrTextLayerBounds();
 }
 
 async function updateLightboxOcrLayer(year, page) {
@@ -1225,7 +1255,6 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   const modalImg = document.getElementById('modalImage');
   const modalTitle = document.getElementById('modalTitle');
   const modalBody = document.getElementById('modalBody');
-  const imageStage = document.getElementById('imageStage');
   const wrapper = document.getElementById('modalImageWrapper');
   const spinner = document.getElementById('modalSpinner');
 
@@ -1268,17 +1297,19 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   modalImg.style.maxWidth = '100%';
   modalImg.style.maxHeight = '75vh';
   modalImg.style.transform = 'none';
-
-  if (imageStage) {
-    imageStage.style.width = '';
-    imageStage.style.height = '';
-    imageStage.style.transform = 'none';
-  }
+  modalImg.style.cursor = 'zoom-in';
 
   if (wrapper) {
     wrapper.style.width = '';
     wrapper.style.height = '';
     wrapper.style.margin = 'auto';
+  }
+
+  const layer = document.getElementById('ocrTextLayer');
+  if (layer) {
+    layer.style.width = '';
+    layer.style.height = '';
+    layer.style.transform = 'none';
   }
 
   modal.classList.add('active');
@@ -1292,6 +1323,7 @@ function openLightbox(imageSrc, title, year = null, page = null) {
     baseImageWidth = modalImg.clientWidth || modalImg.naturalWidth;
     baseImageHeight = modalImg.clientHeight || modalImg.naturalHeight;
     applyZoomScale();
+    syncOcrTextLayerBounds();
     if (modalBody) {
       modalBody.scrollTop = 0;
       modalBody.scrollLeft = 0;
@@ -1453,7 +1485,6 @@ function resetLightboxZoom() {
 
 function applyZoomScale() {
   const modalImg = document.getElementById('modalImage');
-  const imageStage = document.getElementById('imageStage');
   const modalBody = document.getElementById('modalBody');
   const wrapper = document.getElementById('modalImageWrapper');
   const zoomIndicator = document.getElementById('zoomIndicator');
@@ -1475,19 +1506,11 @@ function applyZoomScale() {
     modalImg.style.width = 'auto';
     modalImg.style.height = 'auto';
 
-    if (imageStage) {
-      imageStage.style.width = '';
-      imageStage.style.height = '';
-      imageStage.style.transformOrigin = 'center center';
-      imageStage.style.transform = `rotate(${currentRotationDegrees}deg)`;
-    }
-
     if (wrapper) {
       wrapper.style.width = '';
       wrapper.style.height = '';
       wrapper.style.margin = 'auto';
     }
-    modalImg.style.transform = 'none';
   } else {
     modalImg.style.maxWidth = 'none';
     modalImg.style.maxHeight = 'none';
@@ -1496,20 +1519,11 @@ function applyZoomScale() {
     modalImg.style.width = `${targetW}px`;
     modalImg.style.height = 'auto';
 
-    const renderedH = modalImg.clientHeight || Math.round((baseImageHeight || 900) * currentZoomScale);
-
-    if (imageStage) {
-      imageStage.style.width = `${targetW}px`;
-      imageStage.style.height = `${renderedH}px`;
-      imageStage.style.transformOrigin = 'center center';
-      imageStage.style.transform = `rotate(${currentRotationDegrees}deg)`;
-    }
-
     let layoutW = targetW;
-    let layoutH = renderedH;
+    let layoutH = modalImg.clientHeight || Math.round((baseImageHeight || 900) * currentZoomScale);
 
     if (isRotatedSideways) {
-      layoutW = renderedH;
+      layoutW = layoutH;
       layoutH = targetW;
     }
 
@@ -1528,19 +1542,38 @@ function applyZoomScale() {
       wrapper.style.marginTop = overflowsY ? '0.5rem' : 'auto';
       wrapper.style.marginBottom = overflowsY ? '0.5rem' : 'auto';
     }
-    modalImg.style.transform = 'none';
   }
 
-  // Update dynamic font size scale on imageStage for proportional text layer scaling
-  const effectiveStageHeight = modalImg.clientHeight || baseImageHeight || 800;
-  if (imageStage) {
-    imageStage.style.setProperty('--stage-h', `${effectiveStageHeight}px`);
-  }
+  modalImg.style.transformOrigin = 'center center';
+  modalImg.style.transform = `rotate(${currentRotationDegrees}deg)`;
+  modalImg.style.cursor = currentZoomScale < 2.0 ? 'zoom-in' : 'zoom-out';
 
   if (zoomIndicator) {
     const rotLabel = currentRotationDegrees ? ` • ${currentRotationDegrees}°` : '';
     zoomIndicator.textContent = `${Math.round(currentZoomScale * 100)}% Scale${rotLabel}`;
   }
+
+  syncOcrTextLayerBounds();
+  setTimeout(syncOcrTextLayerBounds, 220);
+}
+
+function syncOcrTextLayerBounds() {
+  const modalImg = document.getElementById('modalImage');
+  const layer = document.getElementById('ocrTextLayer');
+  if (!modalImg || !layer) return;
+
+  const w = modalImg.offsetWidth || modalImg.clientWidth;
+  const h = modalImg.offsetHeight || modalImg.clientHeight;
+  const left = modalImg.offsetLeft;
+  const top = modalImg.offsetTop;
+
+  layer.style.left = `${left}px`;
+  layer.style.top = `${top}px`;
+  layer.style.width = `${w}px`;
+  layer.style.height = `${h}px`;
+  layer.style.transformOrigin = 'center center';
+  layer.style.transform = `rotate(${currentRotationDegrees}deg)`;
+  layer.style.setProperty('--stage-h', `${h}px`);
 }
 
 function handleChatSubmit(e) {
