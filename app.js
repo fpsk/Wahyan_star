@@ -89,6 +89,7 @@ function sanitizeOcrText(text, item = null) {
       const parsed = JSON.parse(text);
       if (item && Array.isArray(parsed)) {
         item._tokens = parsed.map(o => (o.text || '').trim()).filter(Boolean);
+        item.ocr_lines = parsed;
       }
       return parsed.map(o => o.text || '').join(' ');
     } catch (e) {
@@ -205,6 +206,14 @@ function setupEventListeners() {
         zoomLightbox(-0.25);
       } else if (e.key === '0') {
         resetLightboxZoom();
+      } else if (e.key === 'c' || e.key === 'C') {
+        if (!e.metaKey && !e.ctrlKey) {
+          e.preventDefault();
+          copyCurrentPageText();
+        }
+      } else if (e.key === 't' || e.key === 'T') {
+        e.preventDefault();
+        toggleTextSelectMode();
       }
     }
   });
@@ -220,6 +229,9 @@ function setupEventListeners() {
     // Desktop Mouse Drag-to-Pan support when zoomed in
     modalBody.addEventListener('mousedown', (e) => {
       if (e.target.closest('#lightboxToolbar') || e.target.closest('.modal-header') || e.target.closest('.lightbox-float-nav')) return;
+      // When in Text Select Mode and clicking text layer, allow native text selection instead of panning
+      if (isTextSelectMode && e.target.closest('.ocr-text-layer')) return;
+
       if (currentZoomScale > 1.0) {
         isDragging = true;
         modalBody.style.cursor = 'grabbing';
@@ -1034,12 +1046,186 @@ let baseImageHeight = 0;
 let currentLightboxYear = null;
 let currentLightboxPage = null;
 let currentLightboxMaxPage = null;
+let ocrBoxesCache = {};
+let currentLightboxOcrLines = [];
+let currentLightboxText = '';
+let isTextSelectMode = true;
+let toastTimer = null;
+
+function toggleTextSelectMode() {
+  isTextSelectMode = !isTextSelectMode;
+  const btn = document.getElementById('tbSelectTextBtn');
+  const layer = document.getElementById('ocrTextLayer');
+  if (btn) {
+    btn.classList.toggle('active', isTextSelectMode);
+    btn.textContent = isTextSelectMode ? '🔤 Select: ON' : '🔤 Select: OFF';
+    btn.title = isTextSelectMode 
+      ? 'Live Text Selection Mode is ON (Click and drag to select text, or press T)' 
+      : 'Live Text Selection Mode is OFF (Click to zoom/pan, or press T)';
+  }
+  if (layer) {
+    layer.classList.toggle('select-disabled', !isTextSelectMode);
+  }
+  showCopyToast(isTextSelectMode ? '🔤 Text Selection Mode: ON' : '🔍 Image Pan & Zoom Mode: ON');
+}
+
+function showCopyToast(message) {
+  const toast = document.getElementById('copyToast');
+  if (!toast) return;
+  toast.textContent = message;
+  toast.classList.add('show');
+  if (toastTimer) clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => {
+    toast.classList.remove('show');
+  }, 2500);
+}
+
+async function copyCurrentPageText() {
+  let textToCopy = currentLightboxText;
+  if (!textToCopy && currentLightboxOcrLines && currentLightboxOcrLines.length > 0) {
+    textToCopy = currentLightboxOcrLines.map(l => l.t || l.text || '').join('\n');
+  }
+
+  if (!textToCopy || !textToCopy.trim()) {
+    showCopyToast('⚠️ No transcribed text available for this photo');
+    return;
+  }
+
+  try {
+    await navigator.clipboard.writeText(textToCopy);
+    const charCount = textToCopy.length;
+    const pageLabel = currentLightboxPage ? `Page ${currentLightboxPage}` : 'Page';
+    showCopyToast(`✓ ${pageLabel} text copied to clipboard (${charCount.toLocaleString()} chars)`);
+  } catch (err) {
+    const ta = document.createElement('textarea');
+    ta.value = textToCopy;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try {
+      document.execCommand('copy');
+      showCopyToast(`✓ Page text copied to clipboard!`);
+    } catch (e) {
+      showCopyToast('❌ Failed to copy to clipboard');
+    }
+    document.body.removeChild(ta);
+  }
+}
+
+async function loadOcrBoxesForYear(year) {
+  if (!year) return null;
+  const cleanYear = String(year).trim();
+  if (ocrBoxesCache[cleanYear]) return ocrBoxesCache[cleanYear];
+  try {
+    const res = await fetch(`./ocr_boxes/${cleanYear}.json?v=20260918`);
+    if (res.ok) {
+      const data = await res.json();
+      ocrBoxesCache[cleanYear] = data;
+      return data;
+    }
+  } catch (err) {
+    console.warn(`Could not load OCR boxes for ${cleanYear}:`, err);
+  }
+  return null;
+}
+
+function renderOcrTextLayer(lines) {
+  const layer = document.getElementById('ocrTextLayer');
+  if (!layer) return;
+  layer.innerHTML = '';
+
+  if (!lines || !Array.isArray(lines) || lines.length === 0) return;
+
+  const fragment = document.createDocumentFragment();
+
+  lines.forEach(line => {
+    const text = (line.t || line.text || '').trim();
+    if (!text) return;
+
+    const x = typeof line.x === 'number' ? line.x : 0;
+    const y = typeof line.y === 'number' ? line.y : 0;
+    const w = typeof line.w === 'number' ? line.w : (line.width || 0);
+    const h = typeof line.h === 'number' ? line.h : (line.height || 0);
+
+    const left = (x * 100).toFixed(3);
+    const top = ((1.0 - y - h) * 100).toFixed(3);
+    const width = (w * 100).toFixed(3);
+    const height = (h * 100).toFixed(3);
+
+    const span = document.createElement('span');
+    span.className = 'ocr-text-line';
+    span.textContent = text;
+    span.title = text;
+    span.style.left = `${left}%`;
+    span.style.top = `${top}%`;
+    span.style.width = `${width}%`;
+    span.style.height = `${height}%`;
+    // Scale font size dynamically with --stage-h custom property
+    span.style.fontSize = `calc(var(--stage-h, 75vh) * ${Math.max(0.012, h * 0.85).toFixed(4)})`;
+
+    fragment.appendChild(span);
+  });
+
+  layer.appendChild(fragment);
+  layer.classList.toggle('select-disabled', !isTextSelectMode);
+}
+
+async function updateLightboxOcrLayer(year, page) {
+  const layer = document.getElementById('ocrTextLayer');
+  if (layer) layer.innerHTML = '';
+  currentLightboxOcrLines = [];
+  currentLightboxText = '';
+
+  const copyBtn = document.getElementById('tbCopyTextBtn');
+  const selectBtn = document.getElementById('tbSelectTextBtn');
+
+  if (!year || !page) {
+    if (copyBtn) copyBtn.style.display = 'none';
+    if (selectBtn) selectBtn.style.display = 'none';
+    return;
+  }
+
+  // 1. Get plain transcript text from searchData if present
+  const pageItem = (searchData && searchData.length > 0)
+    ? searchData.find(item => String(item.year) === String(year) && item.page === page)
+    : null;
+
+  if (pageItem && pageItem.text) {
+    currentLightboxText = pageItem.text;
+  }
+
+  // 2. Fetch OCR bounding boxes for this volume
+  const volumeBoxes = await loadOcrBoxesForYear(year);
+  let lines = null;
+  if (volumeBoxes && volumeBoxes[String(page)]) {
+    lines = volumeBoxes[String(page)];
+  } else if (pageItem && pageItem.ocr_lines && Array.isArray(pageItem.ocr_lines)) {
+    lines = pageItem.ocr_lines;
+  }
+
+  if (lines && lines.length > 0) {
+    currentLightboxOcrLines = lines;
+    renderOcrTextLayer(lines);
+    if (!currentLightboxText) {
+      currentLightboxText = lines.map(l => l.t || l.text || '').join('\n');
+    }
+  }
+
+  if (copyBtn) {
+    copyBtn.style.display = currentLightboxText ? 'inline-flex' : 'none';
+  }
+  if (selectBtn) {
+    selectBtn.style.display = (currentLightboxOcrLines.length > 0) ? 'inline-flex' : 'none';
+  }
+}
 
 function openLightbox(imageSrc, title, year = null, page = null) {
   const modal = document.getElementById('lightboxModal');
   const modalImg = document.getElementById('modalImage');
   const modalTitle = document.getElementById('modalTitle');
   const modalBody = document.getElementById('modalBody');
+  const imageStage = document.getElementById('imageStage');
   const wrapper = document.getElementById('modalImageWrapper');
   const spinner = document.getElementById('modalSpinner');
 
@@ -1083,6 +1269,12 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   modalImg.style.maxHeight = '75vh';
   modalImg.style.transform = 'none';
 
+  if (imageStage) {
+    imageStage.style.width = '';
+    imageStage.style.height = '';
+    imageStage.style.transform = 'none';
+  }
+
   if (wrapper) {
     wrapper.style.width = '';
     wrapper.style.height = '';
@@ -1090,6 +1282,9 @@ function openLightbox(imageSrc, title, year = null, page = null) {
   }
 
   modal.classList.add('active');
+
+  // Load and render OCR Live Text layer
+  updateLightboxOcrLayer(currentLightboxYear, currentLightboxPage);
 
   const onImageReady = () => {
     if (spinner) spinner.style.display = 'none';
@@ -1258,6 +1453,7 @@ function resetLightboxZoom() {
 
 function applyZoomScale() {
   const modalImg = document.getElementById('modalImage');
+  const imageStage = document.getElementById('imageStage');
   const modalBody = document.getElementById('modalBody');
   const wrapper = document.getElementById('modalImageWrapper');
   const zoomIndicator = document.getElementById('zoomIndicator');
@@ -1279,11 +1475,19 @@ function applyZoomScale() {
     modalImg.style.width = 'auto';
     modalImg.style.height = 'auto';
 
+    if (imageStage) {
+      imageStage.style.width = '';
+      imageStage.style.height = '';
+      imageStage.style.transformOrigin = 'center center';
+      imageStage.style.transform = `rotate(${currentRotationDegrees}deg)`;
+    }
+
     if (wrapper) {
       wrapper.style.width = '';
       wrapper.style.height = '';
       wrapper.style.margin = 'auto';
     }
+    modalImg.style.transform = 'none';
   } else {
     modalImg.style.maxWidth = 'none';
     modalImg.style.maxHeight = 'none';
@@ -1292,11 +1496,20 @@ function applyZoomScale() {
     modalImg.style.width = `${targetW}px`;
     modalImg.style.height = 'auto';
 
+    const renderedH = modalImg.clientHeight || Math.round((baseImageHeight || 900) * currentZoomScale);
+
+    if (imageStage) {
+      imageStage.style.width = `${targetW}px`;
+      imageStage.style.height = `${renderedH}px`;
+      imageStage.style.transformOrigin = 'center center';
+      imageStage.style.transform = `rotate(${currentRotationDegrees}deg)`;
+    }
+
     let layoutW = targetW;
-    let layoutH = modalImg.clientHeight || Math.round((baseImageHeight || 900) * currentZoomScale);
+    let layoutH = renderedH;
 
     if (isRotatedSideways) {
-      layoutW = layoutH;
+      layoutW = renderedH;
       layoutH = targetW;
     }
 
@@ -1315,10 +1528,14 @@ function applyZoomScale() {
       wrapper.style.marginTop = overflowsY ? '0.5rem' : 'auto';
       wrapper.style.marginBottom = overflowsY ? '0.5rem' : 'auto';
     }
+    modalImg.style.transform = 'none';
   }
 
-  modalImg.style.transformOrigin = 'center center';
-  modalImg.style.transform = `rotate(${currentRotationDegrees}deg)`;
+  // Update dynamic font size scale on imageStage for proportional text layer scaling
+  const effectiveStageHeight = modalImg.clientHeight || baseImageHeight || 800;
+  if (imageStage) {
+    imageStage.style.setProperty('--stage-h', `${effectiveStageHeight}px`);
+  }
 
   if (zoomIndicator) {
     const rotLabel = currentRotationDegrees ? ` • ${currentRotationDegrees}°` : '';
